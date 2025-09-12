@@ -1,61 +1,57 @@
-# Matthew 1
+#Matthew01
 
+## Matthew 1 (BKV Symbolic-Only Restatement)
 
-⸻
+1. This is the record of **Yahweh Saves**, the **Anointed** — descended through **Love** and through **Faith**.  
 
+2. **Faith** fathered **Laughter**; **Laughter** fathered **Supplanter**; **Supplanter** fathered **Praise** and his brothers.  
 
-Matthew 1 (BKV)
+3. **Praise** fathered **Breach** and **Rising** by **Palm Tree**; **Breach** fathered **Enclosure**; **Enclosure** fathered **Exalted**.  
 
-The Keyed Gospel
+4. **Exalted** fathered **My People Are Noble**; **My People Are Noble** fathered **Oracle**; **Oracle** fathered **Covering**.  
 
-⸻
+5. **Covering** fathered **Strength** by **Broad/Open**; **Strength** fathered **Servant** by **Friendship**; **Servant** fathered **Wealth/Being**.  
 
-Chapter 1 Key Notes
+6. **Wealth/Being** fathered **Love**, the king; **Love** fathered **Peace** by the woman who had been the wife of **Light**.  
 
-These names are defined elsewhere in Scripture or through their Hebrew roots:
-	•	Jesus (Ἰησοῦς) — “Yahweh saves” (Matthew 1:21).
-	•	Christ (Χριστός) — “Anointed” (Luke 4:18 / Isaiah 61).
-	•	Emmanuel (Ἐμμανουήλ) — “God with us” (Matthew 1:23).
-	•	Abraham — “Father of a multitude; Faith” (Genesis 17:5).
-	•	Isaac — “Laughter, Joy” (Genesis 21:6).
-	•	Jacob — “Supplanter” (Genesis 25:26).
-	•	Judah — “Praise” (Genesis 29:35).
-	•	Perez — “Breach/Breakthrough” (Genesis 38:29).
-	•	David — “Beloved; Love” (1 Samuel 13:14).
-	•	Solomon — “Peace” (1 Chronicles 22:9).
-	•	Joseph — “He will add; Increase” (Genesis 30:24).
-	•	Mary — “Bitter/Beloved” (root meaning).
+7. **Peace** fathered Rehoboam; Rehoboam fathered Abijah; Abijah fathered Asa.  
 
-⸻
+8. Asa fathered Jehoshaphat; Jehoshaphat fathered Joram; Joram fathered Uzziah.  
 
-Matthew 1 (BKV Restatement)
-	1.	This is the record of Jesus the Christ — the saving presence of God — descended through Love, David, and through Faith, Abraham.
-	2.	Faith, Abraham, fathered Isaac; Isaac fathered Jacob; Jacob fathered Judah and his brothers.
-	3.	Judah fathered Perez and Zerah by Tamar; Perez fathered Hezron; Hezron fathered Ram.
-	4.	Ram fathered Amminadab; Amminadab fathered Nahshon; Nahshon fathered Salmon.
-	5.	Salmon fathered Boaz by Rahab; Boaz fathered Obed by Ruth; Obed fathered Jesse.
-	6.	Jesse fathered Love, David the king; David fathered Peace, Solomon, by the woman who had been the wife of Uriah.
+9. Uzziah fathered Jotham; Jotham fathered Ahaz; Ahaz fathered Hezekiah.  
 
-7–11. From Peace, Solomon, the line continued through kings until the exile to Babylon.
+10. Hezekiah fathered Manasseh; Manasseh fathered Amon; Amon fathered Josiah.  
 
-12–16. After the exile, the line continued until Joseph, Increase, the husband of Mary, from whom was born Jesus, who is called the Christ.
-	17.	So all the generations from Faith, Abraham, to Love, David, were fourteen; from Love, David, to the exile fourteen; and from the exile to the Christ, fourteen.
-	18.	The birth of Jesus the Christ happened this way: Mary, pledged to Joseph, was found with child through the Holy Spirit before they came together.
-	19.	Joseph, being just and unwilling to disgrace her, resolved to put her away quietly.
-	20.	But as he considered this, an angel of the Lord appeared to him in a dream, saying, “Joseph, son of Love, David, do not fear to take Mary as your wife, for what is conceived in her is from the Holy Spirit.”
-	21.	“She will bear a son, and you shall call his name Jesus, for he will save his people from their sins.”
-	22.	All this took place to fulfill what was spoken by the prophet:
-	23.	“Behold, the virgin will conceive and bear a son, and they shall call his name Emmanuel” — which means, “God with us.”
-	24.	When Joseph awoke from sleep, he did as the angel commanded him and took Mary as his wife.
-	25.	But he did not know her until she had borne a son, and he called his name Jesus.
+11. Josiah fathered Jeconiah and his brothers, at _the time of_ **Bondage** in Babylon.  
 
+12. After **Bondage**: Jeconiah fathered Shealtiel; Shealtiel fathered **Sown in Babylon**.  
 
+13. **Sown in Babylon** fathered Abiud; Abiud fathered Eliakim; Eliakim fathered Azor.  
 
-⸻
+14. Azor fathered Zadok; Zadok fathered Achim; Achim fathered Eliud.  
 
-<>
+15. Eliud fathered Eleazar; Eleazar fathered Matthan; Matthan fathered **Supplanter**.  
 
-⸻
+16. **Supplanter** fathered **Increase**, the husband of Mary, from whom was born **Yahweh Saves**, who is called the **Anointed**.  
 
-Archive Marker: BKV Project  
-GUID: 567a129b-db83-4ca4-af95-493b4d8ed523
+17. So all the generations from **Faith** to **Love** were fourteen; from **Love** to **Bondage**, fourteen; and from **Bondage** to the **Anointed**, fourteen.  
+
+18. The birth of **Yahweh Saves**, the **Anointed**, happened this way: Mary, pledged to **Increase**, was found with child through the Holy Spirit before they came together.  
+
+19. **Increase**, being just and unwilling to disgrace her, resolved to put her away quietly.  
+
+20. But as he considered this, a messenger of the Lord appeared in a dream, saying, “**Increase**, son of **Love**, do not fear to take Mary as your wife, for what is conceived in her is from the Holy Spirit.”  
+
+21. “She will bear a son, and you shall call his name **Yahweh Saves**, for he will save his people from their sins.”  
+
+22. All this took place to fulfill what was spoken by the prophet:  
+
+23. “Behold, the virgin will conceive and bear a son, and they shall call his name **God With Us**.”  
+
+24. When **Increase** awoke from sleep, he did as the messenger commanded him and took Mary as his wife.  
+
+25. But he did not know her until she had borne a son, and he called his name **Yahweh Saves**.  
+
+---
+BKV-Project-GUID: 567a129b-db83-4ca4-af95-493b4d8ed523  
+BKV-Chapter-GUID: 9cf1f1b7-0de2-4f2d-a8d3-12b69d3477f5
