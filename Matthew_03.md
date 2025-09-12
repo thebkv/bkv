@@ -51,5 +51,16 @@ Prepare _the_ way of the Lord; make his paths straight.”
 17. And behold, a voice from the heavens said, “This is my beloved Son, in whom I am well pleased.”  
 
 ---
+
+## References (for this chapter)
+- Deuteronomy 8:2 — Wilderness as testing and reliance on God  
+- Hosea 2:14 — God speaking tenderly in the wilderness  
+- Joshua 3:14–17 — Crossing the Jordan (Descent)  
+- Mark 10:38 — Jesus’ baptism defined as immersion into suffering  
+- Genesis 17:5 / Romans 4:16 — Abraham as Faith  
+- Genesis 8:11 — Dove returning with olive leaf (peace, renewal)  
+- Isaiah 9:2 — Light shining in darkness (quoted in Matthew 4)
+- 
+---
 BKV-Project-GUID: 567a129b-db83-4ca4-af95-493b4d8ed523  
 BKV-Chapter-GUID: 8a57cc9b-d7e4-4b5b-9a32-4f94b54ac6f0
