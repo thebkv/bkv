@@ -49,5 +49,11 @@
 23. He came and lived in a city called **Branch**, so that what was spoken by the prophets might be fulfilled: “He shall be called a Nazarene.”  
 
 ---
+
+## References (for this chapter)
+- Micah 5:2 — Bethlehem prophecy (“House of Bread,” ruler to come)  
+- Hosea 11:1 — “Out of Egypt I called my son”  
+- Jeremiah 31:15 — Rachel weeping in Ramah  
+---
 BKV-Project-GUID: 567a129b-db83-4ca4-af95-493b4d8ed523  
 BKV-Chapter-GUID: 0d05773c-9e41-4970-bc42-5f45f6f38d38
