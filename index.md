@@ -18,6 +18,16 @@ No use is made of so-called “Bible codes” or hidden numerology.
 This is a draft workspace: chapters may change as the work continues.
 
 ---
+Contributors: Use following conventions:
+Start chapters with identifying operational terms (see examples)
+Base text KJV or other standard accepted text
+Substitute names for meanings where scripture has a direct or clearly implied definition
+Use markdown italics for readability words like _the_
+Use markdown bold for defined names and terms like **City of Peace**
+When substituting Hebrew or Greek meanings, use commonly accrpted definitions
+Close chapter with references (see examples)
+Do not add commentary, let scripture speak for itself
+
 
 ## 📖 The Gospel According to Matthew
 - [Chapter 1](Matthew_01.md) 
