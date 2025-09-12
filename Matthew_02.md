@@ -1,50 +1,54 @@
 #Matthew02
 
-⸻
+## Matthew 2 (BKV Symbolic-Only Restatement)
 
-Matthew 2 (BKV)
+1. After **Yahweh Saves** was born in _the_ **Place of God’s Nourishment** of Judea, in _the days of_ **Worldly Authority**, **Seekers of Wisdom** came from _the_ **Rising of Light** to _the_ **City of Peace**.  
 
-The Keyed Gospel
+2. They asked, “Where is the one born King of Praise’s people? For we saw his star at its rising, and we have come to honor him.”  
 
-⸻
+3. When _the_ **Worldly Authority** heard this, he was troubled, and all _the_ **City of Peace** with him.  
 
-Chapter 2 Key Notes
-	•	Bethlehem — “House of Bread.” Defined in Micah 5:2: from this small place comes the ruler. Symbol of nourishment for the soul.  
-	•	Herod — Linked to “hero/appearance of power.” Represents worldly authority, threatened by true kingship.  
-	•	Magi — Seekers of wisdom from afar, drawn to light. Symbol of the searching faculties of mind.  
-	•	Egypt — Land of bondage (Exodus). Represents both danger and refuge, the place God calls His son out of.  
-	•	Ramah — “Height.” Associated with Rachel’s weeping (Jeremiah 31:15).  
-	•	Nazareth — “Branch/Shoot.” Linked to Isaiah 11:1: “A Branch will grow out of his roots.” Symbol of humble growth that fulfills prophecy.  
+4. He gathered the religious leaders and scribes and asked where _the_ **Anointed** was to be born.  
 
-⸻
+5. They said, “In _the_ **Place of God’s Nourishment** of Judah, for the prophet wrote:  
 
-Matthew 2 (BKV Restatement)
-	1.	After Jesus was born in Bethlehem of Judea, in the days of King Herod, wise men came from the east to Jerusalem.  
-	2.	They asked, “Where is the one born King of the Jews? For we saw his star at its rising, and we have come to honor him.” 
-    3. When _the_ **Worldly Authority** heard this, he was troubled, and all _the_ **City of Peace** with him.
-	4.	He gathered the chief priests and scribes and inquired where the Christ was to be born.  
-	5.	They said, “In Bethlehem of Judea, for the prophet wrote:  
-	6.	‘And you, Bethlehem, in the land of Judah, are by no means least among the rulers; for out of you shall come a ruler who will shepherd my people Israel.’”  
-	7.	Then Herod secretly called the Magi and asked them the exact time the star had appeared.  
-	8.	He sent them to Bethlehem, saying, “Go, search carefully for the child; and when you find him, report back to me, so that I too may honor him.”  
-	9.	After hearing the king, they went on their way, and the star they had seen at its rising went before them until it stopped over the place where the child was.  
-	10.	When they saw the star, they rejoiced with very great joy.  
-	11.	Entering the house, they saw the child with Mary his mother, and they fell down and honored him.   Opening their treasures, they presented gifts: gold, frankincense, and myrrh.  
-	12.	Having been warned in a dream not to return to Herod, they departed for their own country by another way.  
-	13.	After they departed, an angel of the Lord appeared to Joseph in a dream and said, “Rise, take the child and his mother, flee to Egypt, and remain there until I tell you; for Herod is about to seek the child to destroy him.”  
-	14.	Joseph rose, took the child and his mother by night, and withdrew into Egypt.  
-	15.	They remained there until the death of Herod, fulfilling what was spoken by the prophet: “Out of Egypt I called my son.”  
-	16.	When Herod saw that he had been deceived by the Magi, he was enraged. He sent and killed all the male children in Bethlehem and its surrounding region, two years old and under, according to the time he had learned from the Magi.  
-	17.	Then was fulfilled what was spoken by Jeremiah the prophet:  
-	18.	“A voice was heard in Ramah, weeping and great mourning, Rachel weeping for her children; she refused to be comforted, because they are no more.”  
-	19.	After Herod died, an angel of the Lord appeared in a dream to Joseph in Egypt, saying:  
-	20.	“Rise, take the child and his mother, and go into the land of Israel, for those who sought the child’s life are dead.”  
-	21.	Joseph rose, took the child and his mother, and entered the land of Israel.  
-	22.	But hearing that Archelaus reigned in Judea in place of his father Herod, he was afraid to go there. Being warned in a dream, he withdrew into the region of Galilee.  
-	23.	He came and lived in a city called Nazareth, so that what was spoken by the prophets might be fulfilled: “He shall be called a Nazarene.”  
+6. ‘And you, **Place of God’s Nourishment**, in _the_ land of **Praise**, are by no means least among _the_ rulers; for out of you shall come a shepherd of my people.’”  
 
-⸻
+7. Then _the_ **Worldly Authority** secretly called _the_ **Seekers of Wisdom** and asked the exact time the star had appeared.  
 
-<>
+8. He sent them to _the_ **Place of God’s Nourishment**, saying, “Go, search carefully for the child; and when you find him, bring me word, so that I too may honor him.”  
 
-⸻
+9. After hearing _the_ ruler, they went on their way, and the star they had seen at its rising went before them until it stopped over _the_ place where the child was.  
+
+10. When they saw the star, they rejoiced with great joy.  
+
+11. Entering _the_ house, they saw the child with his mother, and they bowed in honor. Opening their treasures, they presented gifts: gold, frankincense, and myrrh.  
+
+12. Having been warned in a dream not to return to _the_ **Worldly Authority**, they departed for their own country by another way.  
+
+13. After they departed, a messenger of the Lord appeared in a dream to **Increase** and said, “Rise, take the child and his mother, flee to **Bondage**, and remain there until I tell you; for _the_ **Worldly Authority** is about to seek the child to destroy him.”  
+
+14. **Increase** rose, took the child and his mother by night, and withdrew into **Bondage**.  
+
+15. They remained there until _the_ death of **Worldly Authority**, fulfilling what was spoken by the prophet: ‘Out of **Bondage** I called my son.’  
+
+16. When _the_ **Worldly Authority** saw that he had been deceived by _the_ **Seekers of Wisdom**, he was enraged. He sent and killed all the male children in _the_ **Place of God’s Nourishment** and its surroundings, two years old and under, according to the time he had learned from _the_ **Seekers of Wisdom**.  
+
+17. Then was fulfilled what was spoken by the prophet:  
+
+18. “A voice was heard in **Height**, weeping and great mourning, Rachel weeping for _her_ children; she refused to be comforted, because they are no more.”  
+
+19. After _the_ **Worldly Authority** died, a messenger of the Lord appeared in a dream to **Increase** in **Bondage**, saying:  
+
+20. “Rise, take the child and his mother, and go into _the_ land of God’s people, for those who sought the child’s life are dead.”  
+
+21. **Increase** rose, took the child and his mother, and entered _the_ land of God’s people.  
+
+22. But hearing that _the_ **Ruler of the People** reigned in Judea in place of his father, _the_ **Worldly Authority**, he was afraid to go there. Being warned in a dream, he withdrew into _the_ region of Galilee.  
+
+23. He came and lived in a city called **Branch**, so that what was spoken by the prophets might be fulfilled: “He shall be called a Nazarene.”
+
+---  
+---
+BKV-Project-GUID: 3a7e82b6-9cf9-44c8-8a7a-1c24a830f92d  
+BKV-Chapter-GUID: 2fb743b2-dc79-4ac8-a732-2bbd53bcfdc9
