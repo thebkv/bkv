@@ -53,5 +53,19 @@
 25. But he did not know her until she had borne a son, and he called his name **Yahweh Saves**.  
 
 ---
+
+## References (for this chapter)
+- Genesis 17:5 — Abraham renamed, father of many nations (Faith)  
+- Genesis 21:6 — Isaac’s name, Laughter  
+- Genesis 25:26 — Jacob as Supplanter  
+- Genesis 29:35 — Judah as Praise  
+- Genesis 38:29–30 — Perez (Breach), Zerah (Rising)  
+- Ruth 4:17 — Obed (Servant/Worshiper)  
+- 1 Samuel 13:14 — David as Beloved, after God’s heart  
+- 1 Chronicles 22:9 — Solomon as Peace  
+- Matthew 1:21 — Jesus defined as “Yahweh saves”  
+- Matthew 1:23 — Emmanuel, “God with us”
+- 
+---
 BKV-Project-GUID: 567a129b-db83-4ca4-af95-493b4d8ed523  
 BKV-Chapter-GUID: 9cf1f1b7-0de2-4f2d-a8d3-12b69d3477f5
