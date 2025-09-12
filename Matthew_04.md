@@ -1,8 +1,8 @@
 #Matthew04
 
 ## Chapter 4 Key Notes
-- **Wilderness** — Symbol of testing and reliance on God (*Deuteronomy 8:2, Matthew 4:1*).  
-- **Forty Days** — Period of completeness in trial or preparation (Moses in Exodus 34:28, Israel in Numbers 14:33-34).  
+- **Wilderness** — Not just empty desert. In Scripture it is the **place of testing, stripping away, and reliance on God** (*Deuteronomy 8:2, Hosea 2:14, Mark 1:12–13*).  
+- **Forty Days** — Period of completeness in trial or preparation (Moses in Exodus 34:28, Israel in Numbers 14:33–34).  
 - **Satan (Adversary)** — Literally “accuser, opponent.” Represents the force of opposition or temptation.  
 - **Stones / Bread** — Stones = dead, lifeless forms; Bread = true nourishment from God (*Deuteronomy 8:3*).  
 - **Temple (Sanctuary)** — Symbol of the inner place of worship and trust in God.  
@@ -10,9 +10,7 @@
 - **Galilee (Circle, Rolling)** — Region of transition, often symbol of movement and openness.  
 - **Sea** — The restless, unstable mind (*Isaiah 57:20*).  
 - **Fishermen** — Those who draw others out of the sea of confusion.  
-- **Light** — Revelation, the breaking of divine truth (*Isaiah 9:2, Matthew 4:16*).
-- **Wilderness** — Not just empty desert. In Scripture it is the **place of testing, stripping away, and reliance on God** (*Deuteronomy 8:2, Hosea 2:14, Mark 1:12–13*).
-
+- **Light** — Revelation, the breaking of divine truth (*Isaiah 9:2, Matthew 4:16*).  
 
 ---
 
@@ -67,6 +65,19 @@
 24. So his fame spread throughout all Syria, and they brought to him all the sick, those afflicted with various diseases and pains, the demon-oppressed, epileptics, paralytics, and he healed them.  
 
 25. And great crowds followed him from Galilee, Decapolis, **City of Peace**, Judea, and from beyond the **Descent**.  
+
+---
+
+## References (for this chapter)
+- Deuteronomy 8:2–3 — Israel tested in the wilderness; “Man shall not live by bread alone”  
+- Hosea 2:14 — God calls into the wilderness to speak tenderly  
+- Psalm 91:11–12 — Angels bearing you up (quoted in temptation)  
+- Deuteronomy 6:13, 6:16 — Worship only God; do not test the Lord  
+- Exodus 34:28 — Moses fasting forty days and forty nights  
+- Numbers 14:33–34 — Israel’s forty years in the wilderness  
+- Isaiah 9:1–2 — People walking in darkness see a great Light (quoted in Matthew 4:15–16)  
+- Isaiah 57:20 — The wicked like the troubled sea  
+- Matthew 7:16–20 — Fruit as outward sign of inward reality (later echo)  
 
 ---
 BKV-Project-GUID: 567a129b-db83-4ca4-af95-493b4d8ed523  
