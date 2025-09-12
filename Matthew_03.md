@@ -1,8 +1,20 @@
 #Matthew03
 
+## Chapter 3 Key Notes
+- **John (Yahweh is Gracious)** — Defined in the name itself. Grace/gift of God.  
+- **Wilderness** — Symbol of testing, separation, dependence on God (*Deuteronomy 8:2*).  
+- **Reign of Heaven** — The rule of God’s Spirit, contrasted with earthly dominion.  
+- **Jordan (Descent)** — Hebrew root = “to go down.” Symbol of humility, letting go, passing into new states (*Joshua 3:14-17*).  
+- **Baptism (Immersion)** — Defined by Jesus: “Are you able to be baptized with the baptism I am baptized with?” (*Mark 10:38*). More than water: full immersion into Spirit, fire, and surrender.  
+- **Abraham (Faith)** — Explicitly defined as father of many nations, symbol of faith (*Genesis 17:5, Romans 4:16*).  
+- **Fruit** — Symbol of outward demonstration of inward state (*Matthew 7:16-20*).  
+- **Dove** — Sign of peace and Spirit’s presence (*Genesis 8:11, Matthew 3:16*).  
+
+---
+
 ## Matthew 3 (BKV Symbolic-Only Restatement)
 
-1. In those days **Yahweh is Gracious (John)** came, proclaiming in _the_ **Wilderness**,  
+1. In those days **Yahweh is Gracious** came, proclaiming in _the_ **Wilderness**,  
 
 2. saying, “Repent, for _the_ **Reign of Heaven** has drawn near.”  
 
@@ -12,15 +24,15 @@ Prepare _the_ way of the Lord; make his paths straight.”
 
 4. **Yahweh is Gracious** himself wore clothing of camel’s hair with a leather belt around his waist, and his food was locusts and wild honey.  
 
-5. Then went out to him Jerusalem, and all Judea, and all _the_ region around _the_ **Descent (Jordan)**,  
+5. Then went out to him **City of Peace**, and all Judea, and all _the_ region around _the_ **Descent**,  
 
-6. and they were **Immersed (Baptized)** by him in _the_ **Descent**, confessing their sins.  
+6. and they were **Immersed** by him in _the_ **Descent**, confessing their sins.  
 
 7. But when he saw many of the Pharisees and Sadducees coming to his **Immersion**, he said, “Brood of vipers! Who warned you to flee from _the_ coming wrath?”  
 
 8. “Bear fruit in keeping with repentance.”  
 
-9. “And do not think to say within yourselves, ‘We have **Faith (Abraham)** as our father,’ for I tell you that God is able from these stones to raise up children to **Faith**.”  
+9. “And do not think to say within yourselves, ‘We have **Faith** as our father,’ for I tell you that God is able from these stones to raise up children to **Faith**.”  
 
 10. “Even now _the_ axe is laid to _the_ root of the trees; every tree therefore that does not bear good fruit is cut down and thrown into _the_ fire.”  
 
@@ -34,7 +46,7 @@ Prepare _the_ way of the Lord; make his paths straight.”
 
 15. But **Yahweh Saves** answered him, “Allow it now; for thus it is fitting for us to fulfill all righteousness.” Then he allowed him.  
 
-16. When **Yahweh Saves** was **Immersed**, immediately he went up from _the_ water; and behold, the heavens were opened to him, and he saw the Spirit of God descending like a dove and coming upon him.  
+16. When **Yahweh Saves** was **Immersed**, immediately he went up from _the_ water; and behold, the heavens were opened to him, and he saw the Spirit of God descending like a **Dove** and coming upon him.  
 
 17. And behold, a voice from the heavens said, “This is my beloved Son, in whom I am well pleased.”  
 
