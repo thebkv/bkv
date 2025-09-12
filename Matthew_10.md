@@ -18,6 +18,7 @@
 - **Receiving the Sent = Receiving Christ = Receiving the Father** — Chain of divine presence through the messenger.  
 - **Cut off and Hopeless (Dead)** — Separated from life in God, beyond human hope.  
 - **Those in Need of Healing Spiritually (Sick)** — Brokenness requiring God’s wholeness.  
+- **House / Household Consciousness** — Sphere of life and allegiance.  
 
 ---
 
@@ -47,11 +48,11 @@
 
 11. Whatever **city** or **village** you enter, find who in it is **worthy**, and stay there until you depart.  
 
-12. As you enter the **house**, greet it.  
+12. As you enter the **household consciousness**, greet it.  
 
-13. If the **house** is **worthy**, let your **peace** rest upon it; but if it is not **worthy**, let your **peace** return to you.  
+13. If the **household consciousness** is **worthy**, let your **peace** rest upon it; but if it is not **worthy**, let your **peace** return to you.  
 
-14. And if anyone will not receive you or listen to your words, shake off the **dust of your feet** when you leave that **house** or **town**.  
+14. And if anyone will not receive you or listen to your words, shake off the **dust of your feet** when you leave that **household consciousness** or **town**.  
 
 15. Truly, I say to you, it will be more bearable on the day of **judgment** for **Burning (Sodom)** and **Submersion (Gomorrah)** than for that **town**.  
 
@@ -79,7 +80,7 @@
 
 24. A **disciple** is not above his **teacher**, nor a **servant** above his **master**.  
 
-25. It is enough for the **disciple** to be like his **teacher**, and the **servant** like his **master**. If they called the **master of the house** **Prince of Forces (Beelzebul)**, how much more will they malign those of his household!  
+25. It is enough for the **disciple** to be like his **teacher**, and the **servant** like his **master**. If they called the **master of the household consciousness** **Prince of Forces (Beelzebul)**, how much more will they malign those of his **household consciousness**!  
 
 ---
 
@@ -107,7 +108,7 @@
 
 35. For I have come to set a **man** against his **father**, and a **daughter** against her **mother**, and a **daughter-in-law** against her **mother-in-law**.  
 
-36. A person’s **enemies** will be those of his own **household**.  
+36. A person’s **enemies** will be those of his own **household consciousness**.  
 
 ---
 
