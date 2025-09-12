@@ -8,9 +8,14 @@
 - **Separation (Outer Darkness)** — Being cut off from God’s presence, exclusion from light.  
 - **Oppressive Forces (Demons)** — Destructive impulses, spiritual bondage.  
 - **Unclean Lives (Swine)** — Wasted or destructive existence.  
-- **Chaos of the Mind (Sea)** — Symbol of restlessness and instability (*Isaiah 57:20, Daniel 7:2–3, Revelation 21:1*).  
+- **Chaos of the Mind (Sea)** — Symbol of restlessness, nations, instability (*Isaiah 57:20; Daniel 7:2–3; Revelation 21:1*).  
 - **Turmoil (Storm)** — Fear, chaos, testing of faith.  
-- **Reborn Humanity (Son of Man)** — Jesus’ title for himself: true humanity, humble yet exalted, destined for dominion (*Daniel 7:13–14*).  
+- **Reborn Humanity (Son of Man)** — The phrase spans Scripture:  
+  - In Hebrew (*ben ʾādām*), it means mortal, frail human (Ezekiel).  
+  - In Psalm 8, “man” and “son of man” mark a hinge: frailty yet destined for glory.  
+  - In Daniel 7, “one like a son of man” contrasts with beastly powers and receives everlasting dominion.  
+  - In the Gospels, Jesus applies it to himself: humility, suffering, and glory in one.  
+Thus, in Bible Key, *Son of Man* = **Reborn Humanity** — the pattern of salvation: humanity restored, crowned, and ruling through him.  
 
 ---
 
@@ -89,6 +94,7 @@
 ## References (for this chapter)
 - Leviticus 13–14 — Laws of leprosy, cleansing, and exclusion  
 - Genesis 32:28 — Jacob renamed Israel, “One who struggles with God”  
+- Psalm 8:4–6 — “What is man… or son of man… crowned with glory and honor”  
 - Isaiah 59:19 — Nations gathered from east and west  
 - Isaiah 53:4 — “He took our illnesses and bore our diseases” (quoted in v.17)  
 - Daniel 7:13–14 — Reborn Humanity (Son of Man) receiving dominion and glory  
@@ -100,4 +106,4 @@
 
 ---
 BKV-Project-GUID: 567a129b-db83-4ca4-af95-493b4d8ed523  
-BKV-Chapter-GUID: 8f1e8e0a-0410-46b6-8944-273c60a44b1e
+BKV-Chapter-GUID: 1d2b09fb-94cf-4c6e-9314-44e33f98f12a
