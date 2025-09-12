@@ -1,15 +1,5 @@
 # The Bible Key Version (BKV)
 
-Welcome! This is a living project — a work in progress.  
-Here you’ll find the text of the Bible Key Version, with each chapter linked below.
-
----
-
-## 📖 The Gospel According to Matthew
-- [Chapter 1](Matthew_01.md)
-
-(more chapters will be added here as they are ready)
-
 ---
 
 ## 🗝️ About
@@ -22,9 +12,21 @@ The BKV can stand alongside your familiar translation as a companion for study.
 
 Many resources are drawn upon: above all Scripture itself, but also multiple LLMs, Bible Gateway, original languages, early Christian writers, and other public domain materials. LLM formatting is applied for consistency, and automated substitutions are used where results prove reliable. At this stage, the BKV does not attempt to address the TR vs. Critical debate.
 
+
 No use is made of so-called “Bible codes” or hidden numerology. 
 
 This is a draft workspace: chapters may change as the work continues.
+
+---
+
+## 📖 The Gospel According to Matthew
+- [Chapter 1](Matthew_01.md)
+- [Chapter 1](Matthew_02.md)
+- 
+(more chapters will be added here as they are ready)
+
+
+
 
 ---
 
