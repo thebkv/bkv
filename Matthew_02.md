@@ -20,8 +20,8 @@ Chapter 2 Key Notes
 
 Matthew 2 (BKV Restatement)
 	1.	After Jesus was born in Bethlehem of Judea, in the days of King Herod, wise men came from the east to Jerusalem.  
-	2.	They asked, “Where is the one born King of the Jews? For we saw his star at its rising, and we have come to honor him.”  
-	3.	When Herod (Worldly Authority) heard this, he was troubled, and all Jerusalem (City of Peace) with him.
+	2.	They asked, “Where is the one born King of the Jews? For we saw his star at its rising, and we have come to honor him.” 
+    3. When _the_ **Worldly Authority** heard this, he was troubled, and all _the_ **City of Peace** with him.
 	4.	He gathered the chief priests and scribes and inquired where the Christ was to be born.  
 	5.	They said, “In Bethlehem of Judea, for the prophet wrote:  
 	6.	‘And you, Bethlehem, in the land of Judah, are by no means least among the rulers; for out of you shall come a ruler who will shepherd my people Israel.’”  
