@@ -46,9 +46,8 @@
 
 22. But hearing that _the_ **Ruler of the People** reigned in Judea in place of his father, _the_ **Worldly Authority**, he was afraid to go there. Being warned in a dream, he withdrew into _the_ region of Galilee.  
 
-23. He came and lived in a city called **Branch**, so that what was spoken by the prophets might be fulfilled: “He shall be called a Nazarene.”
+23. He came and lived in a city called **Branch**, so that what was spoken by the prophets might be fulfilled: “He shall be called a Nazarene.”  
 
----  
 ---
-BKV-Project-GUID: 3a7e82b6-9cf9-44c8-8a7a-1c24a830f92d  
-BKV-Chapter-GUID: 2fb743b2-dc79-4ac8-a732-2bbd53bcfdc9
+BKV-Project-GUID: 567a129b-db83-4ca4-af95-493b4d8ed523  
+BKV-Chapter-GUID: 0d05773c-9e41-4970-bc42-5f45f6f38d38
