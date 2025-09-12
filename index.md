@@ -1,7 +1,7 @@
 # The Bible Key Version (BKV)
 
 Welcome! This is a living project — a work in progress.  
-Here you’ll find the unfolding text of the Bible Key Version, with each chapter linked below.
+Here you’ll find the text of the Bible Key Version, with each chapter linked below.
 
 ---
 
@@ -13,7 +13,16 @@ Here you’ll find the unfolding text of the Bible Key Version, with each chapte
 ---
 
 ## 🗝️ About
-The **Bible Key Version (BKV)** is being developed to unlock the deeper symbolic meanings in Scripture, connecting names, numbers, and places with their inner significance.  
+The **Bible Key Version (BKV)** is a developing work that mines Scripture to uncover its symbolic meanings and historical depth.  
+
+Special attention is given to the original meanings of proper names, and to numbers with well-established significance (such as 7 and 40). 
+
+The Bible Key method lets Scripture interpret itself, opening pathways to deeper study and understanding.  
+The BKV can stand alongside your familiar translation as a companion for study.  
+
+Many resources are drawn upon: above all Scripture itself, but also multiple LLMs, Bible Gateway, original languages, early Christian writers, and other public domain materials. LLM formatting is applied for consistency, and automated substitutions are used where results prove reliable. At this stage, the BKV does not attempt to address the TR vs. Critical debate.
+
+No use is made of so-called “Bible codes” or hidden numerology. 
 
 This is a draft workspace: chapters may change as the work continues.
 
