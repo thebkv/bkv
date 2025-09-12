@@ -2,20 +2,20 @@
 
 ## Chapter 5 Key Notes
 - **Jesus** — Name means “Yahweh Saves” (*Matthew 1:21*). For readability, we use “Jesus” in the text from this chapter forward.  
-- **Mountain** — Elevated state of mind, symbol of vision and teaching (*Exodus 19, Matthew 5:1*).  
-- **Blessed (Makarios)** — More than “happy”: means **divinely favored, aligned with God’s rule**.  
-- **Poor in spirit** — Those aware of their lack, open to God’s filling.  
-- **Mourn** — Recognition of loss or sin, leading to comfort.  
-- **Meek** — Gentle, surrendered strength; trust in God’s authority (*Psalm 37:11*).  
-- **Hunger and thirst for righteousness** — Deep longing for God’s justice and alignment.  
-- **Merciful** — Those who extend grace and receive grace.  
-- **Pure in heart** — Unmixed devotion, clarity of vision.  
-- **Peacemakers** — Those who reconcile and reflect God’s peace (*shalom*).  
-- **Salt** — Symbol of preserving influence and covenant (*Leviticus 2:13, Colossians 4:6*).  
-- **Light** — Revelation and witness (*Isaiah 60:1, John 8:12*).  
-- **Law and Prophets** — The whole testimony of God’s word.  
-- **Gehenna (Hell)** — Valley of Hinnom, symbol of destruction.  
-- **Righteousness** — Alignment with God’s will, deeper than outward rule-keeping.  
+- **Mountain → Elevated State of Mind** — Symbol of vision and teaching (*Exodus 19, Matthew 5:1*).  
+- **Blessed (Makarios)** — Divinely favored, aligned with God’s rule.  
+- **Poor in Spirit → Aware of their Need** — Recognition of dependence on God.  
+- **Mourn → Recognize Loss or Sin** — Awareness that leads to comfort (*Isaiah 61:2–3*).  
+- **Meek → Surrendered Strength** — Gentle trust in God, strength under control (*Psalm 37:11*).  
+- **Hunger and Thirst for Righteousness → Deep Longing for God’s Justice**.  
+- **Merciful → Extending Grace**.  
+- **Pure in Heart → Unmixed Devotion**.  
+- **Peacemakers → Those Who Reconcile**.  
+- **Persecuted for Righteousness → Opposed for Alignment with God’s Will**.  
+- **Salt → Preserving Influence, covenant loyalty** (*Leviticus 2:13*).  
+- **Light → Divine Revelation, witness** (*Isaiah 60:1, John 8:12*).  
+- **Gehenna → Destruction** — Valley of Hinnom, symbol of ruin (*Jeremiah 7:31*).  
+- **Righteousness → Alignment with God’s Will**, deeper than outward law-keeping.  
 
 ---
 
@@ -25,21 +25,21 @@
 
 2. He opened his mouth and taught them, saying:  
 
-3. “**Divinely Favored** are the **Poor in Spirit**, for theirs is _the_ **Reign of Heaven**.  
+3. **Divinely Favored** are those **Aware of their Need**, for theirs is _the_ **Reign of Heaven**.  
 
-4. **Divinely Favored** are those who **Mourn**, for they shall be comforted.  
+4. **Divinely Favored** are those who **Recognize Loss or Sin**, for they shall be comforted.  
 
-5. **Divinely Favored** are the **Meek**, for they shall inherit the earth.  
+5. **Divinely Favored** are those of **Surrendered Strength**, for they shall inherit the earth.  
 
-6. **Divinely Favored** are those who **Hunger and Thirst for Righteousness**, for they shall be filled.  
+6. **Divinely Favored** are those with a **Deep Longing for God’s Justice**, for they shall be filled.  
 
-7. **Divinely Favored** are the **Merciful**, for they shall receive mercy.  
+7. **Divinely Favored** are those who **Extend Grace**, for they shall receive grace.  
 
-8. **Divinely Favored** are the **Pure in Heart**, for they shall see God.  
+8. **Divinely Favored** are those of **Unmixed Devotion**, for they shall see God.  
 
-9. **Divinely Favored** are the **Peacemakers**, for they shall be called sons of God.  
+9. **Divinely Favored** are those who **Reconcile**, for they shall be called sons of God.  
 
-10. **Divinely Favored** are those who are **Persecuted for Righteousness’ sake**, for theirs is _the_ **Reign of Heaven**.  
+10. **Divinely Favored** are those **Opposed for Alignment with God’s Will**, for theirs is _the_ **Reign of Heaven**.  
 
 11. **Divinely Favored** are you when others revile you and persecute you and utter all kinds of evil against you falsely on my account.  
 
@@ -59,11 +59,11 @@
 
 19. Whoever relaxes one of the least commandments and teaches others to do so will be called least in _the_ **Reign of Heaven**; but whoever does them and teaches them will be called great.  
 
-20. For unless your **Righteousness** surpasses that of the scribes and Pharisees, you will never enter _the_ **Reign of Heaven**.  
+20. For unless your **Alignment with God’s Will** surpasses that of the scribes and Pharisees, you will never enter _the_ **Reign of Heaven**.  
 
 21. You have heard it said, “Do not murder”; but I say to you that everyone angry with his brother will be liable to judgment.  
 
-22. Whoever insults his brother will be liable to the council; whoever says “You fool” will be liable to _the_ fire of **Destruction (Gehenna)**.  
+22. Whoever insults his brother will be liable to the council; whoever says “You fool” will be liable to _the_ fire of **Destruction**.  
 
 23. If you bring your gift to the altar and remember your brother has something against you,  
 
@@ -77,9 +77,9 @@
 
 28. But I say to you that everyone who looks with lust has already committed adultery in his heart.  
 
-29. If your right eye causes you to stumble, tear it out and throw it away; it is better to lose one member than for your whole body to be cast into **Destruction (Gehenna)**.  
+29. If your right eye causes you to stumble, tear it out and throw it away; it is better to lose one member than for your whole body to be cast into **Destruction**.  
 
-30. And if your right hand causes you to stumble, cut it off and throw it away; for it is better to lose one member than for your whole body to go into **Destruction (Gehenna)**.  
+30. And if your right hand causes you to stumble, cut it off and throw it away; for it is better to lose one member than for your whole body to go into **Destruction**.  
 
 31. It was said, “Whoever divorces his wife, let him give her a certificate.”  
 
@@ -121,7 +121,8 @@
 
 ## References (for this chapter)
 - Exodus 19 — Moses ascending the mountain for revelation  
-- Psalm 37:11 — The meek shall inherit the land  
+- Psalm 37:11 — The meek (surrendered strength) shall inherit the land  
+- Isaiah 61:2–3 — Comfort for those who mourn (recognize loss or sin)  
 - Deuteronomy 8:3 — Bread as true nourishment  
 - Isaiah 60:1 — Light has come, glory of the Lord has risen  
 - Leviticus 2:13 — Salt of the covenant  
