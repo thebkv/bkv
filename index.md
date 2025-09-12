@@ -21,7 +21,7 @@ This is a draft workspace: chapters may change as the work continues.
 
 ## 📖 The Gospel According to Matthew
 - [Chapter 1](Matthew_01.md)
-- [Chapter 1](Matthew_02.md)
+- [Chapter 2](Matthew_02.md) 
 - 
 (more chapters will be added here as they are ready)
 
