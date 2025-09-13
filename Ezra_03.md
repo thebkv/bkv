@@ -4,7 +4,7 @@
 
 2 Then **Yahweh saves (Jeshua)** the priest, with his brothers, and **Seed of Babylon (Zerubbabel)** the son of Shealtiel with his brothers, arose and built the **altar — the place of surrender and offering** — of the God of Israel, to offer burnt offerings on it, as it is written in the **instruction of Drawn Out (Moses)**, the man of God.  
 
-3 They set the **altar** in its place, for fear was upon them because of the peoples of the lands, and they offered burnt offerings on it to the LORD, morning and evening.  
+3 They set the **place of surrender and offering** in its place, for fear was upon them because of the peoples of the lands, and they presented burnt offerings on it to the LORD, morning and evening.  
 
 4 And they kept the **Feast of Booths — remembrance of God’s dwelling with his people in the journey** — as it is written, and offered the daily burnt offerings by number according to the rule, as each day required.  
 
