@@ -20,3 +20,27 @@ ___
 14 And to him was given dominion and glory and a kingdom, that all peoples, nations, and languages should serve him; his dominion is an everlasting dominion, which shall not pass away, and his kingdom one that shall not be destroyed.  
 
 
+___
+
+
+### Daniel 7 — Symbol Key Chart
+
+| Symbol / Term            | BKV Meaning                                             | Commentary / Inner Lesson |
+|---------------------------|--------------------------------------------------------|---------------------------|
+| **Sea**                   | Chaotic, undifferentiated depths of the mind           | The unconscious turmoil out of which distorted states emerge. |
+| **Four Winds**            | Forces of influence moving through the soul            | These agitate the unconscious, stirring up inner conflict. |
+| **Beasts**                | Expressions of the lower nature                        | Each represents a distorted ego pattern. |
+| **Lion with wings**       | Prideful, dominant ego                                 | Pride can appear powerful but must be humbled (“wings plucked”). |
+| **Bear with ribs**        | Devouring, materialistic ego                           | Consumption-driven, always feeding. |
+| **Leopard with heads/wings** | Deceptive, fractured ego                            | Splits and multiplies, hard to pin down, spreading influence. |
+| **Fourth Beast**          | Unnamable amalgam of destructive forces                | Systemic, overwhelming, mechanical power of ego at its worst. |
+| **Ten Horns**             | Many competing powers or drives                        | Fragments of ego dominance. |
+| **Little Horn**           | Pretender consciousness, arrogant voice                | Starts small, grows through boasting, displacing others. |
+| **Thrones**               | Seats of inner power                                   | Consciousness aligning under divine judgment. |
+| **Ancient of Days**       | Timeless Wisdom                                        | The eternal source of light and order. |
+| **Books opened**          | Unveiling of the hidden record of consciousness        | All inner states and tendencies are revealed before God. |
+| **Stream of Fire**        | Purifying divine energy                                | Burns away falsity, energizes truth. |
+| **Beast slain**           | Destruction of systemic ego                            | False structures cannot endure judgment. |
+| **Beasts prolonged**      | Residual ego states persisting temporarily             | Lesser faults linger until integrated. |
+| **Son of Man**            | The true human, carrying the likeness of God           | Higher self, realized consciousness, restored image. |
+| **Dominion / Kingdom**    | Spiritual authority and integration                    | Enduring mastery of the inner life, unshakable union with God. |
