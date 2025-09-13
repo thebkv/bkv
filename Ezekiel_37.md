@@ -20,3 +20,25 @@ Ezekiel 37 — BKV (Tuned, Refined)
 12 Therefore prophesy, and say to them, Thus says the Lord GOD: Behold, I will open your graves (states of burial in despair), and raise you from your graves, O my people. And I will bring you into the land of Inner Union (Israel).  
 13 And you shall know that I am the LORD, when I open your graves, and raise you from your graves, O my people.  
 14 And I will put my Spirit (true life, divine breath) in you, and you shall live, and I will place you in your own land. Then you shall know that I am the LORD; I have spoken, and I will do it, declares the LORD.”  
+
+---
+
+### Ezekiel 37 — Symbol Key Chart
+
+| Symbol / Term        | BKV Meaning                                   | Commentary / Inner Lesson |
+|-----------------------|-----------------------------------------------|---------------------------|
+| **Valley**            | Low state of consciousness                   | Represents places of despair or emptiness where renewal is needed. |
+| **Bones**             | Dead, lifeless states within the self         | Lost vitality; faculties of the soul that have withered. |
+| **Dry Bones**         | States without spirit, hope, or vitality      | Complete depletion; a sense of being cut off. |
+| **Son of Man**        | Human consciousness                          | The part of us called to receive vision and speak truth. |
+| **Prophesy**          | Speak truth / declare God’s word              | Activates transformation by aligning word with Spirit. |
+| **Breath**            | Spirit / divine life                         | The animating presence of God that restores true vitality. |
+| **Sinews**            | Cohesion                                     | Represents connection, structure, and order within the soul. |
+| **Flesh**             | Form                                         | The shaping of renewed life; outer expression. |
+| **Skin**              | Covering                                     | Completeness of the form; the outer vessel for new life. |
+| **Sound / Rattling**  | Awakening, re-ordering                        | Signs of movement when dead states begin to respond. |
+| **Four Winds**        | Universal currents of divine breath           | Spirit flowing from every direction to bring fullness of life. |
+| **Army**              | Gathered strength of the soul                 | Unified spiritual vitality, strong and purposeful. |
+| **Graves**            | States of despair, error, or forgetfulness    | Where faculties of the self are buried, awaiting resurrection. |
+| **Israel**            | Spiritual Consciousness / Inner Union         | The restored, integrated self living in harmony with God. |
+| **Spirit in You**     | God’s presence within                        | The indwelling life-force that makes renewal permanent. |
