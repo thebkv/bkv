@@ -4,18 +4,17 @@
 
 2 And great crowds gathered about him, so that he got into a boat and sat down. And the whole crowd stood on the beach.  
 
-3 And he told them many things in parables, saying:  
-“Behold, a sower went out to sow.  
+3 “Listen. A **sower** went out to sow.  
 
-4 And as he sowed, some seeds fell along the path, and the birds came and devoured them.  
+4 As he sowed, some **seed — the word of divine potential —** fell along the **hardened path of the mind**, and the **distracting thoughts** came and snatched it away.  
 
-5 Other seeds fell on rocky ground, where they did not have much soil; and immediately they sprang up, since they had no depth of earth,  
+5 Other **seed** fell on **shallow, rocky ground**, where there was not much depth of soil. It sprang up quickly, but had no root.  
 
-6 but when the sun rose they were scorched. And because they had no root, they withered away.  
+6 When the **sun of testing** rose, it was scorched, and since it had no root in consciousness, it withered away.  
 
-7 Other seeds fell among **thorns — the obstacles and cares of this world** — and the thorns grew up and choked them.  
+7 Other **seed** fell among **thorns — the cares and distractions of this world** — and the thorns grew up and choked it.  
 
-8 Other seeds fell on good soil and produced grain, some a hundredfold, some sixty, some thirty.  
+8 But other **seed** fell into **good soil — a receptive heart aligned with God —** and it bore fruit, yielding a hundredfold, sixty, or thirty.  
 
 9 He who has ears, let him hear.”  
 
@@ -43,17 +42,17 @@ and turn, and I would heal them.’
 
 17 Truly I say to you, many prophets and righteous people longed to see what you see, and did not see it, and to hear what you hear, and did not hear it.  
 
-18 Hear then the parable of the sower:  
+18 “Hear then the meaning of the parable of the sower.  
 
-19 When anyone hears the word of the **Inner Kingdom** and does not understand it, the evil one comes and snatches away what has been sown in his heart. This is what was sown along the path.  
+19 When anyone hears the **word of the Inner Kingdom** and does not understand, the **unresolved mind** snatches away what was sown in the heart. This is the **seed on the hardened path**.  
 
-20 As for what was sown on rocky ground, this is the one who hears the word and immediately receives it with joy,  
+20 The **seed on rocky ground** is the one who hears the word and receives it at once with joy,  
 
-21 yet he has no root in himself, but endures for a while, and when tribulation or persecution arises on account of the word, immediately he falls away.  
+21 but has no depth in himself. He endures for a time, but when pressure or persecution comes, he falls away.  
 
-22 As for what was sown among **the thorns — the cares and distractions of this world** — this is the one who hears the word, but the cares of the world and the deceitfulness of riches choke the word, and it proves unfruitful.  
+22 The **seed among thorns** is the one who hears, but the **cares of the world and the deceitfulness of riches** choke the word, and it bears no fruit.  
 
-23 As for what was sown on good soil, this is the one who hears the word and understands it; he indeed bears fruit and yields, in one case a hundredfold, in another sixty, and in another thirty.”  
+23 But the **seed in good soil** is the one who hears the word and understands. This is the one whose inner life bears fruit abundantly — in one a hundredfold, in another sixty, in another thirty.”  
 
 24 He put another parable before them, saying:  
 “The **Inner Kingdom** may be compared to a man who sowed good seed in his field,  
