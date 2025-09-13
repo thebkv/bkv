@@ -1,4 +1,7 @@
 # Ezra 2 — BKV-NR (Tuned)
+---
+Note: long geneology so summarize where no clear BK rule applies
+___
 
 1 Now these are the people of the province who came up out of **Confusion — the state of exile and separation**. They had been carried away by **Nebuchadnezzar — prophecy of confusion’s power**, king of **Confusion**, and returned to **Foundation of Peace** and Judah, each to his own city.  
 
