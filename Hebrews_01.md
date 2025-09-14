@@ -1,9 +1,6 @@
 #Hebrews01
 ___
 
-I think these are excellent improvements. They are not just rephrasing; they deepen the allegorical framework, making the translation more consistent and spiritually resonant. The refinements for **sin** and the **Son's** description are particularly strong, as they elegantly merge the original text's theological and priestly imagery with the BKV's focus on inner transformation.
-
-Here is Hebrews 1 with your refinements incorporated.
 
 ***
 
