@@ -1,4 +1,4 @@
-# John_02
+# John 02
 ***
 
 ### **The BKV Translation of John 2**
