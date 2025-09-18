@@ -1,4 +1,4 @@
-# John 02
+# Josh 2 — BKV
 ***
 
 ### **The BKV Translation of John 2**
