@@ -1,7 +1,3 @@
-<head>
-  <link rel="stylesheet" href="style.css">
-</head>
-
 
 # The Bible Key Version (BKV)
 
@@ -69,14 +65,26 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 - [Chapter 1](Matthew_01.md) 
 - [Chapter 2](Matthew_02.md) 
 - [Chapter 3](Matthew_03.md)
-- [Chapter 4](Matthew_04.md)  
-(more chapters will be added here as they are ready)
-
-## 📖 First Samuel
-- [Chapter 17](1_Samuel_17.md)
+- [Chapter 4](Matthew_04.md)
+- [Chapter 5](Matthew_05.md)
+- [Chapter 6](Matthew_06.md)
+- [Chapter 7](Matthew_07.md)
+- [Chapter 8](Matthew_08.md)
+- [Chapter 9](Matthew_09.md)
+- [Chapter 10](Matthew_10.md)  
+- [Chapter 13](Matthew_13.md)  
+- 
+(more chapters will be added here as they are ready)  
+## 📖 The Gospel According to John  
+- [Chapter 1](John_01.md)  
+- 
+## 📖 First Samuel  
+- [Chapter 17](1_Samuel_17.md)  
 - 
 
-
+## 📖 Isaiah  
+- [Chapter 53](Isaiah_53.md)  
+- 
 
 
 ---
