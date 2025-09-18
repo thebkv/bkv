@@ -1,3 +1,8 @@
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+
 # The Bible Key Version (BKV)
 
 ---
