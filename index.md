@@ -68,7 +68,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 (more chapters will be added here as they are ready)
 
 ## 📖 First Samuel
-- [Chapter 17](1 Samuel_17.md)
+- [Chapter 17](1_Samuel_17.md)
 - 
 
 
