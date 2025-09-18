@@ -1,0 +1,10 @@
+scss
+---
+---
+$base-font-family: 'Montserrat', sans-serif;
+
+@import "{{ site.theme }}";
+
+body {
+  font-size: 1.25rem; /* Your custom font-size rule here */
+}
