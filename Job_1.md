@@ -77,3 +77,5 @@ The chapter culminates in **Job's** ultimate act of surrender. By tearing his ga
 * You and Job: The Old English object form for "you" was ēow, pronounced roughly "yohw." This shares a strong phonetic resemblance to the original Hebrew pronunciation of Job (אִיּוֹב), which was "ee-YOHV." Both pronunciations begin with a "y" sound and are followed by a stressed syllable containing a vowel similar to "oh."
 This phonetic alignment is not a coincidence, but rather a reflection of the shared ancient roots of these sounds. The Old English words and the Hebrew words come from completely different language families (Germanic and Semitic, respectively), but they both preserved ancient vowel sounds and phonetic structures that have since changed in modern English.
 This similarity highlights how ancient languages, regardless of their family, often shared a more diverse and complex set of sounds, some of which were lost over time.
+* Uz is all of us living in the material world, with it's challenge and pressure and chaos.
+* Job is you, the reader, and your inner experiences.
