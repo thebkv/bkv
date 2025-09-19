@@ -1,4 +1,4 @@
-### Ezekiel 12
+# Ezekiel 12
 
 ---
 
@@ -39,7 +39,7 @@
 
 ***
 
-### **Interpretive Summary**
+## **Interpretive Summary**
 
 Ezekiel 12 is an internal allegory for the necessary dismantling and reconstruction of the self. The central theme is the **relocation of consciousness** from a state of rebellion to a new, more aligned state. The prophet Ezekiel, as the **True Consciousness**, is given a series of symbolic actions to perform, which are not just historical events but an internal **diagram** for the inner work of the soul.
 
@@ -50,7 +50,7 @@ The **prince of Jerusalem** is the **egoic will**, the ruling thought-form that 
 Ultimately, the chapter confronts the common self-deception that spiritual change is always "for the future." The message is clear: the **Absolute Source**’s word is immediate. The fulfillment of spiritual **vision** and the consequences of inner resistance are not a distant threat but an imminent reality. The events described are a powerful illustration of the inner process that must occur for a rebellious consciousness to be purified and brought into alignment with divine truth.
 
 
-**Original Text: Ezekiel 12 (King James Version)**
+## **Original Text: Ezekiel 12 (King James Version)**
 
 1. The word of the Lord also came unto me, saying,
 2. Son of man, thou dwellest in the midst of a rebellious house, which have eyes to see, and see not; they have ears to hear, and hear not: for they are a rebellious house.
