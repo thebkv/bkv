@@ -6,7 +6,7 @@
 
 ## **BKV (Bible Key Version)**
 
-1. There was a state of **material consciousness** called **Uz**, within which resided a state of being named **Job**. And this aspect of the self was complete and upright, and it held **reverence** for the **Absolute Source**, and it turned away from inner **separation**.
+1. There was a state of **material consciousness** called **Uz** (**Us**), within which resided a state of being named **Job** (**You**). And this aspect of the self was complete and upright, and it held **reverence** for the **Absolute Source**, and it turned away from inner **separation**.
 2. And there were born to it **seven perfect inner faculties** and **three spiritual intuitions**.
 3. Its inner worth was also **seven thousand pure thoughts**, and **three thousand thoughts of a higher nature**, and **five hundred acts of power**, and **five hundred acts of humble service**, and a vast inner environment; so that this aspect of the self was the most developed of all those in the consciousness of the **rising sun**.
 4. And its **inner faculties** would go and dwell in their own distinct states of being, each in its appointed time, and they would invite their **three spiritual intuitions** to commune with them.
@@ -57,7 +57,7 @@
 22. In all this Job sinned not, nor charged God foolishly.
 
 ***
-### **Interpretive Summary**
+## **Interpretive Summary**
 
 The Book of Job is an ancient play, and a profound psychological and spiritual drama about the relationship between the **natural man** and the **Absolute Source** in the face of suffering. **Job** represents a state of being—the **natural man** (from the land of **Uz**) who is externally righteous and successful but has not yet been tested at the core of his being. He has built a life on material and external blessings, represented by his sons, daughters, and vast possessions.
 
@@ -66,3 +66,14 @@ The central conflict between God and Satan can also be understood to be the **Di
 The rapid loss of Job's children and possessions symbolizes the swift and complete destruction of the external and internal supports on which the natural man's life is built. His **sons and daughters** represent the beloved inner faculties and intuitions of his mind. The **oxen and camels** are his acts of service and his higher thoughts. The **wind from the wilderness** and the **fire from heaven** are the unpredictable and purifying forces of divine change that dismantle his carefully constructed life.
 
 The chapter culminates in **Job's** ultimate act of surrender. By tearing his garments and falling to the ground, he lets go of his external identity and pride. His famous words, "Naked I came... naked shall I return," signify his realization that his true identity is not found in possessions or even in the faculties of his mind, but in his unadorned, essential self. He does not accuse the **Absolute Source**, thereby passing the initial test. This sets the stage for the rest of the book, which will explore the deeper theological questions that arise when the natural man’s comfortable, righteous existence is challenged.
+
+---
+
+## Comments about Job and Uz
+
+**A Phonetic Breakdown**
+
+* Us and Uz: The Old English word for "us" was ūs, pronounced with a long "oo" sound, like "oose." This is very close to the original Hebrew pronunciation of Uz (אוּץ), which was "OOTZ." The core long "oo" vowel sound is the same, and the final "s" in the English word is phonetically similar to the final "ts" sound in the Hebrew word.
+* You and Job: The Old English object form for "you" was ēow, pronounced roughly "yohw." This shares a strong phonetic resemblance to the original Hebrew pronunciation of Job (אִיּוֹב), which was "ee-YOHV." Both pronunciations begin with a "y" sound and are followed by a stressed syllable containing a vowel similar to "oh."
+This phonetic alignment is not a coincidence, but rather a reflection of the shared ancient roots of these sounds. The Old English words and the Hebrew words come from completely different language families (Germanic and Semitic, respectively), but they both preserved ancient vowel sounds and phonetic structures that have since changed in modern English.
+This similarity highlights how ancient languages, regardless of their family, often shared a more diverse and complex set of sounds, some of which were lost over time.
