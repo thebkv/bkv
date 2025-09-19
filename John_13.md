@@ -1,7 +1,7 @@
 # John 13 - BKV
 ***
 ---
-# John 13
+
 
 # BKV (Bible Key Version)
 
