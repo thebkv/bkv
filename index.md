@@ -18,7 +18,7 @@ No use is made of so-called “Bible codes” or hidden numerology.
 
 The Bible Key Version project assumes that Scripture is provided by the Holy Spirit, and is true. Symoblism and analogy are based purely on Scripture's own definitions.
 
-This is a draft workspace: chapters may change as the work continues.
+_"Now all these things happened unto them for exsamples."_
 
 ---
 
