@@ -74,18 +74,56 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 - [Chapter 10](Matthew_10.md)  
 - [Chapter 13](Matthew_13.md)  
 - 
-(more chapters will be added here as they are ready)  
+(more chapters will be added here as they are ready)
+
+## 📖 The Gospel According to Luke  
+- [Chapter 1](Luke_01.md)  
+
 ## 📖 The Gospel According to John  
 - [Chapter 1](John_01.md)  
-- 
+- [Chapter 2](John_02.md)
+- [Chapter 13](John_13.md)
+- [Chapter 16](John_16.md)
+
+## 📖 Hebrews  
+- [Chapter 01](Hebrews_01.md)  
+
+## 📖 Revelation  
+- [Chapter 1](Revelation_01.md)  
+
+-  
 ## 📖 First Samuel  
 - [Chapter 17](1_Samuel_17.md)  
 - 
 
 ## 📖 Isaiah  
 - [Chapter 53](Isaiah_53.md)  
-- 
 
+## 📖 Job  
+- [Chapter 1](Job_01.md)  
+
+
+## 📖 Ezra  
+- [Chapter 1](Ezra_01.md)
+- [Chapter 2](Ezra_02.md)
+- [Chapter 3](Ezra_03.md)
+
+## 📖 Job  
+- [Chapter 1](Job_01.md)  
+
+## 📖 Daniel  
+- [Chapter 07](Daniel_07.md)  
+
+## 📖 Ezekiel  
+- [Chapter 1](Ezekiel_12.md)
+- [Chapter 2](Ezekiel_13.md)
+- [Chapter 3](Ezekiel_37.md)
+
+## 📖 Exodus  
+- [Chapter 14](Exodus_14.md)  
+
+## 📖 BKV Resources  
+- [Glossary](BKV_Glossary.md)  
 
 ---
 
