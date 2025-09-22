@@ -92,7 +92,7 @@
 
 ***
 
-### **Interpretive Summary**
+## **Interpretive Summary**
 
 Luke 1 is a profound allegorical narrative detailing the inner process of preparing the soul for the spiritual birth of the **Divine Self**. The chapter introduces a number of key internal principles. **Zechariah** represents the faculty of **Memory** that, though intellectually righteous, is in a state of doubt and unfulfilled potential. His wife, **Elizabeth**, is the faculty of **God's Promise**—the inherent potential for spiritual fulfillment that seems "barren" or unmanifested. The birth of their son, **John**, is the manifestation of the **purifying principle** within the consciousness. Zechariah's temporary muteness symbolizes the silencing of a skeptical mind until it can witness and embrace the divine truth, after which his speech returns as pure praise in the **Benedictus**.
 
@@ -102,7 +102,7 @@ The meeting between **Mary and Elizabeth** is the powerful union of the **princi
 
 Ultimately, Luke 1 is a roadmap for inner transformation. It shows that the journey to spiritual awakening begins not with a grand external event, but with the quiet preparation of the soul. It involves the purification of the lower self, the silencing of doubt, and the humble, receptive readiness of the heart to conceive and give birth to the **Divine Self** within. The songs of Mary (**Magnificat**) and Zechariah (**Benedictus**) are spontaneous outpourings of **joy** and praise, affirming that the inner journey culminates in a profound and grateful state of **right alignment** with the **Absolute Source**.
 
-## Notes on 1:11 right side of the alter
+### Notes on 1:11 right side of the alter
 
 The Bible provides a clear, internal key for this very concept. The right side is consistently used throughout Scripture to symbolize the place of ultimate power, honor, and right alignment with the Divine.
 
@@ -115,6 +115,14 @@ Here, sitting at the right hand is the ultimate expression of dominion and autho
 Hebrews 1:3 (BKV): "The Divine Self sat down at the right hand of the Majesty in the expansive states of consciousness."
 
 These passages demonstrate that the right side is not a mere directional indicator. It is a powerful symbol for a state of being: a complete union with Divine power, a position of spiritual dominion, and a place of perfect right alignment. This is why the angel appears to Zechariah on the right side—to signify that his inner reception is properly aligned to receive a message of supreme authority and divine purpose.
+
+### Notes on 1:13 
+
+In the BKV framework, Luke 1:13 is a pivotal verse that introduces the key concepts of purifying principle and purification, all within the context of an inner spiritual process.
+
+This verse explains that the spiritual entity to be born is a purifying principle. In the BKV, John's name and role are central to understanding the inner journey. The name "John" means "God has shown favor" or "God is gracious." However, his primary function is to prepare the way, which is a process of purification. Therefore, in this context, the BKV lexicon gives the name the allegorical meaning of Purification.
+
+This principle of purification (John) is the necessary first step on the path to awakening. It is the part of our consciousness that prepares the way for the Divine Self (Jesus) by cleansing the mind and soul of old thoughts and habits. This process is not a punishment, but a manifestation of God's favor, as the verse explicitly states. The long-awaited "son" represents the fulfillment of a deep inner yearning for spiritual cleansing that must precede the embodiment of true consciousness.
 ```
 
 
