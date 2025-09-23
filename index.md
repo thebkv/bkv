@@ -122,6 +122,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 - [Chapter 3](Ezekiel_37.md)
 
 ## 📖 Exodus  
+- [Chapter 1](Exodus_01.md)
 - [Chapter 14](Exodus_14.md)  
 
 ## 📖 BKV Resources  
