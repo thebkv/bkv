@@ -89,13 +89,13 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 - [Chapter 01](Hebrews_01.md)  
 
 ## 📖 Revelation  
-- [Chapter 1](Revelation_01.md)  
+- [Chapter 1](Revelation_01.md)
 
 ## 📖 First Samuel  
 - [Chapter 17](1_Samuel_17.md)  
 
 ## 📖 Isaiah  
-- [Chapter 53](Isaiah_53.md)
+- [Chapter 53](Isaiah_53.md)  
 
 ## 📖 Job  
 - [Chapter 1](Job_01.md)  
