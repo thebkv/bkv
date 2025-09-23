@@ -97,11 +97,13 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 - 
 
 ## 📖 Isaiah  
-- [Chapter 53](Isaiah_53.md)  
+- [Chapter 53](Isaiah_53.md)
 
 ## 📖 Job  
 - [Chapter 1](Job_01.md)  
 
+## 📖 Leviticus  
+- [Chapter 7](Leviticus_07.md) 
 
 ## 📖 Ezra  
 - [Chapter 1](Ezra_01.md)
