@@ -25,27 +25,23 @@
 19 The lower, controlling aspects of the mind added this to them all: They suppressed the **voice of preparation** within the consciousness.  
 20 When all the faculties were being purified, the **Consciousness-of-the-Divine** was purified too. And as he was aligned with the **Source**, the expansive states of consciousness were opened 21 and the **animating principle** descended on him in tangible form like peace. And a **voice** came from the **expansive states of consciousness**: "You are my **Consciousness-of-the-Divine**, whom I love; with you I am well pleased."  
 22 Now the **Consciousness-of-the-Divine** himself was about thirty years old when he began his ministry. He was the **true human**, and his spiritual lineage was linked to all the qualities and principles that preceded him, back to the ultimate **Source of all Being**.  
+23 Now the **Consciousness-of-the-Divine** himself was about thirty years old when he began his ministry. He was the son, so it was thought, of the **human will**, the son of the **inner life**.  
+24 He was the son of the **gift of the Divine**, the son of the **alignment with divine law**, the son of the **kingly authority**, the son of the **divine answer**, the son of the **human will**,   
+25 the son of the **gift of the Divine**, the son of the **strong burden**, the son of the **reassurance**, the son of the **release from bondage**, the son of the **enlightener**,  
+26 the son of the **truth of the mind**, the son of the **gift of the Divine**, the son of the **obedient listening**, the son of the **joyful one**, the son of the **knowledge of God**,  
+27 the son of the **gracious gift**, the son of the **inner seed**, the son of the **purified stream of consciousness**, the son of the **prayerful soul**, the son of the **light**,  
+28 the son of the **kingly authority**, the son of the **adornment**, the son of the **divine covenant**, the son of the **Divine’s secret**, the son of the **watchfulness**,  
+29 the son of the **salvation**, the son of the **help of God**, the son of the **uplifting**, the son of the **gift of the Divine**, the son of the **alignment with divine law**,  
+30 the son of the **attentive listener**, the son of the **exaltation of consciousness**, the son of the **human will**, the son of the **grace and truth**, the son of the **resurrection**,  
+31 the son of the **overflowing**, the son of the **truth**, the son of the **gift of the Divine**, the son of the **giving**, the son of the **beloved**,  
+32 the son of the **rich reward**, the son of the **service**, the son of the **strength**, the son of the **peace**, the son of the **divine messenger**,  
+33 the son of the **blessed people**, the son of the **exalted one**, the son of the **stronghold**, the son of the **breakthrough**, the son of the **exaltation of consciousness**,  
+34 the son of the **integrated self**, the son of the **laughter of the soul**, the son of the **father of a multitude**, the son of the **divine communication**, the son of the **illuminating light**,  
+35 the son of the **entwining**, the son of the **friendship**, the son of the **spiritual division**, the son of the **crossing over**, the son of the **sending forth**,  
+36 the son of the **possession**, the son of the **healing**, the son of the **appointed one**, the son of the **rest**, the son of the **sighing**,  
+37 the son of the **deathless one**, the son of the **consecrated one**, the son of the **descent**, the son of the **praise of God**, the son of the **acquisition**,  
+38 the son of the **mortal one**, the son of the **appointed one**, the son of the **first human**, the son of the **Source of all Being**.  
 
----
-
-## Luke 3 Geneology back to God
-
-23 Now the **Consciousness-of-the-Divine** himself was about thirty years old when he began his ministry. He was the son, so it was thought, of the **human will**, the son of the **inner life**.
-24 He was the son of the **gift of the Divine**, the son of the **alignment with divine law**, the son of the **kingly authority**, the son of the **divine answer**, the son of the **human will**,
-25 the son of the **gift of the Divine**, the son of the **strong burden**, the son of the **reassurance**, the son of the **release from bondage**, the son of the **enlightener**,
-26 the son of the **truth of the mind**, the son of the **gift of the Divine**, the son of the **obedient listening**, the son of the **joyful one**, the son of the **knowledge of God**,
-27 the son of the **gracious gift**, the son of the **inner seed**, the son of the **purified stream of consciousness**, the son of the **prayerful soul**, the son of the **light**,
-28 the son of the **kingly authority**, the son of the **adornment**, the son of the **divine covenant**, the son of the **Divine’s secret**, the son of the **watchfulness**,
-29 the son of the **salvation**, the son of the **help of God**, the son of the **uplifting**, the son of the **gift of the Divine**, the son of the **alignment with divine law**,
-30 the son of the **attentive listener**, the son of the **exaltation of consciousness**, the son of the **human will**, the son of the **grace and truth**, the son of the **resurrection**,
-31 the son of the **overflowing**, the son of the **truth**, the son of the **gift of the Divine**, the son of the **giving**, the son of the **beloved**,
-32 the son of the **rich reward**, the son of the **service**, the son of the **strength**, the son of the **peace**, the son of the **divine messenger**,
-33 the son of the **blessed people**, the son of the **exalted one**, the son of the **stronghold**, the son of the **breakthrough**, the son of the **exaltation of consciousness**,
-34 the son of the **integrated self**, the son of the **laughter of the soul**, the son of the **father of a multitude**, the son of the **divine communication**, the son of the **illuminating light**,
-35 the son of the **entwining**, the son of the **friendship**, the son of the **spiritual division**, the son of the **crossing over**, the son of the **sending forth**,
-36 the son of the **possession**, the son of the **healing**, the son of the **appointed one**, the son of the **rest**, the son of the **sighing**,
-37 the son of the **deathless one**, the son of the **consecrated one**, the son of the **descent**, the son of the **praise of God**, the son of the **acquisition**,
-38 the son of the **mortal one**, the son of the **appointed one**, the son of the **first human**, the son of the **Source of all Being**.
 ---
 
 
