@@ -79,7 +79,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 ## 📖 The Gospel According to Luke  
 - [Chapter 1](Luke_01.md)
 - [Chapter 2](Luke_02.md)
-- [Chapter 2](Luke_02.md)  
+- [Chapter 3](Luke_03.md)  
 
 ## 📖 The Gospel According to John  
 - [Chapter 1](John_01.md)  
