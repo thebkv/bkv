@@ -1,5 +1,5 @@
-# Luke 3 rev 1
-
+# Luke 3 
+rev 1
 ---
 
 ## BKV Translation
@@ -214,7 +214,7 @@ Herod, Philip, Lysanias (Tetrarchs): These rulers represent the lower, material,
 
 Annas and Caiaphas (High Priests): These figures represent the religious tradition of the day—a system of thought and belief that had become rigid, dogmatic, and focused on external rituals rather than inner spiritual truth. In the BKV, they are the entrenched intellectual mind that resists new spiritual insights.
 
-## 3.1 Notes
+## 3:1 Notes
 
 The BKV concludes that the entire list of referenced leaders is a single, emphatic description of the prevailing state of human consciousness at that time. It is a consciousness that is ruled by:
 
