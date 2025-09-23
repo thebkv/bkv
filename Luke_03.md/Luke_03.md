@@ -2,7 +2,6 @@
 
 ---
 
-Here is the re-rendered BKV translation for Luke 3, including the BKV translation with bolded key terms and the interpretive summary.
 ### BKV Translation
 
 1 In a state of consciousness where worldly intellect and religious tradition held sway, the **word of God** came to the voice of preparation in the **wilderness** of inner solitude.
