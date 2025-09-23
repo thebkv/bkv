@@ -20,12 +20,12 @@
 14 And it made their lives bitter with hard **bondage**, in the constant toil of **worldly thoughts** and in building up false beliefs, and in all manner of service in the outer life; all their service, wherein they were made to serve, was with rigor.  
 15 And the **egoic will** spoke to the **principles of preservation** within the **spiritual consciousness**, whose name was inner peace and life-giving.  
 16 And it said, "When you do the office of preserving life to the spiritual faculties, and you see them in the act of renewal; if it be a principle of **divine will**, then you shall extinguish it; but if it be a principle of the **worldly will**, then it shall live."  
-17 But the **principles of preservation** had **awe and respect for the Divine**, and did not do as the **egoic will** commanded them, but preserved the principles of the **Divine will** alive.
-18 And the **egoic will** summoned the **principles of preservation** and said, "Why have you done this thing, and have preserved the principles of the **Divine will** alive?"
-19 And the **principles of preservation** said to the **egoic will**, "Because the spiritual faculties are not like the worldly faculties; for they are vigorous and are renewed before the principles of preservation come in unto them."
-20 Therefore, the **Source of all Being** dealt well with the **principles of preservation**: and the inner faculties multiplied, and waxed very mighty.
-21 And it came to pass, because the **principles of preservation** had **awe and respect for the Divine**, that the **Divine** made them established principles of inner peace.
-22 And the **egoic will** charged all its people, saying, "Every principle of **divine will** that is renewed you shall cast into the **turbulent depths of the mind**, and every principle of the **worldly will** you shall preserve alive."
+17 But the **principles of preservation** had **awe and respect for the Divine**, and did not do as the **egoic will** commanded them, but preserved the principles of the **Divine will** alive.  
+18 And the **egoic will** summoned the **principles of preservation** and said, "Why have you done this thing, and have preserved the principles of the **Divine will** alive?"  
+19 And the **principles of preservation** said to the **egoic will**, "Because the spiritual faculties are not like the worldly faculties; for they are vigorous and are renewed before the principles of preservation come in unto them."  
+20 Therefore, the **Source of all Being** dealt well with the **principles of preservation**: and the inner faculties multiplied, and waxed very mighty.  
+21 And it came to pass, because the **principles of preservation** had **awe and respect for the Divine**, that the **Divine** made them established principles of inner peace.  
+22 And the **egoic will** charged all its people, saying, "Every principle of **divine will** that is renewed you shall cast into the **turbulent depths of the mind**, and every principle of the **worldly will** you shall preserve alive."  
 
 
 ---
