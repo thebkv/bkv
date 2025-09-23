@@ -2,7 +2,7 @@
 
 ---
 
-## 📖 The Gospel According to Genesis
+## 📖 The Book of Genesis
 - [Chapter 1](Genesis_01.md)
 - [Chapter 2](Genesis_02.md)
 - [Chapter 3](Genesis_03.md)
@@ -54,7 +54,7 @@
 - [Chapter 49](Genesis_49.md)
 - [Chapter 50](Genesis_50.md)
 
-## 📖 The Gospel According to Exodus
+## 📖 The Book of Exodus
 - [Chapter 1](Exodus_01.md)
 - [Chapter 2](Exodus_02.md)
 - [Chapter 3](Exodus_03.md)
@@ -96,7 +96,7 @@
 - [Chapter 39](Exodus_39.md)
 - [Chapter 40](Exodus_40.md)
 
-## 📖 The Gospel According to Leviticus
+## 📖 The Book of Leviticus
 - [Chapter 1](Leviticus_01.md)
 - [Chapter 2](Leviticus_02.md)
 - [Chapter 3](Leviticus_03.md)
@@ -125,7 +125,7 @@
 - [Chapter 26](Leviticus_26.md)
 - [Chapter 27](Leviticus_27.md)
 
-## 📖 The Gospel According to Numbers
+## 📖 The Book of Numbers
 - [Chapter 1](Numbers_01.md)
 - [Chapter 2](Numbers_02.md)
 - [Chapter 3](Numbers_03.md)
@@ -163,7 +163,7 @@
 - [Chapter 35](Numbers_35.md)
 - [Chapter 36](Numbers_36.md)
 
-## 📖 The Gospel According to Deuteronomy
+## 📖 The Book of Deuteronomy
 - [Chapter 1](Deuteronomy_01.md)
 - [Chapter 2](Deuteronomy_02.md)
 - [Chapter 3](Deuteronomy_03.md)
@@ -199,7 +199,7 @@
 - [Chapter 33](Deuteronomy_33.md)
 - [Chapter 34](Deuteronomy_34.md)
 
-## 📖 The Gospel According to Joshua
+## 📖 The Book of Joshua
 - [Chapter 1](Joshua_01.md)
 - [Chapter 2](Joshua_02.md)
 - [Chapter 3](Joshua_03.md)
@@ -225,7 +225,7 @@
 - [Chapter 23](Joshua_23.md)
 - [Chapter 24](Joshua_24.md)
 
-## 📖 The Gospel According to Judges
+## 📖 The Book of Judges
 - [Chapter 1](Judges_01.md)
 - [Chapter 2](Judges_02.md)
 - [Chapter 3](Judges_03.md)
@@ -248,13 +248,13 @@
 - [Chapter 20](Judges_20.md)
 - [Chapter 21](Judges_21.md)
 
-## 📖 The Gospel According to Ruth
+## 📖 The Book of Ruth
 - [Chapter 1](Ruth_01.md)
 - [Chapter 2](Ruth_02.md)
 - [Chapter 3](Ruth_03.md)
 - [Chapter 4](Ruth_04.md)
 
-## 📖 The Gospel According to 1 Samuel
+## 📖 The Book of 1 Samuel
 - [Chapter 1](1_Samuel_01.md)
 - [Chapter 2](1_Samuel_02.md)
 - [Chapter 3](1_Samuel_03.md)
@@ -287,7 +287,7 @@
 - [Chapter 30](1_Samuel_30.md)
 - [Chapter 31](1_Samuel_31.md)
 
-## 📖 The Gospel According to 2 Samuel
+## 📖 The Book of 2 Samuel
 - [Chapter 1](2_Samuel_01.md)
 - [Chapter 2](2_Samuel_02.md)
 - [Chapter 3](2_Samuel_03.md)
@@ -313,7 +313,7 @@
 - [Chapter 23](2_Samuel_23.md)
 - [Chapter 24](2_Samuel_24.md)
 
-## 📖 The Gospel According to 1 Kings
+## 📖 The Book of 1 Kings
 - [Chapter 1](1_Kings_01.md)
 - [Chapter 2](1_Kings_02.md)
 - [Chapter 3](1_Kings_03.md)
@@ -337,7 +337,7 @@
 - [Chapter 21](1_Kings_21.md)
 - [Chapter 22](1_Kings_22.md)
 
-## 📖 The Gospel According to 2 Kings
+## 📖 The Book of 2 Kings
 - [Chapter 1](2_Kings_01.md)
 - [Chapter 2](2_Kings_02.md)
 - [Chapter 3](2_Kings_03.md)
@@ -364,7 +364,7 @@
 - [Chapter 24](2_Kings_24.md)
 - [Chapter 25](2_Kings_25.md)
 
-## 📖 The Gospel According to 1 Chronicles
+## 📖 The Book of 1 Chronicles
 - [Chapter 1](1_Chronicles_01.md)
 - [Chapter 2](1_Chronicles_02.md)
 - [Chapter 3](1_Chronicles_03.md)
@@ -395,7 +395,7 @@
 - [Chapter 28](1_Chronicles_28.md)
 - [Chapter 29](1_Chronicles_29.md)
 
-## 📖 The Gospel According to 2 Chronicles
+## 📖 The Book of 2 Chronicles
 - [Chapter 1](2_Chronicles_01.md)
 - [Chapter 2](2_Chronicles_02.md)
 - [Chapter 3](2_Chronicles_03.md)
@@ -433,7 +433,7 @@
 - [Chapter 35](2_Chronicles_35.md)
 - [Chapter 36](2_Chronicles_36.md)
 
-## 📖 The Gospel According to Ezra
+## 📖 The Book of Ezra
 - [Chapter 1](Ezra_01.md)
 - [Chapter 2](Ezra_02.md)
 - [Chapter 3](Ezra_03.md)
@@ -445,7 +445,7 @@
 - [Chapter 9](Ezra_09.md)
 - [Chapter 10](Ezra_10.md)
 
-## 📖 The Gospel According to Nehemiah
+## 📖 The Book of Nehemiah
 - [Chapter 1](Nehemiah_01.md)
 - [Chapter 2](Nehemiah_02.md)
 - [Chapter 3](Nehemiah_03.md)
@@ -460,7 +460,7 @@
 - [Chapter 12](Nehemiah_12.md)
 - [Chapter 13](Nehemiah_13.md)
 
-## 📖 The Gospel According to Esther
+## 📖 The Book of Esther
 - [Chapter 1](Esther_01.md)
 - [Chapter 2](Esther_02.md)
 - [Chapter 3](Esther_03.md)
@@ -472,7 +472,7 @@
 - [Chapter 9](Esther_09.md)
 - [Chapter 10](Esther_10.md)
 
-## 📖 The Gospel According to Job
+## 📖 The Book of Job
 - [Chapter 1](Job_01.md)
 - [Chapter 2](Job_02.md)
 - [Chapter 3](Job_03.md)
@@ -516,7 +516,7 @@
 - [Chapter 41](Job_41.md)
 - [Chapter 42](Job_42.md)
 
-## 📖 The Gospel According to Psalms
+## 📖 Psalms
 - [Chapter 1](Psalms_01.md)
 - [Chapter 2](Psalms_02.md)
 - [Chapter 3](Psalms_03.md)
@@ -668,7 +668,7 @@
 - [Chapter 149](Psalms_149.md)
 - [Chapter 150](Psalms_150.md)
 
-## 📖 The Gospel According to Proverbs
+## 📖 Proverbs
 - [Chapter 1](Proverbs_01.md)
 - [Chapter 2](Proverbs_02.md)
 - [Chapter 3](Proverbs_03.md)
@@ -715,7 +715,7 @@
 - [Chapter 11](Ecclesiastes_11.md)
 - [Chapter 12](Ecclesiastes_12.md)
 
-## 📖 The Gospel According to Song of Solomon
+## 📖 The Song of Solomon
 - [Chapter 1](Song_of_Solomon_01.md)
 - [Chapter 2](Song_of_Solomon_02.md)
 - [Chapter 3](Song_of_Solomon_03.md)
@@ -725,7 +725,7 @@
 - [Chapter 7](Song_of_Solomon_07.md)
 - [Chapter 8](Song_of_Solomon_08.md)
 
-## 📖 The Gospel According to Isaiah
+## 📖 The Book of Isaiah
 - [Chapter 1](Isaiah_01.md)
 - [Chapter 2](Isaiah_02.md)
 - [Chapter 3](Isaiah_03.md)
@@ -793,7 +793,7 @@
 - [Chapter 65](Isaiah_65.md)
 - [Chapter 66](Isaiah_66.md)
 
-## 📖 The Gospel According to Jeremiah
+## 📖 The Book of Jeremiah
 - [Chapter 1](Jeremiah_01.md)
 - [Chapter 2](Jeremiah_02.md)
 - [Chapter 3](Jeremiah_03.md)
@@ -847,14 +847,14 @@
 - [Chapter 51](Jeremiah_51.md)
 - [Chapter 52](Jeremiah_52.md)
 
-## 📖 The Gospel According to Lamentations
+## 📖 The Book of Lamentations
 - [Chapter 1](Lamentations_01.md)
 - [Chapter 2](Lamentations_02.md)
 - [Chapter 3](Lamentations_03.md)
 - [Chapter 4](Lamentations_04.md)
 - [Chapter 5](Lamentations_05.md)
 
-## 📖 The Gospel According to Ezekiel
+## 📖 The Book of Ezekiel
 - [Chapter 1](Ezekiel_01.md)
 - [Chapter 2](Ezekiel_02.md)
 - [Chapter 3](Ezekiel_03.md)
@@ -904,7 +904,7 @@
 - [Chapter 47](Ezekiel_47.md)
 - [Chapter 48](Ezekiel_48.md)
 
-## 📖 The Gospel According to Daniel
+## 📖 The Book of Daniel
 - [Chapter 1](Daniel_01.md)
 - [Chapter 2](Daniel_02.md)
 - [Chapter 3](Daniel_03.md)
@@ -918,7 +918,7 @@
 - [Chapter 11](Daniel_11.md)
 - [Chapter 12](Daniel_12.md)
 
-## 📖 The Gospel According to Hosea
+## 📖 The Book of Hosea
 - [Chapter 1](Hosea_01.md)
 - [Chapter 2](Hosea_02.md)
 - [Chapter 3](Hosea_03.md)
@@ -934,12 +934,12 @@
 - [Chapter 13](Hosea_13.md)
 - [Chapter 14](Hosea_14.md)
 
-## 📖 The Gospel According to Joel
+## 📖 The Book of Joel
 - [Chapter 1](Joel_01.md)
 - [Chapter 2](Joel_02.md)
 - [Chapter 3](Joel_03.md)
 
-## 📖 The Gospel According to Amos
+## 📖 The Book of Amos
 - [Chapter 1](Amos_01.md)
 - [Chapter 2](Amos_02.md)
 - [Chapter 3](Amos_03.md)
@@ -950,16 +950,16 @@
 - [Chapter 8](Amos_08.md)
 - [Chapter 9](Amos_09.md)
 
-## 📖 The Gospel According to Obadiah
+## 📖 The Book of Obadiah
 - [Chapter 1](Obadiah_01.md)
 
-## 📖 The Gospel According to Jonah
+## 📖 The Book of Jonah
 - [Chapter 1](Jonah_01.md)
 - [Chapter 2](Jonah_02.md)
 - [Chapter 3](Jonah_03.md)
 - [Chapter 4](Jonah_04.md)
 
-## 📖 The Gospel According to Micah
+## 📖 The Book of Micah
 - [Chapter 1](Micah_01.md)
 - [Chapter 2](Micah_02.md)
 - [Chapter 3](Micah_03.md)
@@ -973,21 +973,21 @@
 - [Chapter 2](Nahum_02.md)
 - [Chapter 3](Nahum_03.md)
 
-## 📖 The Gospel According to Habakkuk
+## 📖 The Book of Habakkuk
 - [Chapter 1](Habakkuk_01.md)
 - [Chapter 2](Habakkuk_02.md)
 - [Chapter 3](Habakkuk_03.md)
 
-## 📖 The Gospel According to Zephaniah
+## 📖 The Book of Zephaniah
 - [Chapter 1](Zephaniah_01.md)
 - [Chapter 2](Zephaniah_02.md)
 - [Chapter 3](Zephaniah_03.md)
 
-## 📖 The Gospel According to Haggai
+## 📖 The Book of Haggai
 - [Chapter 1](Haggai_01.md)
 - [Chapter 2](Haggai_02.md)
 
-## 📖 The Gospel According to Zechariah
+## 📖 The Book of Zechariah
 - [Chapter 1](Zechariah_01.md)
 - [Chapter 2](Zechariah_02.md)
 - [Chapter 3](Zechariah_03.md)
@@ -1003,7 +1003,7 @@
 - [Chapter 13](Zechariah_13.md)
 - [Chapter 14](Zechariah_14.md)
 
-## 📖 The Gospel According to Malachi
+## 📖 The Book of Malachi
 - [Chapter 1](Malachi_01.md)
 - [Chapter 2](Malachi_02.md)
 - [Chapter 3](Malachi_03.md)
@@ -1154,7 +1154,7 @@
 - [Chapter 15](Romans_15.md)
 - [Chapter 16](Romans_16.md)
 
-## 📖 The Gospel According to 1 Corinthians
+## 📖 Letters 1 Corinthians
 - [Chapter 1](1_Corinthians_01.md)
 - [Chapter 2](1_Corinthians_02.md)
 - [Chapter 3](1_Corinthians_03.md)
@@ -1172,7 +1172,7 @@
 - [Chapter 15](1_Corinthians_15.md)
 - [Chapter 16](1_Corinthians_16.md)
 
-## 📖 The Gospel According to 2 Corinthians
+## 📖 Letters 2 Corinthians
 - [Chapter 1](2_Corinthians_01.md)
 - [Chapter 2](2_Corinthians_02.md)
 - [Chapter 3](2_Corinthians_03.md)
@@ -1187,7 +1187,7 @@
 - [Chapter 12](2_Corinthians_12.md)
 - [Chapter 13](2_Corinthians_13.md)
 
-## 📖 The Gospel According to Galatians
+## 📖 Letters Galatians
 - [Chapter 1](Galatians_01.md)
 - [Chapter 2](Galatians_02.md)
 - [Chapter 3](Galatians_03.md)
@@ -1195,7 +1195,7 @@
 - [Chapter 5](Galatians_05.md)
 - [Chapter 6](Galatians_06.md)
 
-## 📖 The Gospel According to Ephesians
+## 📖 Letters Ephesians
 - [Chapter 1](Ephesians_01.md)
 - [Chapter 2](Ephesians_02.md)
 - [Chapter 3](Ephesians_03.md)
@@ -1203,31 +1203,31 @@
 - [Chapter 5](Ephesians_05.md)
 - [Chapter 6](Ephesians_06.md)
 
-## 📖 The Gospel According to Philippians
+## 📖 Letters Philippians
 - [Chapter 1](Philippians_01.md)
 - [Chapter 2](Philippians_02.md)
 - [Chapter 3](Philippians_03.md)
 - [Chapter 4](Philippians_04.md)
 
-## 📖 The Gospel According to Colossians
+## 📖 Letters Colossians
 - [Chapter 1](Colossians_01.md)
 - [Chapter 2](Colossians_02.md)
 - [Chapter 3](Colossians_03.md)
 - [Chapter 4](Colossians_04.md)
 
-## 📖 The Gospel According to 1 Thessalonians
+## 📖 Letters 1 Thessalonians
 - [Chapter 1](1_Thessalonians_01.md)
 - [Chapter 2](1_Thessalonians_02.md)
 - [Chapter 3](1_Thessalonians_03.md)
 - [Chapter 4](1_Thessalonians_04.md)
 - [Chapter 5](1_Thessalonians_05.md)
 
-## 📖 The Gospel According to 2 Thessalonians
+## 📖 Letters 2 Thessalonians
 - [Chapter 1](2_Thessalonians_01.md)
 - [Chapter 2](2_Thessalonians_02.md)
 - [Chapter 3](2_Thessalonians_03.md)
 
-## 📖 The Gospel According to 1 Timothy
+## 📖 Letters 1 Timothy
 - [Chapter 1](1_Timothy_01.md)
 - [Chapter 2](1_Timothy_02.md)
 - [Chapter 3](1_Timothy_03.md)
@@ -1235,21 +1235,21 @@
 - [Chapter 5](1_Timothy_05.md)
 - [Chapter 6](1_Timothy_06.md)
 
-## 📖 The Gospel According to 2 Timothy
+## 📖 Letters 2 Timothy
 - [Chapter 1](2_Timothy_01.md)
 - [Chapter 2](2_Timothy_02.md)
 - [Chapter 3](2_Timothy_03.md)
 - [Chapter 4](2_Timothy_04.md)
 
-## 📖 The Gospel According to Titus
+## 📖 Letters Titus
 - [Chapter 1](Titus_01.md)
 - [Chapter 2](Titus_02.md)
 - [Chapter 3](Titus_03.md)
 
-## 📖 The Gospel According to Philemon
+## 📖 Letters Philemon
 - [Chapter 1](Philemon_01.md)
 
-## 📖 The Gospel According to Hebrews
+## 📖 Letters Hebrews
 - [Chapter 1](Hebrews_01.md)
 - [Chapter 2](Hebrews_02.md)
 - [Chapter 3](Hebrews_03.md)
@@ -1264,42 +1264,42 @@
 - [Chapter 12](Hebrews_12.md)
 - [Chapter 13](Hebrews_13.md)
 
-## 📖 The Gospel According to James
+## 📖 Letters James
 - [Chapter 1](James_01.md)
 - [Chapter 2](James_02.md)
 - [Chapter 3](James_03.md)
 - [Chapter 4](James_04.md)
 - [Chapter 5](James_05.md)
 
-## 📖 The Gospel According to 1 Peter
+## 📖 Letters 1 Peter
 - [Chapter 1](1_Peter_01.md)
 - [Chapter 2](1_Peter_02.md)
 - [Chapter 3](1_Peter_03.md)
 - [Chapter 4](1_Peter_04.md)
 - [Chapter 5](1_Peter_05.md)
 
-## 📖 The Gospel According to 2 Peter
+## 📖 Letters 2 Peter
 - [Chapter 1](2_Peter_01.md)
 - [Chapter 2](2_Peter_02.md)
 - [Chapter 3](2_Peter_03.md)
 
-## 📖 The Gospel According to 1 John
+## 📖 Letters 1 John
 - [Chapter 1](1_John_01.md)
 - [Chapter 2](1_John_02.md)
 - [Chapter 3](1_John_03.md)
 - [Chapter 4](1_John_04.md)
 - [Chapter 5](1_John_05.md)
 
-## 📖 The Gospel According to 2 John
+## 📖 Letters 2 John
 - [Chapter 1](2_John_01.md)
 
-## 📖 The Gospel According to 3 John
+## 📖 Letters 3 John
 - [Chapter 1](3_John_01.md)
 
-## 📖 The Gospel According to Jude
+## 📖 Letters Jude
 - [Chapter 1](Jude_01.md)
 
-## 📖 The Gospel According to Revelation
+## 📖 The Revelation of Jesus Christ
 - [Chapter 1](Revelation_01.md)
 - [Chapter 2](Revelation_02.md)
 - [Chapter 3](Revelation_03.md)
