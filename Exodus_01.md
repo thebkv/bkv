@@ -60,9 +60,8 @@ The egoic will then enslaves the spiritual consciousness, forcing it into a stat
 
 The crucial turning point is the action of the **midwives** (the principles of preservation). They embody **reverence for the Divine**, and because of this, they refuse to obey the ego's destructive command. Their awe and respect for a higher power allow the spiritual life to continue to multiply, ultimately leading to the defeat of the ego's plan. The chapter shows that even in the darkest periods of spiritual bondage, the life-giving principles within the soul remain resilient and protected by the Divine when guided by **faith** and **reverence**.
 
-Notice how well the orignal text maps to BKV.
+_Notice how well the orignal text maps to BKV._
 
-No problem. Here is a two-column table presenting the first five verses of Exodus 1 in both the King James Version (KJV) and the Bible Key Version (BKV).
 
 | King James Version (KJV) | Bible Key Version (BKV) |
 | :--- | :--- |
