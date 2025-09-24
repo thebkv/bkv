@@ -98,6 +98,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 - [Chapter 17](1_Samuel_17.md)  
 
 ## 📖 Isaiah  
+- [Chapter 1](Isaiah_01.md)
 - [Chapter 53](Isaiah_53.md)  
 
 ## 📖 Job  
