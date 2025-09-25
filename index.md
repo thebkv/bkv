@@ -16,13 +16,12 @@ Many resources are drawn upon: above all Scripture itself, but also multiple LLM
 
 No use is made of so-called “Bible codes” or hidden numerology. 
 
-The Bible Key Version project assumes that Scripture is provided by the Holy Spirit, and is true. Symoblism and analogy are based purely on Scripture's own definitions.
+The Bible Key Version project assumes that Scripture is provided by the Holy Spirit, and is true. Symoblism and analogy are based purely on Scripture's own definitions.  
 
 _"Now all these things happened unto them for exsamples."_
 
 ---
 
-Bible Key Primer
 
 📜 Bible Key Primer  
 
