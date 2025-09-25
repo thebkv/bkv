@@ -53,7 +53,7 @@
 
 ---
 
-Interpretive Summary
+## **Interpretive Summary**
 
 Luke 7 is a powerful and multi-layered allegorical chapter that explores the themes of trusting-belief, spiritual restoration, and the contrast between external ritual and true inner transformation.
 
