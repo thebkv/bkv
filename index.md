@@ -21,7 +21,8 @@ The Bible Key Version project assumes that Scripture is provided by the Holy Spi
 _"Now all these things happened unto them for exsamples."_
 
 ---
-[Jump to Books](https://thebkv.github.io/bkv/#-the-gospel-according-to-matthew)
+
+# [Jump to Books](https://thebkv.github.io/bkv/#-the-gospel-according-to-matthew)
 
 ---
 
