@@ -74,6 +74,8 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 - [Chapter 13](Matthew_13.md)  
 - 
 (more chapters will be added here as they are ready)
+## 📖 The Gospel According to Mark  
+- [Chapter 1](Mark_01.md)  
 
 ## 📖 The Gospel According to Luke  
 - [Chapter 1](Luke_01.md)  
@@ -95,6 +97,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ## 📖 Revelation  
 - [Chapter 1](Revelation_01.md)
+
 
 ## 📖 First Samuel  
 - [Chapter 17](1_Samuel_17.md)  
