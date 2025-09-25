@@ -1,4 +1,8 @@
-# Mark 11. The beginning of the good news about the **Consciousness-of-the-Divine**, the **true human** and **Son of the Source of all Being**,
+# Mark 1
+
+---
+
+1. The beginning of the good news about the **Consciousness-of-the-Divine**, the **true human** and **Son of the Source of all Being**,
 2. as it is written by the **prophetic voice**: “I will send a **principle of communication** ahead of you, who will prepare your way,”
 3. “a **voice** of one calling in a state of **inner solitude**, ‘Prepare the way for the **Ultimate Reality**, make a clear path for him.’”
 4. And so the **preparatory consciousness** appeared in a state of **inner solitude**, preaching a **purification** of the old ways for the **healing of estrangement**.
