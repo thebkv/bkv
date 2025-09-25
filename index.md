@@ -75,7 +75,8 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 - 
 (more chapters will be added here as they are ready)
 ## 📖 The Gospel According to Mark  
-- [Chapter 1](Mark_01.md)  
+- [Chapter 1](Mark_01.md)
+- [Chapter 2](Mark_02.md)  
 
 ## 📖 The Gospel According to Luke  
 - [Chapter 1](Luke_01.md)  
