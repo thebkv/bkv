@@ -3,7 +3,7 @@
 
 ---
 
-## 🗝️ About
+## 🗝️ **About**
 The **Bible Key Version (BKV)** is a developing work that mines Scripture to uncover its inherant symbolic meanings and historical depth.  
 
 Special attention is given to the original meanings of proper names, and to numbers with well-established significance (such as 7 and 40). 
@@ -22,8 +22,9 @@ _"Now all these things happened unto them for exsamples."_
 
 ---
 [Jump to Books](https://thebkv.github.io/bkv/#-the-gospel-according-to-matthew)
+---
 
-📜 Bible Key Primer  
+## 📜 **Bible Key Primer**  
 
 The Bible Key is a method of reading Scripture that unlocks its inner dimension. It assumes the text is written in layers, where names, numbers, places, and events are not only historical but symbolic — diagrams for living with Christ's presence.  
 
