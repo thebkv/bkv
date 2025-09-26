@@ -16,7 +16,7 @@ Many resources are drawn upon: above all Scripture itself, but also multiple LLM
 
 No use is made of so-called “Bible codes” or hidden numerology. 
 
-The Bible Key Version project assumes that Scripture is provided by the Holy Spirit, and is true. Symoblism and analogy are based purely on Scripture's own definitions.  
+The Bible Key Version project assumes that Scripture is provided by the Holy Spirit, and is true. The symoblics in BKV are based purely on Scripture's own definitions.  
 
 _"Now all these things happened unto them for exsamples."_
 
@@ -51,11 +51,11 @@ Core Principles
 Contributors: Use following conventions:  
 Start chapters with identifying operational terms (see examples)  
 Base text KJV or other standard accepted word for word text  
-Substitute names for meanings where scripture has a direct or clearly implied definition  
+Substitute names for meanings where scripture has a direct or clearly implied definition - example: Jerusalem = City of Peace  
 Use markdown italics for readability words like _the_  
 Use markdown bold for defined names and terms like **City of Peace**  
 When substituting Hebrew or Greek meanings, use commonly accrpted definitions  
-Close chapter with references (see examples)  
+Close chapter with translation notes and references (see examples)  
 Do not add commentary, let scripture speak for itself  
 Ask God for inspiration and guidance while working  
 Include project GUID (below) at end of chapter  
