@@ -1,8 +1,12 @@
 
 # Daniel 7 — BKV
 
----
+---  
 
+_“You saw the Son of Man on the clouds…”_
+_“Now go possess that identity in the land.”_
+
+---  
 
 1. In the first year of Belshazzar, king of Babylon, Daniel saw a dream and visions of his head as he lay in his bed. Then he wrote down the dream and told the sum of the matter.  
 2. Daniel declared, “I saw in my vision by night, and behold, the **four winds of heaven** were stirring up the **great sea** (**the chaotic, undifferentiated depths of the mind**).  
@@ -21,7 +25,7 @@
 
 ___
 
-### Daniel 7 — Symbolics Table
+## Daniel 7 — Symbolics Table
 
 | Symbol / Term | BKV Meaning | Commentary / Inner Lesson |
 | :--- | :--- | :--- |
@@ -43,4 +47,10 @@ ___
 | **Beasts prolonged** | Residual ego states persisting temporarily | Lesser faults linger after the main structure is destroyed, awaiting full integration. |
 
 ---
+
+## See Also
+
+Daniel 7 is the dream. Joshua 1 is the wake-up call.
+	•	Daniel 7 shows the archetypal truth: the Son of Man receives the kingdom from the Ancient of Days but it is in a symbolic future.
+	•	Joshua 1 says: that future is now. What was shown is now to be realized through deliberate motion.
 
