@@ -1,6 +1,6 @@
 
 # The Bible Key Version (BKV)
-Integrated Symoblics Bible Study
+Integrated Symbolics Bible Study
 
 ---
 
