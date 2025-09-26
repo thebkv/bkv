@@ -8,7 +8,7 @@ _“But one like a Son of Man came with the clouds.”_
 
 ---  
 
-1. In the first year of Belshazzar, king of Babylon, Daniel saw a dream and visions of his head as he lay in his bed. Then he wrote down the dream and told the sum of the matter.  
+1. In the first year of Belshazzar (**the false ruling principle**), king of Babylon, Daniel saw a dream and visions of his head as he lay in his bed. Then he wrote down the dream and told the sum of the matter.  
 2. Daniel declared, “I saw in my vision by night, and behold, the **four winds of heaven** were stirring up the **great sea** (**the chaotic, undifferentiated depths of the mind**).  
 3. And four great **beasts** (**expressions of the lower nature**), different from one another, came up out of the sea.  
 4. The first was like a **lion** (**the prideful, dominant ego**) and had **eagles' wings**. Then as I looked its wings were plucked off, and it was lifted up from the ground and made to stand on two feet like a man, and a human mind was given to it.  
@@ -45,7 +45,7 @@ ___
 | **Son of Man** | **The Divine-Human Principle / Higher Self** | The fully realized potential of humanity, the true image of God. |
 | **Dominion / Kingdom** | Spiritual authority and integration | Enduring mastery of the inner life and union with the Divine. |
 | **Beasts prolonged** | Residual ego states persisting temporarily | Lesser faults linger after the main structure is destroyed, awaiting full integration. |
-
+| **Belshazzar** | The ruling principle of the state of spiritual confusion | The final, self-sufficient stage of the worldly ego that precedes Divine judgment. |
 ---
 
 
@@ -53,4 +53,5 @@ ___
 
 * **Daniel 7** shows the **archetypal truth**: the **Son of Man** receives the **kingdom** from the **Ancient of Days** but it is in a symbolic future.
 * **Joshua 1** says: **that future is now.** What was shown is now to be **realized** through **deliberate motion**.
+* 
 
