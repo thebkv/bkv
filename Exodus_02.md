@@ -1,4 +1,5 @@
-# Exodus 2 — BKV (Refined Lexicon) 
+# Exodus 2 — BKV (Refined Lexicon)  
+
 
 ---  
 _“She placed the child in an ark of bulrushes…”_  
