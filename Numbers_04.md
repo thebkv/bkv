@@ -55,11 +55,11 @@
 ---
 
 
-Interpretive Summary
+## **Interpretive Summary**
 
 Numbers 4, within the BKV framework, is a detailed manual for the ordering and organization of the inner being. It is a profound allegory for the deliberate and conscious work required to handle the sacred truths of the inner sanctuary as the soul journeys through the challenges of the world.
 
-The chapter describes the "numbering" or census of the three main clans of the faculties of the will (Levites). This is not a historical count but a process of bringing to conscious awareness the different functions of the will at their mature and active phase (ages 30-50).
+The chapter describes the "numbering" or census of the three main clans of the faculties of the will (Levites). This  count is a process of bringing to conscious awareness the different functions of the will at their mature and active phase (ages 30-50).
 
 The three clans represent specialized functions of the will in relation to the inner sanctuary:
 
@@ -73,7 +73,7 @@ The entire chapter teaches that the spiritual journey is not a chaotic one. It r
 
 ---
 
-## ** Comments on the Clans**
+## **Comments on the Clans**
 
 The interpretation of the Levite clans is one of the most structurally important keys in the BKV for understanding the Old Testament's detailed laws.
 
