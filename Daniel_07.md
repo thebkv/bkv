@@ -51,6 +51,7 @@ ___
 ## See Also
 
 Daniel 7 is the dream. Joshua 1 is the wake-up call.
-	•	Daniel 7 shows the archetypal truth: the Son of Man receives the kingdom from the Ancient of Days but it is in a symbolic future.
-	•	Joshua 1 says: that future is now. What was shown is now to be realized through deliberate motion.
+- Daniel 7 shows the archetypal truth: the Son of Man receives the kingdom from the Ancient of Days but it is in a symbolic future.
+- Joshua 1 says: that future is now. What was shown is now to be realized through deliberate motion.
+
 
