@@ -88,5 +88,5 @@ Symbolic arc progressively maps the inner journey across those foundational chap
 | **Exodus 2** | **The Birth of Law** | The **Principle of Divine Law (Moses)** is **drawn out** of the world's chaos, marking the slow but inevitable preparation for the spiritual leader. |
 | **Exodus 3** | **Revelation and Commission** | The direct confrontation with the **Divine Presence (Burning Bush)**. The command to strip away **false beliefs (sandals)** and accept the mission to liberate the soul. |
 
-The sequence is —*descent $\rightarrow$ preservation $\rightarrow$ revelation*—.
+The sequence is -*descent -> preservation -> revelation*—.
 
