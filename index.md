@@ -134,7 +134,10 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ## 📖 Exodus  
 - [Chapter 1](Exodus_01.md)
-- [Chapter 14](Exodus_14.md)  
+- [Chapter 14](Exodus_14.md)
+
+## 📖 Numbers  
+- [Chapter 4](Numbers_04.md)
 
 ## 📖 BKV Resources  
 - [Glossary](BKV_Glossary.md)  
