@@ -1,10 +1,11 @@
 
 # The Bible Key Version (BKV)
+The Integrated Symoblics Concordance
 
 ---
 
 ## 🗝️ **About**
-The **Bible Key Version (BKV)** is a developing work that mines Scripture to uncover its inherant symbolic meanings and historical depth.  
+The **Bible Key Version (BKV)** is a developing work that mines Scripture to uncover its inherant symbolic meanings and historical depth. 
 
 Special attention is given to the original meanings of proper names, and to numbers with well-established significance (such as 7 and 40). 
 
