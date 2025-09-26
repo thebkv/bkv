@@ -3,8 +3,8 @@
 
 ---  
 
-_“You saw the Son of Man on the clouds…”_
-_“Now go possess that identity in the land.”_
+_“The four beasts rose from the sea…”_  
+_“But one like a Son of Man came with the clouds.”_  
 
 ---  
 
