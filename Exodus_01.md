@@ -1,52 +1,49 @@
-# Exodus 1
+
+# Exodus 1 — BKV (Refined Lexicon)
+
+---  
+_“Now a new king arose over Egypt, who did not know Joseph.”_  
+---
+
+
+1.  These are the **Aspects of the Soul** that came into the **state of confusion** with **Integrated Consciousness**; each came with his **inner function**.
+2.  **Spiritual Identity**, **Hearing**, **Inner Sight**, **Action**, **Praise**, and **Judgment**.
+3.  **Inner Will**, **Perfection**, **Beauty**, and **Right Hand**.
+4.  The total number of **Aspects of the Soul** who were direct descendants of **Integrated Consciousness** was seventy.
+5.  Now **Integrated Consciousness** and all of his generation had been completed, but the **Aspects of the Soul** were fruitful and increased abundantly, multiplying and growing exceedingly strong, so that the **state of confusion** was filled with them.
+6.  Then a new **ruler** arose over the **state of confusion**, who did not know the **principle of Divine integration**.
+7.  He said to his **principles**, “Look, the **Aspects of the Soul** are too numerous and too strong for us.
+8.  Come, let us deal shrewdly with them, lest they increase, and should war break out, they join our **internal opposition** and escape from the **state of confusion**.”
+9.  So they put **egoic taskmasters** over them to oppress them with **burdening work**. They built storage cities for the **Egoic Will**.
+10. But the more they were oppressed, the more they multiplied and spread; so the **egoic ruler** dreaded the **Aspects of the Soul**.
+11. The **egoic ruler** ruthlessly imposed **burdensome work** on the **Aspects of the Soul**.
+12. And the **egoic ruler** spoke to the **faculties of purity and preservation**, whose function was to serve **Aspects of the Soul**.
+13. He said, “When you help the **Aspects of the Soul** give birth, if it is an **active principle**, put it to an end; but if it is a **receptive principle**, let it continue its function.”
+14. But the **faculties of purity and preservation** revered the **Source of all Being** and did not do what the **egoic ruler** had told them; they let the **active principles** continue their function.
+15. Then the **egoic ruler** summoned the **faculties of purity and preservation** and asked them, “Why have you done this thing, and let the **active principles** continue their function?”
+16. The **faculties of purity and preservation** answered the **egoic ruler**, “The **Aspects of the Soul** are vigorous; they give birth before the **faculty of assistance** reaches them.”
+17. So the **Source of all Being** dealt well with the **faculties of purity and preservation**, and the **Aspects of the Soul** multiplied and grew strong.
+18. And because the **faculties of purity and preservation** revered the **Source of all Being**, he established their **functions**.
+19. Then the **egoic ruler** commanded all his **principles**, “Every **active principle** that is born you shall cast into the **chaotic flow of life**, but every **receptive principle** you shall keep alive.”
 
 ---
 
-## BKV Translation
+### Exodus 1 — Symbolics Table
 
-1. These are the principles and **faculties of the spiritual consciousness**, which descended into the exile of the **worldly mind** with the **integrated self**.  
+| Symbol / Term | BKV Meaning | Commentary / Inner Lesson |
+| :--- | :--- | :--- |
+| **Israelites (Sons of Israel)** | **Aspects of the Soul** | The inner faculties of the self, derived from **Integrated Consciousness**. |
+| **Egypt** | State of spiritual bondage/confusion | The worldly mental state where the soul's faculties are enslaved. |
+| **Pharaoh (New King)** | **Egoic Will** | The central, adversarial force that rules the confused mind and seeks to crush new spiritual growth. |
+| **Taskmasters** | Egoic thought-patterns / Compulsive drives | The internal, habitual forces that oppress the soul with burdensome work. |
+| **Midwives (Shiphrah & Puah)** | **Faculties of Purity and Preservation** | Inner principles that instinctively defy the destructive commands of the ego. |
+| **Male Children** | Active, initiating spiritual principles | The new forces of the soul that seek to act and must be suppressed by the ego. |
+| **Female Children** | Receptive, passive spiritual principles | Those parts of the soul the ego is willing to tolerate because they pose no direct threat. |
+| **River Nile** | Chaotic flow of life/consciousness | The worldly environment into which the active spiritual principles are cast. |
 
-2. They are the striving of the will, the seeking for inner truth, the alignment with divine law, and the exaltation of consciousness;  
+---
 
-3. the reward of the inner struggle, the embodiment of wisdom, and the son of the right hand;  
 
-4. the capacity to judge, the ability to wrestle, the good fortune of the soul, and the blessedness of the inner life.  
-
-5. All the souls that came from the loins of the **integrated self** were seventy principles in all, for the **divine nature** was already established within the mind.  
-
-6. And the **divine nature** died to that state, and all its kindred faculties, and all that generation of awareness.  
-
-7. But the inner faculties of the **spiritual consciousness** were fertile and multiplied abundantly, and waxed exceedingly mighty; and the mind was filled with them.  
-
-8. Now there arose a new **egoic will** over the **worldly consciousness**, which had no memory of the **divine nature**.  
-
-9. And it said to its people, "Behold, the faculties of the **spiritual consciousness** are more numerous and mightier than we are:  
-
-10. Let us deal wisely with them, lest they multiply, and it come to pass, that when there arises any inner conflict, they also join themselves to our higher truth, and fight against us, and so get themselves up out of this state of **worldly consciousness**."  
-
-11. Therefore, the **egoic will** set over them taskmasters to afflict the **spiritual faculties** with oppressive thought-burdens.  
-
-12. But the more the **egoic will** oppressed them, the more the inner faculties multiplied and grew. And the **worldly mind** was in distress because of the faculties of the **spiritual consciousness**.  
-
-13. And the **worldly will** made the inner faculties of **spiritual consciousness** serve with rigor:  
-
-14. And it made their lives bitter with hard **bondage**, in the constant toil of **worldly thoughts** and in building up false beliefs, and in all manner of service in the outer life; all their service, wherein they were made to serve, was with rigor.  
-
-15. And the **egoic will** spoke to the **principles of preservation** within the **spiritual consciousness**, whose name was inner peace and life-giving.  
-
-16. And it said, "When you do the office of preserving life to the spiritual faculties, and you see them in the act of renewal; if it be a principle of **divine will**, then you shall extinguish it; but if it be a principle of the **worldly will**, then it shall live."  
-
-17. But the **principles of preservation** had **awe and respect for the Divine**, and did not do as the **egoic will** commanded them, but preserved the principles of the **Divine will** alive.  
-
-18. And the **egoic will** summoned the **principles of preservation** and said, "Why have you done this thing, and have preserved the principles of the **Divine will** alive?"  
-
-19. And the **principles of preservation** said to the **egoic will**, "Because the spiritual faculties are not like the worldly faculties; for they are vigorous and are renewed before the principles of preservation come in unto them."  
-
-20. Therefore, the **Source of all Being** dealt well with the **principles of preservation**: and the inner faculties multiplied, and waxed very mighty.  
-
-21. And it came to pass, because the **principles of preservation** had **awe and respect for the Divine**, that the **Divine** made them established principles of inner peace.  
-
-22. And the **egoic will** charged all its people, saying, "Every principle of **divine will** that is renewed you shall cast into the **turbulent depths of the mind**, and every principle of the **worldly will** you shall preserve alive."  
 
 
 
@@ -64,7 +61,7 @@ _Notice how well the orignal text maps to BKV._
 
 ---  
 
-## Symbolics table
+## Comparison
 
 | King James Version (KJV) | Bible Key Version (BKV) |
 | :--- | :--- |
