@@ -2,10 +2,10 @@
 
 ---
 
-1. After the cessation of the **Principle of Divine Law**, the **Ultimate Reality** said to the **Principle of Divine Realization**, the **Principle of Divine Law's** aiding faculty:
+1. After the completion of the **Principle of Divine Law**, the **Ultimate Reality** said to the **Principle of Divine Realization**, the **Principle of Divine Law's** aiding faculty:
 2. “My **Principle of Divine Law** has ceased. Now then, you and all these **principles of consciousness**, prepare to cross the **flow of conscious life** into the **realized state of consciousness** I am about to give to them—to the **spiritual identities**.
 3. I will give you every **aspect of the soul** where you set your **spiritual foundation**, as I promised the **Principle of Divine Law**.
-4. Your **domain of consciousness** will extend from the state of **inner solitude** to the **higher intellectual faculties** and from the great **flow of thought**—all the **aggressive, oppositional beliefs**—to the **expansive knowledge** in the west.
+4. Your **domain of consciousness** will extend from inner solitude to the summit of understanding and from the great **flow of thought**—all the **aggressive, oppositional beliefs**—to the **expansive knowledge** in the west.
 5. No **internal opposition** will be able to stand against you all the days of your **spiritual life**. As I was with the **Principle of Divine Law**, so I will be with you; I will never withdraw from you nor cease to sustain you.
 6. Be **strong** and **courageous**, because you will lead these **principles** to inherit the **realized state of consciousness** I promised to their ancestral **beliefs**.
 7. Be **strong** and very **courageous**. Be careful to obey all the **Divine truth** my **Principle of Divine Law** gave you; do not turn from it to the right or to the left of the **pure path**, that you may be successful wherever you proceed.
@@ -16,7 +16,7 @@
 12. But to the **receptive principles**, the **fortifying principles** and the **principles of developing consciousness**, the **Principle of Divine Realization** said,
 13. “Remember the command that the **Principle of Divine Law** gave you: ‘The **Ultimate Reality**, your **Source**, is giving you **inner peace** and has granted you this **state of consciousness**.’
 14. Your **creative expressions**, your **emerging thoughts** and your **physical energy** may stay in the state of **partial realization** that the **Principle of Divine Law** gave you **before the conscious flow**, but all your **active principles**, fully armed, must cross over ahead of your fellow **spiritual identities**. You are to help them
-15. until the **Ultimate Reality** gives them **inner peace**, as he has done for you, and until they too have taken possession of the **realized state of consciousness** the **Ultimate Reality**, your **Source**, is giving them. After that, you may go back to the state of your inheritance, which the **Principle of Divine Law** gave you **before the conscious flow**.”
+15. until the **Ultimate Reality** gives them **inner peace**, as he has done for you, and until they too have taken possession of the **realized state of consciousness** the **Ultimate Reality**, your **Source**, is giving them. After that, you may go back to the state of your inheritance, which the **Principle of Divine Law** gave you **before the conscious flow** of peace.”
 16. Then they answered the **Principle of Divine Realization**, “Whatever you have commanded us we will do, and wherever you send us we will go.
 17. Just as we fully obeyed the **Principle of Divine Law**, so will we obey you. Only may the **Ultimate Reality**, your **Source**, be with you as he was with the **Principle of Divine Law**.
 18. Whoever rebels against your command and does not obey it, whatever you may command them, will be brought to an **end**. Only be **strong** and **courageous**!”
@@ -38,4 +38,19 @@ The Source of Success: The key instruction is to keep the immutable spiritual pr
 Integration of the Whole Self: The command to the receptive, fortifying, and developing principles (Reubenites, Gadites, and Manasseh) to cross and fight first emphasizes that even the principles of consciousness that are already in a state of partial realization must fully participate in the conquest of the higher self for the entire inner being to find inner peace. This requires the whole soul, not just its new parts, to engage in the battle against internal opposition.
 
 In essence, Joshua 1 is the divine mandate for the inner self to act boldly, armed with continuous contemplation of Divine truth, to claim its spiritual birthright.
+
+---
+
+## **Symbolics**
+
+- Joshua → “Principle of Divine Realization”
+- Moses → “Principle of Divine Law”
+- Israel → “principles of consciousness” / “spiritual identities”
+- Jordan River → “flow of conscious life”
+- Promised Land → “realized state of consciousness”
+- A leader‑principle (Joshua) inherits the task when the law‑principle (Moses) ceases.
+- Crossing the Jordan = passing from one state of awareness into a higher, integrated one.
+- The tribes = different faculties of the inner self; some have to go first (active principles), some can remain in partial realization for now.
+- The repeated command “Be strong and courageous” = the inner affirmation needed to make the transition.
+  
 
