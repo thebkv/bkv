@@ -1,6 +1,11 @@
 # Joshua 1
 
----
+---  
+
+_“You saw the Son of Man on the clouds…”_  
+_“Now go possess that identity in the land.”_  
+
+---  
 
 1. After the completion of the **Principle of Divine Law**, the **Ultimate Reality** said to the **Principle of Divine Realization**, the **Principle of Divine Law's** aiding faculty:
 2. “My **Principle of Divine Law** has ceased. Now then, you and all these **principles of consciousness**, prepare to cross the **flow of conscious life** into the **realized state of consciousness** I am about to give to them—to the **spiritual identities**.
