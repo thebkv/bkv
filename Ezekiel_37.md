@@ -1,8 +1,9 @@
 # Ezekiel 37
-___
+___  
 
-_“The bones were very dry…”_
-_“But the breath came into them.”_
+_“The bones were very dry…”_  
+_“But the breath came into them.”_  
+
 
 Ezekiel 37 — BKV  
 
