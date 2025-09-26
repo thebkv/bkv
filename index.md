@@ -103,6 +103,9 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 - [Chapter 1](Revelation_01.md)
 
 
+## 📖 Joshua  
+- [Chapter 1](Joshua_01.md)  
+
 ## 📖 First Samuel  
 - [Chapter 17](1_Samuel_17.md)  
 
