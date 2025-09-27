@@ -2,7 +2,11 @@
 # The Bible Key Version (BKV)
 Integrated Symbolics Bible Study
 
----
+---  
+
+# [Jump to Books](https://thebkv.github.io/bkv/#-the-gospel-according-to-matthew)
+
+---  
 
 ## 🗝️ **About**
 The **Bible Key Version (BKV)** is a developing work that mines Scripture to uncover its inherant symbolic meanings and historical depth. 
@@ -23,9 +27,6 @@ _"Now all these things happened unto them for exsamples."_
 
 ---
 
-# [Jump to Books](https://thebkv.github.io/bkv/#-the-gospel-according-to-matthew)
-
----
 
 ## 📜 **Bible Key Primer**  
 
