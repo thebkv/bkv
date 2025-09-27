@@ -95,6 +95,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 ## 📖 The Gospel According to John  
 - [Chapter 1](John_01.md)  
 - [Chapter 2](John_02.md)
+- [Chapter 4](John_04.md)
 - [Chapter 13](John_13.md)
 - [Chapter 16](John_16.md)
 
