@@ -37,11 +37,11 @@ And the illumined intellect pointed out the Consciousness-of-the-Divine to its o
 
 ### **Interpretive Summary**
 
-John 1 is a profound allegorical map of the birth of spiritual awareness within a person. It is not a historical biography, but a **diagram of the inner journey**.
+John 1 is a profound allegorical map of the birth of spiritual awareness within a person. It is of course a historical geneology of the fulfillment of prophecy, and it's integrated symbolics are a **diagram of the inner journey**.
 
-* **The Logos/Word** (1:1-14) is the central principle. It is not a person from history but the **inherent Divine Idea** that underlies all of creation. This is the Christ Principle, the perfect blueprint of God's plan for humanity that becomes incarnate, or **embodied**, within the human consciousness.
+* **The Logos/Word** (1:1-14) is the central principle. It is the **inherent Divine Idea** that underlies all of creation. This is the Christ Principle, the perfect blueprint of God's plan for humanity that becomes incarnate, or **embodied**, within the human consciousness.
 * **Light and Darkness** (1:4-5) represent the fundamental opposition between spiritual awareness and the lower, unconscious self. The light of truth is always shining, even in our most ignorant states, and the darkness of our lower nature cannot extinguish it.
-* **John the Baptist** (1:6) is a key archetype. He does not represent a person, but the **illumined intellect**. He is a necessary but limited state of mind that recognizes a higher truth and prepares the way for it. The intellect can point to the divine, but it is not the divine itself.
+* **John the Baptist** (1:6) is a key archetype. He was a remarkable person, and through the Bible Key symbolics he becomes the **illumined intellect**. He is a necessary but limited state of mind that recognizes a higher truth and prepares the way for it. The intellect can point to the divine, but it is not the divine itself.
 * **The Lamb of God** (1:29) symbolizes the **pure life force and substance of Being**. It is this innocent, guileless spiritual essence that, when fully activated in consciousness, has the power to overcome all inner separation and error.
 * The calling of the first disciples is the activation of the core faculties of the soul. **Andrew (strength)**, **Simon/Peter (faith)**, **Philip (power)**, and **Nathanael (imagination)** are all aspects of the self that are brought into alignment with the Christ Consciousness. The narrative shows that as soon as these faculties align with the Divine, they are seen for their true purpose and given a new identity. The entire chapter is an inner journey of realizing that the Divine is not an external entity to be sought, but an innate reality to be awakened within.
 
