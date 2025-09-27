@@ -33,24 +33,33 @@ _“And the daughter of Pharaoh drew him out of the water.”_
 24. The **Source of all Being** heard their groaning and remembered his **Core Truth** with **ancestral beliefs**.
 25. So the **Source of all Being** looked on the **Aspects of the Soul** and took **conscious notice** of them.
 
+
+---  
+
+## Exodus 2 — Interpretive Insights
+
+**I.1. Moses: The Drawn-Out One (Exod 2:10):** The Hebrew name, derived from the meaning "to draw out," allegorically signifies that the **Principle of Divine Law** is not a native product of the Egyptian/worldly state, but must be consciously **rescued** or **extracted** from the chaotic lower consciousness (the Nile water).
+
+**I.2. The Ark of Preservation (Exod 2:3):** The ark's construction—made of **bulrushes** (the most common, humble **material of the body**) and sealed with **bitumen and pitch** (spiritual **disciplines and self-control**) —shows that the new, vulnerable Law must be protected by the simplest physical vessel and secured by firm personal practice.
+
+**I.3. Pharaoh’s Daughter (Exod 2:5):** This figure represents a benevolent, **receptive principle of the worldly mind**. She is still within the "house of the ego" (Pharaoh's family), but is capable of recognizing, rescuing, and fostering the spiritual seed (Moses), allowing the new truth to mature under the ego's nose.
+
 ---
 
-## Exodus 2 — Symbolics Table
+## Exodus 2 — Symbolics Table (Complete and Final)
 
-| Symbol / Term | BKV Meaning | Commentary / Inner Lesson |
+| Symbol / Term | BKV Meaning | Commentary / Inner Lesson (Includes Justification) |
 | :--- | :--- | :--- |
-| **Moses** | **Principle of Divine Law** (The Drawn-Out One) | The new spiritual principle that must be drawn from the chaos of the lower mind. |
-| **Ark of Bulrushes** | A vessel of preservation | The humble physical body/discipline used to protect the new Law. |
-| **River Nile** | Chaotic flow of life/consciousness | The worldly, confused mental environment of the **Egoic Will's** state. |
-| **Pharaoh's Daughter** | Receptive principle of the worldly mind | A part of the egoic structure that is capable of receiving and fostering the Divine Law. |
+| **Moses** | **Principle of Divine Law** | **See I.1.** This principle must be "drawn out" of the chaotic lower consciousness (the Nile). |
+| **Israelites** | **Aspects of the Soul** | The inner faculties of the self that are suffering under the Egoic Will's bondage. |
+| **Ark of Bulrushes** | A vessel of preservation | **See I.2.** The humble physical body/discipline used to protect the new Law. |
+| **River Nile** | Chaotic flow of life/consciousness | The worldly, confused mental environment of the Egoic Will's state. |
+| **Pharaoh's Daughter** | Receptive principle of the worldly mind | **See I.3.** A benevolent aspect of the mind that can foster the new Law despite the surrounding egoic state. |
 | **Drawing Out** | Rescue from chaos; awakening | The conscious act of saving the Divine Law from the lower nature. |
-| **Egoic Taskmaster** | A compulsive, destructive thought-pattern | An expression of the **Egoic Will** that drives the spiritual identities into bondage. |
-| **Midian** | State of testing, judgment, and preparation | A necessary period of spiritual separation from the worldly state. |
+| **Egoic Taskmaster** | A compulsive, destructive thought-pattern | An expression of the Egoic Will that drives the inner faculties into bondage. |
+| **Midian** | State of testing and preparation | A necessary period of spiritual separation from the worldly state of Egypt. |
 | **Well** | Source of inner truth or revelation | A solitary place where spiritual principles meet and draw sustenance. |
 | **Jethro** | **Principle of spiritual counsel/wisdom** | The guiding faculty that provides wisdom and structure during the period of testing. |
-| **Zipporah (Wife)** | **Faculty of purification and active life** | The principle that joins with the Divine Law to bring about action and cleansing. |
+| **Zipporah (Wife)** | **Faculty of purification and active life** | The necessary principle that partners with the Divine Law to bring about cleansing. |
 | **Gershom (Son)** | Principle of sojourning or alienation | The first fruit of the union, acknowledging the spiritual life is a journey separate from the ego's world. |
-| **Israelites** | **Aspects of the Soul** | The inner faculties of the self that are suffering under the **Egoic Will's** bondage. |
-
-
 
