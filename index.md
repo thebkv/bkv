@@ -138,7 +138,11 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ## 📖 Exodus  
 - [Chapter 1](Exodus_01.md)
-- [Chapter 14](Exodus_14.md)
+- [Chapter 2](Exodus_02.md)
+- [Chapter 3](Exodus_03.md)
+- [Chapter 4](Exodus_04.md)
+- [Chapter 5](Exodus_05.md)
+- [Chapter 6](Exodus_06.md)
 
 ## 📖 Numbers  
 - [Chapter 4](Numbers_04.md)
