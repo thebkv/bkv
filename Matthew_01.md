@@ -1,8 +1,8 @@
-# Matthew 1 (BKV Symbolic-Only Restatement)
+# Matthew 1 (BKV Symbolic-Only Restatement)  
 
 ---  
 _"So all the generations from Abraham to David are fourteen generations; and from David until the carrying away into Babylon are fourteen generations; and from the carrying away into Babylon unto Christ are fourteen generations."_  
----
+---  
 
 
 1. This is the record of **Yahweh Saves**, the **Anointed** — descended through **Love** and through **Faith**.  
