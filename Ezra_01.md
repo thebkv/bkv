@@ -29,7 +29,18 @@
 
 ---
 
-### Ezra 1 — Symbolics Table
+## Interpretive Notes
+
+The chapter describes how **The Self-Existent Reality** uses the **External Will (Cyrus)** to issue a decree, simultaneously stirring the **Inner Intention** of the **Aspects of the Soul** to rise from **Bondage** and reclaim their **Sacred Inner Virtues** to rebuild the **Spiritual Foundation (Jerusalem).**
+
+It confirms the principle of **Divine Sovereignty**.
+
+The **Self-Existent Reality** is sovereign over all internal and external principles, meaning it will use **any agent**—even a non-spiritual or worldly authority like **Cyrus (The External Will)**—to initiate, enable, or enforce the necessary spiritual transformation and restoration within the soul.
+
+In other words, the Lord can use anything He needs, regardless of whether it appears to us to be "spiritual" or divine.
+
+
+## Ezra 1 — Symbolics Table
 
 | Symbol / Term | BKV Meaning | Commentary / Inner Lesson (Includes Justification) |
 | :--- | :--- | :--- |
