@@ -1,7 +1,7 @@
 # Daniel 7 — BKV
 
 ---
->_“The four beasts rose from the sea…”_
+>_“The four beasts rose from the sea…”_  
 >_“But one like a Son of Man came with the clouds.”_
 ---
 
