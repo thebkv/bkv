@@ -76,6 +76,8 @@ Ezra 2, though appearing dry, is a vital chapter in the BKV, functioning as a co
 
 **I.3. The Lost Authority (Ezra 2:61-63):** The **Priestly Faculties** whose spiritual **lineage/origin** is unverifiable symbolize inner principles or beliefs that claim to be dedicated to the highest **Inner Ministry** but cannot prove their **spiritual foundation**. They are temporarily excluded from the "Most Holy Sustenance" until verified by the **Urim and Thummim (Light and Perfection)**—meaning, their authority must be confirmed by divine truth and absolute clarity.
 
+
+
 ---
 
 ## Ezra 2 — Symbolics Table
@@ -92,9 +94,59 @@ Ezra 2, though appearing dry, is a vital chapter in the BKV, functioning as a co
 | **Urim and Thummim** | Light and Perfection | **See I.3.** The final, divine standard of truth and clarity used to test spiritual authority. |
 | **Inner States/Cities** | Individual, dedicated inner structures | The specific, dedicated structures where individual spiritual principles reside and function. |
 
+---
+
+## The Symbolics of Numbers in the Census
+
+The precise numbers attached to each returning faculty (e.g., 725, 1,052, 423) convey the **spiritual measure and quality** of the recovered principles. This census emphasizes the **precision and order** of the Divine work of restoration.
+
+The magnitude of the numbers (hundreds and thousands) highlights the **vast, interconnected complexity of the soul’s inner economy.** The specific digits within the number define the qualitative nature of that measure:
+
+For example, the **725 Faculties of Healing** are broken down as follows:
+
+| Digit | Symbolic Meaning in BKV/Allegory | Spiritual Significance |
+| :--- | :--- | :--- |
+| **7** (Hundreds) | **Spiritual Perfection, Wholeness, Completion.** | Indicates the **Healing Faculty** is recovered to a state sufficient for the *perfection* of the rebuilt Inner Temple. |
+| **2** (Tens) | **Witness, Union, Duality.** | Suggests that this healing must operate on a dual level, uniting the soul's various aspects (e.g., mind and body). |
+| **5** (Units) | **Grace, Divine Manifestation.** | Confirms that this measure of healing is a gift of **Grace** intended for active manifestation in the soul's life. |
+
+Ultimately, the number serves as a Divine checksum: it confirms that the **necessary, divinely measured amount and quality** of the healing principle has been successfully retrieved from the **State of Bondage** and is present for the foundational work.
+
+The number **74** for the **Faculties of Inner Song** is interpreted by analyzing the single digits in relation to the faculty's function (Worship/Harmony):
+
+| Digit | Symbolic Meaning in BKV/Allegory | Spiritual Significance for Inner Song |
+| :--- | :--- | :--- |
+| **7** (Tens) | **Spiritual Perfection / Wholeness / Completion.** | Indicates the **Inner Song** is recovered to a state of *spiritual purity and completeness*. |
+| **4** (Units) | **Earth / Foundation / Manifestation.** | Signifies that this Inner Song (worship) is ready to be made *manifest* or **established as a foundational reality** in the soul's daily experience. |
+
+**Conclusion on 74:**
+
+The number **74** confirms that the **Faculties of Inner Song** were recovered in a **full measure** that is ready for **manifestation on the foundational level** of the rebuilt spiritual structure. The necessary quality of perfect inner worship is now present and ready to be demonstrated in the life of the soul.
+
+***
+
+The King James Version of **Ezra 2:40** states the names that correspond to the **Ministering Faculties (Inner Service)** and the number 74.
+
+The original KJV text reads:
+
+> **“The Levites: the children of Jeshua and Kadmiel, of the children of Hodaviah, seventy and four.”**
+
+Therefore, the original names associated with the **Faculties of Inner Song (or Ministering Faculties)** in that verse are:
+
+* **Jeshua** (Principle of Salvation)
+* **Kadmiel** (Meaning "God is Ancient" or **Principle of Enduring Faith**)
+* **Hodaviah** (Meaning "Praise of the Lord" or **Principle of Expressed Worship**)
+
+These names emphasize that the **Ministering Faculty** which returns in the complete measure of **74** is rooted in the principles of Salvation and Enduring Faith, with the ultimate purpose of **Praise/Expressed Worship**.
 
 
+The fact that both the **Faculties of Healing (725)** and the **Faculties of Inner Song (74)** contain the digit **7** is highly significant in BKV study.
 
+Throughout Scripture, the number **7** consistently represents **Spiritual Perfection, Completion, or Wholeness** (derived from the seven days of creation/rest).
+
+Its presence in both numbers signifies that:
+
+>* **Holistic Restoration:** Both the inner work of **healing** and the outer expression of **worship (song)** are >recovered to a state of **spiritual completeness (7)**, which is absolutely necessary before the work of rebuilding the >Inner Temple can successfully proceed.
 
 
 
