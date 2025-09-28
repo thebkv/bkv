@@ -21,11 +21,11 @@
 
 ### Interpretive Insights
 
-**I.1. Cyrus: The External Will (Exod 1:1-2):** Cyrus, a non-Israelite king, represents an **External, Worldly Authority** or principle that the Divine uses as an **Unknowing Agent** to initiate the soul's return. The Divine is sovereign and can use any structure, even worldly power, to fulfill the necessary spiritual mandate.
+**I.1. Cyrus: The External Will (Ezra 1:1-2):** Cyrus, a non-Israelite king, represents an **External, Worldly Authority** or principle that the Divine uses as an **Unknowing Agent** to initiate the soul's return. The Divine is sovereign and can use any structure, even worldly power, to fulfill the necessary spiritual mandate.
 
-**I.2. The Stirred Intention (Exod 1:1, 5):** The phrase "stirred up the spirit" is key. The impulse to return to the **Spiritual Foundation (Jerusalem)** does not come from the oppressed **Aspects of the Soul** but from a direct, initial **Divine Impulsion** or activation of the **Inner Intention**. This shows that the rebuilding begins with grace, not solely human effort.
+**I.2. The Stirred Intention (Ezra 1:1, 5):** The phrase "stirred up the spirit" is key. The impulse to return to the **Spiritual Foundation (Jerusalem)** does not come from the oppressed **Aspects of the Soul** but from a direct, initial **Divine Impulsion** or activation of the **Inner Intention**. This shows that the rebuilding begins with grace, not solely human effort.
 
-**I.3. The Return of the Sacred Vessels (Exod 1:7-11):** The **Vessels** (cups, bowls, etc.) symbolize the **Sacred Treasures of the Soul**—the pure principles, disciplines, and virtues (like gratitude, discipline, truthfulness) that were profaned and scattered during the **Bondage (Babylon)**. The return is the act of **reclaiming and rededicating** these inner qualities back to their original purpose in the **Inner Temple**.
+**I.3. The Return of the Sacred Vessels (Ezra 1:7-11):** The **Vessels** (cups, bowls, etc.) symbolize the **Sacred Treasures of the Soul**—the pure principles, disciplines, and virtues (like gratitude, discipline, truthfulness) that were profaned and scattered during the **Bondage (Babylon)**. The return is the act of **reclaiming and rededicating** these inner qualities back to their original purpose in the **Inner Temple**.
 
 ---
 
