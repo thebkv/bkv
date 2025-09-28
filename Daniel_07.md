@@ -1,9 +1,10 @@
 # Daniel 7 — BKV
 
----  
->_“The four beasts rose from the sea…”_  
->_“But one like a Son of Man came with the clouds.”_  
----  
+---
+>_“The four beasts rose from the sea…”_
+>_“But one like a Son of Man came with the clouds.”_
+---
+
 
 1. In the first year of Belshazzar (**the false ruling principle**), king of Babylon, Daniel saw a dream and visions of his head as he lay in his bed. Then he wrote down the dream and told the sum of the matter.  
 2. Daniel declared, “I saw in my vision by night, and behold, the **four winds of heaven** were stirring up the **great sea** (**the chaotic, undifferentiated depths of the mind**).  
