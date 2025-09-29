@@ -10,7 +10,10 @@ Ezra 2 — BKV Study (Layered Approach)
 This chapter can feel like a dry census at first glance, but in the Bible Key we will present it in two layers:
  * BKV-NR (Natural Reading): A smoother narrative version, highlighting key symbolic meanings in plain language.
  * BKV (Full Rendering): A detailed symbolic translation, where names and groups are expressed as Faculties, Principles, and Aspects of the Soul.
-We will begin with the NR, then pause for commentary, and finally move into the full BKV, followed by insights, a symbolic lexicon table, and number interpretations.
+ * We will begin with the NR, then pause for commentary, and finally move into the full BKV, followed by insights, a symbolic lexicon table, and number interpretations.
+ * Ezra 2 begins a three-chapter **Rhythm of Restoration** — first the **Inventory** of what is recovered, then the **Foundation** of worship, and finally the **Opposition** that tests the believer's progress.
+
+---
 
 ## Ezra 2 — BKV-NR (Natural Reading)
 
