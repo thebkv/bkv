@@ -12,19 +12,19 @@
 
 ## BKV-NR (Natural Reading)
 
-1 And when the **Time of Spiritual Completion** came, and the **Aspects of the Soul** were in their **Inner States**, the people gathered together as one **Inner Intention** to **Foundation of Peace**.
-2 Then stood up **Jeshua (Yahweh Saves)** and **Zerubbabel (Principle of Seed/Generation)**, and they built the **Principle of Sacrifice** of the **Source** of **Spiritual Identity**, to offer **Continuous Dedication** upon it, as it is written in the **Law of Moses (Divine Law)**.
-3 And they set the **Principle of Sacrifice** upon its **spiritual foundation** (for **Fear** was upon them because of the **Principles of the Land**), and offered **Continuous Dedication** morning and evening.
-4 They also kept the **Feast of Divine Manifestation (Tabernacles)**, as it is written, with the corresponding daily **Dedication**.
-5 And afterward they offered the **Dedicated Offering** and the offerings of the new **Inner Cycles** and all the offerings of the **Willingly Dedicated**.
-6 From the first day of the **Time of Spiritual Completion** they began to offer **Continuous Dedication** to the **Source**. But the **Foundation of the Inner Temple** was not yet laid.
-7 They gave **resources** to the **inner workers**, and **sustenance** to the **Inner Service Principles**, to bring **materials** from **The World** to **Foundation of Peace**, according to the **decree** of **Cyrus (The External Will)**.
-8 Now in the second **Inner Cycle** of their coming to the **Foundation of Peace**, the rebuilding began. And **Jeshua** and **Zerubbabel** appointed the **Inner Service Principles** to supervise the **Work of the Inner Temple**.
-9 Then stood **Inner Joy** and his sons and brethren, and the **Inner Service Principles**, as **overseers** to the **Inner Builders** in the **Work of the Source**.
-10 And when the **Inner Builders** laid the **Core Spiritual Structure** of the **Inner Temple**, they set the **Inner Ministers** in their **robes** with **Inner Music** to praise the **Source**, according to the **ordinance** of **David (Principle of Divine Love)**.
-11 And they sang, praising and giving thanks to the **Source**, because **His Inner Goodness** is continuous and **His Enduring Mercy** toward **Spiritual Identity**.
-12 But many of the **Memory of the Past** wept with a loud voice when they saw the **Core Spiritual Structure** of this **Inner Temple** laid, because they had seen the **glory** of the first **Inner Temple**.
-13 So the **Aspects of the Soul** could not discern the **sound of the shouting of joy** from the **sound of the weeping** of the **Memory of the Past**.
+1. And when the **Time of Spiritual Completion** came, and the **Aspects of the Soul** were in their **Inner States**, the people gathered together as one **Inner Intention** to **Foundation of Peace**.
+2. Then stood up **Jeshua (Yahweh Saves)** and **Zerubbabel (Principle of Seed/Generation)**, and they built the **Principle of Sacrifice** of the **Source** of **Spiritual Identity**, to offer **Continuous Dedication** upon it, as it is written in the **Law of Moses (Divine Law)**.
+3. And they set the **Principle of Sacrifice** upon its **spiritual foundation** (for **Fear** was upon them because of the **Principles of the Land**), and offered **Continuous Dedication** morning and evening.
+4. They also kept the **Feast of Divine Manifestation (Tabernacles)**, as it is written, with the corresponding daily **Dedication**.
+5. And afterward they offered the **Dedicated Offering** and the offerings of the new **Inner Cycles** and all the offerings of the **Willingly Dedicated**.
+6. From the first day of the **Time of Spiritual Completion** they began to offer **Continuous Dedication** to the **Source**. But the **Foundation of the Inner Temple** was not yet laid.
+7. They gave **resources** to the **inner workers**, and **sustenance** to the **Inner Service Principles**, to bring **materials** from **The World** to **Foundation of Peace**, according to the **decree** of **Cyrus (The External Will)**.
+8. Now in the second **Inner Cycle** of their coming to the **Foundation of Peace**, the rebuilding began. And **Jeshua** and **Zerubbabel** appointed the **Inner Service Principles** to supervise the **Work of the Inner Temple**.
+9. Then stood **Inner Joy** and his sons and brethren, and the **Inner Service Principles**, as **overseers** to the **Inner Builders** in the **Work of the Source**.
+10. And when the **Inner Builders** laid the **Core Spiritual Structure** of the **Inner Temple**, they set the **Inner Ministers** in their **robes** with **Inner Music** to praise the **Source**, according to the **ordinance** of **David (Principle of Divine Love)**.
+11. And they sang, praising and giving thanks to the **Source**, because **His Inner Goodness** is continuous and **His Enduring Mercy** toward **Spiritual Identity**.
+12. But many of the **Memory of the Past** wept with a loud voice when they saw the **Core Spiritual Structure** of this **Inner Temple** laid, because they had seen the **glory** of the first **Inner Temple**.
+13. So the **Aspects of the Soul** could not discern the **sound of the shouting of joy** from the **sound of the weeping** of the **Memory of the Past**.
 
 ---
 
