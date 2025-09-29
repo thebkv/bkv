@@ -17,20 +17,33 @@ This chapter can feel like a dry census at first glance, but in the Bible Key we
 
 ## Ezra 2 — BKV-NR (Natural Reading)
 
-1 Now these are the people of the province who came up out of Confusion — the state of exile and separation. They had been carried away by Nebuchadnezzar — prophecy of confusion’s power, king of Confusion, and returned to Foundation of Peace (Jerusalem) and Judah, each to his own city.
-2 They came with Seed of Babylon — scattered in confusion, now leading restoration, Jeshua (Yahweh saves), Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah.
+1. Now these are the people of the province who came up out of Confusion — the state of exile and separation. They had been carried away by Nebuchadnezzar — prophecy of confusion’s power, king of Confusion, and returned to Foundation of Peace (Jerusalem) and Judah, each to his own city.
+
+2. They came with Seed of Babylon — scattered in confusion, now leading restoration, Jeshua (Yahweh saves), Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah.
 The number of the men of the people of Israel:
+
 3–20 [Various families are listed, each name carrying its own meaning, returning from separation back to the inheritance of God.]
+
 21–35 The children of Bethlehem — House of Bread, Netophah, Anathoth, Azmaveth, Kirjath-arim, Chephirah, Beeroth, Ramah, Gaba, Michmas, Bethel and Ai, Nebo, Magbish, Elam, Harim, Lod, Hadid, Ono, Jericho, and Senaah.
+
 36–39 The priests: the sons of Jedaiah, Immer, Pashhur, and Harim.
+
 40 The Levites: the sons of Jeshua and Kadmiel, of the sons of Hodaviah.
+
 41 The singers: the sons of Asaph — the voices of praise, harmonics of the soul.
+
 42 The gatekeepers: the sons of Shallum, Ater, Talmon, Akkub, Hatita, and Shobai — the guardians of the entrances of consciousness.
+
 43–58 The temple servants and the sons of Solomon’s servants — dedicated faculties, set apart for holy use.
+
 59–63 Some could not prove their lineage, even among the priests. They were excluded until a priest arose with Urim and Thummim — lights and perfections, divine clarity and truth.
+
 64 The whole congregation together was forty-two thousand three hundred and sixty, besides their servants and singers.
+
 68 When they came to the house of the LORD at Foundation of Peace, some of the leaders gave freewill offerings to set it in its place.
+
 69 They gave according to their ability: gold, silver, and priestly garments.
+
 70 So the priests, the Levites, the singers, the gatekeepers, the servants, and all Israel dwelt in their towns.
 
 
