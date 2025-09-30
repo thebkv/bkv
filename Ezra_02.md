@@ -7,7 +7,7 @@ Ezra 2 — BKV Study (Layered Approach)
 
 ## Introduction
 
-The dense, historical census of Ezra 2 is unlocked by the BKV, revealing a vital inventory of the soul's recovered faculties. See [Numerical Symbolism Examples](## Numerical Symbolism Examples) for information on the numbers. 
+The dense, historical census of Ezra 2 is unlocked by the BKV, revealing a vital inventory of the soul's recovered faculties. See [Numerical Symbolism Examples](##Numerical Symbolism Examples) for information on the numbers. 
 
 Ezra 2 begins a three-chapter **Rhythm of Restoration** — first the **Inventory** of what is recovered, then the **Foundation** of worship, and finally the **Opposition** that tests the believer's progress.
 
