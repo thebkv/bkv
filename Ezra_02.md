@@ -102,7 +102,7 @@ The leaders (Zerubbabel and Jeshua) remind us that restoration requires both pra
 
 # Interpretive Insights
 
-I.1. The Census as Spiritual Inventory (vv. 1–60): The list is not historical trivia but a precise catalog of the soul’s faculties recovered from bondage. The restoration requires exact recognition of one’s inner strengths and weaknesses.
+I.1. The Census as Spiritual Inventory (vv. 1–60): The historical trivia of names and counts is also a precise catalog of the soul’s faculties recovered from bondage. The restoration requires exact recognition of one’s inner strengths and weaknesses.
 I.2. The Leaders: Salvation and Generation (v. 2):
  * Zerubbabel (Principle of Seed/Generation): Represents the Civil Will, the practical, active force driving the rebuilding effort.
  * Jeshua (Principle of Salvation): Represents the Sacerdotal Will, the focus on spiritual purity and dedication.
