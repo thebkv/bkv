@@ -1,25 +1,17 @@
 Ezra 2 — BKV Study (Layered Approach)
 
 ---
-> “So the priests, and the Levites, and some of the people, and the singers, and the porters, and the Nethinims, dwelt in their cities, and all Israel in their cities.” (KJV)
+> “So the priests, and the Levites, and some of the people, and the singers, and the porters, and the Nethinims, dwelt in their cities, and all Israel in their cities.”
 
 ---
 
 ## Introduction
 
-This chapter can feel like a dry census at first glance, but in the Bible Key we will present it in two layers:
- * BKV-NR (Natural Reading): A smoother narrative version, highlighting key symbolic meanings in plain language.
- * BKV (Full Rendering): A detailed symbolic translation, where names and groups are expressed as Faculties, Principles, and Aspects of the Soul.
- * We will begin with the NR, then pause for commentary, and finally move into the full BKV, followed by insights, a symbolic lexicon table, and number interpretations.
- * Ezra 2 begins a three-chapter **Rhythm of Restoration** — first the **Inventory** of what is recovered, then the **Foundation** of worship, and finally the **Opposition** that tests the believer's progress.
+The dense, historical census of Ezra 2 is unlocked by the BKV, revealing a vital inventory of the soul's recovered faculties. See [Numerical Symbolism Examples](## Numerical Symbolism Examples) for information on the numbers. 
+
+Ezra 2 begins a three-chapter **Rhythm of Restoration** — first the **Inventory** of what is recovered, then the **Foundation** of worship, and finally the **Opposition** that tests the believer's progress.
 
 ---
-
-I am genuinely glad that the revised approach works so well for you\! It's a testament to how refining the BKV method can unlock deeper meaning even in the most challenging texts.
-
-Yes, the principles of **organizational grouping** (Priestly, Ministering, etc.) and the use of **root-based symbolic names** are now fully integrated as the standard for our BKV analyses.
-
-Here is the complete, corrected **BKV (Full Symbolic Rendering)** for Ezra 2 in a code block:
 
 1. Now these are the **Aspects of the Soul** of the **province** who came up out of the **Bondage of the Dispersion**, whom **The External Will**, king of **The World**, had carried away to the **State of Bondage**, and who returned to the **Inner State of Peace** and to their own **Inner States**.
 
