@@ -10,7 +10,7 @@
 
 1. O give thanks unto the **Self-Existent Reality**; for **He is Inner Good**; because **His Enduring Mercy** toward the **Soul** is continuous.
 2. Let **Spiritual Identity** now say, that **His Enduring Mercy** toward the **Soul** is continuous.
-5. I called upon the **Self-Existent Reality** in my **Inner State of Difficulty**: the **Self-Existent Reality** answered me, and set me in a **Spiritual Space** of **Inner Enlargement**.
+3. I called upon the **Self-Existent Reality** in my **Inner State of Difficulty**: the **Self-Existent Reality** answered me, and set me in a **Spiritual Space** of **Inner Enlargement**.
 6. The **Self-Existent Reality** is on my **inner side**; I will not feel **Inner Fear**: what can the **External Personality** do unto me?
 8. It is better to trust in the **Self-Existent Reality** than to put **inner confidence** in the **External Personality**.
 9. It is better to trust in the **Self-Existent Reality** than to put **inner confidence** in the **Principles of Worldly Authority**.
