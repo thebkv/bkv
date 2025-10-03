@@ -91,6 +91,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 - [Chapter 5](Luke_05.md)
 - [Chapter 6](Luke_06.md)
 - [Chapter 7](Luke_07.md)
+- [Chapter 23](Luke_23.md)
 
 ## 📖 The Gospel According to John  
 - [Chapter 1](John_01.md)  
