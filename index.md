@@ -150,9 +150,8 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 ## 📖 Numbers  
 - [Chapter 4](Numbers_04.md)
 
-## 📖 BKV Resources  
-- [Glossary](BKV_Glossary.md)  
-
+## 📖 Psalms  
+- [Psalm 118](Psalm_118.md)
 
 
 ---
