@@ -48,17 +48,20 @@ Psalm 118 is a triumphant declaration of **Inner Salvation** following a profoun
 
 ---
 
-## Psalm 118 — Symbolics Table
+## Psalm 118 — Symbolics Table (Revised)
 
 | Symbol / Term | BKV Meaning | Commentary / Inner Lesson |
 | :--- | :--- | :--- |
-| **Mercy endureth forever** | Enduring Mercy / Constant Divine Love | The continuous, unchanging nature of the Self-Existent Reality’s grace. |
-| **Man / Princes** | External Personality / Worldly Authority | **See I.1.** Faculties/authorities of the unregenerate ego structure. |
-| **Encompassed like bees** | Hardened, Resisting Principles | Aggressive, numerous, stinging thoughts/principles of opposition. |
-| **Stone** | The Christ Principle / Inner Foundation | **See I.2.** The Divine essence or truth that must become the foundation. |
-| **Builders** | The Ego's Faculties / Outer Intellect | **See I.2.** The unregenerate parts of the mind that seek to build the self without the Divine. |
-| **Head Stone of the Corner** | Supreme Foundation of the Rebuilt Structure | The necessary, unifying, and supreme principle upon which the spiritual life rests. |
-| **Gates of Righteousness** | The Path of Justified Action | **See I.3.** The means of entry into the higher state of consciousness. |
-| **The Day which the LORD hath made** | Inner Cycle of Divine Manifestation | **See I.3.** A specific, realized state of consciousness ruled by Divine Will. |
+| **Inner Good** | Divine Goodness / Essence of the Source | The fundamental, unchanging nature of the Self-Existent Reality. |
+| **Enduring Mercy** | Constant Divine Love / Unceasing Grace | The continuous, unchanging nature of the Self-Existent Reality’s grace. |
+| **Inner State of Difficulty** | State of Inner Testing or Crisis | The necessary trial that forces the soul to rely on the Divine. |
+| **External Personality / Princes** | Ego / Worldly Authority | **See I.1.** Faculties/authorities of the unregenerate ego structure. |
+| **Inner Strength / Inner Song** | Divine Power / Principle of Inner Expression | The source of the soul's resilience and triumphant self-expression in the Divine. |
+| **Hardened Principles** | Aggressive, Resisting Thoughts/Obstacles | Principles of opposition that attempt to prevent spiritual progress. |
+| **Stone / Builders** | Christ Principle / Ego's Faculties | **See I.2.** The Divine essence rejected by the outer intellect. |
+| **Head Stone of the Corner** | Supreme Foundation of the Rebuilt Structure | **See I.2.** The necessary, unifying, and supreme principle upon which the spiritual life rests. |
+| **Gates of Righteousness** | The Path of Justified Action | The means of entry into the higher state of consciousness. |
+| **Inner Cycle of Divine Manifestation**| Specific, Realized State of Consciousness | **See I.3.** A period of intense inner realization and Divine presence. |
+| **Inner Light** | Spiritual Illumination / Pure Intuition | The guidance and clarity granted by the Self-Existent Reality to the soul. |
 | **Bind the sacrifice** | Consecration of the Lower Self | The act of dedicating the self and all its energies to the divine purpose. |
 
