@@ -152,7 +152,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ## 📖 Psalms  
 - [Psalm 118](Psalm_118.md)
-
+- [Psalm 119](Psalm_119.md)
 
 ---
 test area
