@@ -154,6 +154,9 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 - [Psalm 118](Psalm_118.md)
 - [Psalm 119](Psalm_119.md)
 
+## 📖 Proverbs
+- [Proverbs 3](Proverbs_03.md)
+
 ---
 test area
 
