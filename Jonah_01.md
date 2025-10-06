@@ -1,7 +1,12 @@
 
 # Jonah 1 — BKV Study (The Flight of Conscience)
 
-The Book of Jonah is a short but powerful story of the soul's resistance to its own divine mission.
+Jonah's experience with the great beast can teach us about the soul's resistance to its own divine mission.
+
+It truly is a crazy amount of concentrated symbolism here. Jonah is one of the most brilliant pieces of psychological allegory in the Old Testament, packing the entire story of rebellion, consequence, and necessary regeneration into just four short chapters.
+
+In **Jonah 2**, the **Principle of Divine Conscience** must deal with the consequences of its flight from within the belly of the **Principle of Profound Humiliation**?
+
 
 ---
 
