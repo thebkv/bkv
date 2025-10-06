@@ -150,6 +150,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ## 📖 Jonah  
 - [Chapter 1](Jonah_01.md)
+- [Chapter 2](Jonah_02.md)
 
 ## 📖 Psalms  
 - [Psalm 118](Psalm_118.md)
