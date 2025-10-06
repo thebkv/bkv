@@ -129,9 +129,6 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 - [Chapter 2](Ezra_02.md)
 - [Chapter 3](Ezra_03.md)
 
-## 📖 Job  
-- [Chapter 1](Job_01.md)  
-
 ## 📖 Daniel  
 - [Chapter 07](Daniel_07.md)  
 
