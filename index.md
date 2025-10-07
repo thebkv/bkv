@@ -104,6 +104,9 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 ## 📖 Hebrews  
 - [Chapter 01](Hebrews_01.md)  
 
+## 📖 Jude  
+- [Chapter 01](Jude_01.md) of 1  
+
 ## 📖 Revelation  
 - [Chapter 1](Revelation_01.md)
 
@@ -152,7 +155,8 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 - [Chapter 1](Jonah_01.md)
 - [Chapter 2](Jonah_02.md)
 - [Chapter 3](Jonah_03.md)
-- 
+- [Chapter 4](Jonah_04.md)
+
 ## 📖 Psalms  
 - [Psalm 118](Psalm_118.md)
 - [Psalm 119](Psalm_119.md)
