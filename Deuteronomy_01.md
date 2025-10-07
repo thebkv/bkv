@@ -75,7 +75,7 @@ It translates directly into common psychological experience:
 * **The Failure:** The soul becomes paralyzed by **"analysis paralysis"** and **intellectually-derived fear**. It decides the cost is too high and retreats.
 * **The Condemnation to the Wilderness:** The soul doesn't return to peace; it enters a state of guilt, stagnation, and **Spiritual Testing**—wandering without purpose, feeling a sense of lost destiny, until that fearful, doubting aspect of the self finally "perishes" and is replaced by a trusting one.
 
-_The Deuteronomic critique is timeless._ Our human mind is adept at using its **Principles of Investigation** to justify fear, rather than using them to justify the **Divine Command**. __It's the spiritual sin of prioritizing risk assessment over absolute trust.__
+_The Deuteronomic critique is timeless._ Our human mind is adept at using its **Principles of Investigation** to justify fear, rather than using them to justify the **Divine Command**. <u>It's the spiritual sin of prioritizing risk assessment over absolute trust.</u>
 
 
 
