@@ -161,8 +161,10 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 - [Chapter 4](Jonah_04.md)
 
 ## 📖 Psalms  
+- [Psalm 91](Psalm_91.md)
 - [Psalm 118](Psalm_118.md)
 - [Psalm 119](Psalm_119.md)
+
 
 ## 📖 Proverbs
 - [Proverbs 3](Proverbs_03.md)
