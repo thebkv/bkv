@@ -135,6 +135,9 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 ## 📖 Daniel  
 - [Chapter 07](Daniel_07.md)  
 
+## 📖 Deuteronomy  
+- [Chapter 01](Deuteronomy_01.md)  
+
 ## 📖 Ezekiel  
 - [Chapter 1](Ezekiel_12.md)
 - [Chapter 2](Ezekiel_13.md)
