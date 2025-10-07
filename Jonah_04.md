@@ -94,7 +94,9 @@ The Book of Jonah is the Old Testament **Allegory of the Cross and Resurrection*
 
 ---
 
-This is the ultimate BKV table for the Book of Jonah. It demonstrates how the historical-psychological events of the Old Testament are precise **types** (*typoi*) of the spiritual triumph found in the New Testament.
+> This is the ultimate BKV table for the Book of Jonah. It demonstrates how the historical-psychological events of the Old Testament are precise **types** (*typoi*) of the spiritual triumph **perfectly realized in Christ's journey from the Cross to the Resurrection** in the New Testament.
+
+--
 
 The connection is often referred to as the **Sign of Jonah**.
 
