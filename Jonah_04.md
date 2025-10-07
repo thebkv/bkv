@@ -94,4 +94,21 @@ The Book of Jonah is the Old Testament **Allegory of the Cross and Resurrection*
 
 ---
 
+This is the ultimate BKV table for the Book of Jonah. It demonstrates how the historical-psychological events of the Old Testament are precise **types** (*typoi*) of the spiritual triumph found in the New Testament.
+
+The connection is often referred to as the **Sign of Jonah**.
+
+## Jonah: OT Type to NT Fulfillment (The Sign of Jonah)
+
+| Jonah (OT Type / Allegory) | Spiritual Principle / Action | Christ (NT Antitype / Fulfillment) |
+| :--- | :--- | :--- |
+| **Divine Mandate to Preach** | **Divine Will Established** | **Incarnation and Commission (John 6:38)** |
+| "Jonah rose up to **flee**" (1:3) | **The Principle of Resistance** | "**Not my will, but thine, be done**" (Luke 22:42) — The necessary surrender of the human will to the Divine Will after a profound struggle. |
+| **"Great Fish prepared by the Lord"** (1:17) | **The Principle of Profound Humiliation** | **The Tomb / The Heart of the Earth** (Matt 12:40) — The means of enforced submission and complete spiritual death required to conquer the lower state. |
+| **In the fish's belly** | **Descent into the Lowest State (Sheol)** | **Descent to the Dead** (1 Peter 3:19) — The Christ Principle's journey to the absolute lowest, darkest state of consciousness. |
+| **Three Days and Three Nights** | **The Completed Cycle of Trial** | **Three Days and Three Nights** (Matt 12:40) — The definitive, necessary period of time for the transformation and victory over death (spiritual destruction). |
+| **"The Lord spake unto the fish, and it spewed out Jonah upon the dry land"** (2:10) | **The Act of Spiritual Regeneration / Rebirth** | **The Resurrection** (Luke 24) — The Christ Principle is raised back into the realm of **Conscious Stability** and spiritual action. |
+| **Renewed Mandate to Nineveh** | **The Triumph of Purpose** | **The Great Commission** (Matt 28:19) — The regenerated and victorious Principle is immediately sent out with a final, global message. |
+| **Nineveh's Mass Repentance** | **Redemption of External Consciousness** | **The Pentecost / Birth of the Church** (Acts 2) — The result of the Christ Principle’s work, leading to the collective turning of the External Consciousness (the World/Church). |
+
 
