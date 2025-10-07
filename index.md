@@ -103,6 +103,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ## 📖 Hebrews  
 - [Chapter 01](Hebrews_01.md)  
+- [Chapter 03](Hebrews_03.md)
 
 ## 📖 Jude  
 - [Chapter 01](Jude_01.md) of 1  
