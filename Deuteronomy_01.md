@@ -77,5 +77,5 @@ It translates directly into common psychological experience:
 
 _The Deuteronomic critique is timeless._ Our human mind is adept at using its **Principles of Investigation** to justify fear, rather than using them to justify the **Divine Command**. <ins>It's the spiritual sin of prioritizing risk assessment over absolute trust.</ins>
 
-
+See Deuteronomy 1 and Psalm 95 for more on this theme.
 
