@@ -102,7 +102,8 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 - [Chapter 16](John_16.md)
 
 ## 📖 Hebrews  
-- [Chapter 01](Hebrews_01.md)  
+- [Chapter 01](Hebrews_01.md)
+- [Chapter 02](Hebrews_02.md)
 - [Chapter 03](Hebrews_03.md)
 - [Chapter 04](Hebrews_04.md)
 
