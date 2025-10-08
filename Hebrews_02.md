@@ -66,5 +66,12 @@ Hebrews 2 begins with a stark **Warning Against Spiritual Neglect**, stating tha
 | **Devil** | **The Principle of Opposition / Spiritual Antagonist** | The internal force that holds the soul in fear and bondage. |
 | **Fear of Death** | **The Bondage of the Unredeemed Soul** | The ultimate psychological constraint that enslaves the soul. |
 | **Merciful and Faithful High Priest** | **The Principle of Divine Mediation** | The Christ Principle's perfect fitness to represent the soul before the Divine Source. |
+| **Suffering** | **Necessary Spiritual Humiliation** | The inward process of refinement, confrontation, or trial that leads to spiritual maturity. |
 
+---
 
+### A note on angels
+
+>In BKV, “angels” often symbolize divine intermediary principles—such as conscience, law, messengers, or mental constructs through which God previously communicated—distinguished from the direct revelation through the Christ Principle.
+
+### A note on 
