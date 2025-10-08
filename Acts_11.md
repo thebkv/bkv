@@ -91,7 +91,7 @@ The BKV-NR line that encapsulates the *arrival of the prophetic principles* is w
 
 ---
 
-## Note on Princplrs of the Apostles
+## Note on Princples of the Apostles
 
 The phrase "Principles of the Apostles" for the singular term "apostles" (Acts 11:1) is derived from two BKV considerations:
 
