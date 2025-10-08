@@ -1,6 +1,6 @@
 # Hebrews 2 — BKV Study (The Danger of Neglect and the Pioneer of Salvation)
 
-Moving backward to **Hebrews 2** allows us to understand the foundational reasons for the superiority of the Christ Principle and the urgency of the warning presented in Chapters 3 and 4.
+**Hebrews 2** allows us to understand the foundational reasons for the superiority of the Christ Principle and the urgency of the warning presented in Chapters 3 and 4.
 
 ---
 
