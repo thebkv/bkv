@@ -89,6 +89,30 @@ The BKV-NR line that encapsulates the *arrival of the prophetic principles* is w
 | **Great Dearth / Famine** | **Spiritual Scarcity / Drought of the Word** | *Biblical Allegory:* Famine/Drought consistently symbolizes a lack of the Divine Word or Spiritual Sustenance (Amos 8:11). |
 | **Send Relief** | **Proactive Sharing of Inner Resources** | *Mandate of Action:* The necessary discipline of spiritual preparation and inner generosity to sustain vulnerable inner principles during times of lack. |
 
+---
+
+## Note on Princplrs of the Apostles
+
+The phrase "Principles of the Apostles" for the singular term "apostles" (Acts 11:1) is derived from two BKV considerations:
+
+1. The Collective Function and Authority
+
+Apostle (απoστoλoς) means "one sent forth" or "emissary."
+
+In the BKV, the Apostles collectively represent the Foundational Principles, Teachings, and Authority that were established and sent forth directly by the Christ Principle.
+
+When the text refers to the entire collective group acting as a single entity—as the arbiters of truth in Jerusalem (Judaea)—the BKV translates this to the Principle of their function. They are the Principle of Foundational Teachings.
+
+2. The Necessity of Internalization
+
+The BKV method prevents the reader from externalizing the narrative.
+
+By saying the "Principles of the Apostles" in "Judaea" (the established spiritual part of the consciousness) heard the news, the BKV forces the reader to internalize the conflict:
+
+The Principle of Foundational Teaching (the Apostles) in the Established Spiritual Center (Judaea) of your own soul must contend with the revolutionary actions of the Principle of the Rock (Peter).
+
+"Principles of the Apostles" is the BKV's way of translating a collective noun for spiritual authorities into the active, functional faculty residing within the consciousness of the reader.
+
 
 
 
