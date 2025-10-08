@@ -110,6 +110,9 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 ## 📖 Jude  
 - [Chapter 01](Jude_01.md) of 1  
 
+## 📖 Acts of the Apostles  
+- [Chapter 11](Acts_11.md)
+
 ## 📖 Revelation  
 - [Chapter 1](Revelation_01.md)
 
