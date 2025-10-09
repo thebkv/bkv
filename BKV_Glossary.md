@@ -1,9 +1,9 @@
 # 📖 Bible Key Glossary
 
 **Version GUID:** d6f29ac3-8194-4a93-b1b7-0d8d41e24d44  
-	•	MD5 Checksum: 1c7be985e941ac9dc119227f24f09d2d
-	•	SHA-256 Checksum: bfc877357e837ca4a1322a0560223fbcbdd24073beea646d165b9d16b501cd27
-
+	•	MD5 Checksum: 1c7be985e941ac9dc119227f24f09d2d  
+	•	SHA-256 Checksum: bfc877357e837ca4a1322a0560223fbcbdd24073beea646d165b9d16b501cd27  
+	
 ---  
 
 ### [Jump to Abstract and Technical Words](#abstract-and-technical-words)
