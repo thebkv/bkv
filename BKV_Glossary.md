@@ -107,26 +107,26 @@ A simpler way to explain what the term **"Principle of..."** means in the BKV co
 
 ***
 
-## BKV Guide: Understanding the Term "Principle"
+### BKV Guide: Understanding the Term "Principle"
 
 In the Biblical Key-Value (BKV) method, the term **"Principle of..."** is used to translate a historical person, place, or object into a functional, unchanging law or faculty operating within the individual consciousness.
 
 When you see **"Principle of..."**, you are meant to understand the following:
 
-### 1. A Foundational Spiritual Law
+#### 1. A Foundational Spiritual Law
 
 A **Principle** is an eternal, unchanging truth or law that governs the spiritual universe (e.g., the Law of Gravity). In the BKV:
 
 * **Example:** The **Principle of Divine Law** (Moses) is the immutable spiritual law that demands structure and obedience; it is not dependent on the man Moses.
 
-### 2. A Functional Faculty of the Soul
+#### 2. A Functional Faculty of the Soul
 
 A **Principle** is an active, functional part or *faculty* of your own consciousness that carries out a specific task.
 
 * **Example:** The **Principle of the Rock** (Peter) is the foundational faculty in your mind that must be established to provide spiritual stability. It is the unwavering center of your spiritual consciousness.
 * **Example:** The **Principle of Prophetic Foresight** (Agabus) is the inner faculty in your mind capable of discerning future spiritual trends and warnings.
 
-### Accessible Translations for the Reader:
+#### Accessible Translations for the Reader:
 
 If the word "Principle" seems abstract, the reader can mentally substitute the following terms while reading, without losing the BKV integrity:
 
