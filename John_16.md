@@ -13,7 +13,7 @@
 
 ## BKV-NR (Natural Reading)
 
->**The Christ Principle then pivots from the warning of outer resistance to explain the fundamental, expedient necessity of His spiritual departure for the soul's ultimate inner development.**
+**Having delivered the initial warning regarding outer resistance and persecution (John 16:1-6), the Christ Principle pivots to explaining the fundamental, expedient necessity of His spiritual departure for the soul's ultimate inner development.**
 
 7. Nevertheless I tell you the **Inner Truth**; It is expedient for you that **I** go away: for if **I** go not away, the **Principle of Indwelling Divine Reality (Comforter)** will not come unto you; but if **I** depart, **I** will send **Him** unto you.
 12. **I** have yet many **Spiritual Utterances** to say unto you, but you cannot **Bear** them now.
