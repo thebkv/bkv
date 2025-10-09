@@ -4,6 +4,12 @@ ___
 📖 Bible Key Glossary (Consolidated)  
 **Version GUID:** ab773ee5-7043-4186-802f-b839f6a05ef7  
 
+---  
+
+## [Jump to Abstract and Technical Words](https://thebkv.github.io/bkv/##-Abstract-and-Technical-Words)
+
+---  
+
 ⸻  
 
 Core Keys (Foundational)
