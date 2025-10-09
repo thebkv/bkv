@@ -12,88 +12,72 @@ ___
 
 ⸻  
 
-Core Keys (Foundational)
+# BKV Core Keys and Symbolics Glossary
 
-God / Christ / Spirit  
-	•	God (the Father) → The Source, divine origin, higher consciousness.  
-	•	Word (Logos) → Divine pattern, creative principle, blueprint of being (John 1:1–3).  
-	•	Spirit → Breath, life-force, divine presence active in creation.  
-	•	Christ (Christos) → The Anointed One, divine presence embodied in humanity.  
-	•	Son of Man → Reborn Human (individual, Jesus’ title for himself) / Reborn Humanity (corporate, redeemed people).  
-  
-Humanity  
-	•	Adam → Humanity / the red-soil one (Gen 2:7).  
-	•	Eve → Life, breath, spirit, mother of all living (Gen 3:20).  
-	•	Israel → One who struggles with God → transformed into one who prevails in union.  
-	•	Judah → Praise.  
-	•	Levites → Joined, attached → faculties of service and support.  
-	•	Priests → Those who serve in the sanctuary → inner faculties that sanctify.  
-	•	Prophets → Voices that call consciousness back to alignment with God.  
-	•	Pharisees (“Separated Ones”) → Reliance on external form without inner life.  
-  
-States of Consciousness / Geography  
-	•	Egypt → Bondage, exile from union with God, the separated state. (Ex 20:2; Hos 11:1).  
-	•	Babylon → Confusion, captivity of thought, exile in separation. (Gen 11; Rev 17).  
-	•	Jerusalem → Foundation of Peace → inner wholeness and spiritual center.  
-	•	Wilderness → Place of testing, inner barrenness, yet encounter with God. (Deut 8:2; Hos 2:14).  
-	•	Mountain → High place of consciousness, presence of God, the secret place. (Ex 19; Matt 5:1).  
-	•	Sea → Turmoil of unresolved personality, chaotic mind, masses of humanity. (Is 57:20; Rev 21:1).  
-	•	Garden (Eden) → Cultivated inner life, delight, harmony with God.  
+## Core Keys (Foundational Principles & Identity)
 
-⸻
+| Term | BKV Meaning | Contextual Source |
+| :--- | :--- | :--- |
+| **God / Father** | The **Source**, divine origin, higher consciousness. | General |
+| **Self-Existent Reality** | The ultimate, independent Divine Being and Truth. | Hebrews, General |
+| **Word (Logos)** | Divine pattern, creative principle, blueprint of being. | John 1:1–3 |
+| **Spirit / Breath** | Breath, life-force, divine presence active in creation (The **Principle of Divine Energy**). | General |
+| **Christ (Christos)** | The Anointed One, **Principle of Divine Self**, divine presence embodied in humanity. | General |
+| **Son of Man** | Reborn Human (individual) / Reborn Humanity (corporate). | General |
+| **Adam** | Humanity / the red-soil one. | Gen 2:7 |
+| **Eve** | Life, breath, spirit, mother of all living. | Gen 3:20 |
+| **Israel** | One who struggles with God → transformed into one who prevails in union. | Gen 32 |
+| **Judah / Jude** | **Praise**. (The faculty that, when threatened, becomes the **Principle of Warning/Discernment**). | Gen 29:35, Jude |
+| **Old, Unregenerate Aspect of the Soul** | The first, fear-driven generation of consciousness that fails due to unbelief. | Deut 1, Heb 3 |
+| **Aspects of the Soul (Sons/People)** | The various parts, faculties, or principles that make up the whole being. | Hebrews, Acts |
+| **Levites / Priests** | **Principles of Service and Sanctification** — inner faculties that maintain spiritual order. | General |
+| **Prophets** | **Principles of Discernment** — voices that call consciousness back to alignment with God. | General |
+| **Pharisees** | Reliance on external form without inner life. | Gospels |
 
-Scene Symbols (Narrative Images)  
+## States of Consciousness & Geography
 
-Creation & Eden  
-	•	Light → Divine awareness, illumination.  
-	•	Darkness → Ignorance, unformed potential.  
-	•	Waters → Depths of consciousness, peoples, emotional undercurrent.  
-	•	Seed → Word, potential, inner pattern.  
-	•	Fruit → Manifest result of inner state.  
-	•	Tree of Life → Direct connection with God, eternal vitality.  
-	•	Tree of Knowledge of Good and Evil → Dualistic perception, judgment, belief in separation.  
-	•	Serpent → Deceptive reasoning, subtle whispering thought.  
+| Term | BKV Meaning | Contextual Source |
+| :--- | :--- | :--- |
+| **Jerusalem** | Foundation of Peace → **Inner Wholeness** and spiritual center. | General |
+| **Mountain** | High place of consciousness, presence of God, the **Secret Place**. | Ex 19, Ps 91 |
+| **Wilderness** | Place of **Spiritual Testing** and purgation, inner barrenness, yet encounter with God. | Deut 8:2, Hos 2:14 |
+| **Egypt** | **Bondage**, exile from union with God, the separated state. | Ex 20:2 |
+| **Babylon** | **Confusion**, captivity of thought, exile in separation. | Gen 11, Rev 17 |
+| **Kadesh-Barnea** | The **State of Crisis/Decision Point**. The psychological spot where one chooses faith over fear. | Deut 1 |
+| **Rest / Sabbath (Sabbatismos)** | The **State of Realized Consciousness** / **Permanent Cessation from Self-Effort**. | Heb 4 |
+| **Sea** | Turmoil of unresolved personality, chaotic mind, masses of humanity. | Is 57:20 |
+| **Garden (Eden)** | Cultivated inner life, delight, harmony with God. | Gen 2 |
 
-Exodus & Liberation  
-	•	Pharaoh → Egoic will, oppressive self.  
-	•	Chariots → Instruments of domination — external force of ego’s power.  
-	•	Pillar of cloud/fire → Divine presence guiding and protecting.  
-	•	Dry ground through the sea → Clarity and safe passage through turmoil by faith.  
+## Scene Symbols (Narrative Images & Opposition)
 
-Worship & Dedication  
-	•	Altar → Place of surrender and offering — inner dedication, transformation point where separation is yielded and union embraced.  
-	•	Burnt offering → Total consecration — consuming the self in devotion.  
-	•	Temple / House of the LORD → Inner dwelling place of God’s presence.  
-	•	Vessels → Inner faculties or sanctified tools of worship, which can be carried away into confusion but restored.  
-	•	Trumpets → Proclamation of divine truth with clarity.  
-	•	Cymbals / Music → Joyful resonance of praise.  
+| Term | BKV Meaning | Contextual Source |
+| :--- | :--- | :--- |
+| **Light / Darkness** | Divine awareness/illumination / Ignorance/unformed potential. | Gen 1 |
+| **Waters** | Depths of consciousness, peoples, emotional undercurrent. | General |
+| **Serpent / Devil** | **Deceptive Reasoning** / The **Principle of Opposition** (the final hold of the lower self). | Gen 3, Heb 2 |
+| **Pharaoh / Ego** | **Egoic Will**, oppressive self, the self-ruling part of the consciousness. | Exodus |
+| **Giants / Anakim** | **Overwhelming Psychological Obstacles** / Deeply entrenched egoic habits. | Deut 1 |
+| **Snare / Pestilence** | **Subtle Spiritual Attacks** / Diseases of the Soul. | Ps 91 |
+| **Famine / Dearth** | **Spiritual Scarcity** / Drought of the Word. | Acts 11, Amos 8:11 |
+| **Angels** | **Higher Guiding Principles** / Divine Messengers (inner faculties maintaining order). | Ps 91, Heb 2 |
+| **Chariots** | Instruments of domination — external force of ego’s power. | Exodus |
+| **Seed / Fruit** | Word, potential, inner pattern / Manifest result of inner state. | Parables |
+| **Altar / Offering** | Place of **Surrender** and **Total Consecration** (yielding separation for union). | General |
+| **Temple / Vessels** | Inner dwelling place of God’s presence / Sanctified **Inner Faculties**. | General |
 
-Festivals  
-	•	Feast of Booths / Tabernacles → Remembrance of God’s dwelling with his people in the journey, impermanence of earthly structures.  
-	•	Passover → Deliverance from bondage through God’s provision.  
-	•	Sabbath (Rest) → Completion, spiritual fulfillment, union with God’s order.  
+## Christ Titles & Symbols (The Work of Salvation)
 
-Parables of Jesus  
-	•	Sower → Christ sowing divine truth.  
-	•	Seed (parable) → Word of God as potential in human consciousness.  
-	•	Soil types → States of the inner world (hard, shallow, distracted, receptive).  
-	•	Birds (parable) → Distracting or opposing thoughts that devour truth.  
-	•	Sun (parable) → Testing and trial that reveal depth.  
-	•	Thorns (parable) → Cares, riches, distractions choking growth.  
-	•	Harvest → Manifestation of transformation in fruitfulness.  
-	•	Treasure in field → Kingdom hidden in the ordinary, found by those who seek.  
-	•	Pearl of great price → Singular worth of divine union.  
-	•	Net in sea → Gathering of humanity, final sorting of true and false.  
-
-Christ Titles & Symbols  
-	•	Lamb of God → Innocent life given, bearing away sin.  
-	•	Rock (Peter/Cephas) → Stability, faith, foundation.  
-	•	Light of the World → Spiritual illumination for all people.  
-	•	Living Bread / House of Bread (Bethlehem) → Christ as sustenance for the soul.  
-	•	Living Water → Spirit as refreshment and life within.  
-
- 
+| Term | BKV Meaning | Contextual Source |
+| :--- | :--- | :--- |
+| **Lamb of God** | Innocent life given, bearing away sin. | General |
+| **Rock (Peter/Cephas)** | **Stability**, faith, **Foundational Consciousness**. | Gospels, Acts 11 |
+| **High Priest** | **Divine Mediator** / The **Principle of Mediation** (perfectly tested). | Heb 3 & 4 |
+| **Captain / Pioneer** | The **Pioneering Principle** / Spiritual Leader who conquers the path and makes it possible. | Heb 2 |
+| **Light of the World** | Spiritual illumination for all people. | Gospels |
+| **Living Bread / Water** | Christ as **Sustenance** and **Refreshment** for the soul. | Gospels |
+| **Sower / Soil** | Christ sowing divine truth / **States of the Inner World**. | Parables | 
 ---
+
 
 ## Abstract and Technical Words
 
