@@ -6,7 +6,7 @@ ___
 
 ---  
 
-### [Jump to Abstract and Technical Words](https://thebkv.github.io/bkv/#abstract-and-technical-words)
+### [Jump to Abstract and Technical Words](#abstract-and-technical-words)
 
 ---  
 
