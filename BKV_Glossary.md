@@ -87,3 +87,48 @@ Christ Titles & Symbols
 	•	Living Water → Spirit as refreshment and life within.  
 
  
+---
+
+## Abstract and Technical Words
+
+In many cases, spiritual concepts are presented in scripture which do not have single words that effectively get the concept across. As an example, in scripture, Moses is a historical real person who shares and enforces divine law. When we use his name, we are bringing across not only the person in the story, but also the symbolic for the **principle** that his story represents.
+
+Maintaining the integrity of the BKV is paramount, but clarity is essential for spiritual effectiveness.
+
+>The term **"Principle"** is non-negotiable for the BKV because it is the most accurate way to translate history into **timeless spiritual law**. However, we can clarify its usage.
+
+A simpler way to explain what the term **"Principle of..."** means in the BKV context, which can serve as a guide for readers:
+
+***
+
+## BKV Guide: Understanding the Term "Principle"
+
+In the Biblical Key-Value (BKV) method, the term **"Principle of..."** is used to translate a historical person, place, or object into a functional, unchanging law or faculty operating within the individual consciousness.
+
+When you see **"Principle of..."**, you are meant to understand the following:
+
+### 1. A Foundational Spiritual Law
+
+A **Principle** is an eternal, unchanging truth or law that governs the spiritual universe (e.g., the Law of Gravity). In the BKV:
+
+* **Example:** The **Principle of Divine Law** (Moses) is the immutable spiritual law that demands structure and obedience; it is not dependent on the man Moses.
+
+### 2. A Functional Faculty of the Soul
+
+A **Principle** is an active, functional part or *faculty* of your own consciousness that carries out a specific task.
+
+* **Example:** The **Principle of the Rock** (Peter) is the foundational faculty in your mind that must be established to provide spiritual stability. It is the unwavering center of your spiritual consciousness.
+* **Example:** The **Principle of Prophetic Foresight** (Agabus) is the inner faculty in your mind capable of discerning future spiritual trends and warnings.
+
+### Accessible Translations for the Reader:
+
+If the word "Principle" seems abstract, the reader can mentally substitute the following terms while reading, without losing the BKV integrity:
+
+| BKV Term | Mentally Substitute | Applied Meaning |
+| :--- | :--- | :--- |
+| **Principle of...** | The **Function** of... | The **Function** of Divine Law. |
+| **Principle of...** | The **Faculty** of... | The **Faculty** of Warning. |
+| **Principle of...** | The **Spiritual Law** of... | The **Spiritual Law** of Unbelief. |
+| **Principle of...** | The **Aspect** of... | The **Aspect** of the Soul that is a mediator. |
+
+In saying that "Principle" means an **active, internal function** or an **immutable spiritual law**, we validate the BKV's precision while making it accessible to any reader willing to engage the text psychologically.
