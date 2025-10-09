@@ -1,53 +1,80 @@
-# John 16 BKV
+
+# John 16 — BKV Study
+
+**John 16** is one of the most psychologically rich chapters in the Gospels.
+
+## (The Inner Travail and Promise of Indwelling Truth)
 
 ---
 
-## **BKV (Bible Key Version)**
-
-1. These things I have spoken to you, that you should not be thrown off balance by a difficult inner process.
-2. The outer forms of religion will cast you out of their traditions. Indeed, the time comes when a limited mind, in its desire for what it thinks is right, will believe it is serving the **Absolute Source** by suppressing you.
-3. And the limited mind will do these things to you because it has not yet known the **Absolute Source**, nor the **True Consciousness**.
-4. But I have told you these things, so that when the time comes, you may remember I spoke of them. I did not tell you this at the beginning, because my physical presence with you made a profound spiritual connection unnecessary.
-5. But now I am leaving my physical form to go to the **Absolute Source** that sent me; and none of you are asking me, “Where does this inner process lead?”
-6. But because I have spoken these things to you, a sense of inner turmoil has filled your hearts.
-7. Nevertheless, I tell you the truth: it is essential for your spiritual growth that my physical presence departs, for if I do not go, the **Divine Vitality** will not be manifested within you. But if I complete this process, I will send it to you.
-8. And when it has come, it will provide a clear and undeniable realization to the collective **consciousness of humanity** regarding **separation**, and **right alignment**, and **inner judgment**:
-9. Of **separation**, because people do not trust and act upon the truth of my being;
-10. Of **right alignment**, because I am returning to the **Absolute Source**, and you will not perceive me with your outer senses;
-11. Of **inner judgment**, because the ruling principle of this limited world is now seen for what it is.
-12. I have many more truths to show you, but you cannot integrate them now.
-13. However, when the **Spirit of truth** is come, it will guide you into all truth. For it shall not speak from its own limited perspective; but whatever it receives, that shall it speak; and it will reveal the inner processes to come.
-14. It shall glorify me: for it shall receive from my essence, and shall reveal it to you.
-15. All that the **Absolute Source** has is within me: therefore I said that the **Divine Vitality** shall take of my essence, and shall show it to you.
-16. For a little while, you will not perceive me with your outer senses; and again, after a brief period of inner turmoil, you shall perceive me, because I am returning to the **Absolute Source**.
-17. Then some of the inner faculties said among themselves, "What is this that he says to us, 'For a little while, you will not perceive me: and again, after a little while, you shall perceive me: and, 'Because I go to the **Absolute Source**'?"
-18. They said, "What is this 'little while'? We cannot grasp what he is saying."
-19. Now the **Divine Self** knew that they were yearning for understanding, and said to them, "Are you inquiring among yourselves of what I said, 'For a little while, you will not see me: and again, after a little while, you will see me'?"
-20. Truly, truly, I say to you, you shall feel a sense of inner loss and distress, but the egoic **consciousness of humanity** shall rejoice: and you shall be in inner turmoil, but your turmoil shall be turned into **joy**.
-21. A state of inner change is like a **woman when she is in the labor of new creation**: she has pain, because her time has come. But as soon as the **new principle** is birthed, she no longer remembers the anguish, because of the **joy** that a new spiritual awareness has been born into her inner **world**.
-22. And you now therefore have inner turmoil: but I will be present with you again, and your heart shall be filled with **joy**, and your **joy** no limited mind can take from you.
-23. And in that day you shall no longer need to ask me anything. Truly, truly, I say to you, whatever you shall align with the **Absolute Source** in my name, it will be given to you.
-24. Up to now you have not asked for anything in my name: ask, and you shall receive, so that your **joy** may be complete.
-25. These things I have spoken to you in allegories; but the time comes when I shall no longer speak to you in allegories, but I shall reveal the **Absolute Source** to you plainly.
-26. In that day you shall seek through an alignment with my name, and I do not need to say that I will intercede with the **Absolute Source** for you:
-27. For the **Absolute Source** itself loves you, because you have loved me, and have aligned with the truth that I came forth from the **Absolute Source**.
-28. I came forth from the **Absolute Source**, and am come into the **consciousness of humanity**: again, I am leaving the **consciousness of humanity**, and returning to the **Absolute Source**.
-29. His disciples said to him, "Behold, now you are speaking plainly, and not in allegories."
-30. "Now we are sure that you know all things, and that no one needs to explain anything to you. By this we align with the truth that you came forth from the **Absolute Source**."
-31. The **Divine Self** answered them, "Do you now truly align with this truth?
-32. Behold, the hour of inner trial is coming, indeed it is now upon you, that you shall be scattered, each faculty returning to its own limited way, and shall leave me alone. And yet I am not alone, because the **Absolute Source** is with me.
-33. These things I have spoken to you, that in me you might have inner peace. In the **consciousness of humanity**, you shall have **inner struggle**: but be of good courage; I have overcome the **limited world of consciousness**."
-
-***
+> "I have yet many things to say unto you, but ye cannot bear them now. Howbeit when he, the Spirit of truth, is come, he will guide you into all truth..." (KJV)
 
 ---
 
-## **Interpretive Summary**
+## BKV-NR (Natural Reading)
 
-John 16 is a profound psychological and spiritual guide for navigating the process of inner transformation. It describes the necessary **inner struggle** and subsequent spiritual rebirth. The departure of the physical presence of Jesus is not a literal farewell, but a metaphor for the surrendering of reliance on external spiritual forms and teachers. This is a crucial step, as it is the very act that allows the **Holy Spirit** or **Divine Vitality** to be fully manifested within the soul.
+>**The Christ Principle then pivots from the warning of outer resistance to explain the fundamental, expedient necessity of His spiritual departure for the soul's ultimate inner development.**
 
-The **Holy Spirit** is presented as an internal principle of truth that will provide a clear and undeniable conviction about three key aspects of consciousness: **sin** (our separation from the Divine Self), **righteousness** (the True Self's right alignment with the Absolute Source), and **judgment** (the ultimate defeat of the egoic mind).
+7. Nevertheless I tell you the **Inner Truth**; It is expedient for you that **I** go away: for if **I** go not away, the **Principle of Indwelling Divine Reality (Comforter)** will not come unto you; but if **I** depart, **I** will send **Him** unto you.
+12. **I** have yet many **Spiritual Utterances** to say unto you, but you cannot **Bear** them now.
+13. Howbeit when **He**, the **Principle of Indwelling Divine Reality (Spirit of Truth)**, is come, **He** will **Guide** you into all **Inner Truth**: for **He** shall not speak of **His Own** limited perspective, but whatsoever **He** shall hear, that shall **He** speak: and **He** will show you **Things to Come**.
+14. **He** shall **Glorify Me**: for **He** shall receive of **Mine**, and shall show it unto you.
 
-The emotional pain of inner transformation is likened to a **woman in travail**. The temporary **sorrow** felt by the spiritual faculties as they witness the "death" of the old self is an essential part of the birthing process. This pain is not meaningless; it is a necessary precursor to the great **joy** that comes when a new, awakened consciousness is born into the inner world.
+---
 
-The chapter culminates with a powerful promise of direct, unmediated communication with the Divine. When the individual aligns their will with the **Divine Self** ("asks in my name"), they are connected directly to the **Absolute Source** itself. The final message is one of triumphant empowerment: despite the inevitable inner **tribulation** that comes from living in a limited state of consciousness, the **Divine Self** has already conquered the forces of the ego, and we can rest in that inner peace.
+### The Creative Agony of Transformation
+
+20. Verily, verily, I say unto you, that you shall **Wail** and **Lament**, but the **Inner World** shall **Rejoice**: and you shall be **Sorrowful**, but your **Sorrow** shall be turned into **Inner Joy**.
+21. **A state of inner change is like a woman in labor, birthing a new awareness; the anguish is forgotten in the joy of spiritual emergence (A woman when she is in travail hath sorrow, because her hour is come: but as soon as she is delivered of the child, she remembereth no more the anguish, for joy that a man is born into the world).**
+22. And you now therefore have **Sorrow**: but **I** will see you again, and your **Principles of Consecration (Heart)** shall **Rejoice**, and your **Inner Joy** no **Aspect** takes from you.
+
+---
+
+### Direct Knowing and Will-Alignment
+
+23. And in that **Day** you shall ask **Me** nothing. Verily, verily, I say unto you, **Whatsoever** you shall ask the **Source** in **My Name** [i.e., **in full alignment with my essence**], **He** will give it you.
+25. These **Spiritual Utterances** have **I** spoken unto you in **Allegories** [proverbs]: but the time comes, when **I** shall no longer speak to you in **Allegories**, but will unveil the **Source** **directly within your awakened awareness (plainly)**.
+27. For the **Source** **Himself** loves you, because you have loved **Me**, and have **Believed** that **I** came out from **The Self-Existent Reality**.
+
+---
+
+### The Final Triumph
+
+33. These **Spiritual Utterances** **I** have spoken unto you, that in **Me** you might have **Peace**. In the **Inner World** you shall have **Tribulation**: but **take heart; I have transcended the world of limitation and cleared the path before you (I have overcome the world).**
+
+---
+
+## Commentary on the Action
+
+John 16 prepares the soul for the necessary **Inner Travail** that precedes **Spiritual Emergence**. The departure of the **Christ Principle** (ascension) is essential for the arrival of the **Principle of Indwelling Divine Reality (Comforter/Spirit of Truth)**, which acts as an **internal, receptive transmitter** of Divine Will. This **Indwelling Principle** guides the soul into **Inner Truth** by consistently referring all revelation back to the Christ Pattern.
+
+The anguish of **Transformation** is likened to **Childbirth**, where the **Sorrow** of the process is immediately forgotten in the **Joy of Spiritual Emergence**. The chapter announces the shift from receiving **Symbolic Instruction (Allegories)** to **Direct Knowing** of the Source. This **Direct Knowing** is accessed through **Will-Alignment** with the Christ essence ("in my name"). The final command is to **Take Heart**, recognizing that the **Christ Principle** has already **Transended the World of Limitation**, securing the path for the soul's own ultimate victory.
+
+---
+
+## Interpretive Insights
+
+**I.1. The Necessary Process of Travail (v. 7, 21):** The BKV highlights that the **Christ Principle's** presence in its *physical/historical* form must cease for the **Principle of Indwelling Divine Reality** to fully activate *internally*. This transition necessitates a period of **Creative Agony (Travail)**. The sorrow felt during this **Inner Change** is temporary; the spiritual law guarantees that the pain of the **Transformation Process** results in the **unforgettable Joy** of birthing a new, higher awareness.
+
+**I.2. The Nature of the Spirit of Truth (v. 13):** The **Principle of Indwelling Divine Reality** is not an external oracle. The phrasing "He shall not speak of His Own limited perspective" establishes that this Principle is the **perfectly clear, receptive channel** within the soul. Its function is to **receive** the truth from the Source and **transmit** it directly into the consciousness of the soul, guiding it into all **Inner Truth**.
+
+**I.3. The Transition to Direct Knowing (v. 23, 25):** The statement about no longer speaking in **Allegories** marks a spiritual maturity point. The soul moves past relying on **Symbolic Instruction** (parables, rituals) to a state where the **Source** is revealed **directly within its awakened awareness**. This **Direct Knowing** then informs the soul's **Will-Alignment** ("ask in my name"), where asking becomes less about petition and more about declaring alignment with the Divine Will.
+
+---
+
+## John 16 — Symbolics Table
+
+| Literal Term (KJV) | BKV Meaning | Inner Principle Represented |
+| :--- | :--- | :--- |
+| **Comforter / Spirit of Truth** | The **Principle of Indwelling Divine Reality** | The internal, receptive channel that guides the soul into all truth. |
+| **Travail / Sorrow** | The **Creative Agony of Transformation** | The temporary psychological pain required to birth a new, higher consciousness. |
+| **Joy (v. 22)** | **Spiritual Emergence / New Awareness** | The enduring state of fulfillment resulting from a successful spiritual birth. |
+| **Allegories / Proverbs** | **Indirect / Symbolic Spiritual Instruction** | The earlier phase of learning through symbols and narrative. |
+| **Plainly / Directly** | **Unveiling the Source directly within awakened awareness** | The mature spiritual state of unified, unmediated knowing. |
+| **Ask in My Name** | **Will-Alignment with My Essence** | The state of embodying the Christ Pattern so fully that one's will is the Divine Will. |
+| **The World** | The **Limited World of External Consciousness** | The state of limitation, bondage, and separation that the Christ Principle transcends. |
+| **Tribulation** | **Inner Worldly Conflict** | The friction and suffering caused by spiritual growth within the physical/limited self. |
+| **Overcome the World** | **Transended the World of Limitation** | The final triumph of the Divine Pattern, clearing the path for the soul. |
+
+
+
