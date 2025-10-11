@@ -113,6 +113,10 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 ## 📖 Acts of the Apostles  
 - [Chapter 11](Acts_11.md)
 
+## 📖 Letter to the Ephesians  
+- [Chapter 01](Ephesians_01.md)
+
+- 
 ## 📖 Revelation  
 - [Chapter 1](Revelation_01.md)
 
