@@ -2,7 +2,7 @@
 
 
 
-## **Acts 12: The Triumph of Inner Power over External Force (Layered Approach)**
+## **Acts 12: The Triumph of Divine Inner Power over the External Will**
 
 Acts 12 portrays the dramatic confrontation between the hostile **External Consciousness** and the **Divine Power** acting through the devoted **Inner Community**. It showcases the immediate consequence of the **Highest Ego-Principle** (Herod) asserting its will against the Divine Mandate, and the **Principle of Sustained Prayer** as the key to miraculous inner release.
 
@@ -47,7 +47,8 @@ Acts 12 presents a clear psychological dualism. The chapter begins with a spirit
 
 | Symbol / Term | BKV Meaning | Commentary / Inner Lesson |
 | :--- | :--- | :--- |
-| **Herod the King** | The **Highest Ego-Principle / Unsurrendered Will** | The internal psychological authority that seeks **External Glory** and opposes the Divine Mandate. |
+| **Herod the King** | The **Highest Ego-Principle / Unsurrendered Will** | The internal psychological authority that seeks **External Glory** and opposes the Divine Mandate. _Herod_ literally means “song of the hero” or “springing forth of glory.” The _irony_ is that self-glorification destroys itself.
+|
 | **James** | The **Principle of Aligned Action** | The immediate, faithful obedience that is first destroyed by the **Ego-Will**. |
 | **Peter** | The **Principle of Inner Authority** | The core faculty of spiritual leadership and conscious faith targeted for silencing. |
 | **Prison / Chains** | **Inner Constraint / External Limitations** | Limiting beliefs, self-imposed psychological barriers, and destructive patterns. |
