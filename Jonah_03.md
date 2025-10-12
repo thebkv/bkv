@@ -59,3 +59,20 @@ This total, holistic **Act of Self-Denial and Humiliation** is the **Spiritual W
 | **Fasting / Sackcloth** | The **Act of Self-Denial and Humiliation** | The required inner process of conscious submission and surrender of the lower self. |
 | **Beast** | The **Lower / Animalistic Principles** | **See I.3.** The instinctive and base parts of the soul that must also be consecrated. |
 | **Repented / Relented** | Divine Response to Inner Turning | The immediate withdrawal of the threatened inner destruction upon sincere change. |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
