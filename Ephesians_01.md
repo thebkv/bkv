@@ -8,7 +8,7 @@
 
 ---
 
-## BKV-NR (Natural Reading)
+## BKV-NR  
 
 3. Blessed be the **Source** of our **Christ Principle**, who has blessed us with all **Spiritual Blessings** in the **Higher States of Spiritual Consciousness (Heavenly places)** in the **Christ Principle**:
 4. According as **He** has chosen us in **Him** **Before the Foundation of the Outer World (Eternal Spiritual Reality)**, that we should be **Consecrated** and without **Spiritual Flaw** before **Him** in **Inner Love**:
