@@ -111,7 +111,8 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 - [Chapter 01](Jude_01.md) of 1  
 
 ## 📖 Acts of the Apostles  
-- [Chapter 11](Acts_11.md)  
+- [Chapter 11](Acts_11.md)
+- [Chapter 12](Acts_12.md)  
 
 ## 📖 Letter to the Ephesians  
 - [Chapter 01](Ephesians_01.md)  
