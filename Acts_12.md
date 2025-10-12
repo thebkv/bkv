@@ -1,8 +1,4 @@
-# Acts 12 - BKV-NR
-
-
-
-## **Acts 12: The Triumph of Divine Inner Power over the External Will**
+# **Acts 12: The Triumph of Inner Power over External Force (Layered Approach)**
 
 Acts 12 portrays the dramatic confrontation between the hostile **External Consciousness** and the **Divine Power** acting through the devoted **Inner Community**. It showcases the immediate consequence of the **Highest Ego-Principle** (Herod) asserting its will against the Divine Mandate, and the **Principle of Sustained Prayer** as the key to miraculous inner release.
 
@@ -25,13 +21,13 @@ Acts 12 portrays the dramatic confrontation between the hostile **External Consc
 
 ---
 
-## **Commentary on the Action**
+### **Commentary on the Action**
 
 Acts 12 presents a clear psychological dualism. The chapter begins with a spiritual defeat—the martyrdom of the **Principle of Aligned Action (James)**—caused by the politically motivated **Highest Ego-Principle (Herod)**. This persecution immediately targets the **Principle of Inner Authority (Peter)**. The central action is not Peter's struggle, but the **Sustained Invocation** of the **Inner Community**. This concentrated prayer triggers a direct, miraculous intervention: the **Divine Messenger** effortlessly dissolves all **External Limitations** (chains, guards, gates) that the **Ego** had constructed. The dramatic contrast is cemented by the death of Herod—the **Highest Ego-Principle** that claims Divine Glory is immediately consumed by its own **Inner Corruption**, while the **Word of the Divine Source** continues to multiply.
 
 ---
 
-## **Interpretive Insights**
+### **Interpretive Insights**
 
 **I.1. The Principle of Sustained Invocation (Acts 12:5):** The church's prayer "without ceasing" is the **Spiritual Work** that creates the channel for release. In the BKV-NR, this is the commitment of the **Inner Community** to hold the vision of truth, refusing to accept the reality of **Inner Constraint** imposed by the **Ego-Principle**. The prayer itself is the action that binds and limits the **External Force**.
 
@@ -43,11 +39,11 @@ Acts 12 presents a clear psychological dualism. The chapter begins with a spirit
 
 ---
 
-## **Acts 12 — Symbolics Table**
+### **Acts 12 — Symbolics Table**
 
 | Symbol / Term | BKV Meaning | Commentary / Inner Lesson |
 | :--- | :--- | :--- |
-| **Herod the King** | The **Highest Ego-Principle / Unsurrendered Will** | The internal psychological authority that seeks **External Glory** and opposes the Divine Mandate. _Herod_ literally means “song of the hero” or “springing forth of glory.” The _irony_ is that self-glorification destroys itself.
+| **Herod the King** | The **Highest Ego-Principle / Unsurrendered Will** | The internal psychological authority that seeks **External Glory** and opposes the Divine Mandate. _Herod_ literally means “song of the hero” or “springing forth of glory.” In scripture, the use of this name for a "bad" person shows that self-glorification destroys itself.
 |
 | **James** | The **Principle of Aligned Action** | The immediate, faithful obedience that is first destroyed by the **Ego-Will**. |
 | **Peter** | The **Principle of Inner Authority** | The core faculty of spiritual leadership and conscious faith targeted for silencing. |
@@ -58,9 +54,3 @@ Acts 12 presents a clear psychological dualism. The chapter begins with a spirit
 | **Rhoda** | **Principle of Spontaneous Joy / Immediate Receptivity** | The part of the consciousness that instantly recognizes spiritual truth, though the rest of the mind doubts. |
 | **Voice of a God** | Claim of **External Glory** | The ultimate spiritual hubris of the **Ego-Principle** that demands praise for its own power. |
 | **Eaten of Worms** | **Inner Corruption / Self-Destruction** | The inevitable consequence of the un-glorified Ego, which disintegrates from within. |
-
-
-
-
-
-
