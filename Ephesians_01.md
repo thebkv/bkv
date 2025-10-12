@@ -107,7 +107,7 @@ The themes in **Ephesians 1** are so vast and foundational that they reflect and
     * **BKV Link:** It is the explanation of the Divine Will that precedes and governs all the symbolism of the **Garden (Eden)**.
 
 * **Ephesians 1:11 (The Full State of Realized Consciousness / Inheritance):** This is the New Testament culmination of the theme of the **Inheritance** found in **Deuteronomy 1** (see analysis in Deuteronomy 1).
-    * **Deuteronomy 1** detailed the failure of the **Old, Unregenerate Aspect of the Soul** to enter the **Promised Land (Inheritance)** due to **Unbelief**.
+    * **[Deuteronomy 1](Deuteronomy_01.md)** detailed the failure of the **Old, Unregenerate Aspect of the Soul** to enter the **Promised Land (Inheritance)** due to **Unbelief**.
     * **Ephesians 1** states that the true **Full State of Realized Consciousness** is not a piece of physical land but an **Imprint of the Spirit** (**Divine Guarantee / Seal**), and that this spiritual inheritance is **secured** in Christ. __It answers the question left hanging in Deuteronomy: *Where* is the true inheritance? *What* is it?__
 
 ### 2. The Prayer for Revelation: The Theme of Opening the Eyes
