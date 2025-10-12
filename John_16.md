@@ -60,7 +60,7 @@ The anguish of **Transformation** is likened to **Childbirth**, where the **Sorr
 
 **I.3. The Transition to Direct Knowing (v. 23, 25):** The statement about no longer speaking in **Allegories** marks a spiritual maturity point. The soul moves past relying on **Symbolic Instruction** (parables, rituals) to a state where the **Source** is revealed **directly within its awakened awareness**. **This shift from indirect teaching to immediate spiritual comprehension is the enlightenment Paul prays for in Ephesians 1:18.** This **Direct Knowing** then informs the soul's **Will-Alignment** ("ask in my name"), where asking becomes less about petition and more about declaring alignment with the Divine Will.
 
-[Ephesians 1](Ephesians_01.md)
+[Ephesians 1](Ephesians_01.md/#BKV-NR)
 
 ---
 
