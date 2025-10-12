@@ -15,6 +15,9 @@ Hebrews 3 (and 4) references Old Testament texts, and picks up from Psalm 95 and
 2. Who was faithful to **Him** that appointed **Him**, as also **The Principle of Divine Law (Moses)** was faithful in all **His Inner House**.
 3. For this **Principle** was counted worthy of more **Inner Glory** than **The Principle of Divine Law**, inasmuch as **He** who has built the **Inner House** has more **Honor** than the **Inner House** itself.
 6. But the **Christ Principle** as a **Principle of Divine Self (Son)** over **His Own Inner House**; whose **Inner House** are **We**, if we hold fast the **Confidence** and the **Rejoicing** of the **Inner Hope** firm unto the **End**.
+
+### The Warning Against Unbelief
+
 7. Wherefore, as the **Divine Energy (Holy Ghost)** says, “**Today** if you will hear **His Inner Voice**,
 8. **Harden not your Principles of Consecration (hearts)**, as in the **Inner Provocation**, in the **Day of Spiritual Testing** in the **Wilderness**:
 9. When your **Principles of Action (fathers)** tested **Me**, proved **Me**, and saw **My Spiritual Works** forty **Cycles of Testing**.
