@@ -58,7 +58,7 @@ The anguish of **Transformation** is likened to **Childbirth**, where the **Sorr
 
 **I.2. The Nature of the Spirit of Truth (v. 13):** The **Principle of Indwelling Divine Reality** is not an external oracle. The phrasing "He shall not speak of His Own limited perspective" establishes that this Principle is the **perfectly clear, receptive channel** within the soul. Its function is to **receive** the truth from the Source and **transmit** it directly into the consciousness of the soul, guiding it into all **Inner Truth**.
 
-**I.3. The Transition to Direct Knowing (v. 23, 25):** The statement about no longer speaking in **Allegories** marks a spiritual maturity point. The soul moves past relying on **Symbolic Instruction** (parables, rituals) to a state where the **Source** is revealed **directly within its awakened awareness**. This **Direct Knowing** then informs the soul's **Will-Alignment** ("ask in my name"), where asking becomes less about petition and more about declaring alignment with the Divine Will.
+**I.3. The Transition to Direct Knowing (v. 23, 25):** The statement about no longer speaking in **Allegories** marks a spiritual maturity point. The soul moves past relying on **Symbolic Instruction** (parables, rituals) to a state where the **Source** is revealed **directly within its awakened awareness**. **This shift from indirect teaching to immediate spiritual comprehension is the enlightenment Paul prays for in Ephesians 1:18.** This **Direct Knowing** then informs the soul's **Will-Alignment** ("ask in my name"), where asking becomes less about petition and more about declaring alignment with the Divine Will.
 
 ---
 
@@ -75,6 +75,20 @@ The anguish of **Transformation** is likened to **Childbirth**, where the **Sorr
 | **The World** | The **Limited World of External Consciousness** | The state of limitation, bondage, and separation that the Christ Principle transcends. |
 | **Tribulation** | **Inner Worldly Conflict** | The friction and suffering caused by spiritual growth within the physical/limited self. |
 | **Overcome the World** | **Transended the World of Limitation** | The final triumph of the Divine Pattern, clearing the path for the soul. |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
