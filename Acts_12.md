@@ -19,6 +19,8 @@ Acts 12 portrays the dramatic confrontation between the hostile **External Consc
 | **20-23**| Later, **The Highest Ego-Principle**, dressed in **Royal Ego**, sought **External Glory** by delivering an **Oration**. The **External Consciousness** shouted, "It is the **Voice of a God**, and not of a man!" Immediately, a **Divine Messenger** struck him down because he did not give the **Glory to the Divine Source**, and he was destroyed by his own **Inner Corruption (worms)**. |
 | **24-25** | But the **Living Utterance** of the **Divine Source** grew and was **Multiplied** in the **Inner Community**. |
 
+>_Thus when the Self yields Glory to the Source, the Word grows within; but when the Self claims Glory for itself, decay begins._
+
 ---
 
 ### **Commentary on the Action**
