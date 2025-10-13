@@ -31,7 +31,9 @@ Acts 12 presents a clear psychological dualism. The chapter begins with a spirit
 
 **I.1. The Principle of Sustained Invocation (Acts 12:5):** The church's prayer "without ceasing" is the **Spiritual Work** that creates the channel for release. In the BKV-NR, this is the commitment of the **Inner Community** to hold the vision of truth, refusing to accept the reality of **Inner Constraint** imposed by the **Ego-Principle**. The prayer itself is the action that binds and limits the **External Force**.
 
-**I.2. The Dissolution of Inner Constraint (Acts 12:7-10):** The **Inner Constraint (prison)** represents the limiting beliefs, fears, and destructive patterns (chains) established by the **Ego-Will**. The **Divine Messenger** effortlessly dissolves these limitations. The **Iron Gate of Habit** opening "of its own accord" signifies that when the **Principle of Inner Authority** is aligned with the Divine Will, even the most rigid, ingrained mental barriers must yield without resistance.
+**I.2. The Dissolution of Inner Constraint (Acts 12:7-10):** The **Inner Constraint (prison)** represents the limiting beliefs, fears, and destructive patterns (chains) established by the **Ego-Will**. The **Divine Messenger** effortlessly dissolves these limitations. 
+
+“The Iron Gate of Habit” corresponds to the last layer of automatic behavior—the subconscious repetition that must “open of its own accord,” i.e., through non-resistance rather than struggle. This is when the **Principle of Inner Authority** is aligned with the Divine Will, even the most rigid, ingrained mental barriers must yield without resistance. 
 
 **I.3. The Unbelieving Faith (Acts 12:12-16):** The **Inner Community's** reaction (failing to believe the answer to their own prayer) is a powerful lesson in self-doubt. They had the *theory* of Divine Power (**Sustained Invocation**) but not the *expectation* of its *immediate manifestation*. The belief that it was Peter's "angel" (Spirit Form) rather than Peter himself shows the mind's tendency to intellectualize or distance the spiritual truth, even when it is knocking at the door of consciousness.
 
