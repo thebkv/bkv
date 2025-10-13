@@ -16,7 +16,9 @@ permalink: /numbers/23/
 
 ## **Numbers 23: The Unstoppable Prophecy (Layered Approach)**
 
-Numbers 23 presents a profound conflict between the desperate machinations of the **Fearful Ego-Will (Balak)** and the unalterable path of the **Divine Utterance (Balaam)**. The chapter demonstrates that the **Faculty of Prophecy** (Balaam) is incapable of aligning with the **Ego-Intent (Balak)**, regardless of external pressure or reward. It reveals that the **Inner Community (Israel)**—the **Overcomer / God-Ruled Consciousness**—is already blessed and cannot be cursed, as its destiny is fixed **in God**.
+It may be helpful to read Numbers 22 first. Numbers 23 presents a profound conflict between the desperate machinations of the **Fearful Ego-Will (Balak)** and the unalterable path of the **Divine Utterance (Balaam)**. The chapter demonstrates that the **Faculty of Prophecy** (Balaam) is incapable of aligning with the **Ego-Intent (Balak)**, regardless of external pressure or reward. It reveals that the **Inner Community (Israel)**—the **Overcomer / God-Ruled Consciousness**—is already blessed and cannot be cursed, as its destiny is fixed **in God**.
+
+
 
 -----
 
