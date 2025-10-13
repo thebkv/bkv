@@ -43,14 +43,17 @@ Acts 12 presents a clear psychological dualism. The chapter begins with a spirit
 
 | Symbol / Term | BKV Meaning | Commentary / Inner Lesson |
 | :--- | :--- | :--- |
-| **Herod the King** | The **Highest Ego-Principle / Unsurrendered Will** | The internal psychological authority that seeks **External Glory** and opposes the Divine Mandate. _Herod_ literally means “song of the hero” or “springing forth of glory.” In scripture, the use of this name for a "bad" person shows that self-glorification destroys itself.
-|
-| **James** | The **Principle of Aligned Action** | The immediate, faithful obedience that is first destroyed by the **Ego-Will**. |
-| **Peter** | The **Principle of Inner Authority** | The core faculty of spiritual leadership and conscious faith targeted for silencing. |
+| **Herod the King** | **Highest Ego-Principle / Unsurrendered Will** | The internal psychological authority that seeks **External Glory** and opposes the Divine Mandate. _Herod_ literally means “song of the hero” or “springing forth of glory.” In scripture, the use of this name for a “bad” person shows that self-glorification destroys itself. |
+| **James** | **Principle of Aligned Action** | The immediate, faithful obedience that is first destroyed by the **Ego-Will**. |
+| **Peter** | **Principle of Inner Authority** | The core faculty of spiritual leadership and conscious faith targeted for silencing. |
 | **Prison / Chains** | **Inner Constraint / External Limitations** | Limiting beliefs, self-imposed psychological barriers, and destructive patterns. |
-| **Prayer Without Ceasing**| **The Principle of Sustained Invocation** | The active, constant holding of the Divine vision by the **Inner Community** to dissolve the constraint. |
-| **Angel / Divine Messenger**| **Principle of Divine Intervention** | The immediate, miraculous action of the **Self-Existent Reality** in the inner life. |
-| **Iron Gate** | The **Iron Gate of Habit** | The rigid, deep-seated mental/emotional structures that yield only to Divine Power. |
+| **Prayer Without Ceasing** | **Principle of Sustained Invocation** | The active, constant holding of the Divine Vision by the **Inner Community** to dissolve the constraint. |
+| **Angel / Divine Messenger** | **Principle of Divine Intervention** | The immediate, miraculous action of the **Self-Existent Reality** in the inner life. |
+| **Iron Gate** | **Iron Gate of Habit** | The rigid, deep-seated mental or emotional structures that yield only to Divine Power. |
 | **Rhoda** | **Principle of Spontaneous Joy / Immediate Receptivity** | The part of the consciousness that instantly recognizes spiritual truth, though the rest of the mind doubts. |
-| **Voice of a God** | Claim of **External Glory** | The ultimate spiritual hubris of the **Ego-Principle** that demands praise for its own power. |
-| **Eaten of Worms** | **Inner Corruption / Self-Destruction** | The inevitable consequence of the un-glorified Ego, which disintegrates from within. ||
+| **Voice of a God** | **Claim of External Glory** | The ultimate spiritual hubris of the **Ego-Principle** that demands praise for its own power. |
+| **Eaten of Worms** | **Inner Corruption / Self-Destruction** | The inevitable consequence of the un-glorified Ego, which disintegrates from within. |
+
+
+
+
