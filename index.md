@@ -164,6 +164,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ## 📖 Numbers  
 - [Chapter 4](Numbers_04.md)
+- [Chapter 23](Numbers_23.md)
 
 ## 📖 Jonah  
 - [Chapter 1](Jonah_01.md)
