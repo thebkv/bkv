@@ -2,6 +2,8 @@
 
 Acts 12 portrays the dramatic confrontation between the hostile **External Consciousness** and the **Divine Power** acting through the devoted **Inner Community**. It showcases the immediate consequence of the **Highest Ego-Principle** (Herod) asserting its will against the Divine Mandate, and the **Principle of Sustained Prayer** as the key to miraculous inner release.
 
+The prison and chains represent limiting beliefs; the Divine Messenger effortlessly dissolves them. The Iron Gate of Habit opens “of its own accord.”
+
 ---
 
 > *“Peter therefore was kept in prison: but prayer was made without ceasing of the church unto God for him... And immediately the angel of the Lord smote him, because he gave not God the glory: and he was eaten of worms, and gave up the ghost.”* (Acts 12:5, 23 KJV)
