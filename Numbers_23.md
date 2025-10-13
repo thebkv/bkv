@@ -80,7 +80,7 @@ The statement “Surely there is no enchantment against Jacob, neither is there 
 
 -----
 
-**Summary**  
+> **Summary**  
 > *Numbers 23 moves from Manipulation to Obedience to Realization—revealing that the Word cannot be turned aside, and the Self already stands blessed within the Immutable Source.*
 
 ---
