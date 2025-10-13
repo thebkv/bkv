@@ -8,3 +8,16 @@ $base-font-family: 'Montserrat', sans-serif;
 body {
   font-size: 1.25rem; /* Your custom font-size rule here */
 }
+
+table {
+  width: 100%;
+  display: block;
+  overflow-x: auto;
+  border-collapse: collapse;
+  margin-bottom: 1em;
+}
+th, td {
+  padding: 6px 10px;
+  vertical-align: top;
+  border: 1px solid #ddd;
+}
