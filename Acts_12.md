@@ -53,4 +53,4 @@ Acts 12 presents a clear psychological dualism. The chapter begins with a spirit
 | **Iron Gate** | The **Iron Gate of Habit** | The rigid, deep-seated mental/emotional structures that yield only to Divine Power. |
 | **Rhoda** | **Principle of Spontaneous Joy / Immediate Receptivity** | The part of the consciousness that instantly recognizes spiritual truth, though the rest of the mind doubts. |
 | **Voice of a God** | Claim of **External Glory** | The ultimate spiritual hubris of the **Ego-Principle** that demands praise for its own power. |
-| **Eaten of Worms** | **Inner Corruption / Self-Destruction** | The inevitable consequence of the un-glorified Ego, which disintegrates from within. |
+| **Eaten of Worms** | **Inner Corruption / Self-Destruction** | The inevitable consequence of the un-glorified Ego, which disintegrates from within. ||
