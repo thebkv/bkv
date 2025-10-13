@@ -1,3 +1,10 @@
+---
+title: "Acts 17 — The Integration of the Universal Principle"
+subtitle: "The Word Before the Mind: From Rejection to Recognition"
+layout: post
+categories: [Bible Key, Acts]
+permalink: /acts/17/
+---
 
 # **Acts 17 — The Integration of the Universal Principle**
 ### *The Word Before the Mind: From Rejection to Recognition*
