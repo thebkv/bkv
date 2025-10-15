@@ -80,7 +80,8 @@ The **Stone cut without hands** is the Word of Spirit breaking through the strat
 
 ## **Spiritual Implication**
 
-**Daniel** teaches that spiritual sovereignty is not freedom from captivity but **freedom within it**.  
+>_**Daniel** teaches that spiritual sovereignty is not found by leaving Babylon, but by awakening the Kingdom of God so completely that Babylon is revealed as never having existed._
+
 When the mind stands firm in purity, and the heart listens to revelation rather than fear, the lions sleep, the fire refines without consuming, and the mysteries of time unfold in peace.  
 
 The **Son of Man** — the Christ within — rises not after escape, but within the very heart of trial.
