@@ -79,7 +79,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 ---
 
 <a id="moses"></a>  
-## The Books of Moses (The Foundation of Inner Las)
+## <span class="color-moses">📜 The Books of Moses</span>
 
 ## 📖 Exodus  
 - [Chapter 1](Exodus_01.md)
