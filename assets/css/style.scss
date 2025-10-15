@@ -22,11 +22,19 @@ th, td {
 }
 
 /* ===== BKV Section Colors ===== */
-.color-moses       { color: #d1a100; }  /* gold – Law / foundation */
-.color-histories   { color: #8b4513; }  /* bronze – action / earth */
-.color-poetry      { color: #4b0082; }  /* indigo – emotion / depth */
-.color-prophets    { color: #b22222; }  /* fire red – vision / purification */
-.color-gospels     { color: #2e8b57; }  /* deep green – life / incarnation */
-.color-letters     { color: #1e90ff; }  /* blue – teaching / expansion */
-.color-revelation  { color: #800080; }  /* royal purple – completion / divinity */
+.color-moses       { color: #d1a100 !important; }  /* gold – Law / foundation */
+.color-histories   { color: #8b4513 !important; }  /* bronze – action / earth */
+.color-poetry      { color: #4b0082 !important; }  /* indigo – emotion / depth */
+.color-prophets    { color: #b22222 !important; }  /* fire red – vision / purification */
+.color-gospels     { color: #2e8b57 !important; }  /* deep green – life / incarnation */
+.color-letters     { color: #1e90ff !important; }  /* blue – teaching / expansion */
+.color-revelation  { color: #800080 !important; }  /* royal purple – completion / divinity */
 
+/* ===== Visual Tweaks for Color Squares ===== */
+span[class^="color-"] {
+  font-size: 1.4em;       /* increase size slightly */
+  font-weight: bold;      /* make the ■ thicker and more visible */
+  line-height: 1;         /* keep them vertically centered in table cells */
+  display: inline-block;  /* helps alignment in tables */
+  vertical-align: middle; /* keeps the square centered next to text */
+}
