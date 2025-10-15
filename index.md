@@ -144,6 +144,11 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 - [Chapter 3](Ezra_03.md)
 
 ## 📖 Daniel  
+- [Chapter 00](Daniel_00.md)
+- [Chapter 01](Daniel_01.md)
+- [Chapter 02](Daniel_02.md)  
+- [Chapter 03](Daniel_03.md)
+- [Chapter 06](Daniel_06.md)
 - [Chapter 07](Daniel_07.md)  
 
 ## 📖 Deuteronomy  
