@@ -79,6 +79,8 @@ It translates directly into common psychological experience:
 
 > **The Deuteronomic critique is timeless. Our human mind is adept at using its Principles of Investigation to justify fear, rather than using them to justify the Divine Command. It's the spiritual sin of prioritizing risk assessment over absolute trust.**
 >
+> “Every promised land begins as an impossible idea; every wilderness begins as the refusal to trust it.”
+>
 > **See [Hebrews 3](Hebrews_03.md#The-Warning-Against-Unbelief) and 4 and [Psalm 95](Psalm_95.md) for more on this theme.**
 
 
