@@ -90,7 +90,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 - [Chapter 1](Genesis_01.md)
 - [Chapter 2](Genesis_02.md)
 - [Chapter 3](#Genesis_03.md)
-- [Chapter 3a] <!-- (Chapter_03a.md) -->
+- [Chapter 3a](<!-- Chapter_03a.md -->)
 - [Chapter 4](Genesis_04.md)
 - [Chapter 5](Genesis_05.md)
 - [Chapter 6](Genesis_06.md)
