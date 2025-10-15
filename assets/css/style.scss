@@ -29,7 +29,16 @@ th, td {
 .color-gospels     { color: #2e8b57 !important; }  /* deep green – life / incarnation */
 .color-letters     { color: #1e90ff !important; }  /* blue – teaching / expansion */
 .color-revelation  { color: #800080 !important; }  /* royal purple – completion / divinity */
-
+.coming-soon {
+  color: #888;
+  text-decoration: none;
+  cursor: not-allowed;
+}
+.coming-soon::after {
+  content: " (coming soon)";
+  font-size: 0.9em;
+  color: #aaa;
+}
 /* ===== Visual Tweaks for Color Squares ===== */
 span[class^="color-"] {
   font-size: 1.8em;       /* increase size slightly */
@@ -38,3 +47,5 @@ span[class^="color-"] {
   display: inline-block;  /* helps alignment in tables */
   vertical-align: middle; /* keeps the square centered next to text */
 }
+
+
