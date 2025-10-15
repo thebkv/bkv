@@ -1,7 +1,24 @@
 
 # The Bible Key Vision (BKV)
 Integrated Symbolics Bible Study
-This is <span class="color-moses">gold text</span> inside a paragraph.
+
+
+
+---
+
+
+### **🕊️ BKV Canonical Color Guide**
+
+| Section | Visual | Symbolic Meaning |
+| :--- | :---: | :--- |
+| **The Books of Moses** | <span class="color-moses">■</span> | *Law, foundation, divine order established within the soul.* |
+| **The Histories** | <span class="color-histories">■</span> | *Action, manifestation, consciousness working through the world.* |
+| **The Poetry & Wisdom Books** | <span class="color-poetry">■</span> | *Emotion, reflection, the dialogue of the soul and Spirit.* |
+| **The Prophets** | <span class="color-prophets">■</span> | *Vision, purification, the fire that refines and corrects.* |
+| **The Gospels** | <span class="color-gospels">■</span> | *Incarnation, life, the Word made flesh within humanity.* |
+| **The Letters** | <span class="color-letters">■</span> | *Expansion, teaching, application of divine consciousness.* |
+| **Revelation** | <span class="color-revelation">■</span> | *Completion, illumination, the final unveiling of divinity.* |
+
 ---  
 
 ## **Quick Navigation — The Sevenfold Structure of Scripture**
