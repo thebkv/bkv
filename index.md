@@ -4,13 +4,17 @@ Integrated Symbolics Bible Study
 
 ---  
 
-## [Jump to Moses / Foundations](#moses)
-## [Jump to Histories](https://thebkv.github.io/bkv/#-the-gospel-according-to-matthew)
-## [Jump to Poetry](https://thebkv.github.io/bkv/#-the-gospel-according-to-matthew)
-## [Jump to Prophets](https://thebkv.github.io/bkv/#-the-gospel-according-to-matthew)
-## [Jump to Gospels](https://thebkv.github.io/bkv/#-the-gospel-according-to-matthew)
-## [Jump to Letters](https://thebkv.github.io/bkv/#-the-gospel-according-to-matthew)
-## [Jump to Revelation](https://thebkv.github.io/bkv/#-the-gospel-according-to-matthew)
+## **Quick Navigation — The Sevenfold Structure of Scripture**
+
+| Jump Link | Section Title | Symbolic BKV Theme |
+| :--- | :--- | :--- |
+| [Jump to Moses Books](#moses) | **The Books of Moses** | *Formation of the Inner Law — The Awakening of Divine Order in the Soul.* |
+| [Jump to Histories](#histories) | **The Histories** | *The Outworking of Consciousness — How Inner Principles Become External Patterns.* |
+| [Jump to Poetry](#poetry) | **The Poetry and Wisdom Books** | *The Dialogue of the Soul — The Refinement of Awareness through Reflection and Emotion.* |
+| [Jump to Prophets](#prophets) | **The Prophets** | *The Vision and Correction of the Inner Kingdom — The Call to Alignment and Restoration.* |
+| [Jump to Gospels](#gospels) | **The Gospels** | *The Manifestation of Christ-Consciousness — The Word Made Flesh within the Human Spirit.* |
+| [Jump to Letters](#letters) | **The Letters** | *The Expansion of the Inner Church — The Application of Christ-Consciousness to Daily Life.* |
+| [Jump to Revelation](#revelation) | **Revelation** | *The Unveiling — The Final Realization of the Kingdom of God within All.* |
 
 ---  
 
