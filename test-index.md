@@ -1,10 +1,9 @@
-
-
 ---
-title: "Full Index — The Bible Key Version"
+title: "BKV Index Test"
 layout: post
-permalink: /index/
+permalink: /test-index/
 ---
+
 
 # 📜 **Bible Key Version — Full Index**
 
