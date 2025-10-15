@@ -7,7 +7,7 @@ permalink: /daniel/intro/
 ---
 
 # **Book of Daniel — The Dominion of Inner Vision**
-### *Revelation through Discipline: The Soul’s Sovereignty in Captivity*
+### *Discipline Revealing Dominion: The Soul’s Sovereignty in Captivity*
 
 > _“But there is a God in heaven that revealeth secrets.” — Daniel 2:28 KJV_
 
