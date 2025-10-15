@@ -23,6 +23,23 @@ Where **Ezekiel** unveils the architecture of restored consciousness, **Daniel**
 The **Lion’s Den**, **Fiery Furnace**, and **Prophetic Visions** all dramatize the triumph of **faithful awareness** over the forces of fear, conformity, and illusion.  
 Every event in Daniel is psychological: **Babylon** represents the confusion of divided thought; **Nebuchadnezzar** the proud egoic will; **the Four Beasts** the elemental drives of the psyche; **the Son of Man** the restored Divine Identity rising to dominion within the soul.
 
+True dominion in the BKV sense is not external rule but inner sovereignty:
+the point at which consciousness no longer reacts to fear, desire, or threat.
+
+When discipline reaches full maturity, the outer world begins to mirror that inner order.
+This is why Daniel’s integrity converts kings, silences lions, and governs empires — the world bows to the order that already exists within him.
+
+---
+
+>Discipline is the act of establishing divine law within;
+>Dominion is the recognition that this law governs everything without.
+
+⸻
+
+In short:
+
+**Discipline Revealing Dominion** means that spiritual mastery is not achieved by struggle or command, but by consistency, purity, and inner order.
+When the soul is rightly disciplined, its dominion over circumstance is automatic — not seized, but revealed.
 ---
 
 ## **The Inner Arc of Daniel**
