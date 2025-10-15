@@ -4,7 +4,13 @@ Integrated Symbolics Bible Study
 
 ---  
 
-# [Jump to Books](https://thebkv.github.io/bkv/#-the-gospel-according-to-matthew)
+## [Jump to Moses / Foundations](#moses)
+## [Jump to Histories](https://thebkv.github.io/bkv/#-the-gospel-according-to-matthew)
+## [Jump to Poetry](https://thebkv.github.io/bkv/#-the-gospel-according-to-matthew)
+## [Jump to Prophets](https://thebkv.github.io/bkv/#-the-gospel-according-to-matthew)
+## [Jump to Gospels](https://thebkv.github.io/bkv/#-the-gospel-according-to-matthew)
+## [Jump to Letters](https://thebkv.github.io/bkv/#-the-gospel-according-to-matthew)
+## [Jump to Revelation](https://thebkv.github.io/bkv/#-the-gospel-according-to-matthew)
 
 ---  
 
@@ -64,6 +70,32 @@ Include project GUID (below) at end of chapter
 Add a custom chapter GUID if you are creating a new file or make substantial changes  
   No need for new Chapter GUID if fine tuning for fixing mistakes  
   Optional: Save your GUIDs in notes or your chat, they may help you find your way back down the road  
+
+
+---
+
+<a id="moses"></a>  
+## The Books of Moses (The Foundation of Inner Las)
+
+## 📖 Exodus  
+- [Chapter 1](Exodus_01.md)
+- [Chapter 2](Exodus_02.md)
+- [Chapter 3](Exodus_03.md)
+- [Chapter 4](Exodus_04.md)
+- [Chapter 5](Exodus_05.md)
+- [Chapter 6](Exodus_06.md)
+
+## 📖 Leviticus  
+- [Chapter 7](Leviticus_07.md) 
+
+## 📖 Numbers  
+- [Chapter 4](Numbers_04.md)
+- [Chapter 23](Numbers_23.md)
+
+## 📖 Deuteronomy  
+- [Chapter 01](Deuteronomy_01.md)  
+
+---
 
 ## 📖 The Gospel According to Matthew
 - [Chapter 1](Matthew_01.md) 
@@ -135,9 +167,6 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 ## 📖 Job  
 - [Chapter 1](Job_01.md)  
 
-## 📖 Leviticus  
-- [Chapter 7](Leviticus_07.md) 
-
 ## 📖 Ezra  
 - [Chapter 1](Ezra_01.md)
 - [Chapter 2](Ezra_02.md)
@@ -151,25 +180,12 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 - [Chapter 06](Daniel_06.md)
 - [Chapter 07](Daniel_07.md)  
 
-## 📖 Deuteronomy  
-- [Chapter 01](Deuteronomy_01.md)  
-
 ## 📖 Ezekiel  
 - [Chapter 1](Ezekiel_12.md)
 - [Chapter 2](Ezekiel_13.md)
 - [Chapter 3](Ezekiel_37.md)
 
-## 📖 Exodus  
-- [Chapter 1](Exodus_01.md)
-- [Chapter 2](Exodus_02.md)
-- [Chapter 3](Exodus_03.md)
-- [Chapter 4](Exodus_04.md)
-- [Chapter 5](Exodus_05.md)
-- [Chapter 6](Exodus_06.md)
 
-## 📖 Numbers  
-- [Chapter 4](Numbers_04.md)
-- [Chapter 23](Numbers_23.md)
 
 ## 📖 Jonah  
 - [Chapter 1](Jonah_01.md)
