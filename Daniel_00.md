@@ -34,7 +34,7 @@ This is why Daniel’s integrity converts kings, silences lions, and governs emp
 >Discipline is the act of establishing divine law within;
 >Dominion is the recognition that this law governs everything without.
 
-⸻
+---  
 
 In short:
 
