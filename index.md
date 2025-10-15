@@ -88,11 +88,8 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ## 📖 The Book of Genesis
 - [Chapter 1](Genesis_01.md)
-- <span class="coming-soon">Chapter 2</span>
-- [Chapter 3](Genesis_03.md)
-- Chapter_3a  
 - [Chapter 2](Genesis_02.md)
-- [Chapter 3](Genesis_03.md)
+- [Chapter 3](#Genesis_03.md)
 - [Chapter 3a] <!-- (Chapter_03a.md) -->
 - [Chapter 4](Genesis_04.md)
 - [Chapter 5](Genesis_05.md)
