@@ -6,7 +6,7 @@ Integrated Symbolics Bible Study
 
 ---
 
-### **📜 Quick Navigation — The Sevenfold Structure of Scripture**
+### **Quick Navigation — The Sevenfold Structure of Scripture**
 
 | Jump Link | Section Title | Visual | Symbolic BKV Theme |
 | :--- | :--- | :---: | :--- |
