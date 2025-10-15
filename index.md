@@ -1,7 +1,7 @@
 
 # The Bible Key Vision (BKV)
 Integrated Symbolics Bible Study
-
+This is <span class="color-moses">gold text</span> inside a paragraph.
 ---  
 
 ## **Quick Navigation — The Sevenfold Structure of Scripture**
