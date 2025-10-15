@@ -1,5 +1,5 @@
 
-# The Bible Key Version (BKV)
+# The Bible Key Vision (BKV)
 Integrated Symbolics Bible Study
 
 ---  
