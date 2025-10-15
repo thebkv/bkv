@@ -164,3 +164,15 @@ Use the color-coded sections or the “Jump To” links below to move through th
 
 ✨ **Tip:** Each `00.md` file can serve as the symbolic “intro” for that book — allowing readers to move from overview to deep study naturally.  
 You can even embed “Return to Index” links at the bottom of each for quick circular navigation.
+
+
+
+<details>
+  <summary>📜 Genesis</summary>
+  <ul>
+    <li><a href="/Genesis_01.md">Chapter 1</a></li>
+    <li><a href="/Genesis_02.md">Chapter 2</a></li>
+    <li><a href="/Genesis_03.md">Chapter 3</a></li>
+  </ul>
+</details>
+
