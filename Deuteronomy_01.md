@@ -1,5 +1,5 @@
 
-# Deuteronomy 1 — BKV Study (The Failure at the Decision Point)
+# Deuteronomy 1 — BKV Study (The Failure at the Threshold of Faith)
 
 **Deuteronomy 1** initiates Moses' final, critical discourse. It functions as a powerful BKV summary, reviewing the tragic failure of the **First Generation** of the soul to claim its spiritual inheritance—a pattern we must avoid.
 
