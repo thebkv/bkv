@@ -112,21 +112,6 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 - [Chapter 6](Exodus_06.md)
 
 
-## <span class="color-moses">📜 The Book of Exodus</span>
-
-[Chapter 00](Exodus_00.md)  
-[Chapter 01](Exodus_01.md)  
-[Chapter 02](Exodus_02.md)  
-[Chapter 03](Exodus_03.md)  
-[Chapter 04](Exodus_04.md)  
-[Chapter 05](Exodus_05.md)  
-[Chapter 06](Exodus_06.md)  
-Chapter 07 <!--(Exodus_07.md) -->  
-Chapter 13 <!--(Exodus_13.md) -->  
-[Chapter 14](Exodus_14.md)  
-Chapter 15 <!--(Exodus_15.md) -->  
-Chapter 16 <!--(Exodus_16.md) -->  
-
 
 
 
