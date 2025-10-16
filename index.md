@@ -147,6 +147,53 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 - [Chapter 5](Exodus_05.md)
 - [Chapter 6](Exodus_06.md)
 
+## <span class="color-moses">📜 The Book of Exodus</span>
+
+[Chapter 00](Exodus_00.md)  
+[Chapter 01](Exodus_01.md)  
+[Chapter 02](Exodus_02.md)  
+[Chapter 03](Exodus_03.md)  
+[Chapter 04](Exodus_04.md)  
+[Chapter 05](Exodus_05.md)  
+[Chapter 06](Exodus_06.md)  
+Chapter 07  
+Chapter 08  <-- (Exodus_08.md) -->
+Chapter 09  
+Chapter 10  
+Chapter 11  
+Chapter 12  
+Chapter 13  
+[Chapter 14](Exodus_14.md)  
+Chapter 15  
+Chapter 16  
+Chapter 17  
+Chapter 18  
+Chapter 19  
+Chapter 20  
+Chapter 21  
+Chapter 22  
+Chapter 23  
+Chapter 24  
+Chapter 25  
+Chapter 26  
+Chapter 27  
+Chapter 28  
+Chapter 29  
+Chapter 30  
+Chapter 31  
+Chapter 32  
+Chapter 33  
+Chapter 34  
+Chapter 35  
+Chapter 36  
+Chapter 37  
+Chapter 38  
+Chapter 39  
+Chapter 40
+
+
+
+
 ## 📖 Leviticus  
 - [Chapter 7](Leviticus_07.md) 
 
