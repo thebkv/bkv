@@ -34,8 +34,13 @@ Use the color-coded sections or the “Jump To” links below to move through th
 
 <div class="chapter-grid">
 
-[00](Exodus_00.md) • [01](Exodus_01.md) • [02](Exodus_02.md) • [03](Exodus_03.md) • [04](Exodus_04.md) • [05](Exodus_05.md) • [06](Exodus_06.md) •  
-07 • 08 • 09 • 10 • 11 • 12 • 13 • [14](Exodus_14.md) • 15 • 16 • 17 • 18 • 19 • 20 • 21 • 22 • 23 • 24 • 25 • 26 • 27 • 28 • 29 • 30 • 31 • 32 • 33 • 34 • 35 • 36 • 37 • 38 • 39 • 40
+[00](Exodus_00.md) • [01](Exodus_01.md) • [02](Exodus_02.md) • [03](Exodus_03.md) • [04](Exodus_04.md) • [05](Exodus_05.md)<br>
+[06](Exodus_06.md) • [07](Exodus_07.md) • [08](Exodus_08.md) • 09 • 10 • 11<br>
+12 • 13 • [14](Exodus_14.md) • 15 • 16 • 17<br>
+18 • 19 • 20 • 21 • 22 • 23<br>
+24 • 25 • 26 • 27 • 28 • 29<br>
+30 • 31 • 32 • 33 • 34 • 35<br>
+36 • 37 • 38 • 39 • 40
 
 </div>
 
