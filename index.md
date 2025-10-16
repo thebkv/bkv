@@ -129,39 +129,10 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 [Chapter 05](Exodus_05.md)  
 [Chapter 06](Exodus_06.md)  
 Chapter 07 <!--(Exodus_07.md) -->  
-Chapter 08 <!--(Exodus_08.md) -->  
-Chapter 09 <!--(Exodus_09.md) -->  
-Chapter 10 <!--(Exodus_10.md) -->  
-Chapter 11 <!--(Exodus_11.md) -->  
-Chapter 12 <!--(Exodus_12.md) -->  
 Chapter 13 <!--(Exodus_13.md) -->  
 [Chapter 14](Exodus_14.md)  
 Chapter 15 <!--(Exodus_15.md) -->  
 Chapter 16 <!--(Exodus_16.md) -->  
-Chapter 17 <!--(Exodus_17.md) -->  
-Chapter 18 <!--(Exodus_18.md) -->  
-Chapter 19 <!--(Exodus_19.md) -->  
-Chapter 20 <!--(Exodus_20.md) -->  
-Chapter 21 <!--(Exodus_21.md) -->  
-Chapter 22 <!--(Exodus_22.md) -->  
-Chapter 23 <!--(Exodus_23.md) -->  
-Chapter 24 <!--(Exodus_24.md) -->  
-Chapter 25 <!--(Exodus_25.md) -->  
-Chapter 26 <!--(Exodus_26.md) -->  
-Chapter 27 <!--(Exodus_27.md) -->  
-Chapter 28 <!--(Exodus_28.md) -->  
-Chapter 29 <!--(Exodus_29.md) -->  
-Chapter 30 <!--(Exodus_30.md) -->  
-Chapter 31 <!--(Exodus_31.md) -->  
-Chapter 32 <!--(Exodus_32.md) -->  
-Chapter 33 <!--(Exodus_33.md) -->  
-Chapter 34 <!--(Exodus_34.md) -->  
-Chapter 35 <!--(Exodus_35.md) -->  
-Chapter 36 <!--(Exodus_36.md) -->  
-Chapter 37 <!--(Exodus_37.md) -->  
-Chapter 38 <!--(Exodus_38.md) -->  
-Chapter 39 <!--(Exodus_39.md) -->  
-Chapter 40 <!--(Exodus_40.md) -->  
 
 
 
