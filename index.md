@@ -81,10 +81,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ---
 
-<a id="moses"></a>  
-## <span class="color-moses">📜 The Books of Moses</span>
 
----
 
 
 
@@ -101,6 +98,17 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 35 <!--(Exodus_35.md) --> • 36 <!--(Exodus_36.md) --> • 37 <!--(Exodus_37.md) --> • 38 <!--(Exodus_38.md) --> • 39 <!--(Exodus_39.md) --> • 40 <!--(Exodus_40.md) -->
 
 </div>
+
+
+---
+
+
+
+
+<a id="moses"></a>  
+## <span class="color-moses">📜 The Books of Moses</span>
+
+---
 
 
 
