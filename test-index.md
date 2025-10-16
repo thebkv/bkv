@@ -28,7 +28,7 @@ Use the color-coded sections or the “Jump To” links below to move through th
 
 
 
-
+[00](Exodus_00.md) • [01](Exodus_01.md) • 
 
 ## <span class="color-moses">📜 The Book of Exodus</span>
 
