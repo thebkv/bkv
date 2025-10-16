@@ -64,3 +64,9 @@ span[class^="color-"] {
   text-decoration: underline;
 }
 
+@media (max-width: 600px) {
+  .chapter-grid {
+    gap: 0.35em;
+    line-height: 1.4;
+  }
+}
