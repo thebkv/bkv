@@ -37,9 +37,9 @@ Use the color-coded sections or the “Jump To” links below to move through th
 
 <p class="chapter-grid">
 
-[00](/bkv/exodus/intro/) • [01](/bkv/Exodus_01.html) • [02](/bkv/Exodus_02.html) • [03](/bkv/Exodus_03.html) • [04](/bkv/Exodus_04.html) • [05](/bkv/Exodus_05.html)<br>
-[06](/bkv/Exodus_06.html) • [07](Exodus_07.md) • [08](Exodus_08.md) • 09 • 10 • 11<br>
-12 • 13 • [14](/bkv/Exodus_14.html) • 15 • 16 • 17<br>
+[00](Exodus_00.md) • [01](Exodus_01.html) • [02](Exodus_02.html) • [03](Exodus_03.html) • [04](Exodus_04.html) • [05](Exodus_05.html)<br>
+[06](Exodus_06.html) • [07](Exodus_07.md) • [08](Exodus_08.md) • 09 • 10 • 11<br>
+12 • 13 • [14](Exodus_14.html) • 15 • 16 • 17<br>
 18 • 19 • 20 • 21 • 22 • 23<br>
 24 • 25 • 26 • 27 • 28 • 29<br>
 30 • 31 • 32 • 33 • 34 • 35<br>
