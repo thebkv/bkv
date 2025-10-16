@@ -1,102 +1,106 @@
 /* ===========================================================
-   Bible Key Version — Custom SCSS
-   Parchment Edition (Minimal & Clean)
+   Bible Key Version — Parchment Dark Edition
+   Compatible with Jekyll layouts and navigation includes
    =========================================================== */
 
-/* === 1. Base Typography & Links ===================== */
+/* === 1. Base Background & Typography ======================= */
 body {
+  background-color: #d8c6a3; /* deep parchment base */
+  background-image: radial-gradient(circle at 50% 50%, #e2d2b3 0%, #cdb894 100%);
+  color: #2c1a0c; /* ink-brown text */
   font-family: "EB Garamond", "Georgia", serif;
+  font-size: 18px;
   line-height: 1.7;
-  color: #222;
+  margin: 0;
+  padding: 0;
 }
 
-/* Link appearance */
+/* === 2. Links ============================================== */
 a {
-  color: #2a76dd;
+  color: #5a3e1e;
   text-decoration: none;
-  font-weight: 500;
+  border-bottom: 1px dotted rgba(90, 62, 30, 0.4);
+  transition: all 0.2s ease;
 
   &:hover {
-    text-decoration: underline;
+    color: #7c552c;
+    border-bottom-color: rgba(90, 62, 30, 0.7);
   }
 }
 
-/* === 2. Parchment Background ======================== */
-body {
-  background: #f8f5e9
-    radial-gradient(circle at 20% 20%, #faf8ee, transparent 25%),
-    radial-gradient(circle at 80% 80%, #f4eed9, transparent 30%) fixed !important;
-}
-
-/* Make all page containers transparent so parchment shows */
-body > *,
-.site,
-.wrapper,
-.page,
-.main-content,
-main,
-article,
-section,
-div[role="main"] {
-  background: transparent !important;
-  box-shadow: none !important;
-}
-
-/* Subtle paper-edge vignette */
-body::before {
-  content: "";
-  position: fixed;
-  inset: 0;
-  pointer-events: none;
-  background: radial-gradient(ellipse at center,
-              rgba(0,0,0,0) 60%, rgba(0,0,0,0.06) 100%);
-  z-index: -1;
-}
-
-/* === 3. Heading Styles ============================== */
-.color-moses   { color: #4b7c2a; }
-.color-genesis { color: #a85c32; }
-.color-psalms  { color: #406fa8; }
-.color-john    { color: #83388e; }
-
-h2 span[class^="color-"],
-h3 span[class^="color-"] {
-  background: linear-gradient(
-    90deg,
-    rgba(240, 235, 210, 0.9),
-    rgba(248, 245, 233, 0.9)
-  );
-  border: 1px solid #d8cfa9;
-  border-radius: 6px;
-  padding: 0.25em 0.5em;
-  box-shadow: 0 1px 2px rgba(0,0,0,0.1);
-}
-
-/* === 4. Table Styling =============================== */
-table {
-  border-collapse: collapse;
-  margin: 1rem auto;
-  background: #f8f5e9;
-  border: 1px solid #d8cfa9;
-  box-shadow: 0 0 12px rgba(0, 0, 0, 0.05);
-}
-
-tr:nth-child(even) { background: #f3efdd; }
-
-td, th {
-  padding: 0.5em 0.9em;
-  border: 1px solid #e2dab3;
-  text-align: center;
-}
-
-table a {
-  color: #264d99;
+/* === 3. Headings =========================================== */
+h1, h2, h3, h4, h5, h6 {
+  color: #3c2915;
+  margin-top: 1.6em;
+  margin-bottom: 0.6em;
+  line-height: 1.3;
   font-weight: 600;
-  text-decoration: none;
 }
 
-table a:hover {
-  color: #153777;
-  text-decoration: underline;
+h1 { font-size: 2rem; }
+h2 { font-size: 1.6rem; }
+h3 { font-size: 1.3rem; }
+
+/* === 4. Navigation Compatibility =========================== */
+.site-nav {
+  background-color: rgba(50, 35, 20, 0.85);
+  color: #f6efe2;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.site-nav a {
+  color: #f6efe2;
+  padding: 0.5em 1em;
+  display: inline-block;
+
+  &:hover {
+    background-color: rgba(80, 55, 30, 0.9);
+    color: #fff;
+  }
+}
+
+/* === 5. Chapter / Content Containers ======================= */
+.chapter-content,
+.post-content {
+  background: rgba(255, 250, 240, 0.25);
+  padding: 2em;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(60, 40, 20, 0.15);
+  max-width: 820px;
+  margin: 2em auto;
+}
+
+/* === 6. Tables ============================================= */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5em 0;
+  font-size: 0.95rem;
+}
+
+th, td {
+  padding: 0.6em;
+  border: 1px solid rgba(80, 55, 30, 0.2);
+}
+
+th {
+  background-color: rgba(80, 55, 30, 0.1);
+  font-weight: 600;
+  text-align: left;
+}
+
+/* === 7. Footnotes / Small Text ============================= */
+small, .footnote {
+  color: #5a4630;
+  font-size: 0.85em;
+}
+
+/* === 8. Utility ============================================ */
+blockquote {
+  border-left: 4px solid #7c552c;
+  padding-left: 1em;
+  font-style: italic;
+  color: #3e2b17;
+  background-color: rgba(255, 255, 255, 0.15);
 }
 
