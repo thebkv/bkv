@@ -44,13 +44,13 @@ Use the color-coded sections or the “Jump To” links below to move through th
 ## <span class="color-moses">📜 The Book of Exodus</span>
 
 [00](Exodus_00.md) • [01](Exodus_01.md) • [02](Exodus_02.html) • [03](Exodus_03.html) • [04](Exodus_04.html) • [05](Exodus_05.html)<br>
-[06](Exodus_06.html) • [07](Exodus_07.md) • [08](Exodus_08.md) • 09 • 10
+[06](Exodus_06.html) • [07](Exodus_07.md) • [08](Exodus_08.md) • 09 • 10<br>
 11 • 12 • 13 • 14 • 15<br>
 16 • 17 • 18 • 19 • 20<br>
-18 • 19 • 20 • 21 • 22 • 23<br>
-24 • 25 • 26 • 27 • 28 • 29<br>
-30 • 31 • 32 • 33 • 34 • 35<br>
-36 • 37 • 38 • 39 • 40
+21 • 22 • 23 • 24 • 25<br>
+26 • 27 • 28 • 29 • 30<br>
+31 • 32 • 33 • 34 • 35<br>
+36 • 37 • 38 • 39 • 40<br>
 
 ---
 ---
