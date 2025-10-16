@@ -87,57 +87,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 ---
 
 ## 📖 The Book of Genesis
-- [Chapter 1](Genesis_01.md)
-- [Chapter 2](Genesis_02.md)
-- [Chapter 3](#Genesis_03.md)
-- Chapter 3a](Chapter_03a.md)
-- [Chapter 4](Genesis_04.md)
-- [Chapter 5](Genesis_05.md)
-- [Chapter 6](Genesis_06.md)
-- [Chapter 7](Genesis_07.md)
-- [Chapter 8](Genesis_08.md)
-- [Chapter 9](Genesis_09.md)
-- [Chapter 10](Genesis_10.md)
-- [Chapter 11](Genesis_11.md)
-- [Chapter 12](Genesis_12.md)
-- [Chapter 13](Genesis_13.md)
-- [Chapter 14](Genesis_14.md)
-- [Chapter 15](Genesis_15.md)
-- [Chapter 16](Genesis_16.md)
-- [Chapter 17](Genesis_17.md)
-- [Chapter 18](Genesis_18.md)
-- [Chapter 19](Genesis_19.md)
-- [Chapter 20](Genesis_20.md)
-- [Chapter 21](Genesis_21.md)
-- [Chapter 22](Genesis_22.md)
-- [Chapter 23](Genesis_23.md)
-- [Chapter 24](Genesis_24.md)
-- [Chapter 25](Genesis_25.md)
-- [Chapter 26](Genesis_26.md)
-- [Chapter 27](Genesis_27.md)
-- [Chapter 28](Genesis_28.md)
-- [Chapter 29](Genesis_29.md)
-- [Chapter 30](Genesis_30.md)
-- [Chapter 31](Genesis_31.md)
-- [Chapter 32](Genesis_32.md)
-- [Chapter 33](Genesis_33.md)
-- [Chapter 34](Genesis_34.md)
-- [Chapter 35](Genesis_35.md)
-- [Chapter 36](Genesis_36.md)
-- [Chapter 37](Genesis_37.md)
-- [Chapter 38](Genesis_38.md)
-- [Chapter 39](Genesis_39.md)
-- [Chapter 40](Genesis_40.md)
-- [Chapter 41](Genesis_41.md)
-- [Chapter 42](Genesis_42.md)
-- [Chapter 43](Genesis_43.md)
-- [Chapter 44](Genesis_44.md)
-- [Chapter 45](Genesis_45.md)
-- [Chapter 46](Genesis_46.md)
-- [Chapter 47](Genesis_47.md)
-- [Chapter 48](Genesis_48.md)
-- [Chapter 49](Genesis_49.md)
-- [Chapter 50](Genesis_50.md)
+- [Chapter 01](test-index.md)  
 
 ## 📖 Exodus  
 - [Chapter 1](Exodus_01.md)
@@ -146,6 +96,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 - [Chapter 4](Exodus_04.md)
 - [Chapter 5](Exodus_05.md)
 - [Chapter 6](Exodus_06.md)
+
 
 ## <span class="color-moses">📜 The Book of Exodus</span>
 
@@ -156,40 +107,40 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 [Chapter 04](Exodus_04.md)  
 [Chapter 05](Exodus_05.md)  
 [Chapter 06](Exodus_06.md)  
-Chapter 07  
-Chapter 08  <-- (Exodus_08.md) -->
-Chapter 09  
-Chapter 10  
-Chapter 11  
-Chapter 12  
-Chapter 13  
+Chapter 07 <!--(Exodus_07.md) -->  
+Chapter 08 <!--(Exodus_08.md) -->  
+Chapter 09 <!--(Exodus_09.md) -->  
+Chapter 10 <!--(Exodus_10.md) -->  
+Chapter 11 <!--(Exodus_11.md) -->  
+Chapter 12 <!--(Exodus_12.md) -->  
+Chapter 13 <!--(Exodus_13.md) -->  
 [Chapter 14](Exodus_14.md)  
-Chapter 15  
-Chapter 16  
-Chapter 17  
-Chapter 18  
-Chapter 19  
-Chapter 20  
-Chapter 21  
-Chapter 22  
-Chapter 23  
-Chapter 24  
-Chapter 25  
-Chapter 26  
-Chapter 27  
-Chapter 28  
-Chapter 29  
-Chapter 30  
-Chapter 31  
-Chapter 32  
-Chapter 33  
-Chapter 34  
-Chapter 35  
-Chapter 36  
-Chapter 37  
-Chapter 38  
-Chapter 39  
-Chapter 40
+Chapter 15 <!--(Exodus_15.md) -->  
+Chapter 16 <!--(Exodus_16.md) -->  
+Chapter 17 <!--(Exodus_17.md) -->  
+Chapter 18 <!--(Exodus_18.md) -->  
+Chapter 19 <!--(Exodus_19.md) -->  
+Chapter 20 <!--(Exodus_20.md) -->  
+Chapter 21 <!--(Exodus_21.md) -->  
+Chapter 22 <!--(Exodus_22.md) -->  
+Chapter 23 <!--(Exodus_23.md) -->  
+Chapter 24 <!--(Exodus_24.md) -->  
+Chapter 25 <!--(Exodus_25.md) -->  
+Chapter 26 <!--(Exodus_26.md) -->  
+Chapter 27 <!--(Exodus_27.md) -->  
+Chapter 28 <!--(Exodus_28.md) -->  
+Chapter 29 <!--(Exodus_29.md) -->  
+Chapter 30 <!--(Exodus_30.md) -->  
+Chapter 31 <!--(Exodus_31.md) -->  
+Chapter 32 <!--(Exodus_32.md) -->  
+Chapter 33 <!--(Exodus_33.md) -->  
+Chapter 34 <!--(Exodus_34.md) -->  
+Chapter 35 <!--(Exodus_35.md) -->  
+Chapter 36 <!--(Exodus_36.md) -->  
+Chapter 37 <!--(Exodus_37.md) -->  
+Chapter 38 <!--(Exodus_38.md) -->  
+Chapter 39 <!--(Exodus_39.md) -->  
+Chapter 40 <!--(Exodus_40.md) -->  
 
 
 
