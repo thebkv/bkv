@@ -1,6 +1,6 @@
 /* ===========================================================
    Bible Key Version — Custom SCSS
-   Parchment Edition (Clean + Layer-Safe)
+   Parchment Edition (Minimal & Clean)
    =========================================================== */
 
 /* === 1. Base Typography & Links ===================== */
@@ -10,7 +10,7 @@ body {
   color: #222;
 }
 
-/* global link styles */
+/* Link appearance */
 a {
   color: #2a76dd;
   text-decoration: none;
@@ -21,79 +21,46 @@ a {
   }
 }
 
-/* === 2. Book Theme Colors =========================== */
-.color-moses   { color: #4b7c2a; }
-.color-genesis { color: #a85c32; }
-.color-psalms  { color: #406fa8; }
-.color-john    { color: #83388e; }
-
-/* === 3. Chapter Grid Navigation ===================== */
-.chapter-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.4em 0.6em;
-  font-size: 1.1rem;
-  margin: 0.5rem 0 1rem;
-}
-
-.chapter-grid a {
-  color: #2a76dd;
-  font-weight: 600;
-  transition: color 0.2s ease-in-out;
-
-  &:hover {
-    color: #1c4f99;
-    text-decoration: underline;
-  }
-}
-
-/* unlinked chapter numbers */
-.chapter-grid,
-.chapter-grid span { color: #444; }
-
-.coming-soon {
-  color: #aaa;
-  font-style: italic;
-  opacity: 0.7;
-}
-
-/* === 4. Layout Helpers ============================== */
-.table-wrapper {
-  overflow-x: auto;
-  margin-bottom: 1.5rem;
-}
-
-img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 6px;
-}
-
-/* === 5. Responsive Tweaks =========================== */
-@media (max-width: 600px) {
-  .chapter-grid {
-    font-size: 1rem;
-    justify-content: center;
-    text-align: center;
-  }
-}
-
-/* === 6. Parchment Background ======================== */
+/* === 2. Parchment Background ======================== */
 body {
   background: #f8f5e9
     radial-gradient(circle at 20% 20%, #faf8ee, transparent 25%),
     radial-gradient(circle at 80% 80%, #f4eed9, transparent 30%) fixed !important;
 }
 
-/* override Jekyll theme wrappers that paint white */
-.site, .page, .wrapper, .main-content, main, article {
+/* Make all page containers transparent so parchment shows */
+body > *,
+.site,
+.wrapper,
+.page,
+.main-content,
+main,
+article,
+section,
+div[role="main"] {
   background: transparent !important;
   box-shadow: none !important;
 }
 
-/* === 7. Header Scroll Icon Area ===================== */
-h2 span.color-moses,
-h3 span.color-moses {
+/* Subtle paper-edge vignette */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background: radial-gradient(ellipse at center,
+              rgba(0,0,0,0) 60%, rgba(0,0,0,0.06) 100%);
+  z-index: -1;
+}
+
+/* === 3. Heading Styles ============================== */
+.color-moses   { color: #4b7c2a; }
+.color-genesis { color: #a85c32; }
+.color-psalms  { color: #406fa8; }
+.color-john    { color: #83388e; }
+
+h2 span[class^="color-"],
+h3 span[class^="color-"] {
   background: linear-gradient(
     90deg,
     rgba(240, 235, 210, 0.9),
@@ -105,7 +72,7 @@ h3 span.color-moses {
   box-shadow: 0 1px 2px rgba(0,0,0,0.1);
 }
 
-/* === 8. Table — Parchment Variant =================== */
+/* === 4. Table Styling =============================== */
 table {
   border-collapse: collapse;
   margin: 1rem auto;
@@ -127,48 +94,9 @@ table a {
   font-weight: 600;
   text-decoration: none;
 }
+
 table a:hover {
   color: #153777;
   text-decoration: underline;
 }
-
-/* === 9. Optional Paper Edge Vignette ================ */
-body::before {
-  content: "";
-  position: fixed;
-  inset: 0;
-  pointer-events: none;
-  background: radial-gradient(ellipse at center,
-              rgba(0,0,0,0) 60%, rgba(0,0,0,0.06) 100%);
-  z-index: -1;
-}
-
-
-
-/* === Hard override to expose parchment background === */
-body {
-  background: #f8f5e9
-    radial-gradient(circle at 20% 20%, #faf8ee, transparent 25%),
-    radial-gradient(circle at 80% 80%, #f4eed9, transparent 30%) fixed !important;
-}
-
-body > * {
-  background: transparent !important;
-}
-
-.site,
-.site-content,
-.wrapper,
-.page,
-.main-content,
-main,
-article,
-section,
-div[role="main"] {
-  background: transparent !important;
-  box-shadow: none !important;
-}
-
-
-
 
