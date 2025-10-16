@@ -4,40 +4,46 @@ $base-font-family: 'Montserrat', sans-serif;
 
 @import "{{ site.theme }}";
 
-/* ===== BKV Parchment Theme ===== */
-html, body {
-  background: radial-gradient(circle at 30% 20%, #fdf8ef 0%, #f8f3e8 40%, #efe5d0 100%) !important;
-  color: #2a1f0f !important; /* rich brown ink tone */
-  font-family: 'Montserrat', sans-serif;
+/* ===== Global Font & Layout ===== */
+body {
+  font-size: 1.25rem;
+  font-family: $base-font-family;
+  line-height: 1.6;
+  color: #2a1f0f !important;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color: #1e1408;
+/* ===== Refined Parchment Background (Warm & Textured) ===== */
+html, body, .site, .page-content, .wrapper, .container, main, section {
+  background:
+    radial-gradient(circle at 50% 40%, #fdf8ef 0%, #f6f0df 60%, #ede1c7 100%),
+    linear-gradient(145deg, rgba(255, 255, 255, 0.2) 0%, rgba(180, 160, 120, 0.05) 100%),
+    repeating-linear-gradient(
+      45deg,
+      rgba(255, 255, 255, 0.05) 0px,
+      rgba(255, 255, 255, 0.05) 2px,
+      rgba(0, 0, 0, 0.03) 3px,
+      rgba(0, 0, 0, 0.03) 4px
+    );
+  background-blend-mode: overlay, multiply, normal;
 }
 
-a {
-  color: #6b3e1e;
-  font-weight: 600;
-  text-decoration: none;
-  transition: color 0.2s ease-in-out;
-}
-a:hover {
-  color: #a0522d;
-  text-decoration: underline;
+body, .site, .page-content, .wrapper {
+  background-color: transparent !important;
 }
 
-/* Tables and code blocks blend with parchment */
-table, pre, code {
-  background-color: #fbf6eb !important;
-  border: 1px solid #d7c8a1;
-  color: #2a1f0f;
+/* ===== Tables ===== */
+table {
+  width: 100%;
+  display: block;
+  overflow-x: auto;
+  border-collapse: collapse;
+  margin-bottom: 1em;
 }
 
-blockquote {
-  background: rgba(255, 255, 255, 0.4);
-  border-left: 4px solid #c8a96e;
-  padding: 0.8em 1em;
-  font-style: italic;
+th, td {
+  padding: 6px 10px;
+  vertical-align: top;
+  border: 1px solid #ddd;
 }
 
 /* ===== BKV Section Colors ===== */
@@ -49,7 +55,20 @@ blockquote {
 .color-letters     { color: #1e90ff !important; }  /* blue – teaching / expansion */
 .color-revelation  { color: #800080 !important; }  /* royal purple – completion / divinity */
 
-/* Color squares */
+/* ===== Coming Soon Placeholder Style ===== */
+.coming-soon {
+  color: #888;
+  text-decoration: none;
+  cursor: not-allowed;
+}
+
+.coming-soon::after {
+  content: " (coming soon)";
+  font-size: 0.9em;
+  color: #aaa;
+}
+
+/* ===== Visual Tweaks for Color Squares ===== */
 span[class^="color-"] {
   font-size: 1.8em;
   font-weight: bold;
@@ -58,64 +77,20 @@ span[class^="color-"] {
   vertical-align: middle;
 }
 
-/* Coming soon placeholders */
-.coming-soon {
-  color: #8b7d6b;
-  text-decoration: none;
-  cursor: not-allowed;
-}
-.coming-soon::after {
-  content: " (coming soon)";
-  font-size: 0.9em;
-  color: #b6a689;
-}
-
-/* Chapter grid */
+/* ===== Chapter Grid ===== */
 .chapter-grid {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5em;
   line-height: 1.8;
 }
+
 .chapter-grid a {
-  color: #b8860b; /* gold ink for Moses section */
+  color: #d1a100;
   font-weight: bold;
+  text-decoration: none;
 }
+
 .chapter-grid a:hover {
   text-decoration: underline;
 }
-
-
-/* ===== Force parchment background globally ===== */
-html, body, .site, .page-content, .wrapper, .container, main, section {
-  background: radial-gradient(circle at 30% 20%, #fdf8ef 0%, #f8f3e8 40%, #efe5d0 100%) !important;
-  color: #2a1f0f !important;
-}
-
-.page-content {
-  padding: 2em;
-  border-radius: 6px;
-}
-
-/* ===== Enhanced Parchment Texture ===== */
-html, body, .site, .page-content, .wrapper, .container, main, section {
-  background: 
-    radial-gradient(circle at 30% 20%, #fdf8ef 0%, #f8f3e8 40%, #efe5d0 100%),
-    repeating-linear-gradient(
-      45deg,
-      rgba(255, 255, 255, 0.05) 0px,
-      rgba(255, 255, 255, 0.05) 2px,
-      rgba(0, 0, 0, 0.03) 3px,
-      rgba(0, 0, 0, 0.03) 4px
-    );
-  background-blend-mode: overlay;
-  color: #2a1f0f !important;
-}
-
-.page-content {
-  padding: 2em;
-  border-radius: 8px;
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
-}
-
-
