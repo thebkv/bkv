@@ -49,3 +49,18 @@ span[class^="color-"] {
 }
 
 
+.chapter-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  line-height: 1.8;
+}
+.chapter-grid a {
+  color: #d1a100;
+  font-weight: bold;
+  text-decoration: none;
+}
+.chapter-grid a:hover {
+  text-decoration: underline;
+}
+
