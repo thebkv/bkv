@@ -63,7 +63,7 @@ Use the color-coded sections or the “Jump To” links below to move through th
 
 
 
-
+## <span class="color-moses">📜 The Book of Exodus</span>
 
 | [00](Exodus_00.md) | [01](Exodus_01.md) | [02](Exodus_02.html) | [03](Exodus_03.html) | [04](Exodus_04.html) | [05](Exodus_05.html)<br>
 | [00](Exodus_00.md) | [01](Exodus_01.md) | [02](Exodus_02.html) | [03](Exodus_03.html) | [04](Exodus_04.html) | [05](Exodus_05.html)<br>
