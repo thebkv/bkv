@@ -1,93 +1,95 @@
----
----
+/* ===========================================================
+   Bible Key Version — Custom SCSS
+   Organized for clarity, with logical ordering
+   =========================================================== */
 
-@import "{{ site.theme }}";
-
-/* === Base Typography === */
-$base-font-family: 'Montserrat', sans-serif;
-
+/* === 1. Base Typography & Link Styles ===================== */
 body {
-  background-color: #bca77b !important;   /* deeper parchment */
-  color: #2b2415 !important;              /* dark brown text for readable contrast */
-  font-family: $base-font-family;
-  font-size: 1.2rem;
-  line-height: 1.6;
+  font-family: "EB Garamond", "Georgia", serif;
+  line-height: 1.7;
+  color: #222;
 }
 
-/* === Main Container (for GitHub Pages theme) === */
-.container-lg,
-.markdown-body {
-  background-color: transparent !important;
-  color: inherit !important;
-}
-
-/* === Tables === */
-table {
-  width: 100%;
-  display: block;
-  overflow-x: auto;
-  border-collapse: collapse;
-  margin-bottom: 1em;
-  background-color: rgba(255, 255, 255, 0.1);
-  border: 1px solid rgba(60, 40, 20, 0.3);
-}
-th, td {
-  padding: 6px 10px;
-  vertical-align: top;
-  border: 1px solid rgba(60, 40, 20, 0.4);
-  color: #1f1609;
-}
-
-/* === Links === */
 a {
-  color: #3e5f2a;
+  color: #2a76dd;
   text-decoration: none;
-  font-weight: bold;
-}
-a:hover {
-  text-decoration: underline;
-  color: #567d3b;
+  font-weight: 500;
+
+  &:hover {
+    text-decoration: underline;
+  }
 }
 
-/* === Section Colors === */
-.color-moses       { color: #d1a100 !important; }
-.color-histories   { color: #8b4513 !important; }
-.color-poetry      { color: #4b0082 !important; }
-.color-prophets    { color: #b22222 !important; }
-.color-gospels     { color: #2e8b57 !important; }
-.color-letters     { color: #1e90ff !important; }
-.color-revelation  { color: #800080 !important; }
-
-/* === Coming Soon Styling === */
-.coming-soon {
-  color: #8a7e63;
-  text-decoration: none;
-  cursor: not-allowed;
-}
-.coming-soon::after {
-  content: " (coming soon)";
-  font-size: 0.9em;
-  color: #a89b79;
+/* === 2. Section Headings & Theme Colors =================== */
+.color-moses {
+  color: #4b7c2a; /* deep olive green */
 }
 
-/* === Chapter Grid === */
+.color-genesis {
+  color: #a85c32; /* reddish clay tone */
+}
+
+.color-psalms {
+  color: #406fa8; /* meditative blue */
+}
+
+.color-john {
+  color: #83388e; /* royal violet */
+}
+
+/* add more .color-[book] as needed */
+
+/* === 3. Chapter Grid Navigation =========================== */
 .chapter-grid {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.6em;
-  line-height: 1.8;
-}
-.chapter-grid a {
-  color: #c8a244;
-  font-weight: bold;
-}
-.chapter-grid a:hover {
-  color: #e2c469;
-  text-decoration: underline;
+  gap: 0.4em 0.6em;
+  font-size: 1.1rem;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
 }
 
-/* === Headings === */
-h1, h2, h3, h4 {
-  color: #3b2c12 !important;
-  text-shadow: 0 0 3px rgba(255,255,255,0.2);
+.chapter-grid a {
+  color: #2a76dd;
+  font-weight: 600;
+  transition: color 0.2s ease-in-out;
+
+  &:hover {
+    color: #1c4f99;
+    text-decoration: underline;
+  }
+}
+
+/* Unlinked chapter numbers */
+.chapter-grid span,
+.chapter-grid {
+  color: #444;
+}
+
+/* Optional “coming soon” style */
+.coming-soon {
+  color: #aaa;
+  font-style: italic;
+  opacity: 0.7;
+}
+
+/* === 4. Layout Helpers ==================================== */
+.table-wrapper {
+  overflow-x: auto;
+  margin-bottom: 1.5rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+
+/* === 5. Responsive Tweaks ================================ */
+@media (max-width: 600px) {
+  .chapter-grid {
+    font-size: 1rem;
+    justify-content: center;
+    text-align: center;
+  }
 }
