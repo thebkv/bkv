@@ -84,3 +84,17 @@ span[class^="color-"] {
 .chapter-grid a:hover {
   text-decoration: underline;
 }
+
+
+/* ===== Force parchment background globally ===== */
+html, body, .site, .page-content, .wrapper, .container, main, section {
+  background: radial-gradient(circle at 30% 20%, #fdf8ef 0%, #f8f3e8 40%, #efe5d0 100%) !important;
+  color: #2a1f0f !important;
+}
+
+.page-content {
+  padding: 2em;
+  border-radius: 6px;
+}
+
+
