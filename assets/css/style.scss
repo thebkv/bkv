@@ -70,3 +70,40 @@ span[class^="color-"] {
     line-height: 1.4;
   }
 }
+
+
+
+.chapter-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  line-height: 1.8;
+}
+
+.chapter-grid a {
+  color: #d1a100;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.chapter-grid a:hover {
+  text-decoration: underline;
+}
+
+/* new: visually separate groups of 7 for easier reading */
+.chapter-grid span,
+.chapter-grid a {
+  padding: 0.15em 0.4em;
+  border-radius: 4px;
+}
+
+.chapter-grid span.coming-soon {
+  background-color: #f7f7f7;
+  color: #888;
+}
+
+.chapter-grid span:nth-child(7n)::after {
+  content: "";
+  display: inline-block;
+  width: 1em;
+}
