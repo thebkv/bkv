@@ -142,3 +142,33 @@ body::before {
               rgba(0,0,0,0) 60%, rgba(0,0,0,0.06) 100%);
   z-index: -1;
 }
+
+
+
+/* === Hard override to expose parchment background === */
+body {
+  background: #f8f5e9
+    radial-gradient(circle at 20% 20%, #faf8ee, transparent 25%),
+    radial-gradient(circle at 80% 80%, #f4eed9, transparent 30%) fixed !important;
+}
+
+body > * {
+  background: transparent !important;
+}
+
+.site,
+.site-content,
+.wrapper,
+.page,
+.main-content,
+main,
+article,
+section,
+div[role="main"] {
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+
+
+
