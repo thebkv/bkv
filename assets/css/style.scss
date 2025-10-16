@@ -152,5 +152,14 @@ table a:hover {
   text-decoration: underline;
 }
 
+body {
+  background: #f8f5e9 !important;
+  background-image: radial-gradient(circle at 20% 20%, #faf8ee, transparent 25%),
+                    radial-gradient(circle at 80% 80%, #f4eed9, transparent 30%) !important;
+  background-attachment: fixed !important;
+  color: #222 !important;
+}
+
+
 
 
