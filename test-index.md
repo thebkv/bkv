@@ -35,11 +35,7 @@ Use the color-coded sections or the “Jump To” links below to move through th
 <div class="chapter-grid">
 
 [00](Exodus_00.md) • [01](Exodus_01.md) • [02](Exodus_02.md) • [03](Exodus_03.md) • [04](Exodus_04.md) • [05](Exodus_05.md) • [06](Exodus_06.md) •  
-07 • 08 • <span class="coming-soon">09</span> • <span class="coming-soon">10</span> • <span class="coming-soon">11</span> • <span class="coming-soon">12</span> • <span class="coming-soon">13</span> •  
-[14](Exodus_14.md) • <span class="coming-soon">15</span> • <span class="coming-soon">16</span> • <span class="coming-soon">17</span> • <span class="coming-soon">18</span> • <span class="coming-soon">19</span> • <span class="coming-soon">20</span> •  
-<span class="coming-soon">21</span> • <span class="coming-soon">22</span> • <span class="coming-soon">23</span> • <span class="coming-soon">24</span> • <span class="coming-soon">25</span> • <span class="coming-soon">26</span> • <span class="coming-soon">27</span> •  
-<span class="coming-soon">28</span> • <span class="coming-soon">29</span> • <span class="coming-soon">30</span> • <span class="coming-soon">31</span> • <span class="coming-soon">32</span> • <span class="coming-soon">33</span> • <span class="coming-soon">34</span> •  
-<span class="coming-soon">35</span> • <span class="coming-soon">36</span> • <span class="coming-soon">37</span> • <span class="coming-soon">38</span> • <span class="coming-soon">39</span> • <span class="coming-soon">40</span>
+07 • 08 • 09 • 10 • 11 • 12 • 13 • [14](Exodus_14.md) • 15 • 16 • 17 • 18 • 19 • 20 • 21 • 22 • 23 • 24 • 25 • 26 • 27 • 28 • 29 • 30 • 31 • 32 • 33 • 34 • 35 • 36 • 37 • 38 • 39 • 40
 
 </div>
 
