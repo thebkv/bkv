@@ -4,21 +4,40 @@ $base-font-family: 'Montserrat', sans-serif;
 
 @import "{{ site.theme }}";
 
-body {
-  font-size: 1.25rem; /* Your custom font-size rule here */
+/* ===== BKV Parchment Theme ===== */
+html, body {
+  background: radial-gradient(circle at 30% 20%, #fdf8ef 0%, #f8f3e8 40%, #efe5d0 100%) !important;
+  color: #2a1f0f !important; /* rich brown ink tone */
+  font-family: 'Montserrat', sans-serif;
 }
 
-table {
-  width: 100%;
-  display: block;
-  overflow-x: auto;
-  border-collapse: collapse;
-  margin-bottom: 1em;
+h1, h2, h3, h4, h5, h6 {
+  color: #1e1408;
 }
-th, td {
-  padding: 6px 10px;
-  vertical-align: top;
-  border: 1px solid #ddd;
+
+a {
+  color: #6b3e1e;
+  font-weight: 600;
+  text-decoration: none;
+  transition: color 0.2s ease-in-out;
+}
+a:hover {
+  color: #a0522d;
+  text-decoration: underline;
+}
+
+/* Tables and code blocks blend with parchment */
+table, pre, code {
+  background-color: #fbf6eb !important;
+  border: 1px solid #d7c8a1;
+  color: #2a1f0f;
+}
+
+blockquote {
+  background: rgba(255, 255, 255, 0.4);
+  border-left: 4px solid #c8a96e;
+  padding: 0.8em 1em;
+  font-style: italic;
 }
 
 /* ===== BKV Section Colors ===== */
@@ -29,26 +48,29 @@ th, td {
 .color-gospels     { color: #2e8b57 !important; }  /* deep green – life / incarnation */
 .color-letters     { color: #1e90ff !important; }  /* blue – teaching / expansion */
 .color-revelation  { color: #800080 !important; }  /* royal purple – completion / divinity */
+
+/* Color squares */
+span[class^="color-"] {
+  font-size: 1.8em;
+  font-weight: bold;
+  line-height: 1;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* Coming soon placeholders */
 .coming-soon {
-  color: #888;
+  color: #8b7d6b;
   text-decoration: none;
   cursor: not-allowed;
 }
 .coming-soon::after {
   content: " (coming soon)";
   font-size: 0.9em;
-  color: #aaa;
-}
-/* ===== Visual Tweaks for Color Squares ===== */
-span[class^="color-"] {
-  font-size: 1.8em;       /* increase size slightly */
-  font-weight: bold;      /* make the ■ thicker and more visible */
-  line-height: 1;         /* keep them vertically centered in table cells */
-  display: inline-block;  /* helps alignment in tables */
-  vertical-align: middle; /* keeps the square centered next to text */
+  color: #b6a689;
 }
 
-
+/* Chapter grid */
 .chapter-grid {
   display: flex;
   flex-wrap: wrap;
@@ -56,117 +78,9 @@ span[class^="color-"] {
   line-height: 1.8;
 }
 .chapter-grid a {
-  color: #d1a100;
+  color: #b8860b; /* gold ink for Moses section */
   font-weight: bold;
-  text-decoration: none;
 }
 .chapter-grid a:hover {
   text-decoration: underline;
 }
-
-@media (max-width: 600px) {
-  .chapter-grid {
-    gap: 0.35em;
-    line-height: 1.4;
-  }
-}
-
-
-
-.chapter-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5em;
-  line-height: 1.8;
-}
-
-.chapter-grid a {
-  color: #d1a100;
-  font-weight: bold;
-  text-decoration: none;
-}
-
-.chapter-grid a:hover {
-  text-decoration: underline;
-}
-
-/* new: visually separate groups of 7 for easier reading */
-.chapter-grid span,
-.chapter-grid a {
-  padding: 0.15em 0.4em;
-  border-radius: 4px;
-}
-
-.chapter-grid span.coming-soon {
-  background-color: #f7f7f7;
-  color: #888;
-}
-
-.chapter-grid span:nth-child(7n)::after {
-  content: "";
-  display: inline-block;
-  width: 1em;
-}
-
-
-
-
-
-/* ===== BKV Site Background + Dark Mode ===== */
-
-body {
-  background-color: #0d0d0d;   /* deep charcoal base */
-  color: #e6e6e6;              /* soft white text */
-  line-height: 1.7;
-}
-
-/* tweak links for contrast */
-a {
-  color: #ffcc33;              /* gold accent for links */
-}
-a:hover {
-  color: #fff066;              /* brighter hover */
-}
-
-/* keep tables legible */
-table {
-  background-color: #1a1a1a;
-  border-color: #444;
-}
-th, td {
-  border-color: #333;
-}
-
-/* chapter grid contrast */
-.chapter-grid {
-  color: #e6e6e6;
-}
-.chapter-grid a {
-  color: #d1a100;
-}
-.chapter-grid .coming-soon {
-  color: #666;
-}
-.chapter-grid .coming-soon::after {
-  color: #777;
-}
-
-/* optional: style code blocks and markdown quotes */
-pre, code {
-  background: #1e1e1e;
-  color: #f8f8f2;
-  border-radius: 4px;
-}
-blockquote {
-  border-left: 4px solid #d1a100;
-  background: #141414;
-  padding: 0.5em 1em;
-  color: #ccc;
-}
-
-html, body {
-  background-color: #0d0d0d !important;
-  color: #e6e6e6 !important;
-}
-
-
