@@ -60,6 +60,24 @@ Use the color-coded sections or the “Jump To” links below to move through th
 
 
 
+
+
+
+
+
+|---|---|---|
+| [00](Exodus_00.md) | [01](Exodus_01.md) | [02](Exodus_02.html) |
+| Cell 2A | Cell 2B | Cell 2C |
+
+
+
+---
+---
+---
+---
+
+
+
 ## <span class="color-moses">📖 The Book of Exodus</span>
 
 <div class="chapter-grid moses">
