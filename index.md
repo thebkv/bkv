@@ -86,6 +86,27 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ---
 
+
+
+
+## <span class="color-moses">📜 The Book of Exodus</span>
+
+<div class="chapter-grid">
+
+[00](Exodus_00.md) • [01](Exodus_01.md) • [02](Exodus_02.md) • [03](Exodus_03.md) • [04](Exodus_04.md) • [05](Exodus_05.md) • [06](Exodus_06.md) •  
+07 <!--(Exodus_07.md) --> • 08 <!--(Exodus_08.md) --> • 09 <!--(Exodus_09.md) --> • 10 <!--(Exodus_10.md) --> • 11 <!--(Exodus_11.md) --> • 12 <!--(Exodus_12.md) --> • 13 <!--(Exodus_13.md) --> •  
+[14](Exodus_14.md) • 15 <!--(Exodus_15.md) --> • 16 <!--(Exodus_16.md) --> • 17 <!--(Exodus_17.md) --> • 18 <!--(Exodus_18.md) --> • 19 <!--(Exodus_19.md) --> • 20 <!--(Exodus_20.md) --> •  
+21 <!--(Exodus_21.md) --> • 22 <!--(Exodus_22.md) --> • 23 <!--(Exodus_23.md) --> • 24 <!--(Exodus_24.md) --> • 25 <!--(Exodus_25.md) --> • 26 <!--(Exodus_26.md) --> • 27 <!--(Exodus_27.md) --> •  
+28 <!--(Exodus_28.md) --> • 29 <!--(Exodus_29.md) --> • 30 <!--(Exodus_30.md) --> • 31 <!--(Exodus_31.md) --> • 32 <!--(Exodus_32.md) --> • 33 <!--(Exodus_33.md) --> • 34 <!--(Exodus_34.md) --> •  
+35 <!--(Exodus_35.md) --> • 36 <!--(Exodus_36.md) --> • 37 <!--(Exodus_37.md) --> • 38 <!--(Exodus_38.md) --> • 39 <!--(Exodus_39.md) --> • 40 <!--(Exodus_40.md) -->
+
+</div>
+
+
+
+
+
+
 ## 📖 The Book of Genesis
 - [Chapter 01](test-index.md)  
 
