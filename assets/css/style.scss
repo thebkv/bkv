@@ -93,3 +93,64 @@ img {
     text-align: center;
   }
 }
+
+
+/* === Parchment Page Background =================================== */
+body {
+  background-color: #f8f5e9;         /* soft parchment base */
+  background-image: radial-gradient(
+      circle at 20% 20%, #faf8ee, transparent 25%
+    ),
+    radial-gradient(circle at 80% 80%, #f4eed9, transparent 30%);
+  background-attachment: fixed;
+  color: #222;
+}
+
+/* === Harmonize Header Scroll Icon Section ======================== */
+.color-moses {
+  color: #4b7c2a;
+}
+
+h2 span.color-moses, h3 span.color-moses {
+  background: linear-gradient(
+    90deg,
+    rgba(240, 235, 210, 0.9),
+    rgba(248, 245, 233, 0.9)
+  );
+  border: 1px solid #d8cfa9;
+  border-radius: 6px;
+  padding: 0.25em 0.5em;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+}
+
+/* === Parchment Table Variant ===================================== */
+table {
+  border-collapse: collapse;
+  margin: 1rem auto;
+  background: #f8f5e9;
+  border: 1px solid #d8cfa9;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.05);
+}
+
+tr:nth-child(even) {
+  background: #f3efdd;
+}
+
+td, th {
+  padding: 0.5em 0.9em;
+  border: 1px solid #e2dab3;
+  text-align: center;
+}
+
+table a {
+  color: #264d99;
+  font-weight: 600;
+  text-decoration: none;
+}
+table a:hover {
+  color: #153777;
+  text-decoration: underline;
+}
+
+
+
