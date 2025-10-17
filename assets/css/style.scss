@@ -54,8 +54,9 @@ body,
 
 .markdown-body strong,
 .markdown-body b {
-  font-weight: 740; /* bold */
-  color: #111; /* slightly darker to enhance contrast */
+  font-weight: 800; /* bold */
+  color: #0b0a08; /* slightly darker to enhance contrast */
+  letter-spacing: 0.003em; /* micro-spacing for elegance */
 }
 
 /* Headings, navigation, and table headers use Montserrat for clarity */
@@ -147,7 +148,7 @@ body,
   font-family: "EB Garamond", "Georgia", serif !important;
   font-weight: 500;
   color: #222;
-  line-height: 1.7;
+  line-height: 1.6;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
