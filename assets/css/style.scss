@@ -55,15 +55,16 @@ body,
 .markdown-body strong,
 .markdown-body b {
   font-weight: 800; /* bold */
-  color: #0b0a08; /* slightly darker to enhance contrast */
+  color: #1a237e; /* slightly darker to enhance contrast */
   letter-spacing: 0.003em; /* micro-spacing for elegance */
 }
 
 /* Headings, navigation, and table headers use Montserrat for clarity */
 h1, h2, h3, h4, h5, h6, th, .nav a {
+  color: 0f3b28;
   font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
-  letter-spacing: 0.02em;
-  font-weight: 600;
+  letter-spacing: 0.015em;
+  font-weight: 700;
 }
 h1, h2 { font-weight: 700; }
 
@@ -148,7 +149,7 @@ body,
   font-family: "EB Garamond", "Georgia", serif !important;
   font-weight: 500;
   color: #222;
-  line-height: 1.6;
+  line-height: 1.7;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
