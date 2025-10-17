@@ -96,73 +96,249 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 ---
 
 ## 📖 **Genesis**  
-> _The Book of Beginnings — The Unfolding of Creation and Consciousness_
+> _The Book of Beginnings — The Emergence of Divine Ideas Into Form_
 
-| [00](Genesis_00.md) | [01](Genesis_01.html) | [02](Genesis_02.html) | [03](Genesis_03.html) | [04](Genesis_04.html) | [05](Genesis_05.html) |
-| --- | --- | --- | --- | --- | --- |
-| 06 | 07 | 08 | 09 | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 |
-| 18 | 19 | 20 | 21 | 22 | 23 |
-| 24 | 25 | 26 | 27 | 28 | 29 |
-| 30 | 31 | 32 | 33 | 34 | 35 |
-| 36 | 37 | 38 | 39 | 40 | 41 |
-| 42 | 43 | 44 | 45 | 46 | 47 |
-| 48 | 49 | 50 |   |   |   |
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 | 05 |
+| 06 | 07 | 08 | 09 | 10 |
+| 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 | 23 | 24 | 25 |
+| 26 | 27 | 28 | 29 | 30 |
+| 31 | 32 | 33 | 34 | 35 |
+| 36 | 37 | 38 | 39 | 40 |
+| 41 | 42 | 43 | 44 | 45 |
+| 46 | 47 | 48 | 49 | 50 |
 
 ---
 
-## 📜 **Exodus**
-> _The Journey Out of Bondage into Divine Order_
+## 📖 **Exodus**  
+> _The Book of Liberation — The Unfolding of Divine Law in the Journey Out of Bondage_
 
-| [00](Exodus_00.md) | [01](Exodus_01.md) | [02](Exodus_02.html) | [03](Exodus_03.html) | [04](Exodus_04.html) | [05](Exodus_05.html) |
-| --- | --- | --- | --- | --- | --- |
-| [06](Exodus_06.html) | 07 | 08 | 09 | 10 | 11 |
-| 12 | 13 | [14](Exodus_14.html) | 15 | 16 | 17 |
-| 18 | 19 | 20 | 21 | 22 | 23 |
-| 24 | 25 | 26 | 27 | 28 | 29 |
-| 30 | 31 | 32 | 33 | 34 | 35 |
-| 36 | 37 | 38 | 39 | 40 |   |
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [00](Exodus_00.md) | [01](Exodus_01.md) | [02](Exodus_02.md) | [03](Exodus_03.md) | [04](Exodus_04.md) |
+| [05](Exodus_05.md) | [06](Exodus_06.md) | 07 | 08 | 09 |
+| 10 | 11 | 12 | 13 | [14](Exodus_14.md) |
+| 15 | 16 | 17 | 18 | 19 |
+| 20 | 21 | 22 | 23 | 24 |
+| 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | 32 | 33 | 34 |
+| 35 | 36 | 37 | 38 | 39 |
+| 40 |   |   |   |   |
 
---- 
+---
 
 ## 📖 **Leviticus**  
-> _The Book of Approach — The Way of Holiness and Order in Divine Presence_
+> _The Book of Holiness — The Order of Sacred Approach_
 
-| [00](Leviticus_00.md) | 01 | 02 | 03 | 04 | 05 |
-| --- | --- | --- | --- | --- | --- |
-| 06 | 07 | 08 | 09 | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 |
-| 18 | 19 | 20 | 21 | 22 | 23 |
-| 24 | 25 | 26 | 27 |   |   |
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [00](Leviticus_00.md) | 01 | 02 | 03 | 04 |
+| 05 | 06 | [07](Leviticus_07.md) | 08 | 09 |
+| 10 | 11 | 12 | 13 | 14 |
+| 15 | 16 | 17 | 18 | 19 |
+| 20 | 21 | 22 | 23 | 24 |
+| 25 | 26 | 27 |   |   |
 
 ---
 
 ## 📖 **Numbers**  
 > _The Book of March and Reckoning — The Soul’s Journey Through the Wilderness_
 
-| [00](Numbers_00.md) | 01 | 02 | 03 | [04](Numbers_04.html) | 05 |
-| --- | --- | --- | --- | --- | --- |
-| 06 | 07 | 08 | 09 | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 |
-| 18 | 19 | 20 | 21 | [22](Numbers_22.html) | [23](Numbers_23.html) |
-| [24](Numbers_24.html) | 25 | 26 | 27 | 28 | 29 |
-| 30 | 31 | 32 | 33 | 34 | 35 |
-| 36 |   |   |   |   |   |
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [00](Numbers_00.md) | 01 | 02 | 03 | [04](Numbers_04.md) |
+| 05 | 06 | 07 | 08 | 09 |
+| 10 | 11 | 12 | 13 | 14 |
+| 15 | 16 | 17 | 18 | 19 |
+| 20 | 21 | [22](Numbers_22.md) | [23](Numbers_23.md) | [24](Numbers_24.md) |
+| 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | 32 | 33 | 34 |
+| 35 | 36 |   |   |   |
 
 ---
+
 ## 📖 **Deuteronomy**  
-> _The Book of Renewal — Remembering and Reaffirming the Covenant_
+> _The Book of Remembrance — The Law Rewritten Upon the Heart_
 
-| [00](Deuteronomy_00.md) | 01 | 02 | 03 | 04 | 05 |
-| --- | --- | --- | --- | --- | --- |
-| 06 | 07 | 08 | 09 | 10 | 11 |
-| 12 | 13 | 14 | 15 | 16 | 17 |
-| 18 | 19 | 20 | 21 | 22 | 23 |
-| 24 | 25 | 26 | 27 | 28 | 29 |
-| 30 | 31 | 32 | 33 | 34 |   |
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [00](Deuteronomy_00.md) | [01](Deuteronomy_01.md) | 02 | 03 | 04 |
+| 05 | 06 | 07 | 08 | 09 |
+| 10 | 11 | 12 | 13 | 14 |
+| 15 | 16 | 17 | 18 | 19 |
+| 20 | 21 | 22 | 23 | 24 |
+| 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | 32 | 33 | 34 |
 
 ---
 ---
+
+
+<a id="histories"></a>  
+## <span class="color-moses">🏺 The Historical Books</span>
+
+---
+
+## 📖 **Joshua**  
+> _The Book of Possession and Courage — The Awakening of Divine Strength to Enter the Promised State_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [00](Joshua_00.md) | [01](Joshua_01.md) | [02](Joshua_02.md) | [03](Joshua_03.md) | 04 |
+| 05 | 06 | 07 | 08 | 09 |
+| 10 | 11 | 12 | 13 | 14 |
+| 15 | 16 | 17 | 18 | 19 |
+| 20 | 21 | 22 | 23 | 24 |
+
+---
+
+## 📖 **Judges**  
+> _The Book of Cycles — The Alternation Between Forgetfulness and Renewal_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 | 05 |
+| 06 | 07 | 08 | 09 | 10 |
+| 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 |
+| 21 |   |   |   |   |
+
+---
+
+## 📖 **Ruth**  
+> _The Book of Return — The Discovery of Divine Love Within the Field of Life_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 |   |
+
+---
+
+## 📖 **1 Samuel**  
+> _The Book of Calling — The Emergence of Spiritual Kingship Within the Soul_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 | 05 |
+| 06 | 07 | 08 | 09 | 10 |
+| 11 | 12 | 13 | 14 | 15 |
+| 16 | [17](1Samuel_17.md) | 18 | 19 | 20 |
+| 21 | 22 | 23 | 24 | 25 |
+| 26 | 27 | 28 | 29 | 30 |
+| 31 |   |   |   |   |
+
+---
+
+## 📖 **2 Samuel**  
+> _The Book of Establishment — The Consolidation of Divine Rule Within the Heart_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 | 05 |
+| 06 | 07 | 08 | 09 | 10 |
+| 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 | 23 | 24 |   |
+
+---
+
+## 📖 **1 Kings**  
+> _The Book of Division — The Rise and Fall of Inner Wisdom and Desire_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 | 05 |
+| 06 | 07 | 08 | 09 | 10 |
+| 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 |   |   |   |
+
+---
+
+## 📖 **2 Kings**  
+> _The Book of Decline — The Fragmentation and Captivity of the Inner Life_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 | 05 |
+| 06 | 07 | 08 | 09 | 10 |
+| 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 | 23 | 24 | 25 |
+
+---
+
+## 📖 **1 Chronicles**  
+> _The Book of Memory — The Ordering of the Inner Kingdom From Adam to David_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 | 05 |
+| 06 | 07 | 08 | 09 | 10 |
+| 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 | 23 | 24 | 25 |
+| 26 | 27 | 28 | 29 |   |
+
+---
+
+## 📖 **2 Chronicles**  
+> _The Book of Continuity — The Legacy of the Kingdom and the Return to the Temple_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 | 05 |
+| 06 | 07 | 08 | 09 | 10 |
+| 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 | 23 | 24 | 25 |
+| 26 | 27 | 28 | 29 | 30 |
+| 31 | 32 | 33 | 34 | 35 |
+| 36 |   |   |   |   |
+
+---
+
+## 📖 **Ezra**  
+> _The Book of Restoration — The Rebuilding of the Inner Temple_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [01](Ezra_01.md) | [02](Ezra_02.md) | [03](Ezra_03.md) | 04 | 05 |
+| 06 | 07 | 08 | 09 | 10 |
+
+---
+
+## 📖 **Nehemiah**  
+> _The Book of Completion — The Strengthening of the Walls of Consciousness_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 | 05 |
+| 06 | 07 | 08 | 09 | 10 |
+| 11 | 12 | 13 |   |   |
+
+---
+
+## 📖 **Esther**  
+> _The Book of Hidden Providence — The Triumph of the Unseen Hand of God Within Human Events_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 | 05 |
+| 06 | 07 | 08 | 09 | 10 |
+
+
+
+
+
+
+
+
+
+
 
 
 ## 📖 Hebrews  
