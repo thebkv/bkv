@@ -115,32 +115,38 @@ small, .footnote {
 }
 
 /* === 9. Chapter Grid Layout (compact style like reference image) ===== */
+/* === 9. Chapter Grid Layout (compact + balanced version) ===== */
 .chapter-grid {
   display: grid;
-  grid-template-columns: repeat(4, 60px); /* exactly four columns wide */
-  justify-content: center;
+  grid-template-columns: repeat(4, 1fr); /* 4 equal-width columns */
+  max-width: 320px; /* keeps total grid area narrow like your reference */
   margin: 2em auto;
-  gap: 4px;
+  border: 1px solid rgba(80, 55, 30, 0.3);
+  border-collapse: collapse;
+  gap: 0; /* keeps boxes touching like a real table */
 }
 
 .chapter-grid a {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 60px;
-  height: 40px;
-  background-color: rgba(255, 250, 240, 0.1);
-  color: #2b1a0e;
+  text-align: center;
+  padding: 0.6em 0; /* vertical space for clickability */
+  color: #2b1a0e; /* ink tone */
   border: 1px solid rgba(80, 55, 30, 0.25);
-  border-radius: 4px;
   font-weight: 600;
   font-size: 0.9rem;
-  transition: background 0.15s ease, color 0.15s ease, transform 0.1s ease;
+  background-color: rgba(255, 250, 240, 0.08);
+  transition: background 0.15s ease, color 0.15s ease;
 
   &:hover {
     background-color: rgba(90, 60, 35, 0.8);
     color: #fff;
-    transform: translateY(-1px);
+  }
+}
+
+/* === Responsive adjustment for phones ======================== */
+@media (max-width: 480px) {
+  .chapter-grid {
+    grid-template-columns: repeat(3, 1fr); /* fewer columns on mobile */
+    max-width: 260px;
   }
 }
 
