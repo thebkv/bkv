@@ -67,7 +67,7 @@ body,
 }
 /* ----------------------------------------------------------------------------------- */
 
-/* --- HEADING STYLES (Requested: deep green monterrat for headings) --- */
+/* --- HEADING STYLES (Requested: deep green monterrat for headings, ALL LEVELS) --- */
 /* Headings — full coverage for all markdown and theme variants */
 .markdown-body h1,
 .markdown-body h2,
@@ -83,7 +83,7 @@ body,
 .page-header h6,
 h1, h2, h3, h4, h5, h6 {
     font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif !important;
-    color: $color-deep-green !important; /* Deep Green color */
+    color: $color-deep-green !important; /* Deep Green color - IMPORTANT! */
     letter-spacing: 0.02em; /* Slightly wider spacing for a grander feel */
     font-weight: 700;
     line-height: 1.3;
