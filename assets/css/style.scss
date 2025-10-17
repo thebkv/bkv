@@ -244,3 +244,19 @@ pre {
   .bkv-wrap { width: 100%; padding: 0; }
   a { text-decoration: underline; }
 }
+
+
+
+/* ===== Force Garamond Body Font ===== */
+body,
+.markdown-body,
+.container-lg {
+  font-family: "EB Garamond", "Georgia", serif !important;
+  font-weight: 400;
+  line-height: 1.7;
+  color: #222;
+}
+
+
+
+
