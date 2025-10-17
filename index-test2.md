@@ -1,1 +1,85 @@
-<a id="top"></a>Bible Key Version: Table of Contents<a id="moses"></a>  <span class="color-moses">📜 The Books of Moses</span>📜 ExodusThe Journey Out of Bondage into Divine Order      0001020304050607080910111213141516171819202122232425262728293031323334353637383940 📜 LeviticusThe Book of the Tabernacle and Purity — The Divine Pattern of Holy Living      00010203040506070809101112131415161718192021222324252627  📜 NumbersThe Book of the Wilderness Journey — The Testing and Refining of the Spirit      00010203040506070809101112131415161718192021222324252627282930313233343536     📜 DeuteronomyThe Book of Covenant Reiteration — The Law Engraved on the Heart      0001020304050607080910111213141516171819202122232425262728293031323334 Back to Top<a id="histories"></a>  <span class="color-histories">🗡️ The Books of History</span>📖 JoshuaThe Book of Crossing and Conflict — The Inheritance Achieved Through Divine Command and Power      00010203040506070809101112131415161718192021222324     📖 1 SamuelThe Book of the Kingdom's Birth — Transition from Prophets to Kings      01020304050607080910111213141516171819202122232425262728293031     📖 EzraThe Book of Restoration — Rebuilding the Temple and the Sacred Identity      01020304050607080910  Back to Top<a id="poetry"></a>  <span class="color-poetry">🎼 The Books of Poetry & Wisdom</span>📖 JobThe Book of Endurance — Wrestling with Suffering and the Nature of God      010203040506070809101112131415161718192021222324252627282930313233343536373839404142📖 PsalmsThe Book of Worship — The Symphony of the Human Soul's Ascent      01...90919293949596...117118119120...150  <small>(Note: Non-indexed chapters are not displayed. Total chapters 150.)</small>📖 ProverbsThe Book of Wisdom — The Applied Art of Divine Understanding      01020304050607080910111213141516171819202122232425262728293031     Back to Top<a id="prophets"></a>  <span class="color-prophets">🔥 The Books of the Prophets</span>📖 IsaiahThe Book of Vision — Redemption and the Prophetic Glimpse of the Coming King      010203040506............52535455...66  <small>(Note: Non-indexed chapters are not displayed. Total chapters 66.)</small>📖 EzekielThe Book of Divine Glory — Visions of the Chariot and the Valley of Dry Bones      0102030405060708091011121314151617181920...3637383940...48  <small>(Note: Non-indexed chapters are not displayed. Total chapters 48.)</small>📖 DanielThe Book of Sovereignty — Steadfastness and Revelation in the Midst of Empires      00010203040506070809101112     📖 JonahThe Book of Compassion — The Prophet's Flight and the Boundless Reach of Mercy      01020304  Back to Top<a id="gospels"></a>  <span class="color-gospels">🌿 The Holy Gospels</span>📖 MatthewThe Book of the King — The Messiah as Promised Lord and Teacher      01020304050607080910111213141516171819202122232425262728  📖 MarkThe Book of Power — The Immediate, Dynamic Acts of the Son of God      01020304050607080910111213141516  📖 LukeThe Book of Humanity — The Perfect Man, Savior of All Peoples      010203040506070809101112131415161718192021222324📖 JohnThe Book of Divinity — Seeing the Eternal Word Made Flesh      010203040506070809101112131415161718192021   Back to Top<a id="letters"></a>  <span class="color-letters">✉️ The Books of the Apostles (Expansion)</span>📖 Acts of the ApostlesThe Book of Expansion and Witness — The Outpouring of Divine Power Into the World of Action      01020304050607080910111213141516171819202122232425262728  📜 EphesiansThe Book of the Church — Unity and Glorious Purpose of the Body of Christ      010203040506📜 HebrewsThe Book of the Better Way — The Supremacy of Christ and the New Covenant      01020304050607080910111213     📜 JudeThe Book of Fierce Warning — Contending Earnestly for the Faith      01     Back to Top<a id="revelation"></a>  <span class="color-revelation">✨ The Book of Completion</span>📖 RevelationThe Book of Completion — The Final Victory of the Lamb and the New Creation      01020304050607080910111213141516171819202122  Back to Top
+# 📜 The Books of Moses (Torah)
+
+---
+
+## 📖 **Genesis**  
+> _The Book of Beginnings — The Emergence of Divine Ideas Into Form_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 | 05 |
+| 06 | 07 | 08 | 09 | 10 |
+| 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 | 23 | 24 | 25 |
+| 26 | 27 | 28 | 29 | 30 |
+| 31 | 32 | 33 | 34 | 35 |
+| 36 | 37 | 38 | 39 | 40 |
+| 41 | 42 | 43 | 44 | 45 |
+| 46 | 47 | 48 | 49 | 50 |
+
+---
+
+## 📖 **Exodus**  
+> _The Book of Liberation — The Unfolding of Divine Law in the Journey Out of Bondage_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [00](Exodus_00.md) | [01](Exodus_01.md) | [02](Exodus_02.md) | [03](Exodus_03.md) | [04](Exodus_04.md) |
+| [05](Exodus_05.md) | [06](Exodus_06.md) | 07 | 08 | 09 |
+| 10 | 11 | 12 | 13 | [14](Exodus_14.md) |
+| 15 | 16 | 17 | 18 | 19 |
+| 20 | 21 | 22 | 23 | 24 |
+| 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | 32 | 33 | 34 |
+| 35 | 36 | 37 | 38 | 39 |
+| 40 |   |   |   |   |
+
+---
+
+## 📖 **Leviticus**  
+> _The Book of Holiness — The Order of Sacred Approach_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [00](Leviticus_00.md) | 01 | 02 | 03 | 04 |
+| 05 | 06 | [07](Leviticus_07.md) | 08 | 09 |
+| 10 | 11 | 12 | 13 | 14 |
+| 15 | 16 | 17 | 18 | 19 |
+| 20 | 21 | 22 | 23 | 24 |
+| 25 | 26 | 27 |   |   |
+
+---
+
+## 📖 **Numbers**  
+> _The Book of March and Reckoning — The Soul’s Journey Through the Wilderness_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [00](Numbers_00.md) | 01 | 02 | 03 | [04](Numbers_04.md) |
+| 05 | 06 | 07 | 08 | 09 |
+| 10 | 11 | 12 | 13 | 14 |
+| 15 | 16 | 17 | 18 | 19 |
+| 20 | 21 | [22](Numbers_22.md) | [23](Numbers_23.md) | [24](Numbers_24.md) |
+| 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | 32 | 33 | 34 |
+| 35 | 36 |   |   |   |
+
+---
+
+## 📖 **Deuteronomy**  
+> _The Book of Remembrance — The Law Rewritten Upon the Heart_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [00](Deuteronomy_00.md) | [01](Deuteronomy_01.md) | 02 | 03 | 04 |
+| 05 | 06 | 07 | 08 | 09 |
+| 10 | 11 | 12 | 13 | 14 |
+| 15 | 16 | 17 | 18 | 19 |
+| 20 | 21 | 22 | 23 | 24 |
+| 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | 32 | 33 | 34 |
+
+
+
+
