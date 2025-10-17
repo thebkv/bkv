@@ -115,21 +115,21 @@ small, .footnote {
 }
 
 /* === 9. Chapter Grid Layout (compact style like reference image) ===== */
-/* === 9. Chapter Grid Layout (compact + balanced version) ===== */
+
+/* === 9. Chapter Grid Layout (compact + fixed width) ===== */
 .chapter-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr); /* 4 equal-width columns */
-  max-width: 320px; /* keeps total grid area narrow like your reference */
+  grid-template-columns: repeat(4, 60px); /* 4 fixed-width columns */
+  justify-content: center; /* centers the grid block */
   margin: 2em auto;
   border: 1px solid rgba(80, 55, 30, 0.3);
-  border-collapse: collapse;
-  gap: 0; /* keeps boxes touching like a real table */
+  gap: 0;
 }
 
 .chapter-grid a {
   text-align: center;
-  padding: 0.6em 0; /* vertical space for clickability */
-  color: #2b1a0e; /* ink tone */
+  padding: 0.6em 0;
+  color: #2b1a0e;
   border: 1px solid rgba(80, 55, 30, 0.25);
   font-weight: 600;
   font-size: 0.9rem;
@@ -142,19 +142,13 @@ small, .footnote {
   }
 }
 
-/* === Responsive adjustment for phones ======================== */
+/* === Responsive (phone) version =========================== */
 @media (max-width: 480px) {
   .chapter-grid {
-    grid-template-columns: repeat(3, 1fr); /* fewer columns on mobile */
-    max-width: 260px;
-  }
-}
-
-/* Keep grid responsive on narrow screens */
-@media (max-width: 480px) {
-  .chapter-grid {
-    grid-template-columns: repeat(3, 1fr);
-    gap: 6px;
+    grid-template-columns: repeat(3, 60px);
+    justify-content: center;
+    margin: 1.5em auto;
+    gap: 2px;
   }
 }
 
