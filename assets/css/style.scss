@@ -24,6 +24,7 @@ $link-hover:    darken($link, 8%);
 /* --- NEW / MODIFIED VARIABLES --- */
 $color-deep-green: #004d40; /* Deep, rich teal/forest green */
 $color-bold-blue:  #003366; /* Very dark, dramatic blue for maximum contrast */
+$color-bold-brightblue: 1e3ca8; /* ultramarine */
 /* -------------------------------- */
 
 $font-size-base: clamp(16px, 1.5vw, 18px);
@@ -61,7 +62,7 @@ body,
 .markdown-body strong,
 .markdown-body b {
     font-weight: 700; /* Using 700 to ensure a clear distinction from 500 body text */
-    color: $color-bold-blue; /* Very dark, dramatic blue */
+    color: $color-bold-brightblue; /* Ultramarine */
     /* Add a slight text shadow for that dramatic, 'chiseled' look */
     text-shadow: 0.5px 0.5px 1px rgba(0, 0, 0, 0.1);
 }
