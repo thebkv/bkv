@@ -22,65 +22,78 @@ body {
 
 
 /* ==========================================
-   Bible Key — Table Styling (Parchment Edition)
+   Bible Key — Table Styling (Refined Parchment Grid)
    ========================================== */
 
-/* === Table Base === */
 table {
-  width: 100%;
   border-collapse: collapse;
-  margin: 1.2rem 0;
+  margin: 1.5rem auto;
   font-family: "EB Garamond", "Georgia", serif;
   font-size: 1.05rem;
   background-color: #fdfaf4;
   border: 1px solid #d5c7a5;
-  box-shadow: 0 0 6px rgba(0,0,0,0.08);
+  box-shadow: 0 0 6px rgba(0,0,0,0.06);
+  border-radius: 4px;
+  max-width: 720px;          /* keeps tables comfortably narrow on laptop */
+  width: 95%;                /* fills screen on phone, roomy on desktop */
 }
 
-/* === Table Lines & Cells === */
-th, td {
-  border: 1px solid #d8c9a7;
-  padding: 0.4rem 0.6rem;
-  text-align: center;
-}
-
-th {
-  background-color: #f5ecd6;
-  font-weight: 600;
-  color: #4a3a1f;
-}
-
+/* Cells */
 td {
+  border: 1px solid #d8c9a7;
+  padding: 0.45rem 0.65rem;
+  text-align: center;
   color: #2c2c2c;
 }
 
+/* Remove header look since not data tables */
+th {
+  border: none;
+  background: none;
+  font-weight: normal;
+}
+
+/* Links */
 td a {
   color: #3b4c85;
   font-weight: 600;
   text-decoration: none;
+  transition: background-color 0.15s ease;
 }
 
 td a:hover {
   color: #8b0000;
-  text-decoration: underline;
+  background-color: #f7efd9;
+  border-radius: 3px;
+  padding: 0.1rem 0.3rem;
 }
 
-/* === Subtle Rounded Edges === */
-table, th, td {
-  border-radius: 2px;
-}
-
-/* === Section Headings Harmony === */
-h2, h3 {
-  font-family: "EB Garamond", "Georgia", serif;
-  color: #3a2c1a;
-}
-
-/* === Optional: light alternating background === */
+/* Alternating background for texture */
 tbody tr:nth-child(even) td {
   background-color: #fcf7ef;
 }
 
+/* Rounded corners on full table */
+table, td {
+  border-radius: 2px;
+}
+
+/* Center headings and give breathing room */
+h2, h3 {
+  text-align: center;
+  font-family: "EB Garamond", "Georgia", serif;
+  color: #3a2c1a;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Responsive handling — full width on phone */
+@media (max-width: 768px) {
+  table {
+    width: 100%;
+    max-width: none;
+  }
+}
 
 
 
