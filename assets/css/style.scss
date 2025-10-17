@@ -3,67 +3,41 @@
 ---
 
 /* ===========================================================
-   Bible Key Version — Parchment Dark Edition (Full)
-   Works with Jekyll auto nav and layout includes
+   Bible Key Version — Parchment Edition (Clean Final)
+   Works with Jekyll auto-nav and remote theme imports
    =========================================================== */
+
+/* Import base GitHub Pages theme */
 @import "{{ site.theme }}";
 
-/* apply overrides */
-$base-font-family: 'Montserrat', sans-serif;
-
-
-
-
-
 /* ===========================================================
-   BKV — Base SCSS (Parchment + Simple Tables)
+   0. Variables
    =========================================================== */
-
-/* ---------- 0) Variables --------------------------------- */
 $bg-parchment: #d1bfa0;
 $text-color:   #222;
 $link:         #1e90ff;
 $link-hover:   darken($link, 8%);
 
-/* Font sizing: 16px on small screens, scales up to ~18px desktop */
 $font-size-base: clamp(16px, 1.5vw, 18px);
 $line-height: 1.7;
 
-/* Content widths: mobile = nearly full; desktop = comfortably wider */
-$max-width-mobile:  92vw;
-$max-width-desktop: 70vw; /* expands on larger displays */
-$max-ch:            85ch; /* keeps line length readable */
-
-/* Small side margins */
-$pad-mobile:  12px;
-$pad-desktop: 20px;
-
-/* Tables */
 $tbl-border: 1px solid rgba(0,0,0,0.35);
 $tbl-pad:    0.4rem;
 
-/* ---------- 1) Base / Page -------------------------------- */
-
-/* global box model setup */
-html, body {
-  height: 100%;
-}
-html {
-  box-sizing: border-box;
-}
+/* ===========================================================
+   1. Base / Page
+   =========================================================== */
+html, body { height: 100%; box-sizing: border-box; }
 *, *::before, *::after { box-sizing: inherit; }
 
-/* overall page styling */
 body {
   background: $bg-parchment;
   color: $text-color;
+  font-family: "EB Garamond", "Georgia", serif;
   font-size: $font-size-base;
   line-height: $line-height;
   margin: 0;
-  text-align: left; /* keep everything left-justified */
-
-  /* Font stack: body uses Garamond for warmth, Montserrat for fallback crispness */
-  font-family: "EB Garamond", "Georgia", serif;
+  text-align: left;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -74,38 +48,7 @@ h1, h2, h3, h4, h5, h6, th, .nav a {
   letter-spacing: 0.02em;
   font-weight: 600;
 }
-
-/* optional: slight adjustment for smaller headings */
-h1, h2 {
-  font-weight: 700;
-}
-
-/* ---------- 2) Content Container -------------------------- */
-.bkv-wrap {
-  width: min(#{$max-ch}, #{$max-width-mobile});
-  padding-inline: $pad-mobile;
-  margin-inline: auto;
-}
-
-@media (min-width: 1024px) {
-  .bkv-wrap {
-    width: min(#{$max-ch}, #{$max-width-desktop});
-    padding-inline: $pad-desktop;
-  }
-}
-
-/* Optional: make all typical content areas adopt the container */
-main, .page-content, .post-content {
-  @extend .bkv-wrap;
-}
-
-/* ---------- 3) Typography -------------------------------- */
-h1, h2, h3, h4, h5, h6 {
-  margin: 1.2rem 0 0.6rem;
-  font-weight: 700;
-  line-height: 1.25;
-  text-align: left; /* explicit left */
-}
+h1, h2 { font-weight: 700; }
 
 p { margin: 0.75rem 0; }
 
@@ -116,19 +59,14 @@ a {
   &:hover { text-decoration: underline; color: $link-hover; }
 }
 
-ul, ol {
-  margin: 0.75rem 0 0.75rem 1.25rem;
-  padding: 0;
-}
-
-/* ---------- 4) Simple Tables (1px borders + lines) -------- */
-.table,
+/* ===========================================================
+   2. Tables
+   =========================================================== */
 table {
   width: 100%;
   border-collapse: collapse;
   border: $tbl-border;
-  background: rgba(255,255,255,0.25); /* gentle lift off parchment */
-  overflow-x: auto;
+  background: rgba(255,255,255,0.25);
 }
 
 th, td {
@@ -138,89 +76,35 @@ th, td {
   vertical-align: top;
 }
 
-thead th {
-  font-weight: 700;
-}
-
-/* Helper: wrap long content on small screens */
-.table-wrap {
-  width: 100%;
-  overflow-x: auto;
-}
-
-/* ---------- 5) Chapter List (4 columns; ~⅓ width on desktop) */
+/* Chapter list tables */
 .chapter-list {
-  /* full width on phones */
   width: 100%;
   margin: 0.75rem 0;
 }
+.chapter-list table tr > * { width: 25%; }
 
 @media (min-width: 1200px) {
   .chapter-list {
-    /* ~one-third of a typical large monitor width */
-    width: 33vw;             /* target ~1/3 screen */
-    max-width: 720px;        /* prevents going comically wide on ultrawide */
-    min-width: 420px;        /* ensures 4 cols remain readable */
+    width: 33vw;
+    max-width: 720px;
+    min-width: 420px;
   }
 }
 
-.chapter-list table {
-  @extend table; /* reuse base table look */
-}
+/* ===========================================================
+   3. Heading Colors
+   =========================================================== */
+.color-moses       { color: #d1a100 !important; }  /* Law / foundation */
+.color-histories   { color: #8b4513 !important; }  /* action / earth */
+.color-poetry      { color: #4b0082 !important; }  /* emotion / depth */
+.color-prophets    { color: #b22222 !important; }  /* vision / purification */
+.color-gospels     { color: #2e8b57 !important; }  /* life / incarnation */
+.color-letters     { color: #1e90ff !important; }  /* teaching / expansion */
+.color-revelation  { color: #800080 !important; }  /* completion / divinity */
 
-/* Ensure 4 columns without centering */
-.chapter-list table tr > * {
-  width: 25%;
-}
-
-/* ---------- 6) Jekyll Auto-Nav (simple left-justified) ---- */
-.site-nav, .nav, nav {
-  @extend .bkv-wrap;
-  padding-block: 0.5rem;
-
-  ul {
-    list-style: none;
-    margin: 0.25rem 0;
-    padding: 0;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.75rem;
-  }
-
-  a {
-    text-decoration: none;
-    font-weight: 600;
-    &:hover { text-decoration: underline; }
-  }
-}
-
-/* ---------- 7) Utilities --------------------------------- */
-.hr {
-  border: 0;
-  height: 1px;
-  background: rgba(0,0,0,0.25);
-  margin: 1rem 0;
-}
-
-.mono   { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, "Liberation Mono", "Courier New", monospace; }
-.small  { font-size: 0.9em; }
-.muted  { opacity: 0.8; }
-
-/* ---------- 8) Heading Color Options (BKV Sections) ------- */
-/* ===== BKV Section Colors ===== */
-.color-moses       { color: #d1a100 !important; }  /* gold – Law / foundation */
-.color-histories   { color: #8b4513 !important; }  /* bronze – action / earth */
-.color-poetry      { color: #4b0082 !important; }  /* indigo – emotion / depth */
-.color-prophets    { color: #b22222 !important; }  /* fire red – vision / purification */
-.color-gospels     { color: #2e8b57 !important; }  /* deep green – life / incarnation */
-.color-letters     { color: #1e90ff !important; }  /* blue – teaching / expansion */
-.color-revelation  { color: #800080 !important; }  /* royal purple – completion / divinity */
-
-/* Example usage:
-   <h2 class="color-poetry">Psalms</h2>
-*/
-
-/* ---------- 9) Optional: tighten images & code blocks ------ */
+/* ===========================================================
+   4. Media & Code Blocks
+   =========================================================== */
 img, svg, video, iframe {
   max-width: 100%;
   height: auto;
@@ -228,8 +112,8 @@ img, svg, video, iframe {
   margin: 0.5rem 0;
 }
 
-pre, code, kbd, samp {
-  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, "Liberation Mono", "Courier New", monospace;
+pre, code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, "Courier New", monospace;
 }
 pre {
   padding: 0.75rem;
@@ -238,46 +122,21 @@ pre {
   overflow-x: auto;
 }
 
-/* ---------- 10) Print-friendly (optional) ----------------- */
-@media print {
-  body { background: white; }
-  .bkv-wrap { width: 100%; padding: 0; }
-  a { text-decoration: underline; }
-}
-
-
-
-/* ===== Force Garamond Body Font ===== */
+/* ===========================================================
+   5. Mobile / Readability Enhancements
+   =========================================================== */
 body,
 .markdown-body,
 .container-lg {
   font-family: "EB Garamond", "Georgia", serif !important;
-  font-weight: 400;
-  line-height: 1.7;
-  color: #222;
-}
-
-/* ===== Improve Garamond readability on small screens ===== */
-@media (max-width: 600px) {
-  body,
-  .markdown-body,
-  .container-lg {
-    font-size: 17px;   /* up from 16 */
-    line-height: 1.75; /* a touch more breathing room */
-  }
-}
-
-
- /* ===== BKV Mobile Readability Enhancements ===== */
-body,
-.markdown-body,
-.container-lg {
   font-weight: 500;
+  color: #222;
+  line-height: 1.7;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* slightly larger and more open on small screens */
+/* Slightly larger text on phones */
 @media (max-width: 600px) {
   body,
   .markdown-body,
@@ -287,3 +146,10 @@ body,
   }
 }
 
+/* ===========================================================
+   6. Print (optional)
+   =========================================================== */
+@media print {
+  body { background: white; }
+  a { text-decoration: underline; }
+}
