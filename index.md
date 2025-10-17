@@ -165,6 +165,10 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 ---
 
 
+<a id="gospels"></a>  
+## <span class="color-moses">📜 The Gospels</span>
+
+
 ## 📖 **Matthew**  
 > _The Gospel of Vision and Fulfillment — The Awakening of Divine Consciousness Within Humanity_
 
@@ -178,29 +182,55 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 | 26 | 27 | 28 |   |   |
 
 
+## 📖 **Mark**  
+> _The Gospel of Motion and Power — The Swift Advance of the Divine Will Through Action_
 
-(more chapters will be added here as they are ready)
-## 📖 The Gospel According to Mark  
-- [Chapter 1](Mark_01.md)
-- [Chapter 2](Mark_02.md)  
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [01](Mark_01.md) | [02](Mark_02.md) | 03 | 04 | 05 |
+| 06 | 07 | 08 | 09 | 10 |
+| 11 | 12 | 13 | 14 | 15 |
+| 16 |   |   |   |   |
 
-## 📖 The Gospel According to Luke  
-- [Chapter 1](Luke_01.md)  
-- [Chapter 2](Luke_02.md)  
-- [Chapter 3](Luke_03_rev1.md)  
-- [Chapter 4](Luke_04.md)  
-- [Chapter 5](Luke_05.md)
-- [Chapter 6](Luke_06.md)
-- [Chapter 7](Luke_07.md)
-- [Chapter 23](Luke_23.md)
 
-## 📖 The Gospel According to John  
-- [Chapter 1](John_01.md)  
-- [Chapter 2](John_02.md)
-- [Chapter 3](John_03.md)
-- [Chapter 4](John_04.md)
-- [Chapter 13](John_13.md)
-- [Chapter 16](John_16.md)
+## 📖 **Luke**  
+> _The Gospel of Compassion and Illumination — The Human Heart Enlightened by Divine Understanding_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [01](Luke_01.md) | [02](Luke_02.md) | [03](Luke_03_rev1.md) | [04](Luke_04.md) | [05](Luke_05.md) |
+| [06](Luke_06.md) | [07](Luke_07.md) | 08 | 09 | 10 |
+| 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 | [23](Luke_23.md) | 24 |   |
+
+
+## 📖 **John**  
+> _The Gospel of Light and Union — The Revelation of the Divine Self Within All Being_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [01](John_01.md) | [02](John_02.md) | [03](John_03.md) | [04](John_04.md) | 05 |
+| 06 | 07 | 08 | 09 | 10 |
+| 11 | 12 | [13](John_13.md) | 14 | 15 |
+| [16](John_16.md) | 17 | 18 | 19 | 20 |
+| 21 |   |   |   |   |
+
+
+## 📖 **Acts of the Apostles**  
+> _The Book of Expansion and Witness — The Outpouring of Divine Power Into the World of Action_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 | 05 |
+| 06 | 07 | 08 | 09 | 10 |
+| [11](Acts_11.md) | [12](Acts_12.md) | 13 | 14 | 15 |
+| 16 | [17](Acts_17.md) | 18 | 19 | 20 |
+| 21 | 22 | 23 | 24 | 25 |
+| 26 | 27 | 28 |   |   |
+
+---
+
 
 ## 📖 Hebrews  
 - [Chapter 01](Hebrews_01.md)
@@ -211,10 +241,6 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 ## 📖 Jude  
 - [Chapter 01](Jude_01.md) of 1  
 
-## 📖 Acts of the Apostles  
-- [Chapter 11](Acts_11.md)  
-- [Chapter 12](Acts_12.md)  
-- [Chapter 17](Acts_17.md)
 
 ## 📖 Letter to the Ephesians  
 - [Chapter 01](Ephesians_01.md)  
