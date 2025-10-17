@@ -268,5 +268,22 @@ body,
 }
 
 
+ /* ===== BKV Mobile Readability Enhancements ===== */
+body,
+.markdown-body,
+.container-lg {
+  font-weight: 500;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
 
+/* slightly larger and more open on small screens */
+@media (max-width: 600px) {
+  body,
+  .markdown-body,
+  .container-lg {
+    font-size: 17px;
+    line-height: 1.75;
+  }
+}
 
