@@ -1,6 +1,5 @@
 ---
-# Only needed if using Jekyll auto-build
-# Front matter tells GitHub Pages to process this with Sass
+# Front matter enables Jekyll/GitHub Pages to compile Sass
 ---
 
 /* ===========================================================
@@ -114,5 +113,48 @@ small, .footnote {
     padding: 1.2em;
   }
 }
+
+/* === 9. Chapter Grid Layout ===================================== */
+.chapter-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
+  max-width: 480px;
+  margin: 2em auto;
+  gap: 0.6em;
+  justify-items: center;
+}
+
+.chapter-grid a {
+  display: inline-block;
+  background-color: rgba(255, 250, 240, 0.2);
+  color: #2b1a0e;
+  border: 1px solid rgba(80, 55, 30, 0.25);
+  border-radius: 6px;
+  padding: 0.4em 0.6em;
+  text-align: center;
+  font-weight: 600;
+  font-size: 0.95rem;
+  transition: background 0.15s ease, color 0.15s ease;
+
+  &:hover {
+    background-color: rgba(90, 60, 35, 0.8);
+    color: #fff;
+  }
+}
+
+/* === 10. Page Layout and Reading Margins ========================= */
+main, .page-content, .post-content, .chapter-content {
+  max-width: 900px;
+  margin: 2em auto;
+  padding: 0 1.5em;
+}
+
+@media (min-width: 1100px) {
+  main, .page-content, .post-content, .chapter-content {
+    max-width: 820px;
+    padding: 0 2em;
+  }
+}
+
 
 
