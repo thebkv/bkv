@@ -178,7 +178,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 
 <a id="histories"></a>  
-## <span class="color-moses">🏺 The Historical Books</span>
+## <span class="color-histories">🏺 The Historical Books</span>
 
 ---
 
@@ -334,8 +334,543 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 
 
+---
+---
+
+<a id="poetry"></a>  
+## <span class="color-poetry">🎵 The Books of Poetry & Wisdom</span>
+
+---
+
+## 📖 **Job**  
+> _The Book of Testing — The Search for Divine Justice Within the Soul_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [01](Job_01.md) | 02 | 03 | 04 | 05 |
+| 06 | 07 | 08 | 09 | 10 |
+| 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 | 23 | 24 | 25 |
+| 26 | 27 | 28 | 29 | 30 |
+| 31 | 32 | 33 | 34 | 35 |
+| 36 | 37 | 38 | 39 | 40 |
+| 41 | 42 |   |   |   |
+
+---
+
+## 📖 **Psalms**  
+> _The Book of Praise — The Songs of Conscious Communion With the Divine_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [091](Psalm_91.md) | [095](Psalm_95.md) | [118](Psalm_118.md) | [119](Psalm_119.md) |   |
+
+---
+
+## 📖 **Proverbs**  
+> _The Book of Wisdom — The Alignment of the Mind With Divine Order_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [03](Proverbs_03.md) | 04 | 05 | 06 | 07 |
+| 08 | 09 | 10 | 11 | 12 |
+| 13 | 14 | 15 | 16 | 17 |
+| 18 | 19 | 20 | 21 | 22 |
+| 23 | 24 | 25 | 26 | 27 |
+| 28 | 29 | 30 | 31 |   |
 
 
+
+---
+---
+
+
+
+<a id="prophets"></a>  
+## <span class="color-prophets">🔥 The Books of the Prophets</span>
+
+---
+
+## 📖 **Isaiah**  
+> _The Book of Vision — The Revelation of Divine Purpose in the Inner and Outer Worlds_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [01](Isaiah_01.md) | 02 | 03 | 04 | 05 |
+| ... | [53](Isaiah_53.md) | ... | 65 | 66 |
+
+---
+
+## 📖 **Jeremiah**  
+> _The Book of Weeping and Fire — The Voice of Divine Compassion Calling to a Wayward Heart_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 | 05 |
+| 06 | 07 | 08 | 09 | 10 |
+| ... | 51 | 52 |   |   |
+
+---
+
+## 📖 **Lamentations**  
+> _The Book of Sorrow — The Soul’s Grief in Separation From Divine Presence_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 | 05 |
+
+---
+
+## 📖 **Ezekiel**  
+> _The Book of Renewal — The Breath of Life Restoring the Dry Bones of Consciousness_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [12](Ezekiel_12.md) | [13](Ezekiel_13.md) | 14 | 15 | 16 |
+| ... | [37](Ezekiel_37.md) | 38 | 39 | 48 |
+
+---
+
+## 📖 **Daniel**  
+> _The Book of Revelation in Captivity — The Triumph of the Spirit Over the Powers of the World_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [00](Daniel_00.md) | [01](Daniel_01.md) | [02](Daniel_02.md) | [03](Daniel_03.md) | 04 |
+| 05 | [06](Daniel_06.md) | [07](Daniel_07.md) | 08 | 09 |
+| 10 | 11 | 12 |   |   |
+
+---
+
+## 📖 **Hosea**  
+> _The Book of Faithful Love — The Covenant Restored Through Compassion_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 | 05 |
+| 06 | 07 | 08 | 09 | 10 |
+| 11 | 12 | 13 | 14 |   |
+
+---
+
+## 📖 **Joel**  
+> _The Book of Outpouring — The Promise of the Spirit Upon All Flesh_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 |   |   |
+
+---
+
+## 📖 **Amos**  
+> _The Book of Justice — The Plumb Line of Righteousness in the Midst of the People_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 | 05 |
+| 06 | 07 | 08 | 09 |   |
+
+---
+
+## 📖 **Obadiah**  
+> _The Book of Pride’s Fall — The Warning to Those Who Exalt Themselves_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 |   |   |   |   |
+
+---
+
+## 📖 **Jonah**  
+> _The Book of Descent and Return — The Soul’s Flight From and Surrender to Divine Will_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [01](Jonah_01.md) | [02](Jonah_02.md) | [03](Jonah_03.md) | [04](Jonah_04.md) |   |
+
+---
+
+## 📖 **Micah**  
+> _The Book of Balance — Justice, Mercy, and Humility Revealed in Harmony_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 | 05 |
+| 06 | 07 |   |   |   |
+
+---
+
+## 📖 **Nahum**  
+> _The Book of Vengeance — The Overthrow of Cruel Power and the Vindication of Truth_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 |   |   |
+
+---
+
+## 📖 **Habakkuk**  
+> _The Book of Watchfulness — The Soul Waiting Upon Divine Justice_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 |   |   |
+
+---
+
+## 📖 **Zephaniah**  
+> _The Book of Purification — The Day of the Lord Within the Heart_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 |   |   |
+
+---
+
+## 📖 **Haggai**  
+> _The Book of Encouragement — The Rebuilding of the Inner Temple After Delay_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 |   |   |   |
+
+---
+
+## 📖 **Zechariah**  
+> _The Book of Visions — The Restoration and Crowning of the Inner Life_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 | 05 |
+| 06 | 07 | 08 | 09 | 10 |
+| 11 | 12 | 13 | 14 |   |
+
+---
+
+## 📖 **Malachi**  
+> _The Book of Refinement — The Messenger Preparing the Way of the Lord_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 |   |
+
+
+
+
+
+---
+---
+
+
+
+<a id="gospels"></a>  
+## <span class="color-gospels">✨ The Gospels and Acts</span>
+
+---
+
+## 📖 **Matthew**  
+> _The Gospel of Vision and Fulfillment — The Awakening of Divine Consciousness Within Humanity_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [01](Matthew_01.md) | [02](Matthew_02.md) | [03](Matthew_03.md) | [04](Matthew_04.md) | [05](Matthew_05.md) |
+| [06](Matthew_06.md) | [07](Matthew_07.md) | [08](Matthew_08.md) | [09](Matthew_09.md) | [10](Matthew_10.md) |
+| 11 | 12 | [13](Matthew_13.md) | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 | 23 | 24 | 25 |
+| 26 | 27 | 28 |   |   |
+
+---
+
+## 📖 **Mark**  
+> _The Gospel of Motion and Power — The Swift Advance of the Divine Will Through Action_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [01](Mark_01.md) | [02](Mark_02.md) | 03 | 04 | 05 |
+| 06 | 07 | 08 | 09 | 10 |
+| 11 | 12 | 13 | 14 | 15 |
+| 16 |   |   |   |   |
+
+---
+
+## 📖 **Luke**  
+> _The Gospel of Compassion and Illumination — The Human Heart Enlightened by Divine Understanding_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [01](Luke_01.md) | [02](Luke_02.md) | [03](Luke_03_rev1.md) | [04](Luke_04.md) | [05](Luke_05.md) |
+| [06](Luke_06.md) | [07](Luke_07.md) | 08 | 09 | 10 |
+| 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 | [23](Luke_23.md) | 24 |   |
+
+---
+
+## 📖 **John**  
+> _The Gospel of Light and Union — The Revelation of the Divine Self Within All Being_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [01](John_01.md) | [02](John_02.md) | [03](John_03.md) | [04](John_04.md) | 05 |
+| 06 | 07 | 08 | 09 | 10 |
+| 11 | 12 | [13](John_13.md) | 14 | 15 |
+| [16](John_16.md) | 17 | 18 | 19 | 20 |
+| 21 |   |   |   |   |
+
+---
+
+## 📖 **Acts of the Apostles**  
+> _The Book of Expansion and Witness — The Outpouring of Divine Power Into the World of Action_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 | 05 |
+| 06 | 07 | 08 | 09 | 10 |
+| [11](Acts_11.md) | [12](Acts_12.md) | 13 | 14 | 15 |
+| 16 | [17](Acts_17.md) | 18 | 19 | 20 |
+| 21 | 22 | 23 | 24 | 25 |
+| 26 | 27 | 28 |   |   |
+
+
+
+---
+---
+
+
+
+<a id="letters"></a>  
+## <span class="color-letters">📜 The Letters</span>
+
+---
+
+## 📖 **Romans**  
+> _The Epistle of Faith and Reason — The Inner Law of Transformation_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 | 05 |
+| 06 | 07 | 08 | 09 | 10 |
+| 11 | 12 | 13 | 14 | 15 |
+| 16 |   |   |   |   |
+
+---
+
+## 📖 **1 Corinthians**  
+> _The Epistle of Correction — The Alignment of the Divided Mind_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 | 05 |
+| 06 | 07 | 08 | 09 | 10 |
+| 11 | 12 | 13 | 14 | 15 |
+| 16 |   |   |   |   |
+
+---
+
+## 📖 **2 Corinthians**  
+> _The Epistle of Consolation — The Power of Weakness and the Ministry of Spirit_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 | 05 |
+| 06 | 07 | 08 | 09 | 10 |
+| 11 | 12 | 13 |   |   |
+
+---
+
+## 📖 **Galatians**  
+> _The Epistle of Freedom — Life in the Spirit Rather Than in the Law_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 | 05 |
+| 06 |   |   |   |   |
+
+---
+
+## 📖 **Ephesians**  
+> _The Epistle of Unity — The Revelation of the One Body in Christ_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [01](Ephesians_01.md) | 02 | 03 | 04 | 05 |
+| 06 |   |   |   |   |
+
+---
+
+## 📖 **Philippians**  
+> _The Epistle of Joy — The Mind of Christ in the Midst of Adversity_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 |   |
+
+---
+
+## 📖 **Colossians**  
+> _The Epistle of Supremacy — Christ as the Center and Sustainer of All Things_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 |   |
+
+---
+
+## 📖 **1 Thessalonians**  
+> _The Epistle of Hope — The Expectation of Divine Fulfillment_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 | 05 |
+
+---
+
+## 📖 **2 Thessalonians**  
+> _The Epistle of Steadfastness — Holding the Vision Amid Confusion_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 |   |   |
+
+---
+
+## 📖 **1 Timothy**  
+> _The Epistle of Order — Instruction for Spiritual Leadership_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 | 05 |
+| 06 |   |   |   |   |
+
+---
+
+## 📖 **2 Timothy**  
+> _The Epistle of Endurance — Faithfulness in the Face of Departure_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 |   |
+
+---
+
+## 📖 **Titus**  
+> _The Epistle of Sound Doctrine — Maintaining Purity in the Household of Faith_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 |   |   |
+
+---
+
+## 📖 **Philemon**  
+> _The Epistle of Reconciliation — The Transformation of Relationship Through Love_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 |   |   |   |   |
+
+---
+
+## 📖 **Hebrews**  
+> _The Epistle of Fulfillment — The Passage From Shadow to Substance_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [01](Hebrews_01.md) | [02](Hebrews_02.md) | [03](Hebrews_03.md) | [04](Hebrews_04.md) | 05 |
+| 06 | 07 | 08 | 09 | 10 |
+| 11 | 12 | 13 |   |   |
+
+---
+
+## 📖 **James**  
+> _The Epistle of Works — The Expression of Faith Through Action_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 | 05 |
+
+---
+
+## 📖 **1 Peter**  
+> _The Epistle of Refinement — Endurance in the Furnace of Trial_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 | 05 |
+
+---
+
+## 📖 **2 Peter**  
+> _The Epistle of Remembrance — Growth in Knowledge and Grace_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 |   |   |
+
+---
+
+## 📖 **1 John**  
+> _The Epistle of Love — The Witness of Divine Life Within_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 | 02 | 03 | 04 | 05 |
+
+---
+
+## 📖 **2 John**  
+> _The Epistle of Truth — Walking in Love and Discernment_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 |   |   |   |   |
+
+---
+
+## 📖 **3 John**  
+> _The Epistle of Fellowship — The Contrast Between Selfishness and Service_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 01 |   |   |   |   |
+
+---
+
+## 📖 **Jude**  
+> _The Epistle of Contending — Guarding the Inner Faith_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [01](Jude_01.md) |   |   |   |   |
+
+---
+
+<a id="letters"></a>  
+## <span class="color-revelation">📜 The Letters</span>
+
+---
+## 📖 **Revelation**  
+> _The Apocalypse of Unveiling — The Full Disclosure of the Divine Pattern_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [01](Revelation_01.md) | 02 | 03 | 04 | 05 |
+| 06 | 07 | 08 | 09 | 10 |
+| 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 |   |   |   |
+
+
+---
+---
+
+
+
+
+---
+---
 
 
 
