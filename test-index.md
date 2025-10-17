@@ -29,6 +29,7 @@ Use the color-coded sections or the “Jump To” links below to move through th
 ---
 
 
+---
 
 ## <span class="color-moses">📜 The Book of Exodus</span>
 
@@ -41,7 +42,7 @@ Use the color-coded sections or the “Jump To” links below to move through th
 | 30 | 31 | 32 | 33 | 34 | 35 |
 | 36 | 37 | 38 | 39 | 40 |   |
 
-
+---
 
 
 
