@@ -55,7 +55,7 @@ body,
 .markdown-body strong,
 .markdown-body b {
   font-weight: 900; /* bold */
-  color: #182356; /* slightly darker to enhance contrast */
+  color: #182356 !important; /* slightly darker to enhance contrast */
   letter-spacing: 0.003em; /* micro-spacing for elegance */
 }
 
