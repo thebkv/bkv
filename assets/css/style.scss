@@ -55,26 +55,23 @@ body,
 .markdown-body strong,
 .markdown-body b {
   font-weight: 800; /* bold */
-  color: #1a237e; /* slightly darker to enhance contrast */
+  color: #121a5a; /* slightly darker to enhance contrast */
   letter-spacing: 0.003em; /* micro-spacing for elegance */
 }
 
 /* Headings, navigation, and table headers use Montserrat for clarity */
-h1, h2, h3, h4, h5, h6, th, .nav a {
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6,
+th,
+.nav a {
   font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
-  color: #0f3b28;
+  color: #0f3b28 !important; /* deeper green, forced override */
   letter-spacing: 0.015em;
   font-weight: 700;
-}
-h1, h2 { font-weight: 700; }
-
-p { margin: 0.75rem 0; }
-
-a {
-  color: $link;
-  text-decoration: none;
-  font-weight: 600;
-  &:hover { text-decoration: underline; color: $link-hover; }
 }
 
 /* ===========================================================
