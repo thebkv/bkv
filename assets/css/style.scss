@@ -44,6 +44,8 @@ $tbl-border: 1px solid rgba(0,0,0,0.35);
 $tbl-pad:    0.4rem;
 
 /* ---------- 1) Base / Page -------------------------------- */
+
+/* global box model setup */
 html, body {
   height: 100%;
 }
@@ -52,17 +54,31 @@ html {
 }
 *, *::before, *::after { box-sizing: inherit; }
 
+/* overall page styling */
 body {
   background: $bg-parchment;
   color: $text-color;
   font-size: $font-size-base;
   line-height: $line-height;
-
-  /* Font stack: prefers Montserrat for a crisp sans, falls back to Garamond */
-  font-family:
-    "Montserrat", "EB Garamond", Garamond, "Georgia", serif, system-ui, -apple-system, "Segoe UI", "Helvetica Neue", Arial;
-  text-align: left; /* keep everything left-justified */
   margin: 0;
+  text-align: left; /* keep everything left-justified */
+
+  /* Font stack: body uses Garamond for warmth, Montserrat for fallback crispness */
+  font-family: "EB Garamond", "Georgia", serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Headings, navigation, and table headers use Montserrat for clarity */
+h1, h2, h3, h4, h5, h6, th, .nav a {
+  font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+}
+
+/* optional: slight adjustment for smaller headings */
+h1, h2 {
+  font-weight: 700;
 }
 
 /* ---------- 2) Content Container -------------------------- */
