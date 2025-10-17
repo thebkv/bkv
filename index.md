@@ -164,19 +164,21 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 ---
 ---
 
-## 📖 The Gospel According to Matthew
-- [Chapter 1](Matthew_01.md) 
-- [Chapter 2](Matthew_02.md) 
-- [Chapter 3](Matthew_03.md)
-- [Chapter 4](Matthew_04.md)
-- [Chapter 5](Matthew_05.md)
-- [Chapter 6](Matthew_06.md)
-- [Chapter 7](Matthew_07.md)
-- [Chapter 8](Matthew_08.md)
-- [Chapter 9](Matthew_09.md)
-- [Chapter 10](Matthew_10.md)  
-- [Chapter 13](Matthew_13.md)  
-- 
+
+## 📖 **Matthew**  
+> _The Gospel of Vision and Fulfillment — The Awakening of Divine Consciousness Within Humanity_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [01](Matthew_01.md) | [02](Matthew_02.md) | [03](Matthew_03.md) | [04](Matthew_04.md) | [05](Matthew_05.md) |
+| [06](Matthew_06.md) | [07](Matthew_07.md) | [08](Matthew_08.md) | [09](Matthew_09.md) | [10](Matthew_10.md) |
+| 11 | 12 | [13](Matthew_13.md) | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 | 23 | 24 | 25 |
+| 26 | 27 | 28 |   |   |
+
+
+
 (more chapters will be added here as they are ready)
 ## 📖 The Gospel According to Mark  
 - [Chapter 1](Mark_01.md)
