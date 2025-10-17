@@ -13,37 +13,198 @@ $base-font-family: 'Montserrat', sans-serif;
 
 
 /* === 1. Base Typography & Layout ========================== */
-body {
+/*body {
   background-color: #d1bfa0; /* darker parchment */
-  background-image: radial-gradient(circle at 50% 50%, #e2d4b3 0%, #bfa47f 100%);
+  /*background-image: radial-gradient(circle at 50% 50%, #e2d4b3 0%, #bfa47f 100%);
   color: #2b1a0e; /* deep brown ink */
-  font-family: "EB Garamond", "Georgia", serif;
+  /*font-family: "EB Garamond", "Georgia", serif;
   font-size: 18px;
   /*line-height: 1.7;
   margin: 20px;
   padding: 20px;*/
+/*}*/
+
+
+
+
+
+
+/* ===========================================================
+   BKV — Base SCSS (Parchment + Simple Tables)
+   =========================================================== */
+
+/* ---------- 0) Variables --------------------------------- */
+$bg-parchment: #d1bfa0;
+$text-color:   #222;
+$link:         #1e90ff;
+$link-hover:   darken($link, 8%);
+
+/* Font sizing: 16px on small screens, scales up to ~18px desktop */
+$font-size-base: clamp(16px, 1.5vw, 18px);
+$line-height: 1.7;
+
+/* Content widths: mobile = nearly full; desktop = comfortably wider */
+$max-width-mobile:  92vw;
+$max-width-desktop: 70vw; /* expands on larger displays */
+$max-ch:            85ch; /* keeps line length readable */
+
+/* Small side margins */
+$pad-mobile:  12px;
+$pad-desktop: 20px;
+
+/* Tables */
+$tbl-border: 1px solid rgba(0,0,0,0.35);
+$tbl-pad:    0.4rem;
+
+/* ---------- 1) Base / Page -------------------------------- */
+html, body {
+  height: 100%;
+}
+html {
+  box-sizing: border-box;
+}
+*, *::before, *::after { box-sizing: inherit; }
+
+body {
+  background: $bg-parchment;
+  color: $text-color;
+  font-size: $font-size-base;
+  line-height: $line-height;
+
+  /* Font stack: prefers Montserrat for a crisp sans, falls back to Garamond */
+  font-family:
+    "Montserrat", "EB Garamond", Garamond, "Georgia", serif, system-ui, -apple-system, "Segoe UI", "Helvetica Neue", Arial;
+  text-align: left; /* keep everything left-justified */
+  margin: 0;
 }
 
+/* ---------- 2) Content Container -------------------------- */
+.bkv-wrap {
+  width: min(#{$max-ch}, #{$max-width-mobile});
+  padding-inline: $pad-mobile;
+  margin-inline: auto;
+}
 
+@media (min-width: 1024px) {
+  .bkv-wrap {
+    width: min(#{$max-ch}, #{$max-width-desktop});
+    padding-inline: $pad-desktop;
+  }
+}
 
----
----
+/* Optional: make all typical content areas adopt the container */
+main, .page-content, .post-content {
+  @extend .bkv-wrap;
+}
 
-/* table */
+/* ---------- 3) Typography -------------------------------- */
+h1, h2, h3, h4, h5, h6 {
+  margin: 1.2rem 0 0.6rem;
+  font-weight: 700;
+  line-height: 1.25;
+  text-align: left; /* explicit left */
+}
 
+p { margin: 0.75rem 0; }
+
+a {
+  color: $link;
+  text-decoration: none;
+  font-weight: 600;
+  &:hover { text-decoration: underline; color: $link-hover; }
+}
+
+ul, ol {
+  margin: 0.75rem 0 0.75rem 1.25rem;
+  padding: 0;
+}
+
+/* ---------- 4) Simple Tables (1px borders + lines) -------- */
+.table,
 table {
   width: 100%;
-  display: block;
-  overflow-x: auto;
   border-collapse: collapse;
-  margin-bottom: 1em;
-}
-th, td {
-  padding: 6px 10px;
-  vertical-align: top;
-  border: 1px solid #ddd;
+  border: $tbl-border;
+  background: rgba(255,255,255,0.25); /* gentle lift off parchment */
+  overflow-x: auto;
 }
 
+th, td {
+  border: $tbl-border;
+  padding: $tbl-pad;
+  text-align: left;
+  vertical-align: top;
+}
+
+thead th {
+  font-weight: 700;
+}
+
+/* Helper: wrap long content on small screens */
+.table-wrap {
+  width: 100%;
+  overflow-x: auto;
+}
+
+/* ---------- 5) Chapter List (4 columns; ~⅓ width on desktop) */
+.chapter-list {
+  /* full width on phones */
+  width: 100%;
+  margin: 0.75rem 0;
+}
+
+@media (min-width: 1200px) {
+  .chapter-list {
+    /* ~one-third of a typical large monitor width */
+    width: 33vw;             /* target ~1/3 screen */
+    max-width: 720px;        /* prevents going comically wide on ultrawide */
+    min-width: 420px;        /* ensures 4 cols remain readable */
+  }
+}
+
+.chapter-list table {
+  @extend table; /* reuse base table look */
+}
+
+/* Ensure 4 columns without centering */
+.chapter-list table tr > * {
+  width: 25%;
+}
+
+/* ---------- 6) Jekyll Auto-Nav (simple left-justified) ---- */
+.site-nav, .nav, nav {
+  @extend .bkv-wrap;
+  padding-block: 0.5rem;
+
+  ul {
+    list-style: none;
+    margin: 0.25rem 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+  }
+
+  a {
+    text-decoration: none;
+    font-weight: 600;
+    &:hover { text-decoration: underline; }
+  }
+}
+
+/* ---------- 7) Utilities --------------------------------- */
+.hr {
+  border: 0;
+  height: 1px;
+  background: rgba(0,0,0,0.25);
+  margin: 1rem 0;
+}
+
+.mono   { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, "Liberation Mono", "Courier New", monospace; }
+.small  { font-size: 0.9em; }
+.muted  { opacity: 0.8; }
+
+/* ---------- 8) Heading Color Options (BKV Sections) ------- */
 /* ===== BKV Section Colors ===== */
 .color-moses       { color: #d1a100 !important; }  /* gold – Law / foundation */
 .color-histories   { color: #8b4513 !important; }  /* bronze – action / earth */
@@ -53,3 +214,31 @@ th, td {
 .color-letters     { color: #1e90ff !important; }  /* blue – teaching / expansion */
 .color-revelation  { color: #800080 !important; }  /* royal purple – completion / divinity */
 
+/* Example usage:
+   <h2 class="color-poetry">Psalms</h2>
+*/
+
+/* ---------- 9) Optional: tighten images & code blocks ------ */
+img, svg, video, iframe {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0.5rem 0;
+}
+
+pre, code, kbd, samp {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, "Liberation Mono", "Courier New", monospace;
+}
+pre {
+  padding: 0.75rem;
+  border: $tbl-border;
+  background: rgba(255,255,255,0.4);
+  overflow-x: auto;
+}
+
+/* ---------- 10) Print-friendly (optional) ----------------- */
+@media print {
+  body { background: white; }
+  .bkv-wrap { width: 100%; padding: 0; }
+  a { text-decoration: underline; }
+}
