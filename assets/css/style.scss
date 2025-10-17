@@ -45,6 +45,19 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+/* make normal text slightly heavier so bold still jumps clearly */
+body,
+.markdown-body,
+.container-lg {
+  font-weight: 500; /* medium */
+}
+
+.markdown-body strong,
+.markdown-body b {
+  font-weight: 700; /* bold */
+  color: #111; /* slightly darker to enhance contrast */
+}
+
 /* Headings, navigation, and table headers use Montserrat for clarity */
 h1, h2, h3, h4, h5, h6, th, .nav a {
   font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
@@ -132,7 +145,7 @@ body,
 .markdown-body,
 .container-lg {
   font-family: "EB Garamond", "Georgia", serif !important;
-  font-weight: 550;
+  font-weight: 500;
   color: #222;
   line-height: 1.7;
   -webkit-font-smoothing: antialiased;
