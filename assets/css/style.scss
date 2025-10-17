@@ -6,6 +6,11 @@
    Bible Key Version — Parchment Dark Edition (Full)
    Works with Jekyll auto nav and layout includes
    =========================================================== */
+$base-font-family: 'Montserrat', sans-serif;
+
+@import "{{ site.theme }}";
+
+
 
 /* === 1. Base Typography & Layout ========================== */
 body {
@@ -14,19 +19,46 @@ body {
   color: #2b1a0e; /* deep brown ink */
   font-family: "EB Garamond", "Georgia", serif;
   font-size: 18px;
-  line-height: 1.7;
+  /*line-height: 1.7;
   margin: 20px;
-  padding: 20px;
+  padding: 20px;*/
 }
+
+
+
+---
+---
+
+/* table */
 
 table {
-
-  color: #2c2c2c;
-  background-color: #faf7ef;
-  border: 1px solid #d8c9a7;
-
-           /* fills phone nicely */
+  width: 100%;
+  display: block;
+  overflow-x: auto;
+  border-collapse: collapse;
+  margin-bottom: 1em;
+}
+th, td {
+  padding: 6px 10px;
+  vertical-align: top;
+  border: 1px solid #ddd;
 }
 
+/* ===== BKV Section Colors ===== */
+.color-moses       { color: #d1a100 !important; }  /* gold – Law / foundation */
+.color-histories   { color: #8b4513 !important; }  /* bronze – action / earth */
+.color-poetry      { color: #4b0082 !important; }  /* indigo – emotion / depth */
+.color-prophets    { color: #b22222 !important; }  /* fire red – vision / purification */
+.color-gospels     { color: #2e8b57 !important; }  /* deep green – life / incarnation */
+.color-letters     { color: #1e90ff !important; }  /* blue – teaching / expansion */
+.color-revelation  { color: #800080 !important; }  /* royal purple – completion / divinity */
 
+/* ===== Visual Tweaks for Color Squares ===== */
+span[class^="color-"] {
+  font-size: 1.4em;       /* increase size slightly */
+  font-weight: bold;      /* make the ■ thicker and more visible */
+  line-height: 1;         /* keep them vertically centered in table cells */
+  display: inline-block;  /* helps alignment in tables */
+  vertical-align: middle; /* keeps the square centered next to text */
+}
 
