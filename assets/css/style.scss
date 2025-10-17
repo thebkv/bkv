@@ -133,53 +133,29 @@ thead th {
   overflow-x: auto;
 }
 
-/* ---------- 5) Chapter List (4 columns; adaptive width) ----- */
+/* ---------- 5) Chapter List (4 columns; ~⅓ width on desktop) */
 .chapter-list {
+  /* full width on phones */
   width: 100%;
   margin: 0.75rem 0;
 }
 
-/* make the table fluid but narrower on small screens */
-.chapter-list table {
-  width: 100%;
-  border-collapse: collapse;
-  border: $tbl-border;
-  background: rgba(255,255,255,0.25);
-  table-layout: fixed; /* prevents columns from expanding too wide */
-}
-
-.chapter-list table th,
-.chapter-list table td {
-  border: $tbl-border;
-  padding: $tbl-pad;
-  text-align: left;
-  word-wrap: break-word;
-}
-
-/* Each column gets equal width but stays compact */
-.chapter-list table tr > * {
-  width: 25%;
-}
-
-/* On mobile: shrink overall width slightly */
-@media (max-width: 600px) {
-  .chapter-list {
-    width: 90%;            /* about 10% margin on both sides */
-    margin-inline: auto;
-  }
-  .chapter-list table {
-    font-size: 0.9em;      /* slightly smaller text for fit */
-  }
-}
-
-/* On large screens: about one-third width of monitor */
 @media (min-width: 1200px) {
   .chapter-list {
-    width: 33vw;
-    max-width: 720px;
-    min-width: 420px;
+    /* ~one-third of a typical large monitor width */
+    width: 33vw;             /* target ~1/3 screen */
+    max-width: 720px;        /* prevents going comically wide on ultrawide */
+    min-width: 420px;        /* ensures 4 cols remain readable */
   }
 }
+
+.chapter-list table {
+  @extend table; /* reuse base table look */
+}
+
+/* Ensure 4 columns without centering */
+.chapter-list table tr > * {
+  width: 25%;
 }
 
 /* ---------- 6) Jekyll Auto-Nav (simple left-justified) ---- */
