@@ -1,4 +1,4 @@
-**Joshua 3 — BKV Study (The Irreversible Commitment)**
+# Joshua 3 — BKV Study (The Irreversible Commitment)
 
 ---
 
@@ -7,6 +7,7 @@
 >*“Behold, the ark of the covenant of the Lord of all the earth passeth over before you into Jordan.” — Joshua 3:11 KJV*
 
 ---
+
 ## **BKV-NR (Natural Reading)**
 
 1.  The **Principle of Divine Realization (Joshua)** rose early in the morning; and they departed from **Renewal** and came to the **Flow of Conscious Life (Jordan)**, and lodged there before crossing.
