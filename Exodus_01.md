@@ -4,7 +4,7 @@ Exodus 1 a foundational text for the entire spiritual journey. It perfectly esta
 
 ---
 
->*“Now a new king arose over Egypt, who did not know Joseph.”*
+>*“Now a new king arose over Egypt, who did not know Joseph.”*  
 >*The Egoic Will attempts to crush the soul’s growth by eliminating its capacity for Divine action.*
 
 ---
