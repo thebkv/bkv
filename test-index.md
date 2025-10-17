@@ -64,8 +64,9 @@ Use the color-coded sections or the “Jump To” links below to move through th
 <details>
 <summary>Expand Moses Books</summary>
 
-- [Genesis](Genesis_00.md)
-- [Exodus](Exodus_00.md)
+[Genesis](Genesis_00.md)
+
+Exodus
 | [00](Exodus_00.md) | [01](Exodus_01.md) | [02](Exodus_02.html) | [03](Exodus_03.html) | [04](Exodus_04.html) | [05](Exodus_05.html) |
 | --- | --- | --- | --- | --- | --- |
 | [06](Exodus_06.html) | [07](Exodus_07.html) | [08](Exodus_08.html) | 09 | 10 | 11 |
@@ -75,9 +76,9 @@ Use the color-coded sections or the “Jump To” links below to move through th
 | 30 | 31 | 32 | 33 | 34 | 35 |
 | 36 | 37 | 38 | 39 | 40 |   |
 
-- [Leviticus](Leviticus_00.md)
-- [Numbers](Numbers_00.md)
-- [Deuteronomy](Deuteronomy_00.md)
+[Leviticus](Leviticus_00.md)
+[Numbers](Numbers_00.md)
+[Deuteronomy](Deuteronomy_00.md)
 
 </details>
 
