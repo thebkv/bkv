@@ -6,11 +6,10 @@
    Bible Key Version — Parchment Dark Edition (Full)
    Works with Jekyll auto nav and layout includes
    =========================================================== */
-$base-font-family: 'Montserrat', sans-serif;
-
 @import "{{ site.theme }}";
 
-
+/* apply overrides */
+$base-font-family: 'Montserrat', sans-serif;
 
 
 
