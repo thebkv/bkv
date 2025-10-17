@@ -114,31 +114,41 @@ small, .footnote {
   }
 }
 
-/* === 9. Chapter Grid Layout ===================================== */
+/* === 9. Chapter Grid Layout (compact style like reference image) ===== */
 .chapter-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
-  max-width: 480px;
+  grid-template-columns: repeat(4, 60px); /* exactly four columns wide */
+  justify-content: center;
   margin: 2em auto;
-  gap: 0.6em;
-  justify-items: center;
+  gap: 4px;
 }
 
 .chapter-grid a {
-  display: inline-block;
-  background-color: rgba(255, 250, 240, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 60px;
+  height: 40px;
+  background-color: rgba(255, 250, 240, 0.1);
   color: #2b1a0e;
   border: 1px solid rgba(80, 55, 30, 0.25);
-  border-radius: 6px;
-  padding: 0.4em 0.6em;
-  text-align: center;
+  border-radius: 4px;
   font-weight: 600;
-  font-size: 0.95rem;
-  transition: background 0.15s ease, color 0.15s ease;
+  font-size: 0.9rem;
+  transition: background 0.15s ease, color 0.15s ease, transform 0.1s ease;
 
   &:hover {
     background-color: rgba(90, 60, 35, 0.8);
     color: #fff;
+    transform: translateY(-1px);
+  }
+}
+
+/* Keep grid responsive on narrow screens */
+@media (max-width: 480px) {
+  .chapter-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 6px;
   }
 }
 
