@@ -165,6 +165,89 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 ---
 
 
+## 📖 Hebrews  
+- [Chapter 01](Hebrews_01.md)
+- [Chapter 02](Hebrews_02.md)
+- [Chapter 03](Hebrews_03.md)
+- [Chapter 04](Hebrews_04.md)
+
+## 📖 Jude  
+- [Chapter 01](Jude_01.md) of 1  
+
+
+## 📖 Letter to the Ephesians  
+- [Chapter 01](Ephesians_01.md)  
+
+## 📖 Revelation  
+- [Chapter 1](Revelation_01.md)  
+
+<a id="histories"></a>  
+## <span class="color-moses">📜 The Histories</span>
+
+## 📖 **The Book of Joshua**  
+> _The Book of Possession and Courage — The Awakening of Divine Strength to Enter the Promised State_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [00](Joshua_00.md) | [01](Joshua_01.md) | [02](Joshua_02.md) | [03](Joshua_03.md) | [04](Joshua_04.md) |
+| 05 | 06 | 07 | 08 | 09 |
+| 10 | 11 | 12 | 13 | 14 |
+| 15 | 16 | 17 | 18 | 19 |
+| 20 | 21 | 22 | 23 | 24 |
+
+
+## 📖 First Samuel  
+- [Chapter 17](1_Samuel_17.md)  
+
+## 📖 Isaiah  
+- [Chapter 1](Isaiah_01.md)
+- [Chapter 53](Isaiah_53.md)  
+
+## 📖 Job  
+- [Chapter 1](Job_01.md)  
+
+## 📖 Ezra  
+- [Chapter 1](Ezra_01.md)
+- [Chapter 2](Ezra_02.md)
+- [Chapter 3](Ezra_03.md)
+
+## 📖 Daniel  
+- [Chapter 00](Daniel_00.md)
+- [Chapter 01](Daniel_01.md)
+- [Chapter 02](Daniel_02.md)  
+- [Chapter 03](Daniel_03.md)
+- [Chapter 06](Daniel_06.md)
+- [Chapter 07](Daniel_07.md)  
+
+## 📖 Ezekiel  
+- [Chapter 1](Ezekiel_12.md)
+- [Chapter 2](Ezekiel_13.md)
+- [Chapter 3](Ezekiel_37.md)
+
+
+
+## 📖 Jonah  
+- [Chapter 1](Jonah_01.md)
+- [Chapter 2](Jonah_02.md)
+- [Chapter 3](Jonah_03.md)
+- [Chapter 4](Jonah_04.md)
+
+---
+
+<a id="poetry"></a>  
+## <span class="color-moses">📜 Poetry</span>
+
+## 📖 Psalms  
+- [Psalm 91](Psalm_91.md)
+- [Psalm 118](Psalm_118.md)
+- [Psalm 119](Psalm_119.md)
+
+
+## 📖 Proverbs
+- [Proverbs 3](Proverbs_03.md)
+
+---
+
 <a id="gospels"></a>  
 ## <span class="color-moses">📜 The Gospels</span>
 
@@ -232,70 +315,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 ---
 
 
-## 📖 Hebrews  
-- [Chapter 01](Hebrews_01.md)
-- [Chapter 02](Hebrews_02.md)
-- [Chapter 03](Hebrews_03.md)
-- [Chapter 04](Hebrews_04.md)
 
-## 📖 Jude  
-- [Chapter 01](Jude_01.md) of 1  
-
-
-## 📖 Letter to the Ephesians  
-- [Chapter 01](Ephesians_01.md)  
-
-## 📖 Revelation  
-- [Chapter 1](Revelation_01.md)  
-
-
-## 📖 Joshua  
-- [Chapter 1](Joshua_01.md)  
-
-## 📖 First Samuel  
-- [Chapter 17](1_Samuel_17.md)  
-
-## 📖 Isaiah  
-- [Chapter 1](Isaiah_01.md)
-- [Chapter 53](Isaiah_53.md)  
-
-## 📖 Job  
-- [Chapter 1](Job_01.md)  
-
-## 📖 Ezra  
-- [Chapter 1](Ezra_01.md)
-- [Chapter 2](Ezra_02.md)
-- [Chapter 3](Ezra_03.md)
-
-## 📖 Daniel  
-- [Chapter 00](Daniel_00.md)
-- [Chapter 01](Daniel_01.md)
-- [Chapter 02](Daniel_02.md)  
-- [Chapter 03](Daniel_03.md)
-- [Chapter 06](Daniel_06.md)
-- [Chapter 07](Daniel_07.md)  
-
-## 📖 Ezekiel  
-- [Chapter 1](Ezekiel_12.md)
-- [Chapter 2](Ezekiel_13.md)
-- [Chapter 3](Ezekiel_37.md)
-
-
-
-## 📖 Jonah  
-- [Chapter 1](Jonah_01.md)
-- [Chapter 2](Jonah_02.md)
-- [Chapter 3](Jonah_03.md)
-- [Chapter 4](Jonah_04.md)
-
-## 📖 Psalms  
-- [Psalm 91](Psalm_91.md)
-- [Psalm 118](Psalm_118.md)
-- [Psalm 119](Psalm_119.md)
-
-
-## 📖 Proverbs
-- [Proverbs 3](Proverbs_03.md)
 
 ---
 test area
