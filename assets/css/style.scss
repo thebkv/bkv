@@ -55,21 +55,22 @@ body,
 .markdown-body strong,
 .markdown-body b {
   font-weight: 900; /* bold */
-  color: #121a5a; /* slightly darker to enhance contrast */
+  color: #182356; /* slightly darker to enhance contrast */
   letter-spacing: 0.003em; /* micro-spacing for elegance */
 }
 
-/* Headings, navigation, and table headers use Montserrat for clarity */
+/* Headings — unified emerald ink across all levels */
 .markdown-body h1,
 .markdown-body h2,
 .markdown-body h3,
 .markdown-body h4,
 .markdown-body h5,
 .markdown-body h6,
-th,
-.nav a {
+.page-header h1,
+.page-header h2,
+h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
-  color: #0f3b28 !important; /* deeper green, forced override */
+  color: #0f3b28 !important; /* Emerald Verdigris ink */
   letter-spacing: 0.015em;
   font-weight: 700;
 }
