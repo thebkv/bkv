@@ -54,12 +54,12 @@ body,
 
 .markdown-body strong,
 .markdown-body b {
-  font-weight: 900; /* bold */
-  color: #182356 !important; /* slightly darker to enhance contrast */
+  font-weight: 800; /* bold */
+  color: #121a5a; /* slightly darker to enhance contrast */
   letter-spacing: 0.003em; /* micro-spacing for elegance */
 }
 
-/* Headings — unified emerald ink across all levels */
+/* Headings — full coverage for all markdown and theme variants */
 .markdown-body h1,
 .markdown-body h2,
 .markdown-body h3,
@@ -68,11 +68,16 @@ body,
 .markdown-body h6,
 .page-header h1,
 .page-header h2,
+.page-header h3,
+.page-header h4,
+.page-header h5,
+.page-header h6,
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
-  color: #0f3b28 !important; /* Emerald Verdigris ink */
+  font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif !important;
+  color: #0f3b28 !important;  /* Emerald Verdigris ink */
   letter-spacing: 0.015em;
   font-weight: 700;
+  line-height: 1.3;
 }
 
 /* ===========================================================
