@@ -104,15 +104,6 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 - [Chapter 01](test-index.md)  
 
 ## 📖 Exodus  
-- [Chapter 1](Exodus_01.md)
-- [Chapter 2](Exodus_02.md)
-- [Chapter 3](Exodus_03.md)
-- [Chapter 4](Exodus_04.md)
-- [Chapter 5](Exodus_05.md)
-- [Chapter 6](Exodus_06.md)
-
----
-
 | [00](Exodus_00.md) | [01](Exodus_01.md) | [02](Exodus_02.html) | [03](Exodus_03.html) | [04](Exodus_04.html) | [05](Exodus_05.html) |
 | --- | --- | --- | --- | --- | --- |
 | [06](Exodus_06.html) | 07 | 08 | 09 | 10 | 11 |
@@ -122,8 +113,16 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 | 30 | 31 | 32 | 33 | 34 | 35 |
 | 36 | 37 | 38 | 39 | 40 |   |
 
----
+---  
 
+- [Chapter 1](Exodus_01.md)
+- [Chapter 2](Exodus_02.md)
+- [Chapter 3](Exodus_03.md)
+- [Chapter 4](Exodus_04.md)
+- [Chapter 5](Exodus_05.md)
+- [Chapter 6](Exodus_06.md)
+
+---  
 
 
 
