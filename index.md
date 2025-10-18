@@ -741,8 +741,9 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 01 | 02 | 03 | 04 | 05 |
-| 06 |   |   |   |   |
+| [00](1_Timothy_00.md) |     |   |   |   |
+| [01](1_Timothy_01.md) | [02](1_Timothy_02.md) | 03 | 04 | 05 |
+| 06 |   |   |   |
 
 ---
 
@@ -751,7 +752,8 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 01 | 02 | 03 | 04 |   |
+| [00](2_Timothy_00.md) |    |    |    |    |
+| 01 | 02 | 03 | 04 | 05 |
 
 ---
 
@@ -856,6 +858,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |    |   |   |   |
 | [01](Revelation_01.md) | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 | 15 |
