@@ -742,7 +742,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 |   |   |   |   |   |
 |---|---|---|---|---|
 | [00](1_Timothy_00.md) |     |   |   |   |
-| [01](1_Timothy_01.md) | [02](1_Timothy_02.md) | 03 | 04 | 05 |
+| [01](1_Timothy_01.md) | [02](1_Timothy_02.md) | [03](1_Timothy_03.md) | [04](1_Timothy_04.md) | [05](1_Timothy_05.md) |
 | 06 |   |   |   |
 
 ---
