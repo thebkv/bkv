@@ -1,4 +1,4 @@
-# **1 Timothy $\mathbf{00}$ — BKV - The Architecture of Inner Discipline**
+# **1 Timothy 00 — BKV - The Architecture of Inner Discipline**
 
 ## **Discipline, Doctrine, and the Stewardship of the Inner Kingdom**
 
@@ -54,6 +54,6 @@ The final phase is defense. The qualified leadership must resist **Seducing Spir
 > **Core BKV Principle:**
 > *The Inner Church is not a belief structure, but a system of consciousness.* The stability of the soul (the **pillar and ground of the truth**) depends entirely on the disciplined application of **Doctrine, Order, and Qualified Authority.**
 
-$$\text{Foundation} \rightarrow \text{Structure} \rightarrow \text{Administration} \rightarrow \text{Maintenance}$$
+
 
 
