@@ -12,7 +12,7 @@
 
 ## **BKV-NR Context: The Corruption of Legacy**
 
-Judges 9 is the **dark interlude** following the death of **Gideon**, marking the first major example of a **self-imposed ruler** and the **breakdown of the BKV Cycle of Recurrence**. The chapter shows how the errors of the Judge (**Gideon's golden ephod**—misplaced focus/idolatry) corrupt the next generation. The focus shifts from the **Divine Deliverer** to the **Egoic Usurper**: **Abimelech (My Father is King)**. His rise is an internal coup, representing the **Principle of Illegitimate Authority** seizing power by violently **suppressing all legitimate, fruitful inner faculties**.
+**Judges 9** is the **dark interlude** following the death of **Gideon**, marking the first major example of a **self-imposed ruler** and the **breakdown of the BKV Cycle of Recurrence**. The chapter shows how the errors of the Judge (**Gideon's golden ephod**—misplaced focus/idolatry) corrupt the next generation. The focus shifts from the **Divine Deliverer** to the **Egoic Usurper**: **Abimelech (My Father is King)**. His rise is an internal coup, representing the **Principle of Illegitimate Authority** seizing power by violently **suppressing all legitimate, fruitful inner faculties**.
 
 ---
 
@@ -26,8 +26,9 @@ Judges 9 is the **dark interlude** following the death of **Gideon**, marking th
 
 **(Jotham's Fable: The Trees and the Bramble)**
 
-11. The trees said to the **Fig Tree (Principle of Sweetness/Joy)**, Come thou, and reign over us. But the **Fig Tree** said, Should I forsake my **sweetness** and my **good fruit**, and go to be promoted over the trees?
-13. Then said the trees unto the **Vine (Principle of Sustenance/Illumination)**, But the **Vine** said, Should I leave my **wine**, which cheers God and man, and go to be promoted over the trees?
+9. The trees said to the **Olive Tree (Principle of Productivity/Blessing)**, Come thou, and reign over us. But the **Olive Tree** answered, Should I leave my **fatness**, wherewith by me they **honour the Source** and man, and go to be promoted over the trees?
+11. The trees said to the **Fig Tree (Principle of Sweetness/Joy)**, Should I forsake my **sweetness** and my **good fruit**, and go to be promoted over the trees?
+13. Then said the trees unto the **Vine (Principle of Sustenance/Illumination)**, Should I leave my **wine**, which cheers the Source and man, and go to be promoted over the trees?
 15. Then said all the trees unto the **Bramble (Principle of Barren Ambition)**, Come thou, and reign over us. And the **Bramble** said, If in truth ye anoint me king over you, then come and put your trust in my **shadow**; and if not, let **fire come out of the Bramble**, and devour the **Cedars of Lebanon** (destruction by arrogance).
 
 ---
@@ -52,8 +53,8 @@ The rule of the Ego must inevitably self-destruct. Abimelech dies by the hand of
 
 | Reference | Theme in Judges 9 | Contribution to the BKV-NR Study |
 | :--- | :--- | :--- |
-| **Luke 12:13–34** | **The Folly of Accumulation and Barren Ambition** | This passage, particularly the **Parable of the Rich Fool**, directly mirrors Abimelech's error. Abimelech seeks to **"store up"** power (rule) for himself, ignoring that **true life consists not in the abundance** of things (Luke 12:15) but in **spiritual fruit** (which the Olive, Fig, and Vine produce). **Jotham's Fable** is the spiritual rebuttal to the Rich Fool's mindset. |
-| **Micah 6:9–16** | **Moral Collapse and Retribution** | The seizure of power through internal violence guarantees the **Law of Consequence**. Abimelech’s entire career, ending in his violent death, is the inevitable "fruit of [his] deeds" (Micah 6:16). |
+| **Luke 12:13–34** | **The Folly of Accumulation and Barren Ambition** | This passage, particularly the **Parable of the Rich Fool**, directly mirrors Abimelech's error. Abimelech seeks to **"store up"** power (rule) for himself, ignoring that **true life consists not in the abundance** of things (Luke 12:15) but in **spiritual fruit**. **Jotham's Fable** is the spiritual rebuttal to the Rich Fool's mindset. |
+| **Micah 6:9–16** | **Moral Collapse and Retribution** | The seizure of power through internal violence guarantees the **Law of Consequence**. Abimelech’s violent end is the inevitable "fruit of [his] deeds" (Micah 6:16). |
 | **1 Samuel 8:4–7** | **The Demand for a King** | This failure of *self-imposed* rule sets the stage for the later, generalized demand for a King—a desperate search for any centralized authority to replace the instability of the Judge-Cycle. |
 
 ---
@@ -73,6 +74,4 @@ The rule of the Ego must inevitably self-destruct. Abimelech dies by the hand of
 
 **Core BKV Principle:**
 > *The ultimate failure of inner governance is the rule of **egoic ambition (the Bramble King)**. True authority is defined by **spiritual fruit**, not by power. The soul that chooses self-sufficiency over manifestation guarantees its own barrenness and destruction.*
-
-
 
