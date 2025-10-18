@@ -1,4 +1,5 @@
-# **1 Timothy $\mathbf{00}$ — BKV Architectural Overview**
+# **1 Timothy $\mathbf{00}$ — BKV - The Architecture of Inner Discipline
+
 ## **Discipline, Doctrine, and the Stewardship of the Inner Kingdom**
 
 > *“That thou mightest charge some that they teach no other doctrine.” — 1 Timothy 1:3 KJV*
