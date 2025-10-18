@@ -1,6 +1,8 @@
-# **1 Timothy $\mathbf{00}$ — BKV - The Architecture of Inner Discipline
+# **1 Timothy $\mathbf{00}$ — BKV - The Architecture of Inner Discipline**
 
 ## **Discipline, Doctrine, and the Stewardship of the Inner Kingdom**
+
+---
 
 > *“That thou mightest charge some that they teach no other doctrine.” — 1 Timothy 1:3 KJV*
 > *“That thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth.” — 1 Timothy 3:15 KJV*
