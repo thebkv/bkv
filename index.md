@@ -46,7 +46,7 @@ _"Now all these things happened unto them for exsamples."_
 ---
 
 
-## 📜 **Bible Key Primer**  
+## 📜 Bible Key Primer  
 
 The Bible Key is a method of reading Scripture that unlocks its inner dimension. It assumes the text is written in layers, where names, numbers, places, and events are not only historical but symbolic — diagrams for living with Christ's presence.  
 
