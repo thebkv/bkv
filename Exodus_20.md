@@ -12,7 +12,7 @@ The Decalogue is not the bondage of duty—it is the **blueprint of liberty**, t
 
 ---
 
-## **BKV-NR Context — The Establishment of Inner Law**
+## BKV-NR Context — The Establishment of Inner Law
 
 At **Mount Sinai (“The Apex of Awareness”)**, consciousness encounters **The Source — the Absolute Lawgiver within**.  
 The Ten Commandments unfold as **Ten Principles of Divine Order**, transforming scattered impulse into coherent purpose.  
@@ -22,7 +22,7 @@ Together they form the living geometry of a sanctified inner kingdom, moving the
 
 ---
 
-## **BKV-NR (Natural Reading)**  
+## BKV-NR (Natural Reading  
 
 ### **The First Table — Law of Divine Relationship**  
 
@@ -31,7 +31,7 @@ Together they form the living geometry of a sanctified inner kingdom, moving the
 7. Thou shalt not take the **Creative Word** in vain; for the Word is the power of manifestation. *(Law of Reverent Expression)*  
 8. Remember the **Day of Rest** to keep it holy; for in **cessation** the Source renews the soul. *(Law of Sacred Rhythm)*  
 
-### **The Second Table — Law of Human Relationship**  
+### The Second Table — Law of Human Relationship  
 
 12. **Honour thy Father and thy Mother**, the dual principles of Origin and Receptivity, that thy life may be long and fruitful. *(Law of Origin and Continuity)*  
 13. Thou shalt not destroy the life principle. *(Law of Preservation)*  
@@ -42,7 +42,7 @@ Together they form the living geometry of a sanctified inner kingdom, moving the
 
 ---
 
-## **Commentary on the Action**
+## Commentary on the Action
 
 ### **1 · The Singularity of Cause (vv 3–4)**
 All disorder begins when consciousness divides its allegiance among competing powers.  
