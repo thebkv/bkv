@@ -6,7 +6,7 @@ Integrated Symbolics Bible Study
 
 ---
 
-### **Quick Navigation — The Sevenfold Structure of Scripture**
+## Quick Navigation — The Sevenfold Structure of Scripture
 
 | Jump Link | Section Title | Visual | Symbolic BKV Theme |
 | :--- | :--- | :---: | :--- |
@@ -26,7 +26,7 @@ Integrated Symbolics Bible Study
 
 ---  
 
-## 🗝️ **About**  
+## 🗝️ About  
 The **Bible Key Version (BKV)** is a developing work that mines Scripture to uncover its inherant symbolic meanings and historical depth. 
 [link to test2](index-test2.md)
 Special attention is given to the original meanings of proper names, and to numbers with well-established significance (such as 7 and 40). 
