@@ -24,7 +24,7 @@ Together they form the living geometry of a sanctified inner kingdom, moving the
 
 ## BKV-NR (Natural Reading  
 
-### **The First Table — Law of Divine Relationship**  
+### The First Table — Law of Divine Relationship  
 
 3. Thou shalt recognize **no other Principle of Cause** before the **Source**. *(Law of Singularity)*  
 4. Thou shalt not form any **mental or material image** to represent the Source or Creation. *(Law of Formless Reality)*  
@@ -73,7 +73,7 @@ Mastery of desire is the crowning law of peace, validating its position as the f
 
 ---
 
-## **Exodus 20 — Symbolics Table**
+## Exodus 20 — Symbolics Table
 
 | **Symbol / Term** | **BKV Meaning** | **Inner Principle Represented** |
 | :--- | :--- | :--- |
@@ -89,7 +89,7 @@ Mastery of desire is the crowning law of peace, validating its position as the f
 
 ---
 
-## **Core BKV Principle**
+## Core BKV Principle
 > *The Decalogue is not a list of restrictions but a revelation of structure.  
 > It is the geometry of the soul, where each law anchors the inner world to **Singular Divine Cause**.  
 > When these ten become living within us, the mountain ceases to tremble—because it has moved inside the heart.*
