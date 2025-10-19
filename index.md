@@ -105,7 +105,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 01 | 02 | 03 | 04 | 05 |
+| [01](Genesis_01.md) | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 | 15 |
 | 16 | 17 | 18 | 19 | 20 |
@@ -127,7 +127,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 | [05](Exodus_05.md) | [06](Exodus_06.md) | 07 | 08 | 09 |
 | 10 | 11 | 12 | 13 | [14](Exodus_14.md) |
 | 15 | 16 | 17 | 18 | 19 |
-| 20 | 21 | 22 | 23 | 24 |
+| [20](Exodus_20.md) | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 | 32 | 33 | 34 |
 | 35 | 36 | 37 | 38 | 39 |
