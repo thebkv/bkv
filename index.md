@@ -10,7 +10,7 @@ Integrated Symbolics Bible Study
 
 | Jump Link | Section Title | Visual | Symbolic BKV Theme |
 | :--- | :--- | :---: | :--- |
-| [Jump to Moses Books](#moses) | <span class="color-moses">**The Books of Moses**</span> | <span class="color-moses">■</span> | *Formation of the Inner Law — The Awakening of Divine Order in the Soul.* |
+| <span class="color-moses">[Jump to Moses Books](#moses)</span> | <span class="color-moses">**The Books of Moses**</span> | <span class="color-moses">■</span> | *Formation of the Inner Law — The Awakening of Divine Order in the Soul.* |
 | [Jump to Histories](#histories) | <span class="color-histories">**The Histories**</span> | <span class="color-histories">■</span> | *The Outworking of Consciousness — How Inner Principles Become External Patterns.* |
 | [Jump to Poetry](#poetry) | <span class="color-poetry">**The Poetry and Wisdom Books**</span> | <span class="color-poetry">■</span> | *The Dialogue of the Soul — The Refinement of Awareness through Reflection and Emotion.* |
 | [Jump to Prophets](#prophets) | <span class="color-prophets">**The Prophets**</span> | <span class="color-prophets">■</span> | *The Vision and Correction of the Inner Kingdom — The Call to Alignment and Restoration.* |
