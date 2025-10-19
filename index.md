@@ -100,7 +100,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ---
 
-## 📖 **Genesis**  
+## 📖 Genesis  
 > _The Book of Beginnings — The Emergence of Divine Ideas Into Form_
 
 |   |   |   |   |   |
@@ -118,7 +118,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ---
 
-## 📖 **Exodus**  
+## 📖 Exodus  
 > _The Book of Liberation — The Unfolding of Divine Law in the Journey Out of Bondage_
 
 |   |   |   |   |   |
@@ -135,7 +135,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ---
 
-## 📖 **Leviticus**  
+## 📖 Leviticus  
 > _The Book of Holiness — The Order of Sacred Approach_
 
 |   |   |   |   |   |
@@ -149,7 +149,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ---
 
-## 📖 **Numbers**  
+## 📖 Numbers  
 > _The Book of March and Reckoning — The Soul’s Journey Through the Wilderness_
 
 |   |   |   |   |   |
@@ -165,7 +165,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ---
 
-## 📖 **Deuteronomy**  
+## 📖 Deuteronomy  
 > _The Book of Remembrance — The Law Rewritten Upon the Heart_
 
 |   |   |   |   |   |
@@ -188,7 +188,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ---
 
-## 📖 **Joshua**  
+## 📖 Joshua  
 > _The Book of Possession and Courage — The Awakening of Divine Strength to Enter the Promised State_
 
 |   |   |   |   |   |
@@ -201,7 +201,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ---
 
-## 📖 **Judges**  
+## 📖 Judges  
 > _The Book of Cycles — The Alternation Between Forgetfulness and Renewal_
 
 |   |   |   |   |   |
@@ -215,7 +215,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ---
 
-## 📖 **Ruth**  
+## 📖 Ruth  
 > _The Book of Return — The Discovery of Divine Love Within the Field of Life_
 
 |   |   |   |   |   |
@@ -224,7 +224,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ---
 
-## 📖 **1 Samuel**  
+## 📖 1 Samuel  
 > _The Book of Calling — The Emergence of Spiritual Kingship Within the Soul_
 
 |   |   |   |   |   |
@@ -239,7 +239,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ---
 
-## 📖 **2 Samuel**  
+## 📖 2 Samuel  
 > _The Book of Establishment — The Consolidation of Divine Rule Within the Heart_
 
 |   |   |   |   |   |
@@ -252,7 +252,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ---
 
-## 📖 **1 Kings**  
+## 📖 1 Kings  
 > _The Book of Division — The Rise and Fall of Inner Wisdom and Desire_
 
 |   |   |   |   |   |
@@ -265,7 +265,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ---
 
-## 📖 **2 Kings**  
+## 📖 2 Kings  
 > _The Book of Decline — The Fragmentation and Captivity of the Inner Life_
 
 |   |   |   |   |   |
@@ -278,7 +278,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ---
 
-## 📖 **1 Chronicles**  
+## 📖 1 Chronicles  
 > _The Book of Memory — The Ordering of the Inner Kingdom From Adam to David_
 
 |   |   |   |   |   |
@@ -292,7 +292,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ---
 
-## 📖 **2 Chronicles**  
+## 📖 2 Chronicles  
 > _The Book of Continuity — The Legacy of the Kingdom and the Return to the Temple_
 
 |   |   |   |   |   |
@@ -308,7 +308,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ---
 
-## 📖 **Ezra**  
+## 📖 Ezra  
 > _The Book of Restoration — The Rebuilding of the Inner Temple_
 
 |   |   |   |   |   |
@@ -318,7 +318,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ---
 
-## 📖 **Nehemiah**  
+## 📖 Nehemiah  
 > _The Book of Completion — The Strengthening of the Walls of Consciousness_
 
 |   |   |   |   |   |
@@ -329,7 +329,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ---
 
-## 📖 **Esther**  
+## 📖 Esther  
 > _The Book of Hidden Providence — The Triumph of the Unseen Hand of God Within Human Events_
 
 |   |   |   |   |   |
