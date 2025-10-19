@@ -3,7 +3,7 @@
 
 ---
 
-> _“And Mount Sinai was altogether on a smoke, because the LORD descended upon it in fire… and the voice of the trumpet sounded long, and waxed louder and louder.”_ — Exodus 19:18–19 KJV  
+> _“And Mount Sinai was altogether on a smoke, because the LORD descended upon it in fire… and the voice of the trumpet sounded long, and waxed louder and louder.”_ — Exodus 19:18–19 KJV  
 > _“And God spake all these words, saying, I am the LORD thy God.”_ — Exodus 20:1–2 KJV  
 
 *Thunder, fire, and cloud veil the mountain as the soul reaches its **summit of revelation** (Sinai).  
