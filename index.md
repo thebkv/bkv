@@ -658,7 +658,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 |   |   |   |   |   |
 |---|---|---|---|---|
 | 01 | 02 | 03 | 04 | 05 |
-| 06 | 07 | [08](Romans_08.md) | [09](Romans_09.md) | 10 |
+| 06 | [07](Romans_07.md) | [08](Romans_08.md) | [09](Romans_09.md) | 10 |
 | 11 | 12 | 13 | 14 | 15 |
 | 16 |   |   |   |   |
 
