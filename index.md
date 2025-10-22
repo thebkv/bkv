@@ -650,6 +650,18 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 <a id="letters"></a>  
 ## <span class="color-letters">📜 The Letters</span>
 
+## The Letters
+
+---
+
+>Scripture documents **21 epistles** (letters) written by the early thinkers of the Core Truth movement to various communities and individuals. These texts serve as the definitive manuals for establishing and maintaining Inner Governance.
+
+>The letters range in subject from defining the Principle of Divine Resolution (e.g., Romans, Galatians) to demanding the purity and ethical integrity of the aligned consciousness (e.g., James, 1 Peter). They function as practical manuals for living under the Law of the Spirit of Life.
+
+>Authorship: All were written by the Holy Spirit through various people, including Paul (Saul), direct disciples (Peter, John), and others (Hebrews). Paul details the structural architecture of faith; the others focus on **practical application and final endurance**.
+
+>Purpose: The letters bridge the outer and inner meanings of Scripture. Just as Moses (Outer) led the people to civilization, the letters (Inner) establish the true Kingdom within the heart. Their BKV message is to transition the consciousness from the Law of External Works (Exodus 20) to the Law of Internal Alignment, providing the necessary doctrine and discipline for the continuous operation of the Inner Church (1 Timothy). The goal is to move beyond pre-Christ thinking and embrace the salvation opened by the Lord.
+
 ---
 
 ## 📖 **Romans**  
@@ -743,7 +755,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ---
 
-## 📖 **1 Timothy**  
+## 📖 **First Timothy**  
 > _The Epistle of Order — Instruction for Spiritual Leadership_
 
 |   |   |   |   |   |
@@ -754,7 +766,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ---
 
-## 📖 **2 Timothy**  
+## 📖 **Second Timothy**  
 > _The Epistle of Endurance — Faithfulness in the Face of Departure_
 
 |   |   |   |   |   |
