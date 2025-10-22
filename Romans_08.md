@@ -1,4 +1,4 @@
-# **Romans 8 — BKV Study (The Law of Divine Resolution)**
+# Romans 8 — BKV Study (The Law of Divine Resolution)
 ### *From Fragmentation to Freedom: The Operative Force of the Spirit of Life*
 
 ---
@@ -6,11 +6,11 @@
 > _“For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.”_ — Romans 8:2 KJV
 > _“For as many as are led by the Spirit of God, they are the sons of God.”_ — Romans 8:14 KJV
 
-*The **Cry of the Wretched Man** (Romans 7) is answered not by human effort, but by the introduction of a **new, operative Law**. Freedom is the experience of being lovingly governed by the **Spirit of Life**—a Divine Force that resolves the soul’s internal conflict and restores the consciousness of **Sonship**.*
+The **Cry of the Wretched Man** (Romans 7) is answered not by human effort, but by the introduction of a **new, operative Law**. Freedom is the experience of being lovingly governed by the **Spirit of Life**—a Divine Force that resolves the soul’s internal conflict and restores the consciousness of **Sonship**.
 
 ---
 
-## **BKV-NR Context — The Principle of Divine Resolution**
+## BKV-NR Context — The Principle of Divine Resolution
 
 **Romans 8** is the definitive turning point in the BKV framework, moving from the necessary failure of the **Unassisted Will** (Romans 7) to the establishment of the **Principle of Divine Resolution**. The solution to the mind’s **fragmentation** is not self-discipline, but the acceptance of a superior, non-human force: the **Law of the Spirit of Life**. This law provides the **operative power** necessary to fulfill the righteous demands of the Decalogue, finally freeing the soul from the **Law of Internal Fragmentation** (sin and death).
 
@@ -18,7 +18,7 @@ This chapter completes the cycle of liberation, preparing consciousness to under
 
 ---
 
-## **BKV-NR (Natural Reading)**  
+## BKV-NR (Natural Reading)  
 
 ### **The Law of Freedom**
 
