@@ -1,12 +1,12 @@
 Romans 9 — BKV Study (The Principle of Divine Sovereignty)
-### *Election and Purpose: The Source’s Absolute Authority Over the Inner Faculties of Man*
+### Election and Purpose: The Source’s Absolute Authority Over the Inner Faculties of Man
 
 ---
 
 > _“Therefore hath he mercy on whom he will have mercy, and whom he will he hardeneth.”_ — Romans 9:18 KJV
 > _“Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?”_ — Romans 9:21 KJV
 
-*Following the liberation of the **Spirit of Life** (Romans 8), the consciousness must address the question of **Divine Purpose**. The **Source** retains absolute authority to designate the role of every inner **faculty** (vessel), ensuring that both **fragmentation** and **resolution** ultimately serve the singular revelation of **Truth**. Every movement of fragmentation and every act of resolution are instruments in the Source’s single revelation of Truth.*
+Following the liberation of the **Spirit of Life** (Romans 8), the consciousness must address the question of **Divine Purpose**. The **Source** retains absolute authority to designate the role of every inner **faculty** (vessel), ensuring that both **fragmentation** and **resolution** ultimately serve the singular revelation of **Truth**. Every movement of fragmentation and every act of resolution are instruments in the Source’s single revelation of Truth.
 
 ---
 
@@ -85,4 +85,10 @@ The final point links back to the **Law** (Exodus 20). When a faculty attempts t
 ---
 
 ## **Core BKV Principle**
-> *The **Source** maintains **Absolute Sovereignty** over the **Unformed Potential** of consciousness. **Election** is the designation of inner faculties for specific purpose, ensuring that both **Alignment (Mercy)** and **Fragmentation (Wrath)** are systematically used to reveal the **Source's Power** and demand **Alignment by Faith**, not **Self-Effort**.* 🧭
+> *The **Source** maintains **Absolute Sovereignty** over the **Unformed Potential** of consciousness. **Election** is the designation of inner faculties for specific purpose, ensuring that both **Alignment (Mercy)** and **Fragmentation (Wrath)** are systematically used to reveal the **Source's Power** and demand **Alignment by Faith**, not **Self-Effort**.*
+
+---
+
+
+
+
