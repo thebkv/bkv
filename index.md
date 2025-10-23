@@ -404,7 +404,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| [01](Isaiah_01.md) | 02 | 03 | 04 | 05 |
+| [01](Isaiah_01.md) | [02](Isaiah_02.md) | 03 | 04 | 05 |
 | 26  | 27  | [28](Isaiah_28.md) | [29](Isaiah_29.md)  | 30  |
 | [31](Isaiah_31.md) |   |   |   |   |
 | ... | [53](Isaiah_53.md) | ... | 65 | 66 |
