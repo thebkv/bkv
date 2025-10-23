@@ -131,3 +131,130 @@ It preserves meaning consistency, prevents conceptual drift, and supports the Cr
 
 > **Note:** Continue adding entries alphabetically as new chapters are written.  
 > Each addition should maintain the same pattern for easy integration with automated cross-linking tools later on.
+> 
+
+
+
+
+# **BKV Lexicon Reconciliation Supplement (v2.1 Addendum)**  
+### *Restoring Terms Omitted or Condensed in v2.0 Merge*
+
+---
+
+## **A**
+
+| **Term** | **Definition** | **Category** | **Placement Note** |
+| :--- | :--- | :--- | :--- |
+| **Absurdity (Folly)** | The perception of Divine Truth through fragmented logic; how revelation appears to the unassisted intellect. | Condition / Perception | Re-add under “A,” near “Alignment.” |
+| **Architecture (Inner)** | The structure by which consciousness organizes received truth; the living framework of the soul. | Principle | Already present conceptually in “Foundation” → keep as a discrete entry. |
+
+---
+
+## **B**
+
+| **Term** | **Definition** | **Category** | **Placement Note** |
+| :--- | :--- | :--- | :--- |
+| **Barren Will** | The faculty acting without divine inspiration; effort devoid of Creative Impulse, producing futility. | Condition / Faculty | Add to “B” section — follows naturally after “Babylon.” |
+| **Building Materials (Gold / Silver / Precious Stones / Wood / Hay / Stubble)** | Symbolic description of thoughts or works tested by the Fire of Spirit. | Symbol Group | Already partly merged in “Pauline Architectonics,” but list as sub-group for clarity. |
+
+---
+
+## **C**
+
+| **Term** | **Cycle (Preparation)** | Spiritual process of purification prior to manifestation; “three-day” rhythm of death, waiting, resurrection. | Law / Pattern | Was in v2.0 “Narrative Laws” but can be nested under “Law of the Spirit of Life.” |
+| **Core Truth** | Central axis of Divine Revelation; essence of all doctrine and realization. | Principle | Exists implicitly; ensure it appears as a standalone key under “C.” |
+| **Cross (Symbolic)** | Intersection of human limitation and Divine Purpose; point of surrender transforming self-will. | Symbol | Ensure explicit presence — occasionally lost when shortening. |
+
+---
+
+## **D**
+
+| **Term** | **Dust (of Earth)** | Symbol of the manifest realm and unawakened humanity. | Symbol | Restore under “D.” |
+| **Divine Revelation** | Descent of Truth from Spirit to understanding; illumination beyond reasoning. | Function | Confirm explicit entry. |
+
+---
+
+## **E**
+
+| **Term** | **Envy / Strife** | Emotional evidence of immaturity; operation of Lower Faculty causing division. | Condition | Add under “E.” |
+
+---
+
+## **F**
+
+| **Term** | **Fire (Testing)** | Purifying operation of Spirit that proves the quality of inner substance. | Principle / Process | Present in concept — keep explicit. |
+
+---
+
+## **G**
+
+| **Term** | **Glory (Self-Attribution)** | False ownership of divine power; pride in what was received. | Condition | Should remain explicitly linked to “Faithfulness ↔ Pride.” |
+
+---
+
+## **H**
+
+| **Term** | **Human Wisdom** | Reasoning of the intellect apart from Spirit; limited perception masquerading as truth. | Faculty / Shadow | Ensure this remains discrete. |
+
+---
+
+## **I**
+
+| **Term** | **Inner Church** | Ordered assembly of inner faculties governed by the Creative Impulse. | Structure / Collective | Confirm explicit inclusion. |
+
+---
+
+## **M**
+
+| **Term** | **Man’s Day** | Judgment of the temporal mind; limited assessment based on appearances. | Law / Condition | Present but confirm cross-link to “Divine Judgment.” |
+| **Milk / Solid Food** | Stages of understanding; spiritual nourishment progressing from simplicity to maturity. | Symbol | Reinstate under “M.” |
+| **Mystery (Hidden Divine Purpose)** | Concealed architecture of the Source’s design; disclosed through faithfulness. | Mystery / Law | Consolidate variant spellings to one canonical entry. |
+
+---
+
+## **N**
+
+| **Term** | **Natural Man** | Unassisted consciousness unable to perceive spiritual things. | State | Ensure linkage to “Spiritual Man.” |
+
+---
+
+## **P**
+
+| **Term** | **Power (Divine Operation)** | Objective, non-human energy manifesting transformation. | Function | Keep primary definition as is. |
+| **Pride** | Self-assertion of intellect; separation from Source. | Condition | Keep with “Faithfulness ↔ Pride.” |
+
+---
+
+## **R**
+
+| **Term** | **Rod (Discipline)** | Corrective principle restoring alignment through firmness of Spirit. | Symbol / Function | Keep; may appear under “Authority / Meekness” cluster. |
+| **Revelation (Divine)** | The descent of truth from Source into understanding. | Function | Consolidate with “Divine Revelation” above. |
+
+---
+
+## **S**
+
+| **Term** | **Self (Lower)** | The illusory identity that imagines separation from the Source. | Condition | Present implicitly — add explicit line. |
+| **Spiritual Man** | Consciousness governed by the Spirit; perceives Divine Reality. | State | Confirm presence under “N–S bridge.” |
+| **Steward** | Inner administrator of faculties and gifts; measured by faithfulness. | Role | Retain fully. |
+| **Symbolic Geography** | The metaphoric reading of locations as states of consciousness. | System | Keep in main lexicon. |
+
+---
+
+## **T**
+
+| **Term** | **Truth (Core)** | Divine Reality as discerned by Spirit; opposite of illusion. | Principle | Reinstate near “Temple.” |
+
+---
+
+### ✅ **Summary of Adjustments**
+- **New terms to re-insert:** Absurdity/Folly, Barren Will, Dust, Envy/Strife, Milk/Solid Food.  
+- **Clarify / separate:** Core Truth, Cross (Symbolic), Divine Revelation (distinct from Revelation general).  
+- **Link corrections:** Human Wisdom ↔ Divine Wisdom; Fire ↔ Purification; Glory ↔ Faithfulness; Natural ↔ Spiritual Man.
+
+---
+
+> **Integration Tip:**  
+> Append this supplement to the bottom of `/BKV_Lexicon.md` as “v2.1 Addendum.”  
+> When you next regenerate the full master list, merge these entries alphabetically.  
+> I’ll continue checking every few chapters for similar omissions to keep the lexicon coherent.
