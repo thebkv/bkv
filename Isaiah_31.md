@@ -73,7 +73,27 @@ The final act of turning back to the Source is the conscious rejection of **Idol
 ## **Core BKV Principle**
 > *The path to **Alignment** requires the cessation of **Self-Generated Strength** and the abandonment of the **Manifested Domain** as a source of help. **Spiritual Security** is founded on **Singular Dependence**—the absolute truth that the **Eternal Source** alone possesses the **Power** to defend the **Inner Sanctuary**.*
 
+---
 
+## **Addendum: Positional Significance and the Structural Boundary**
+
+This section defines the architectural necessity of **Isaiah 31** as a prerequisite for the spiritual restoration outlined in the chapters that follow.
+
+### **The Climax of Misplaced Causality**
+
+Within the structure of the Book of Isaiah, Chapter 31 functions as the **final, climactic warning** against the sin of **Misplaced Causality**. It forces a decision upon the consciousness.
+
+* **Boundary Line:** The chapter serves as a **structural boundary**, concluding a long sequence of prophecies (the "Woe" series) that condemned relying on the **Manifested Domain** (Egypt/external resources).
+* **The Final Rejection:** Its severity stems from the explicit metaphysical distinction it draws: the power of the world is fragile **"flesh,"** while the power of the Source is **"spirit"** (v. 3). The message is that the most subtle form of the **Lower Faculty's** pride—believing in the inherent strength of its own material or intellectual schemes—must be **completely rejected and nullified**.
+
+### **Condition for Restoration**
+
+The subsequent prophecies of **Kingdom** and **Restoration** (starting in Isaiah 32 and 35) are impossible until this condition is met.
+
+* **Necessity of Dependence:** The **Elevated Consciousness** (Zion/Jerusalem) cannot be established by the **Source's Power** until the attempt to establish it through **Self-Generated Strength** (horses/chariots) ceases.
+* **Architectural Mandate:** Isaiah 31 is not merely a warning; it is an **Architectural Mandate** that demands the removal of all false foundations before the true **Inner Sanctuary** can be built and perpetually defended by the **Irresistible Force** of the Source.
+
+***
 
 
 
