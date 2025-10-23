@@ -157,6 +157,133 @@
 > This v2.2 Lexicon supersedes prior editions.  
 > All future additions should maintain this format for automated cross-linking and visualization.
 
+---
+---
+---
+---
+
+
+# **Bible Key Version — Master Lexicon v2.3**
+### *(Merged and Harmonized Edition — November 2025)*
+
+> *“Write this for a memorial in a book.”* — Exodus 17:14  
+> *“That they might know the certainty of those things wherein thou hast been instructed.”* — Luke 1:4  
+
+---
+
+## **Core Keys — Foundational Principles & Identity**
+
+| **Term** | **BKV Meaning** | **Category** | **Cross-Links / Opposites** |
+| :--- | :--- | :--- | :--- |
+| **God / Father** | The **Source**; divine origin, higher consciousness, Self-Existent Reality. | Deity / Source | — |
+| **Self-Existent Reality** | The ultimate, independent Divine Being and Truth. | Deity / Principle | Dependence (Created) |
+| **Word (Logos)** | Divine pattern, creative principle, blueprint of being. | Principle / Expression | Silence (Potential) |
+| **Spirit / Breath** | The life-force or divine presence active in creation; see **Creative Impulse (Spirit of Life)**. | Deity / Force | Lower Faculty |
+| **Christ (Christos)** | The Anointed One; **Principle of Divine Humanity** — divine presence embodied in man. | Deity / Manifestation | Anti-Christ (Separation) |
+| **Son of Man** | Reborn Humanity; the collective expression of the Christ Principle. | Archetype | Natural Man |
+| **Body (of Christ)** | The organized unity of faculties operating under Divine Humanity. | Structure / Collective | Division |
+| **Holy Spirit** | See **Creative Impulse (Spirit of Life)**. | Deity / Force | — |
+| **Creative Impulse (Spirit of Life)** | Operative motion of the Spirit; initiates revelation and transformation. | Faculty / Force | Intellectual Faculty |
+| **Law (Divine Principle)** | Immutable order of divine operation; foundation of all revelation. | Principle | Chaos |
+| **Grace** | The unearned flow of divine help; transcends cause and effect. | Principle / Force | Law (as obligation) |
+| **Faith** | Inner conviction grounded in revelation rather than reasoning. | Virtue / Faculty | Doubt |
+| **Wisdom (Divine)** | Discernment born of union with the Source. | Virtue / Insight | Folly (Absurdity) |
+| **Folly (Absurdity)** | Perception of Divine Truth through fragmented logic; how revelation appears to the unassisted intellect. | Condition / Perception | Wisdom (Divine) |
+| **Love (Agape)** | Harmonizing power of the Source that binds all faculties in unity. | Virtue / Force | Fear |
+| **Hope** | Expectation anchored in divine order, not circumstance. | Virtue / Faculty | Despair |
+| **Faithfulness** | Steadfast reliance on the Source; measure of inner stewardship. | Virtue / Character | Self-Reliance |
+| **Meekness (Spirit of)** | Yielded strength; authority expressed through gentleness. | Virtue / Force | Pride |
+| **Pride** | Assertion of the separated self; claim of ownership over divine gift. | Condition / Faculty | Meekness (Spirit of) |
+| **Stewardship** | Function of inner faculties as administrators, not owners, of divine gifts. | Principle / Function | Ownership (Self-Will) |
+
+---
+
+## **States of Consciousness & Geography**
+
+| **Term** | **BKV Meaning** | **Category** | **Cross-Links / Opposites** |
+| :--- | :--- | :--- | :--- |
+| **Jerusalem** | Foundation of Peace — **Inner Wholeness**; spiritual center of consciousness. | Geography / State | Babylon |
+| **Mountain** | High place of consciousness, presence of God — the **Secret Place**. | Geography / Symbol | Valley (Descent) |
+| **Wilderness** | State of **Spiritual Testing**; inner barrenness that precedes transformation. | Geography / State | Promised Land |
+| **Egypt** | **Bondage**, exile from union with God; the separated condition of self. | Geography / State | Promised Land (Canaan) |
+| **Babylon** | **Confusion**, captivity of thought; disordered consciousness. | Geography / State | Jerusalem |
+| **Kadesh-Barnea** | The **State of Crisis/Decision Point** — faith vs fear. | Geography / State | Rest (Sabbath) |
+| **Rest / Sabbath (Sabbatismos)** | The **State of Realized Consciousness**; cessation from self-effort. | State / Principle | Striving |
+| **Sea** | Turmoil of unresolved personality; emotional chaos; masses of humanity. | Element / State | Firmament |
+| **Garden (Eden)** | Cultivated inner harmony; union of man and God. | Symbol / State | Wilderness |
+
+---
+
+## **Scene Symbols — Narrative Images & Opposition**
+
+| **Term** | **BKV Meaning** | **Category** | **Cross-Links / Opposites** |
+| :--- | :--- | :--- | :--- |
+| **Light / Darkness** | Divine awareness and ignorance; formed vs unformed potential. | Dual Symbol | Day / Night |
+| **Waters** | Depths of consciousness, peoples, emotion. | Element / Symbol | Fire |
+| **Serpent / Devil** | Deceptive reasoning; **Principle of Opposition** — final hold of the lower self. | Archetype / Condition | Truth |
+| **Pharaoh / Ego** | **Egoic Will**, self-rule of consciousness apart from God. | Archetype | Moses (Divine Will) |
+| **Giants / Anakim** | **Overwhelming Psychological Obstacles**; entrenched egoic patterns. | Archetype | Faith (Caleb) |
+| **Snare / Pestilence** | **Subtle Spiritual Attacks**; dis-eases of the soul. | Symbol / Condition | Sanctuary (Divine Protection) |
+| **Famine / Dearth** | **Spiritual Scarcity**; drought of revelation. | Symbol / Condition | Rain / Word |
+| **Angels** | Higher guiding principles; divine messengers maintaining inner order. | Entity / Faculty | Demons (Disorder) |
+| **Chariots** | Instruments of domination — externalized power of ego. | Symbol / Instrument | Feet (Walk of Faith) |
+| **Seed / Fruit** | Word / Manifestation — potential and result. | Symbol / Law | Thorn (Corruption) |
+| **Altar / Offering** | Place of surrender and consecration; yielding separation for union. | Symbol / Function | Idol |
+| **Temple / Vessels** | Inner dwelling place of divine presence; sanctified faculties. | Symbol / Structure | Marketplace (Profane Use) |
+| **Rod (Discipline)** | Corrective instrument of Spirit restoring alignment. | Symbol / Instrument | Coercion |
+| **Discipline (Rod)** | Corrective alignment applied by the Creative Impulse to the will. | Function | Coercion (Human) |
+
+---
+
+## **Faculties, Laws & Archetypes**
+
+| **Term** | **BKV Meaning** | **Category** | **Cross-Links / Opposites** |
+| :--- | :--- | :--- | :--- |
+| **Architecture (Inner)** | The structure by which consciousness organizes received truth; the living framework of the soul. | Principle / Structure | Chaos |
+| **Lower Faculty** | Self-referential intellect separated from Spirit. | Faculty / State | Creative Impulse |
+| **Creative Impulse (Spirit of Life)** | Operative motion of Spirit initiating revelation and transformation. | Faculty / Force | Intellectual Faculty |
+| **Spiritual Man** | Consciousness governed by Spirit; perceives Divine Reality. | State / Archetype | Natural Man |
+| **Natural Man** | Consciousness governed by self; perceives only outer form. | State / Archetype | Spiritual Man |
+| **Children (in the Process of Becoming)** | State of spiritual immaturity; the consciousness fed on milk, not solid food. | State | Spiritual Man |
+| **Faith (Faculty)** | Conviction of unseen truth; active trust in divine order. | Faculty | Doubt |
+| **Judgment (Divine)** | The discriminating power of truth; reveals inner motive. | Function | Condemnation (Human) |
+| **Power (Divine Operation)** | Objective transformative force of Spirit. | Force / Function | Word (Intellectual) |
+| **Word (Intellectual)** | Expression of form without spiritual power. | Function | Power (Divine) |
+| **Stewardship** | Administration of divine gifts by inner faculties; faithfulness as measure. | Principle / Function | Ownership (Self-Will) |
+| **Meekness (Spirit of)** | Yielded strength; humility expressing divine authority. | Virtue / Force | Pride |
+
+---
+
+## **Christ Titles & Symbols — The Work of Salvation**
+
+| **Term** | **BKV Meaning** | **Category** | **Cross-Links / Opposites** |
+| :--- | :--- | :--- | :--- |
+| **Lamb of God** | Innocent life yielding itself to bear away illusion and sin. | Archetype / Principle | Serpent (Deception) |
+| **Rock (Peter / Cephas)** | Stability, faith — foundational consciousness. | Symbol / Faculty | Sand (Instability) |
+| **High Priest** | Principle of Mediation — perfect tested awareness interceding between Law and Grace. | Archetype / Role | Outcast (Exile) |
+| **Captain / Pioneer** | Pioneering principle of consciousness; spiritual leadership through conquest of limitation. | Archetype / Function | Follower |
+| **Light of the World** | Illumination of divine understanding for all. | Symbol / Function | Darkness |
+| **Living Bread / Water** | Christ as sustenance and refreshment for the soul. | Symbol / Faculty | Hunger / Thirst |
+| **Sower / Soil** | Christ sowing divine ideas; inner states receiving and nurturing them. | Symbol / Parable | Path (Hardened Heart) |
+
+---
+
+## **Summary of v2.3 Revisions**
+
+| **Change Type** | **Details** |
+| :--- | :--- |
+| **Renamed / Consolidated** | “Absurdity (Folly)” → **Folly (Absurdity)** to match BKV textual precedence. |
+| **Category Refinements** | *Architecture (Inner)*, *Body (of Christ)*, *Lower Faculty*, *Rod (Discipline)*, and *Spiritual Man* categories clarified. |
+| **New Entries Added** | *Discipline (Rod)*, *Holy Spirit*, *Meekness (Spirit of)*, *Stewardship*, and *Children (in the Process of Becoming)* (optional). |
+| **Cross-References Strengthened** | *Creative Impulse ↔ Holy Spirit*; *Rod ↔ Discipline*; *Spiritual Man ↔ Natural Man.* |
+| **Version Tag** | `BKV_Lexicon_v2.3` — Harmonized November 2025 Master Edition. |
+
+---
+
+> *“The entrance of thy words giveth light; it giveth understanding unto the simple.”* — **Psalm 119:130**
+
+
+
 
 
 
