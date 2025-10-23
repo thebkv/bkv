@@ -1,6 +1,6 @@
 # The Twelve Apostles — BKV Symbolic Map
 
-Apostle	| Name Meaning (Root)	| BKV Faculty / Inner Principle	| Symbolic Function in Consciousness |
+|Apostle	| Name Meaning (Root)	| BKV Faculty / Inner Principle	| Symbolic Function in Consciousness |
 |---|---|---|
 | 1. Peter (Simon / Cephas) | Rock, Stability | Faith (Foundation) | Represents the unwavering stability of the soul’s structure when founded on revelation, not intellect. “Upon this rock I will build my Church” = the solid base of spiritual conviction. |
 | 2. Andrew | Manly, Strong, Courageous | Strength of Initiative | The faculty that acts decisively once the truth is known. It translates faith into motion — the first to follow Christ and bring others. |
