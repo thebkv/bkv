@@ -148,7 +148,22 @@ Haggai 1 B reveals the law of **Energetic Economy**: all work expended away from
 
 ---
 
+---
 
+## Nomenclature Addendum: The Leaders and the Light
+
+The identities of the key figures are allegorical definitions of the internal faculties necessary for restoration:
+
+| **Hebrew Name** | **Literal Meaning** | **BKV Principle** | **Rationale for BKV Translation** |
+| :--- | :--- | :--- | :--- |
+| **Haggai (חַגַּי‎)** | *My Feast / Festal* | **Spiritual Insight** | The term *Feast* represents **spiritual celebration** and **communion**. Haggai is the *insight* that restores this joy and alignment by correcting the soul’s misplaced focus. |
+| **Zerubbabel (זְרֻבָּבֶל)** | *Seed of Babylon* | **Governing Will** | Represents the **executive function** of the soul. Though his origin is in *spiritual exile* (Babylon), he is the **Will** roused to execute the divine plan in the Manifested Domain. |
+| **Joshua (יְהוֹשֻׁעַ)** | *The Lord is Salvation* | **Priestly Conscience** | Represents the **moral and devotional authority**. He is the **Conscience** that consecrates the work, providing the moral purity and foundation for the Will’s action. |
+
+### **The Seed of the Restored Spirit**
+The allegorical power of **Zerubbabel’s** name lies in the promise that the **Governing Will**, even after being compromised by **fragmented thought (Babylon)**, can be roused by **Spiritual Insight (Haggai)** and become the primary instrument of the **Source’s restoration**.
+
+---
 
 
 
