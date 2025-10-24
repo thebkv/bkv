@@ -21,7 +21,7 @@ Integrated Symbolics Bible Study
 
 ---
 
-[Axiom 1](AXIOM_01.md [Axiom 2](AXIOM_02.MD)  [Axiom 3](AXIOM_03.MD)  
+[Axiom 1](AXIOM_01.md) [Axiom 2](AXIOM_02.md)  [Axiom 3](AXIOM_03.md)  
 
 
 ---  
