@@ -13,7 +13,7 @@
 ## BKV-NR (Natural Reading)
 
 **(vv. 1-3)**  
-It pleased **The Dominant Outer Will (Darius)** to set over the kingdom an hundred and twenty **Minor Executive Faculties (Princes)**, and over them three **Supreme Inner Faculties (Presidents)**, of whom **The Illumined Intellect (Daniel)** was first.  
+It pleased **The Dominant Sovereign Will (Darius)** to set over the kingdom an hundred and twenty **Minor Executive Faculties (Princes)**, and over them three **Supreme Inner Faculties (Presidents)**, of whom **The Illumined Intellect (Daniel)** was first.  
 *This represents the ordering of the psyche, where external will attempts to manage its many impulses, yet recognizes the superior clarity of spiritual intelligence.*
 
 **(vv. 4-5)**  
@@ -22,19 +22,19 @@ They said, “There is no flaw in the Light — only in its devotion can we stri
 *When the **Egoic Will** cannot accuse purity of fault, it attacks **devotion** itself.*
 
 **(vv. 6-9)**  
-They persuaded the **Dominant Outer Will** to sign a **Law of External Conformity (Royal Statute)**: that whosoever petitions any Power or Man for thirty days, save of the king, shall be cast into the **Pit of Primal Destructive Energies (Den of Lions)**.  
+They persuaded the **Dominant Sovereign Will** to sign a **Law of External Conformity (Royal Statute)**: that whosoever petitions any Power or Man for thirty days, save of the king, shall be cast into the **Pit of Primal Destructive Energies (Den of Lions)**.  
 *This is the decree of the world-mind demanding obedience to appearances rather than to the inner **Source**.*
 
 **(v. 10)**  
-When **The Illumined Intellect** knew that the law was signed, he went into his house, and his windows being open in his **Highest Chamber toward the Orient (Jerusalem)**, he knelt three times a day, and prayed, and gave thanks before his Source, as he did aforetime.  
+When **The Illumined Intellect** knew that the law was signed, he went into his house, and his windows being open in his **Highest Chamber toward the Rising Light (Jerusalem)**, he knelt three times a day, and prayed, and gave thanks before his Source, as he did aforetime.  
 *The window open toward **Jerusalem (Unified Consciousness)** symbolizes **perpetual alignment** with the inner sanctuary—visible, consistent, and fearless.*
 
 **(vv. 11-17)**  
-The Corrupting Forces accused him, and the **Dominant Outer Will**, though grieved, delivered him to the **Pit of Primal Destructive Energies**.  
+The Corrupting Forces accused him, and the **Dominant Sovereign Will**, though grieved, delivered him to the **Pit of Primal Destructive Energies**.  
 A **Stone (Closure of Sense)** was laid upon its mouth, sealing the soul within the depths of its own ungoverned energies.
 
 **(vv. 18-23)**  
-At dawn, the **Dominant Outer Will** cried out in anguish.  
+At dawn, the **Dominant Sovereign Will** cried out in anguish.  
 Then **The Illumined Intellect** answered: “My Source hath sent His **Inner Messenger (Angel)** and hath shut the mouths of the **Primal Destructive Energies (Lions)**, that they have not hurt me; for before Him **Innocency (Spiritual Integrity)** was found in me.”  
 *Perfect integrity silences the chaos of the **subconscious**.*
 
@@ -78,7 +78,7 @@ This **spiritual integrity**—a state of complete harmlessness and truth—beco
 **Stillness** is the power that renders the lions powerless.
 
 **I.4 — The Dominion of the Inner Kingdom (vv. 25-27)**  
-The conversion of the **Dominant Outer Will (Darius)** marks the subjugation of the outer world to **inner law**.  
+The conversion of the **Dominant Sovereign Will (Darius)** marks the subjugation of the outer world to **inner law**.  
 When consciousness remains steady, even external authority must acknowledge the **Higher Order**.  
 This is the triumph of **Inner Sovereignty**—Spirit ruling through peace.
 
@@ -89,7 +89,7 @@ This is the triumph of **Inner Sovereignty**—Spirit ruling through peace.
 | Symbol / Term | BKV Meaning | Inner Principle Represented |
 | :--- | :--- | :--- |
 | **Daniel** | The **Illumined Intellect** | The disciplined faculty of divine discernment and prophetic sight. |
-| **Darius / King** | The **Dominant Outer Will** | The governing faculty of ego or personality directing external affairs. |
+| **Darius / King** | The **Dominant Sovereign Will** | The governing faculty of ego or personality directing external affairs. |
 | **Princes / Presidents** | **Minor Executive Faculties / Corrupting Forces** | Ambition, jealousy, and rationalization resisting spiritual order. |
 | **Law / Statute** | **Law of External Conformity** | The psychological or social pressure to substitute outer approval for inner truth. |
 | **Jerusalem** | **Unified Consciousness / Inner Sanctuary** | The focal point of spiritual alignment and peace. |
@@ -114,7 +114,7 @@ No reaction, only presence.
 ---
 
 **Core BKV Principle:**  
-> *When consciousness stands unshaken in **spiritual integrity**, all destructive forces fall silent. **Inner stillness** is the true dominion of the soul.*
+> *When consciousness abides in innocence, even the lions of chaos bow to silence.*
 
 
 
