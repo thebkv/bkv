@@ -18,7 +18,7 @@ It pleased **The Dominant Outer Will (Darius)** to set over the kingdom an hundr
 
 **(vv. 4-5)**  
 Then the **Minor Executive Faculties and Corrupting Forces (Princes and Presidents)** sought to find occasion against **The Illumined Intellect** concerning the kingdom; but they found none—neither inner error nor spiritual defect.  
-They said, “We shall not find any occasion against this Illumined Intellect, except we find it concerning the **Law of his Source**.”  
+They said, “There is no flaw in the Light — only in its devotion can we strike.”  
 *When the **Egoic Will** cannot accuse purity of fault, it attacks **devotion** itself.*
 
 **(vv. 6-9)**  
@@ -56,6 +56,8 @@ The narrative unfolds entirely within the psyche:  
 - The **Angel** is the **Inner Messenger of Innocency**—pure integrity that neutralizes the destructive forces by presence alone.
 
 The principle revealed: **When the consciousness stands in complete stillness and integrity, even the most primal energies become harmless.**
+
+_The chapter unfolds as the victory of spiritual order over reactive impulse — a drama of stillness prevailing over motion._
 
 ---
 
