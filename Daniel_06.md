@@ -109,12 +109,12 @@ This is the paradox of **spiritual power**: the quieter the consciousness, the g
 The modern parallel is unmistakable—when external demands, crises, or accusations press in, the only true defense is **inner stillness born of integrity**.  
 No reaction, only presence.
 
-> **Stillness is not passivity but supremacy. The soul that abides in innocence commands even the chaos within.**
-
 ---
 
 **Core BKV Principle:**  
-> *When consciousness abides in innocence, even the lions of chaos bow to silence.*
+> **Stillness is not passivity but supremacy.
+> When the soul abides in innocence, even the lions of chaos bow to silence.**
+
 
 
 
