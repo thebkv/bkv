@@ -542,7 +542,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 01 | 02 |   |   |   |
+| [01](Haggai_01.md) | [02](Haggai_02.md) |   |   |   |
 
 ---
 
