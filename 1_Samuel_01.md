@@ -100,6 +100,8 @@ Every true “Samuel” — every inspired work, idea, or action — is born thr
 > **When Grace ceases to plead for itself and dedicates its longing to the Source, desire becomes creation, and prayer gives birth to revelation.**
 
 
+BKV GUID: 1fc3e1c9-53ec-4c82-abb0-aa6a91d66b27
+
 
 
 
