@@ -229,7 +229,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| [01](1_Samuel_01.md) | 02 | 03 | 04 | 05 |
+| [01](1_Samuel_01.md) | [02](1_Samuel_02.md) | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 | 15 |
 | 16 | 17 | 18 | 19 | 20 |
