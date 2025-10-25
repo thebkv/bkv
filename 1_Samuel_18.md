@@ -109,8 +109,93 @@ Only when friendship rules within does the kingdom know peace.
 > **Faith crowns love and yields its sword; envy resists and destroys its own peace.  
 > The soul ascends when its inner friends covenant together in truth.**
 
+
+---
+---
+
+---
+
+# **BKV-DR — 1 Samuel 18**
+### *The Covenant of Love and the Shadow of Jealousy*
+
+---
+
+18 : 1–4  
+When the heart of faith beheld the heart of love,  
+they recognized one another as of one breath.  
+Faith removed its robe of honor  
+and laid its sword and bow before love, saying,  
+“You shall carry what I once defended.”  
+Thus the old strength yielded its emblems to the new tenderness within.
+
+---
+
+18 : 5–7  
+Wherever love went, harmony followed.  
+The faculties rejoiced, singing that the Source was near.  
+But praise stirred an old unease—  
+for the will, hearing love exalted,  
+felt its throne begin to tremble.
+
+---
+
+18 : 8–12  
+Then jealousy awoke in the mind.  
+The will said within itself,  
+“What remains for love but the kingdom?”  
+And the peace that had soothed it  
+now revealed its unrest.  
+The hand that once welcomed harmony  
+lifted a spear against the very sound that healed it.
+
+---
+
+18 : 13–17  
+The will sought to hide its envy behind reward.  
+It offered honor, position, and promise—  
+all cloaked snares to draw love into peril.  
+Yet love answered with humility,  
+knowing that schemes cannot bind what serves the Source.
+
+---
+
+18 : 18–27  
+Every test turned to blessing.  
+Even the snares became paths of grace,  
+and the streams of affection (Michal)  
+joined their flow to love’s pure current.  
+For innocence transforms every design of harm  
+into the unfolding of good.
+
+---
+
+18 : 28–30  
+When jealousy beheld that the Source was with love,  
+fear deepened into hostility.  
+Yet love grew wiser with each assault,  
+moving through the turmoil unharmed,  
+its name shining quietly within.  
+
+---
+
+### **Meditative Reflection**
+
+> Within me, faith and love embrace;  
+> the will grows restless in their union.  
+> Old strength fears displacement,  
+> yet only through surrender does it find peace.  
+> Friendship of the soul is covenant—  
+> faith yielding its sword, love receiving its trust.  
+> Thus harmony is born within the heart.
+
+---
+
+**GUID:**  
+DR BKV-1SAM18-DR-DIVINEFRIENDSHIP-GUID: 4e5a6d3b-c0b2-4741-a8e0-1d73f7f3e2b8
+
+
 **GUID**
-BKV-1SAM18-DIVINEFRIENDSHIP-GUID: 8368db5e-b10e-4e3e-90fc-d4f8724da4f1
+NR BKV-1SAM18-DIVINEFRIENDSHIP-GUID: 8368db5e-b10e-4e3e-90fc-d4f8724da4f1
 
 
 
