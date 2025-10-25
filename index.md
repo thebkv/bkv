@@ -229,14 +229,14 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| [01](1_Samuel_01.md) | [02](1_Samuel_02.md) | 03 | 04 | 05 |
+| [00](1_Samuel_00.md) |   |   |   |   |
+| [01](1_Samuel_01.md) | [02](1_Samuel_02.md) | [03](1_Samuel_03.md) | [04](1_Samuel_04.md) | [05](1_Samuel_05.md) |
 | 06 | 07 | 08 | 09 | 10 |
-| 11 | 12 | 13 | 14 | 15 |
-| 16 | 17 | 18 | 19 | 20 |
-| 21 | 22 | 23 | 24 | 25 |
+| 11 | 12 | [13](1_Samuel_13.md) | 14 | [15](1_Samuel_15.md) |
+| [16](1_Samuel_16.md) | [17](1_Samuel_17.md) | [18](1_Samuel_18.md) | [19](1_Samuel_19.md) | [20](1_Samuel_20.md) |
+| [21](1_Samuel_21.md) | [22](1_Samuel_22.md) | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 |
 | 31 |   |   |   |   |
-
 ---
 
 ## 📖 2 Samuel  
