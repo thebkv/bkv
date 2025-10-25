@@ -366,7 +366,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ---
 
-## 📖 **Psalms**  
+## 📖 Psalms  
 > _The Book of Praise — The Songs of Conscious Communion With the Divine_
 
 |   |   |   |   |   |
@@ -375,7 +375,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ---
 
-## 📖 **Proverbs**  
+## 📖 Proverbs  
 > _The Book of Wisdom — The Alignment of the Mind With Divine Order_
 
 |   |   |   |   |   |
@@ -388,7 +388,30 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 | 28 | 29 | 30 | 31 |   |
 
 
+---
 
+## 📜 Ecclesiastes  
+> _The Book of Reflection — The Vanity of Labor and the Wisdom of Rest_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [00](Ecclesiastes_00.md) |   |   |   |   |
+| [01](Ecclesiastes_01.md) | 02 | 03 | 04 | 05 |
+| 06 | 07 | 08 | 09 | 10 |
+| 11 | 12 |   |   |   |
+
+---
+
+## 💞 Song of Solomon  
+> _The Book of Union — The Inner Romance of Spirit and Soul_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [00](Song_of_Solomon_00.md) |   |   |   |   |
+| [01](Song_of_Solomon_01.md) | 02 | 03 | 04 | 05 |
+| 06 | 07 | 08 |   |   |
+
+---
 ---
 ---
 
@@ -399,7 +422,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ---
 
-## 📖 **Isaiah**  
+## 📖 Isaiah  
 > _The Book of Vision — The Revelation of Divine Purpose in the Inner and Outer Worlds_
 
 |   |   |   |   |   |
