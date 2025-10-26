@@ -227,8 +227,8 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 ## 📖 1 Samuel  
 > _The Book of Calling — The Emergence of Spiritual Kingship Within the Soul_
 
-|   |   |   |   |   |
-|---|---|---|---|---|
+|   |   |   |   |   |  
+|---|---|---|---|---|  
 | [00](1_Samuel_00.md) |   |   |   |   |
 | [01](1_Samuel_01.md) | [02](1_Samuel_02.md) | [03](1_Samuel_03.md) | [04](1_Samuel_04.md) | [05](1_Samuel_05.md) |
 | 06 | 07 | 08 | 09 | 10 |
@@ -236,7 +236,8 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 | [16](1_Samuel_16.md) | [17](1_Samuel_17.md) | [18](1_Samuel_18.md) | [19](1_Samuel_19.md) | [20](1_Samuel_20.md) |
 | [21](1_Samuel_21.md) | [22](1_Samuel_22.md) | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 |
-| 31 |   |   |   |   |
+| 31 |   |   |   |   |  
+
 ---
 
 ## 📖 2 Samuel  
