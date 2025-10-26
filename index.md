@@ -231,10 +231,10 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 |---|---|---|---|---|  
 | [00](1_Samuel_00.md) |   |   |   |   |
 | [01](1_Samuel_01.md) | [02](1_Samuel_02.md) | [03](1_Samuel_03.md) | [04](1_Samuel_04.md) | [05](1_Samuel_05.md) |
-| 06 | 07 | 08 | 09 | 10 |
-| 11 | 12 | [13](1_Samuel_13.md) | 14 | [15](1_Samuel_15.md) |
+| [06](1_Samuel_06.md) | [07](1_Samuel_07.md) | [08](1_Samuel_08.md) | [09](1_Samuel_09.md) | [10](1_Samuel_10.md) |
+| [11](1_Samuel_11.md) | [12](1_Samuel_12.md) | [13](1_Samuel_13.md) | [14](1_Samuel_14.md) | [15](1_Samuel_15.md) |
 | [16](1_Samuel_16.md) | [17](1_Samuel_17.md) | [18](1_Samuel_18.md) | [19](1_Samuel_19.md) | [20](1_Samuel_20.md) |
-| [21](1_Samuel_21.md) | [22](1_Samuel_22.md) | 23 | 24 | 25 |
+| [21](1_Samuel_21.md) | [22](1_Samuel_22.md) | [23](1_Samuel_23.md) | [24](1_Samuel_24.md) | 25 |
 | 26 | 27 | 28 | 29 | 30 |
 | 31 |   |   |   |   |  
 
