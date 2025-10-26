@@ -287,4 +287,60 @@
 
 
 
+***
+
+## **BKV Lexicon: 1 Samuel (Chapters 17–25)**
+
+This lexicon defines the recurring symbolic characters, places, and objects, translating the historical narrative into psychological and spiritual principles.
+
+### **I. Faculties of the Soul (The Kingdom)** 👑
+
+| Symbol / Term | BKV Meaning | Inner Principle Represented | Chapters Seen |
+| :--- | :--- | :--- | :--- |
+| **David** | Beloved / Divine Love | The anointed heart; the ascending spiritual consciousness. | 17, 18, 19, 21, 22, 24, 25 |
+| **Jonathan** | Gift of the Source / Faith | Spiritual loyalty; intercession and trust. | 18, 19 |
+| **Saul** | Outer Will / Jealous Control | The egoic faculty; resistance to spiritual succession. | 17, 18, 19, 24 |
+| **Samuel** | Prophetic Conscience | Spiritual atmosphere of immunity; voice of established law. | 19, 25 |
+| **Michal** | Stream of Love / Intuition | The emotional self; protective insight operating unseen. | 18, 19 |
+| **Abigail** | Father of Exaltation / Intuition | Swift, resourceful wisdom; preventing destructive reaction. | 25 |
+| **Nabal** | Fool / Selfish Ego | The hard, churlish mind that hoards and denies love's service. | 25 |
+| **The Distressed/Indebted** | Disordered Faculties | Scattered mental states and emotions seeking redemption. | 22 |
+| **Abiathar** | Surviving Intuition | The last channel of communion preserved by love. | 22 |
+
+***
+
+### **II. Tools, Provisions, and Concepts** 🛡️
+
+| Symbol / Term | BKV Meaning | Inner Principle Represented | Chapters Seen |
+| :--- | :--- | :--- | :--- |
+| **Goliath** | Giant of Fear / Pride | The dominating illusion; the great negative thought force. | 17 |
+| **Five Stones** | Purified Truths | Focused principles of understanding; simple, clear affirmations. | 17 |
+| **Sling** | Focused Intention | The directed act of faith; power of focused thought/word. | 17 |
+| **Forehead** | Seat of Pride | The false center of human vision and egoic imagination. | 17 |
+| **Robe, Sword, Bow** | Tokens of Faith | Spiritual authority, action, and intention transferred to love. | 18 |
+| **Harp and Javelin** | Harmony and Resistance | Healing vibration meeting hostility and exposing dissonance. | 18, 19 |
+| **Hallowed Bread** | Spiritual Sustenance | Truth still warm from the inner altar; divine provision. | 21 |
+| **Sword of Goliath** | Memory of Overcome Fear | Past faith transformed into present strength/defense. | 21 |
+| **Cut Robe** | Partial Severance | Restraint that marks transition without destruction. | 24 |
+
+***
+
+### **III. States and Places of Consciousness** ⛰️
+
+| Symbol / Term | BKV Meaning | Inner Principle Represented | Chapters Seen |
+| :--- | :--- | :--- | :--- |
+| **Valley of Elah** | Chasm of Despair | Separation between egoic will and spiritual consciousness. | 17 |
+| **Ramah** | Elevated Awareness | The state where attack is dissolved in revelation. | 19 |
+| **Nob** | Sanctuary of Speech | The place where truth is requested and provision is given. | 21, 22 |
+| **Gath / Achish** | Territory of Fear | Lower realm where love must veil itself; world of the ego. | 21 |
+| **Cave of Adullam** | Refuge of Witness | The secret center of reorganization and inner retreat. | 22 |
+| **Cave of En-gedi** | Hidden Depth of Decision | Inner place where conscience dictates spiritual choice. | 24 |
+| **Disguise** | Protective Humility | Wisdom appearing weak to avoid destruction in the ego's world. | 21 |
+| **Carmel** | Fruitful Field | Inner potential and abundance being used by the ego. | 25 |
+
+
+
+
+
+
 
