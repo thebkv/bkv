@@ -1,6 +1,5 @@
 # Amos 9 — The Rebuilding of the Fallen Tabernacle
 ### *The Principle of Restoration and the Triumph of Divine Architecture*
-#### *The Law of Restoration*  
 
 ---
 
