@@ -502,7 +502,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 |   |   |   |   |   |
 |---|---|---|---|---|
 | 01 | 02 | 03 | 04 | 05 |
-| 06 | [07](Amos_07.md) | 08 | 09 |   |
+| 06 | [07](Amos_07.md) | [08](Amos_08.md) | [09](Amos_09.md) |   |
 
 ---
 
