@@ -67,5 +67,20 @@ Vashti is banished; **intuition is exiled** so the hierarchy of ego can stand un
 | **Letters to Provinces** | Dispatches | Propagation of self-order | Action / Spread | ↔ Gospel Message | Egoic edict to every faculty |
 | **“Every man rule in his own house”** | Final edict | Self enthroned in every mind | Statement / Law | ↔ Christ Head of house | Codified self-sovereignty |
 
+
 ---
+
+
+## **BKV–DR — Divine Reflection**
+
+The soul that decorates itself with borrowed holiness becomes a glittering prison.  
+Ahasuerus’ palace is the intellect’s imitation of the sanctuary—its colors bright but borrowed, its laws sealed but lifeless.  
+When conscience (Vashti) refuses to be displayed, the proud mind banishes her, mistaking silence for rebellion.  
+Yet in that silence the Spirit waits.  
+Every kingdom built on appearance must eventually seek a truer queen—the redeemed intuition who will listen again for the Voice within.
+
+
+---
+
+
 
