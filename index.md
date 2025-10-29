@@ -21,7 +21,7 @@ Integrated Symbolics Bible Study
 
 ---
 
-[Axiom 1](AXIOM_01.md) [Axiom 2](AXIOM_02.md)  [Axiom 3](AXIOM_03.md)  
+[Axiom 1](AXIOM_01.md) [Axiom 2](AXIOM_02.md)  [Axiom 3](AXIOM_03.md)  [BKV Lexicon](BKV_Lexicon.md) [BKV Colors](BKV_Colors.md)
 
 
 ---  
@@ -335,7 +335,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 01 | 02 | 03 | 04 | 05 |
+| [01](Esther_01.md) | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 
 
