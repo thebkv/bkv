@@ -637,7 +637,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 | [06](Luke_06.md) | [07](Luke_07.md) | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 | 15 |
 | 16 | 17 | 18 | 19 | 20 |
-| 21 | 22 | [23](Luke_23.md) | 24 |   |
+| 21 | 22 | [23](Luke_23.md) | [24](Luke_24.md) |   |
 
 ---
 
