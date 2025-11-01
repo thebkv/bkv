@@ -25,6 +25,47 @@
 ---
 
 
+<a id="moses"></a>  
+## <span class="color-moses">📜 The Books of Moses</span>
+
+---
+
+<a id="genesis"></a>  
+## <span class="color-histories">The Book of Genesis</span>
+> _The Book of Beginnings — The Emergence of Divine Ideas Into Form_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [01](Genesis_01.md) | 02 | 03 | 04 | 05 |
+| 06 | 07 | 08 | 09 | 10 |
+| 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 | 23 | 24 | 25 |
+| 26 | 27 | 28 | 29 | 30 |
+| 31 | 32 | 33 | 34 | 35 |
+| 36 | 37 | 38 | 39 | 40 |
+| 41 | 42 | 43 | 44 | 45 |
+| 46 | 47 | 48 | 49 | 50 |
+
+---
+
+<a id="exodus"></a>  
+## <span class="color-histories">The Exodus</span>
+> _The Book of Liberation — The Unfolding of Divine Law in the Journey Out of Bondage_
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [00](Exodus_00.md) | [01](Exodus_01.md) | [02](Exodus_02.md) | [03](Exodus_03.md) | [04](Exodus_04.md) |
+| [05](Exodus_05.md) | [06](Exodus_06.md) | 07 | 08 | 09 |
+| 10 | 11 | 12 | 13 | [14](Exodus_14.md) |
+| 15 | 16 | 17 | 18 | 19 |
+| [20](Exodus_20.md) | 21 | 22 | 23 | 24 |
+| 25 | 26 | 27 | 28 | 29 |
+| 30 | 31 | 32 | 33 | 34 |
+| 35 | 36 | 37 | 38 | 39 |
+| 40 |   |   |   |   |
+
+---
 
 
 
