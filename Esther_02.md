@@ -1,5 +1,6 @@
 # Esther 2 — The Principle of Hidden Providence  
 ### *The preparation of the hidden heart to replace the exiled conscience.*
+[Back to Esther](https://thebkv.github.io/bkv/#-esther)
 
 ---
 
