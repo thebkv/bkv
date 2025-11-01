@@ -1,4 +1,4 @@
-# **BKV–Summary: The Book of Esther**
+# BKV–Summary: The Book of Esther
 
 | Chapter | BKV Title | Principle / Subtitle | Core Transformation |
 |:---:|:---|:---|:---|
@@ -19,7 +19,9 @@
 
 BKV–00 — The Mystery of Hidden Providence
 
-The concealed story of divine governance within the human soul
+---
+
+>The concealed story of divine governance within the human soul
 
 “Though the name of God is hidden, His hand is never absent.”
 
