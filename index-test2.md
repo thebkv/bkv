@@ -150,7 +150,7 @@
 
 ---
 
-## 1 Samuel  
+## **1 Samuel**  
 > _The Book of Calling — The Emergence of Spiritual Kingship Within the Soul_
 
 |   |   |   |   |   |  
