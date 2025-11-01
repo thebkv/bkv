@@ -43,7 +43,24 @@
 
 ---
 
-## 📖 Joshua  
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+<a id="joshua"></a>  
+## <span class="color-histories">Book of Joshua</span>
 > _The Book of Possession and Courage — The Awakening of Divine Strength to Enter the Promised State_
 
 |   |   |   |   |   |
