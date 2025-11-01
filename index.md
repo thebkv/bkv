@@ -2,7 +2,7 @@
 # The Bible Key Vision (BKV)
 Integrated Symbolics Bible Study
 
-
+[test](index-test2.md)
 
 ---
 
