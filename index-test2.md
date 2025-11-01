@@ -8,7 +8,7 @@
 | <a href="#poetry">Poetry &amp; Wisdom</a> • <a href="#job">Job</a> • <a href="#psalms">Psalms</a> • <a href="#proverbs">Proverbs</a> • <a href="#ecclesiastes">Ecclesiastes</a> • <a href="#songofsongs">Song of Songs</a> | *The Dialogue of the Soul — The Refinement of Awareness through Reflection and Emotion.* |
 | <a href="#prophets">Prophets</a> • <a href="#isaiah">Isaiah</a> • <a href="#jeremiah">Jeremiah</a> • <a href="#lamentations">Lamentations</a> • <a href="#ezekiel">Ezekiel</a> • <a href="#daniel">Daniel</a> • <a href="#hosea">Hosea</a> • <a href="#joel">Joel</a> • <a href="#amos">Amos</a> • <a href="#obadiah">Obadiah</a> • <a href="#jonah">Jonah</a> • <a href="#micah">Micah</a> • <a href="#nahum">Nahum</a> • <a href="#habakkuk">Habakkuk</a> • <a href="#zephaniah">Zephaniah</a> • <a href="#haggai">Haggai</a> • <a href="#zechariah">Zechariah</a> • <a href="#malachi">Malachi</a> | *The Vision and Correction of the Inner Kingdom — The Call to Alignment and Restoration.* |
 | <a href="#gospels">Gospels &amp; Acts</a> • <a href="#matthew">Matthew</a> • <a href="#mark">Mark</a> • <a href="#luke">Luke</a> • <a href="#john">John</a> • <a href="#acts">Acts</a> | *The Manifestation of Christ-Consciousness — The Word Made Flesh within the Human Spirit.* |
-| <a href="#letters">Letters</a> • <a href="#romans">Romans</a> • <a href="#1 corinthians">1 Corinthians</a> • <a href="#2 corinthians">2 Corinthians</a> • <a href="#galatians">Galatians</a> • <a href="#ephesians">Ephesians</a> • <a href="#philippians">Philippians</a> • <a href="#colossians">Colossians</a> • <a href="#1thessalonians">1 Thessalonians</a> • <a href="#2thessalonians">2 Thessalonians</a> • <a href="#1timothy">1 Timothy</a> • <a href="#2timothy">2 Timothy</a> • <a href="#titus">Titus</a> • <a href="#philemon">Philemon</a> • <a href="#hebrews">Hebrews</a> • <a href="#james">James</a> • <a href="#1peter">1 Peter</a> • <a href="#2peter">2 Peter</a> • <a href="#1john">1 John</a> • <a href="#2john">2 John</a> • <a href="#3john">3 John</a> • <a href="#jude">Jude</a> | *The Expansion of the Inner Church — The Application of Christ-Consciousness to Daily Life.* |
+| <a href="#letters">Letters</a> • <a href="#romans">Romans</a> • <a href="#1corinthians">1 Corinthians</a> • <a href="#2 corinthians">2 Corinthians</a> • <a href="#galatians">Galatians</a> • <a href="#ephesians">Ephesians</a> • <a href="#philippians">Philippians</a> • <a href="#colossians">Colossians</a> • <a href="#1thessalonians">1 Thessalonians</a> • <a href="#2thessalonians">2 Thessalonians</a> • <a href="#1timothy">1 Timothy</a> • <a href="#2timothy">2 Timothy</a> • <a href="#titus">Titus</a> • <a href="#philemon">Philemon</a> • <a href="#hebrews">Hebrews</a> • <a href="#james">James</a> • <a href="#1peter">1 Peter</a> • <a href="#2peter">2 Peter</a> • <a href="#1john">1 John</a> • <a href="#2john">2 John</a> • <a href="#3john">3 John</a> • <a href="#jude">Jude</a> | *The Expansion of the Inner Church — The Application of Christ-Consciousness to Daily Life.* |
 | <a href="#revelation">Revelation</a> | *The Unveiling — The Final Realization of the Kingdom of God within All.* |
 
 
@@ -631,6 +631,8 @@
 | 16 |   |   |   |   |
 
 ---
+
+<h3 id="1corinthians">1 Corinthians 03</h3>
 
 ## **1 Corinthians**  
 > _The Epistle of Correction — The Alignment of the Divided Mind_
