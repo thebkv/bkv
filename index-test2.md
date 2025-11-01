@@ -26,7 +26,7 @@
 
 ---
 
-## 📖 Genesis  
+## Genesis  
 > _The Book of Beginnings — The Emergence of Divine Ideas Into Form_
 
 |   |   |   |   |   |
@@ -61,7 +61,7 @@
 
 ---
 
-## 📖 Leviticus  
+## Leviticus  
 > _The Book of Holiness — The Order of Sacred Approach_
 
 |   |   |   |   |   |
@@ -75,7 +75,7 @@
 
 ---
 
-## 📖 Numbers  
+## Numbers  
 > _The Book of March and Reckoning — The Soul’s Journey Through the Wilderness_
 
 |   |   |   |   |   |
@@ -91,7 +91,7 @@
 
 ---
 
-## 📖 Deuteronomy  
+## Deuteronomy  
 > _The Book of Remembrance — The Law Rewritten Upon the Heart_
 
 |   |   |   |   |   |
@@ -110,11 +110,11 @@
 
 
 <a id="histories"></a>  
-## <span class="color-histories">🏺 The Historical Books</span>
+## <span class="color-histories">The Historical Books</span>
 
 ---
 
-## 📖 Joshua  
+## Joshua  
 > _The Book of Possession and Courage — The Awakening of Divine Strength to Enter the Promised State_
 
 |   |   |   |   |   |
@@ -127,7 +127,7 @@
 
 ---
 
-## 📖 Judges  
+## Judges  
 > _The Book of Cycles — The Alternation Between Forgetfulness and Renewal_
 
 |   |   |   |   |   |
@@ -141,7 +141,7 @@
 
 ---
 
-## 📖 Ruth  
+## Ruth  
 > _The Book of Return — The Discovery of Divine Love Within the Field of Life_
 
 |   |   |   |   |   |
@@ -150,7 +150,7 @@
 
 ---
 
-## 📖 1 Samuel  
+## 1 Samuel  
 > _The Book of Calling — The Emergence of Spiritual Kingship Within the Soul_
 
 |   |   |   |   |   |  
@@ -166,7 +166,7 @@
 
 ---
 
-## 📖 2 Samuel  
+## 2 Samuel  
 > _The Book of Establishment — The Consolidation of Divine Rule Within the Heart_
 
 |   |   |   |   |   |
@@ -179,7 +179,7 @@
 
 ---
 
-## 📖 1 Kings  
+## 1 Kings  
 > _The Book of Division — The Rise and Fall of Inner Wisdom and Desire_
 
 |   |   |   |   |   |
@@ -192,7 +192,7 @@
 
 ---
 
-## 📖 2 Kings  
+## 2 Kings  
 > _The Book of Decline — The Fragmentation and Captivity of the Inner Life_
 
 |   |   |   |   |   |
@@ -205,7 +205,7 @@
 
 ---
 
-## 📖 1 Chronicles  
+## 1 Chronicles  
 > _The Book of Memory — The Ordering of the Inner Kingdom From Adam to David_
 
 |   |   |   |   |   |
@@ -219,7 +219,7 @@
 
 ---
 
-## 📖 2 Chronicles  
+## 2 Chronicles  
 > _The Book of Continuity — The Legacy of the Kingdom and the Return to the Temple_
 
 |   |   |   |   |   |
@@ -235,7 +235,7 @@
 
 ---
 
-## 📖 Ezra  
+## Ezra  
 > _The Book of Restoration — The Rebuilding of the Inner Temple_
 
 |   |   |   |   |   |
@@ -245,7 +245,7 @@
 
 ---
 
-## 📖 Nehemiah  
+## Nehemiah  
 > _The Book of Completion — The Strengthening of the Walls of Consciousness_
 
 |   |   |   |   |   |
@@ -256,7 +256,7 @@
 
 ---
 
-## 📖 Esther  
+## Esther  
 > _The Book of Hidden Providence — The Triumph of the Unseen Hand of God Within Human Events_
 
 |   |   |   |   |   |
@@ -277,7 +277,7 @@
 
 ---
 
-## 📖 **Job**  
+## **Job**  
 > _The Book of Testing — The Search for Divine Justice Within the Soul_
 
 |   |   |   |   |   |
@@ -294,7 +294,7 @@
 
 ---
 
-## 📖 Psalms  
+## Psalms  
 > _The Book of Praise — The Songs of Conscious Communion With the Divine_
 
 |   |   |   |   |   |
@@ -303,7 +303,7 @@
 
 ---
 
-## 📖 Proverbs  
+## Proverbs  
 > _The Book of Wisdom — The Alignment of the Mind With Divine Order_
 
 |   |   |   |   |   |
@@ -330,7 +330,7 @@
 
 ---
 
-## 💞 Song of Solomon  
+## Song of Solomon  
 > _The Book of Union — The Inner Romance of Spirit and Soul_
 
 |   |   |   |   |   |
@@ -346,11 +346,11 @@
 
 
 <a id="prophets"></a>  
-## <span class="color-prophets">🔥 The Books of the Prophets</span>
+## <span class="color-prophets">The Books of the Prophets</span>
 
 ---
 
-## 📖 Isaiah  
+## Isaiah  
 > _The Book of Vision — The Revelation of Divine Purpose in the Inner and Outer Worlds_
 
 |   |   |   |   |   |
@@ -362,7 +362,7 @@
 
 ---
 
-## 📖 **Jeremiah**  
+## **Jeremiah**  
 > _The Book of Weeping and Fire — The Voice of Divine Compassion Calling to a Wayward Heart_
 
 |   |   |   |   |   |
@@ -373,7 +373,7 @@
 
 ---
 
-## 📖 **Lamentations**  
+## **Lamentations**  
 > _The Book of Sorrow — The Soul’s Grief in Separation From Divine Presence_
 
 |   |   |   |   |   |
@@ -382,7 +382,7 @@
 
 ---
 
-## 📖 **Ezekiel**  
+## **Ezekiel**  
 > _The Book of Renewal — The Breath of Life Restoring the Dry Bones of Consciousness_
 
 |   |   |   |   |   |
@@ -392,7 +392,7 @@
 
 ---
 
-## 📖 **Daniel**  
+## **Daniel**  
 > _The Book of Revelation in Captivity — The Triumph of the Spirit Over the Powers of the World_
 
 |   |   |   |   |   |
@@ -403,7 +403,7 @@
 
 ---
 
-## 📖 **Hosea**  
+## **Hosea**  
 > _The Book of Faithful Love — The Covenant Restored Through Compassion_
 
 |   |   |   |   |   |
@@ -414,7 +414,7 @@
 
 ---
 
-## 📖 **Joel**  
+## **Joel**  
 > _The Book of Outpouring — The Promise of the Spirit Upon All Flesh_
 
 |   |   |   |   |   |
@@ -423,7 +423,7 @@
 
 ---
 
-## 📖 **Amos**  
+## **Amos**  
 > _The Book of Justice — The Plumb Line of Righteousness in the Midst of the People_
 
 |   |   |   |   |   |
@@ -433,7 +433,7 @@
 
 ---
 
-## 📖 **Obadiah**  
+## **Obadiah**  
 > _The Book of Pride’s Fall — The Warning to Those Who Exalt Themselves_
 
 |   |   |   |   |   |
@@ -442,7 +442,7 @@
 
 ---
 
-## 📖 **Jonah**  
+## **Jonah**  
 > _The Book of Descent and Return — The Soul’s Flight From and Surrender to Divine Will_
 
 |   |   |   |   |   |
@@ -451,7 +451,7 @@
 
 ---
 
-## 📖 **Micah**  
+## **Micah**  
 > _The Book of Balance — Justice, Mercy, and Humility Revealed in Harmony_
 
 |   |   |   |   |   |
@@ -461,7 +461,7 @@
 
 ---
 
-## 📖 **Nahum**  
+## **Nahum**  
 > _The Book of Vengeance — The Overthrow of Cruel Power and the Vindication of Truth_
 
 |   |   |   |   |   |
@@ -470,7 +470,7 @@
 
 ---
 
-## 📖 **Habakkuk**  
+## **Habakkuk**  
 > _The Book of Watchfulness — The Soul Waiting Upon Divine Justice_
 
 |   |   |   |   |   |
@@ -479,7 +479,7 @@
 
 ---
 
-## 📖 **Zephaniah**  
+## **Zephaniah**  
 > _The Book of Purification — The Day of the Lord Within the Heart_
 
 |   |   |   |   |   |
@@ -488,7 +488,7 @@
 
 ---
 
-## 📖 **Haggai**  
+## **Haggai**  
 > _The Book of Encouragement — The Rebuilding of the Inner Temple After Delay_
 
 |   |   |   |   |   |
@@ -497,7 +497,7 @@
 
 ---
 
-## 📖 **Zechariah**  
+## **Zechariah**  
 > _The Book of Visions — The Restoration and Crowning of the Inner Life_
 
 |   |   |   |   |   |
@@ -508,7 +508,7 @@
 
 ---
 
-## 📖 **Malachi**  
+## **Malachi**  
 > _The Book of Refinement — The Messenger Preparing the Way of the Lord_
 
 |   |   |   |   |   |
@@ -522,17 +522,17 @@
 ---
 ---
 
-## 📖 **Matthew** {#matthew}  
+## **Matthew** {#matthew}  
 
 ---
 
 
 <a id="gospels"></a>  
-## <span class="color-gospels">✨ The Gospels and Acts</span>
+## <span class="color-gospels">The Gospels and Acts</span>
 
 ---
 
-## 📖 **Matthew** {#matthew}  
+## **Matthew** {#matthew}  
 > _The Gospel of Vision and Fulfillment — The Awakening of Divine Consciousness Within Humanity_
 
 |   |   |   |   |   |
@@ -546,7 +546,7 @@
 
 ---
 
-## 📖 **Mark**  
+## **Mark**  
 > _The Gospel of Motion and Power — The Swift Advance of the Divine Will Through Action_
 
 |   |   |   |   |   |
@@ -558,7 +558,7 @@
 
 ---
 
-## 📖 **Luke**  
+## **Luke**  
 > _The Gospel of Compassion and Illumination — The Human Heart Enlightened by Divine Understanding_
 
 |   |   |   |   |   |
@@ -571,7 +571,7 @@
 
 ---
 
-## 📖 **John**  
+## **John**  
 > _The Gospel of Light and Union — The Revelation of the Divine Self Within All Being_
 
 |   |   |   |   |   |
@@ -584,7 +584,7 @@
 
 ---
 
-## 📖 **Acts of the Apostles**  
+## **Acts of the Apostles**  
 > _The Book of Expansion and Witness — The Outpouring of Divine Power Into the World of Action_
 
 |   |   |   |   |   |
@@ -620,7 +620,7 @@
 
 ---
 
-## 📖 **Romans**  
+## **Romans**  
 > _The Epistle of Faith and Reason — The Inner Law of Transformation_
 
 |   |   |   |   |   |
@@ -632,7 +632,7 @@
 
 ---
 
-## 📖 **1 Corinthians**  
+## **1 Corinthians**  
 > _The Epistle of Correction — The Alignment of the Divided Mind_
 
 |---|---|---|---|---|
@@ -644,7 +644,7 @@
 
 ---
 
-## 📖 **2 Corinthians**  
+## **2 Corinthians**  
 > _The Epistle of Consolation — The Power of Weakness and the Ministry of Spirit_
 
 |   |   |   |   |   |
@@ -655,7 +655,7 @@
 
 ---
 
-## 📖 **Galatians**  
+## **Galatians**  
 > _The Epistle of Freedom — Life in the Spirit Rather Than in the Law_
 
 |   |   |   |   |   |
@@ -665,7 +665,7 @@
 
 ---
 
-## 📖 **Ephesians**  
+## **Ephesians**  
 > _The Epistle of Unity — The Revelation of the One Body in Christ_
 
 |   |   |   |   |   |
@@ -675,7 +675,7 @@
 
 ---
 
-## 📖 **Philippians**  
+## **Philippians**  
 > _The Epistle of Joy — The Mind of Christ in the Midst of Adversity_
 
 |   |   |   |   |   |
@@ -684,7 +684,7 @@
 
 ---
 
-## 📖 **Colossians**  
+## **Colossians**  
 > _The Epistle of Supremacy — Christ as the Center and Sustainer of All Things_
 
 |   |   |   |   |   |
@@ -693,7 +693,7 @@
 
 ---
 
-## 📖 **1 Thessalonians**  
+## **1 Thessalonians**  
 > _The Epistle of Hope — The Expectation of Divine Fulfillment_
 
 |   |   |   |   |   |
@@ -702,7 +702,7 @@
 
 ---
 
-## 📖 **2 Thessalonians**  
+## **2 Thessalonians**  
 > _The Epistle of Steadfastness — Holding the Vision Amid Confusion_
 
 |   |   |   |   |   |
@@ -711,7 +711,7 @@
 
 ---
 
-## 📖 **First Timothy**  
+## **First Timothy**  
 > _The Epistle of Order — Instruction for Spiritual Leadership_
 
 |   |   |   |   |   |
@@ -722,7 +722,7 @@
 
 ---
 
-## 📖 **Second Timothy**  
+## **Second Timothy**  
 > _The Epistle of Endurance — Faithfulness in the Face of Departure_
 
 |   |   |   |   |   |
@@ -732,7 +732,7 @@
 
 ---
 
-## 📖 **Titus**  
+## **Titus**  
 > _The Epistle of Sound Doctrine — Maintaining Purity in the Household of Faith_
 
 |   |   |   |   |   |
@@ -741,7 +741,7 @@
 
 ---
 
-## 📖 **Philemon**  
+## **Philemon**  
 > _The Epistle of Reconciliation — The Transformation of Relationship Through Love_
 
 |   |   |   |   |   |
@@ -750,7 +750,7 @@
 
 ---
 
-## 📖 **Hebrews**  
+## **Hebrews**  
 > _The Epistle of Fulfillment — The Passage From Shadow to Substance_
 
 |   |   |   |   |   |
@@ -761,7 +761,7 @@
 
 ---
 
-## 📖 **James**  
+## **James**  
 > _The Epistle of Works — The Expression of Faith Through Action_
 
 |   |   |   |   |   |
@@ -770,7 +770,7 @@
 
 ---
 
-## 📖 **1 Peter**  
+## **1 Peter**  
 > _The Epistle of Refinement — Endurance in the Furnace of Trial_
 
 |   |   |   |   |   |
@@ -780,7 +780,7 @@
 
 ---
 
-## 📖 **2 Peter**  
+## **2 Peter**  
 > _The Epistle of Remembrance — Growth in Knowledge and Grace_
 
 |   |   |   |   |   |
@@ -789,7 +789,7 @@
 
 ---
 
-## 📖 **1 John**  
+## **1 John**  
 > _The Epistle of Love — The Witness of Divine Life Within_
 
 |   |   |   |   |   |
@@ -798,7 +798,7 @@
 
 ---
 
-## 📖 **2 John**  
+## **2 John**  
 > _The Epistle of Truth — Walking in Love and Discernment_
 
 |   |   |   |   |   |
@@ -807,7 +807,7 @@
 
 ---
 
-## 📖 **3 John**  
+## **3 John**  
 > _The Epistle of Fellowship — The Contrast Between Selfishness and Service_
 
 |   |   |   |   |   |
@@ -816,7 +816,7 @@
 
 ---
 
-## 📖 **Jude**  
+## **Jude**  
 > _The Epistle of Contending — Guarding the Inner Faith_
 
 |   |   |   |   |   |
@@ -829,7 +829,7 @@
 ## <span class="color-revelation">📜 The Revelation of John</span>
 
 ---
-## 📖 **Revelation**  
+## **Revelation**  
 > _The Apocalypse of Unveiling — The Full Disclosure of the Divine Pattern_
 
 |   |   |   |   |   |
