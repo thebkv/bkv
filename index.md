@@ -615,7 +615,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ---
 
-## 📖 **Matthew**  
+## 📖 **Matthew**  {#matthew}  
 > _The Gospel of Vision and Fulfillment — The Awakening of Divine Consciousness Within Humanity_
 
 |   |   |   |   |   |
