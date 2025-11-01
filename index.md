@@ -335,8 +335,9 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| [00](Esther_00.md) |   |   |   |   |
 | [01](Esther_01.md) | [02](Esther_02.md) | [03](Esther_03.md) | [04](Esther_04.md) | [05](Esther_05.md) |
-| [06](Esther_06.md) | [07](Esther_07.md) | [08](Esther_08.md) | 09 | 10 |
+| [06](Esther_06.md) | [07](Esther_07.md) | [08](Esther_08.md) | [09](Esther_09.md) | [10](Esther_10.md) |
 
 
 
