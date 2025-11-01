@@ -1,6 +1,8 @@
 # Esther 9 — The Principle of Holy Retaliation  
 ### *When the law of life becomes active, the soul conquers the residues of evil and establishes perpetual remembrance.*
 
+---
+
 > _“The Jews gathered themselves together in their cities throughout all the provinces… to lay hand on such as sought their hurt: and no man could withstand them; for the fear of them fell upon all people.”_  
 > — **Esther 9:2 KJV**
 
@@ -110,6 +112,10 @@ What “sons of pride” still whisper in my thoughts?
 Do I fight them in anger or expose them in light?  
 The soul’s victory is not destruction but remembrance—  
 a holy retaliation in which every weapon of the enemy becomes an altar of joy.
+
+
+
+
 
 
 
