@@ -7,8 +7,8 @@
 | Section (jump) | Books | Symbolic BKV Theme |
 | :--- | :--- | :--- |
 | <a href="#moses" class="color-moses">The Books of Moses</a> | <span class="mini-jumps">
-  <a href="#genesis" class="pill pill-moses">Ge</a>
-  <a href="#exodus" class="pill pill-moses">Ex</a>
+  <a href="#genesis" class="pill pill-moses">Ge</a><br>
+  <a href="#exodus" class="pill pill-moses">Ex</a><br>
   <a href="#leviticus" class="pill pill-moses">Le</a>
   <a href="#numbers" class="pill pill-moses">Nu</a>
   <a href="#deuteronomy" class="pill pill-moses">De</a>
