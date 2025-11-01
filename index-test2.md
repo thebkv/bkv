@@ -44,7 +44,7 @@
 
 ---
 
-## 📖 Exodus  
+## Exodus  
 > _The Book of Liberation — The Unfolding of Divine Law in the Journey Out of Bondage_
 
 |   |   |   |   |   |
