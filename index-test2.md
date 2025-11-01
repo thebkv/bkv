@@ -96,11 +96,11 @@
 
 
 
-## ✨ The Gospels and Acts {#gospels}
+## The Gospels and Acts {#gospels}
 
 alskjdf asdfkljfasd adsflkjdfsalk sadfkljadfs l
 
-## 📖 **Matthew** {#matthew}  
+## **Matthew** {#matthew}  
 
 asdf
 afsd
