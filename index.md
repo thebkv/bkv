@@ -24,6 +24,17 @@ Integrated Symbolics Bible Study
 
 [Axiom 1](AXIOM_01.md) [Axiom 2](AXIOM_02.md)  [Axiom 3](AXIOM_03.md)  [BKV Lexicon](BKV_Lexicon.md) [BKV Colors](BKV_Colors.md)
 
+## Quick Navigation — The Sevenfold Structure of Scripture
+
+| Section | Visual | Symbolic BKV Theme |
+| :--- | :---: | :--- |
+| <a href="#moses" class="color-moses">The Books of Moses</a> | <span class="color-moses block-square">■</span> | *Formation of the Inner Law — The Awakening of Divine Order in the Soul.* |
+| <a href="#histories" class="color-histories">The Histories</a> | <span class="color-histories block-square">■</span> | *The Outworking of Consciousness — How Inner Principles Become External Patterns.* |
+| <a href="#poetry" class="color-poetry">The Poetry & Wisdom Books</a> | <span class="color-poetry block-square">■</span> | *The Dialogue of the Soul — The Refinement of Awareness through Reflection and Emotion.* |
+| <a href="#prophets" class="color-prophets">The Prophets</a> | <span class="color-prophets block-square">■</span> | *The Vision and Correction of the Inner Kingdom — The Call to Alignment and Restoration.* |
+| <a href="#gospels" class="color-gospels">The Gospels</a><br><small>[<a href="#matthew">Mt</a>] [<a href="#mark">Mk</a>] [<a href="#luke">Lk</a>] [<a href="#john">Jn</a>]</small> | <span class="color-gospels block-square">■</span> | *The Manifestation of Christ-Consciousness — The Word Made Flesh within the Human Spirit.* |
+| <a href="#letters" class="color-letters">The Letters</a> | <span class="color-letters block-square">■</span> | *The Expansion of the Inner Church — The Application of Christ-Consciousness to Daily Life.* |
+| <a href="#revelation" class="color-revelation">Revelation</a> | <span class="color-revelation block-square">■</span> | *The Unveiling — The Final Realization of the Kingdom of God within All.* |
 
 ---  
 
