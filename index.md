@@ -32,7 +32,18 @@ Integrated Symbolics Bible Study
 | <a href="#histories" class="color-histories">The Histories</a> | <span class="block-square color-histories"></span> | *The Outworking of Consciousness — How Inner Principles Become External Patterns.* |
 | <a href="#poetry" class="color-poetry">The Poetry & Wisdom Books</a> | <span class="block-square color-poetry"></span> | *The Dialogue of the Soul — The Refinement of Awareness through Reflection and Emotion.* |
 | <a href="#prophets" class="color-prophets">The Prophets</a> | <span class="block-square color-prophets"></span> | *The Vision and Correction of the Inner Kingdom — The Call to Alignment and Restoration.* |
-| <a href="#gospels" class="color-gospels">The Gospels</a><br><span class="mini-jumps"><a href="#matthew" class="pill pill-gospels">Mt</a> <a href="#mark" class="pill pill-gospels">Mk</a> <a href="#luke" class="pill pill-gospels">Lk</a> <a href="#john" class="pill pill-gospels">Jn</a></span> | <span class="block-square color-gospels"></span> | *The Manifestation of Christ-Consciousness — The Word Made Flesh within the Human Spirit.* |
+
+| <a href="#gospels" class="color-gospels">The Gospels</a><br>
+  <span class="mini-jumps">
+    <a href="#matthew" class="pill pill-gospels">Mt</a>
+    <a href="#mark" class="pill pill-gospels">Mk</a>
+    <a href="#luke" class="pill pill-gospels">Lk</a>
+    <a href="#john" class="pill pill-gospels">Jn</a>
+  </span>
+| <span class="block-square color-gospels"></span>
+| *The Manifestation of Christ-Consciousness — The Word Made Flesh within the Human Spirit.* |
+
+
 | <a href="#letters" class="color-letters">The Letters</a> | <span class="block-square color-letters"></span> | *The Expansion of the Inner Church — The Application of Christ-Consciousness to Daily Life.* |
 | <a href="#revelation" class="color-revelation">Revelation</a> | <span class="block-square color-revelation"></span> | *The Unveiling — The Final Realization of the Kingdom of God within All.* |
 
@@ -608,6 +619,9 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 ---
 ---
 
+## 📖 **Matthew** {#matthew}  
+
+---
 
 
 <a id="gospels"></a>  
@@ -615,7 +629,7 @@ Add a custom chapter GUID if you are creating a new file or make substantial cha
 
 ---
 
-## 📖 **Matthew**  {#matthew}  
+## 📖 **Matthew** {#matthew}  
 > _The Gospel of Vision and Fulfillment — The Awakening of Divine Consciousness Within Humanity_
 
 |   |   |   |   |   |
