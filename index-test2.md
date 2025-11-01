@@ -15,6 +15,13 @@
 | <a href="#histories">Histories</a> • <a href="#joshua">Joshua</a> • <a href="#judges">Judges</a> | *The Outworking of Consciousness — How Inner Principles Become External Patterns.* |
 | <a href="#gospels">Gospels & Acts</a> • <a href="#matthew">Matthew</a> • <a href="#mark">Mark</a> • <a href="#luke">Luke</a> • <a href="#john">John</a> • <a href="#acts">Acts</a> | *The Manifestation of Christ-Consciousness — The Word Made Flesh within the Human Spirit.* |
 
+## Quick Navigation — The Sevenfold Structure of Scripture
+
+| Section | Symbolic BKV Theme |
+| :--- | :--- |
+| <a href="#moses">Moses Books</a> • <a href="#genesis">Genesis</a> • <a href="#exodus">Exodus</a> • <a href="#leviticus">Leviticus</a> • <a href="#numbers">Numbers</a> • <a href="#deuteronomy">Deuteronomy</a> | *Formation of the Inner Law — The Awakening of Divine Order in the Soul.* |
+| <a href="#histories">Histories</a> • <a href="#joshua">Joshua</a> • <a href="#judges">Judges</a> • <a href="#ruth">Ruth</a> • <a href="#1samuel">1 Samuel</a> • <a href="#2samuel">2 Samuel</a> • <a href="#1kings">1 Kings</a> • <a href="#2kings">2 Kings</a> • <a href="#1chronicles">1 Chronicles</a> • <a href="#2chronicles">2 Chronicles</a> • <a href="#ezra">Ezra</a> • <a href="#nehemiah">Nehemiah</a> • <a href="#esther">Esther</a> | *The Outworking of Consciousness — How Inner Principles Become External Patterns.* |
+| <a href="#gospels">Gospels &amp; Acts</a> • <a href="#matthew">Matthew</a> • <a href="#mark">Mark</a> • <a href="#luke">Luke</a> • <a href="#john">John</a> • <a href="#acts">Acts</a> | *The Manifestation of Christ-Consciousness — The Word Made Flesh within the Human Spirit.* |
 
 
 
