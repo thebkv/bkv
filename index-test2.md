@@ -632,8 +632,10 @@
 
 ---
 
-<h2 id="1corinthians">1 Corinthians</h2>
-> _The Epistle of Correction — The Alignment of the Divided Mind_
+<h2 id="1corinthians"></h2>
+
+## **2 Corinthians**  
+> _The Epistle of Correction — The Alignment of the Divided Mind_  
 
 |---|---|---|---|---|
 | 00 |   |   |   |   |
