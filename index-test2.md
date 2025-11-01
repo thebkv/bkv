@@ -25,9 +25,11 @@
 
 
 
-## 📜 The Books of Moses {#moses}
+<h2 id="moses">📜 The Books of Moses</h2>
 
-## <span class="color-moses">The Book of Genesis</span> {#genesis}
+---
+
+<h3 id="genesis">The Book of Genesis</h3>
 > _The Book of Beginnings — The Emergence of Divine Ideas Into Form_
 
 |   |   |   |   |   |
