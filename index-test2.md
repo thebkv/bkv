@@ -604,7 +604,7 @@
 
 
 <a id="letters"></a>  
-## <span class="color-letters">📜 The Letters</span>
+## <span class="color-letters">The Letters</span>
 
 ## The Letters
 
