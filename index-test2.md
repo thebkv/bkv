@@ -5,11 +5,9 @@
 
 | Section | Symbolic BKV Theme |
 | :--- | :--- |
-| [Moses Books](#moses) • [Genesis](#genesis) • [Exodus](#exodus) • [Leviticus](#leviticus) • [Numbers](#numbers) • [Deuteronomy](#deuteronomy) | *Formation of the Inner Law — The Awakening of Divine Order in the Soul.* |
-| [Histories](#histories) • [Joshua](#joshua) • [Judges](#judges) • [Ruth](#ruth) • [1 Samuel](#1samuel) • [2 Samuel](#2samuel) • [1 Kings](#1kings) • [2 Kings](#2kings) • [1 Chronicles](#1chronicles) • [2 Chronicles](#2chronicles) • [Ezra](#ezra) • [Nehemiah](#nehemiah) • [Esther](#esther) | *The Outworking of Consciousness — How Inner Principles Become External Patterns.* |
+| <span style="font-size:1.1em; font-weight:600;">[Moses Books](#moses)</span><br>[Genesis](#genesis)<br>[Exodus](#exodus) | *Formation of the Inner Law — The Awakening of Divine Order in the Soul.* |
+| <span style="font-size:1.1em; font-weight:600;">[Histories](#histories)</span><br>[Joshua](#joshua)<br>[Judges](#judges) | *The Outworking of Consciousness — How Inner Principles Become External Patterns.* |
 | [Gospels & Acts](#gospels) • [Matthew](#matthew) • [Mark](#mark) • [Luke](#luke) • [John](#john) • [Acts](#acts) | *The Manifestation of Christ-Consciousness — The Word Made Flesh within the Human Spirit.* |
-
-
 
 
 
