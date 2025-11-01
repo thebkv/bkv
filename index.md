@@ -18,34 +18,10 @@ Integrated Symbolics Bible Study
 | [Jump to Letters](#letters) | <span class="color-letters">The Letters</span> | <span class="color-letters">■</span> | *The Expansion of the Inner Church — The Application of Christ-Consciousness to Daily Life.* |
 | [Jump to Revelation](#revelation) | <span class="color-revelation">Revelation</span> | <span class="color-revelation">■</span> | *The Unveiling — The Final Realization of the Kingdom of God within All.* |
 | [Jump to Gospels](#gospels) | <span class="color-gospels">The Gospels<br>Mt, Mk, Lk, Jn</span> | <span class="color-gospels">■</span> | *The Manifestation of Christ-Consciousness — The Word Made Flesh within the Human Spirit.* |
-| <div>[Jump to Gospels](#gospels)<br>[Mt](#matthew), [Mk](#mark), [Lk](#luke), [Jn](#john)</div> | <span class="color-gospels">The Gospels<br>Mt, Mk, Lk, Jn</span> | <span class="color-gospels">■</span> | *The Manifestation of Christ-Consciousness...* |
 
 ---
 
 [Axiom 1](AXIOM_01.md) [Axiom 2](AXIOM_02.md)  [Axiom 3](AXIOM_03.md)  [BKV Lexicon](BKV_Lexicon.md) [BKV Colors](BKV_Colors.md)
-
-## Quick Navigation — The Sevenfold Structure of Scripture
-
-| Section | Visual | Symbolic BKV Theme |
-| :--- | :---: | :--- |
-| <a href="#moses" class="color-moses">The Books of Moses</a> | <span class="block-square color-moses"></span> | *Formation of the Inner Law — The Awakening of Divine Order in the Soul.* |
-| <a href="#histories" class="color-histories">The Histories</a> | <span class="block-square color-histories"></span> | *The Outworking of Consciousness — How Inner Principles Become External Patterns.* |
-| <a href="#poetry" class="color-poetry">The Poetry & Wisdom Books</a> | <span class="block-square color-poetry"></span> | *The Dialogue of the Soul — The Refinement of Awareness through Reflection and Emotion.* |
-| <a href="#prophets" class="color-prophets">The Prophets</a> | <span class="block-square color-prophets"></span> | *The Vision and Correction of the Inner Kingdom — The Call to Alignment and Restoration.* |
-
-| <a href="#gospels" class="color-gospels">The Gospels</a><br>
-  <span class="mini-jumps">
-    <a href="#matthew" class="pill pill-gospels">Mt</a>
-    <a href="#mark" class="pill pill-gospels">Mk</a>
-    <a href="#luke" class="pill pill-gospels">Lk</a>
-    <a href="#john" class="pill pill-gospels">Jn</a>
-  </span>
-| <span class="block-square color-gospels"></span>
-| *The Manifestation of Christ-Consciousness — The Word Made Flesh within the Human Spirit.* |
-
-
-| <a href="#letters" class="color-letters">The Letters</a> | <span class="block-square color-letters"></span> | *The Expansion of the Inner Church — The Application of Christ-Consciousness to Daily Life.* |
-| <a href="#revelation" class="color-revelation">Revelation</a> | <span class="block-square color-revelation"></span> | *The Unveiling — The Final Realization of the Kingdom of God within All.* |
 
 ---  
 
