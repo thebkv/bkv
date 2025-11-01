@@ -1,30 +1,20 @@
 
 
-
-
 ## Quick Navigation — The Sevenfold Structure of Scripture
 
-| Section (jump) | Books | Symbolic BKV Theme |
-| :--- | :--- | :--- |
-| <a href="#moses" class="color-moses">The Books of Moses</a> | <span class="mini-jumps">
-  <a href="#genesis" class="pill pill-moses">Ge</a><br>
-  <a href="#exodus" class="pill pill-moses">Ex</a><br>
-  <a href="#leviticus" class="pill pill-moses">Le</a>
-  <a href="#numbers" class="pill pill-moses">Nu</a>
-  <a href="#deuteronomy" class="pill pill-moses">De</a>
-</span> | *Formation of the Inner Law — The Awakening of Divine Order in the Soul.* |
-| <a href="#histories" class="color-histories">The Histories</a> | <span class="mini-jumps">
-  <a href="#joshua" class="pill pill-histories">Js</a>
-  <a href="#judges" class="pill pill-histories">Jg</a>
-  <a href="#ruth" class="pill pill-histories">Ru</a>
-  <a href="#1samuel" class="pill pill-histories">1S</a>
-  <a href="#2samuel" class="pill pill-histories">2S</a>
-  <a href="#1kings" class="pill pill-histories">1K</a>
-  <a href="#2kings" class="pill pill-histories">2K</a>
-  <a href="#1chronicles" class="pill pill-histories">1C</a>
-  <a href="#2chronicles" class="pill pill-histories">2C</a>
-  <a href="#ezra" class="pill pill-histories">Er</a>
-  <a href="#nehemiah" class="pill pill-histories">Ne</a>
-  <a href="#esther" class="pill pill-histories">Es</a>
-</span> | *The Outworking of Consciousness — How Inner Principles Become External Patterns.* |
+| Jump Link | Section Title | Visual | Symbolic BKV Theme |
+| :--- | :--- | :---: | :--- |
+| <span class="color-moses">[Jump to Moses Books](#moses)</span> | <span class="color-moses">The Books of Moses</span> | <span class="color-moses">■</span> | *Formation of the Inner Law — The Awakening of Divine Order in the Soul.* |
+| [Jump to Histories](#histories) | <span class="color-histories">The Histories</span> | <span class="color-histories">■</span> | *The Outworking of Consciousness — How Inner Principles Become External Patterns.* |
 
+| [Jump to Poetry](#poetry) | <span class="color-poetry">The Poetry and Wisdom Books</span> | <span class="color-poetry">■</span> | *The Dialogue of the Soul — The Refinement of Awareness through Reflection and Emotion.* |
+
+| [Jump to Prophets](#prophets) | <span class="color-prophets">The Prophets</span> | <span class="color-prophets">■</span> | *The Vision and Correction of the Inner Kingdom — The Call to Alignment and Restoration.* |
+
+| [Jump to Gospels](#gospels) | <span class="color-gospels">The Gospels<br>Mt, Mk, Lk, Jn</span> | <span class="color-gospels">■</span> | *The Manifestation of Christ-Consciousness — The Word Made Flesh within the Human Spirit.* |
+
+| [Jump to Letters](#letters) | <span class="color-letters">The Letters</span> | <span class="color-letters">■</span> | *The Expansion of the Inner Church — The Application of Christ-Consciousness to Daily Life.* |
+
+| [Jump to Revelation](#revelation) | <span class="color-revelation">Revelation</span> | <span class="color-revelation">■</span> | *The Unveiling — The Final Realization of the Kingdom of God within All.* |
+
+| [Jump to Gospels](#gospels) | <span class="color-gospels">The Gospels<br>Mt, Mk, Lk, Jn</span> | <span class="color-gospels">■</span> | *The Manifestation of Christ-Consciousness — The Word Made Flesh within the Human Spirit.* |
