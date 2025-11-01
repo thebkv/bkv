@@ -199,3 +199,31 @@ body,
     body { background: white; }
     a { text-decoration: underline; }
 }
+
+
+
+
+
+.mini-jumps { white-space:nowrap; display:inline-flex; flex-wrap:wrap; gap:.25rem .35rem; }
+.pill {
+  display:inline-block; padding:.05rem .4rem; border:1px solid currentColor;
+  border-radius:.35rem; font-size:.85em; line-height:1.4; text-decoration:none;
+}
+.pill:hover { opacity:.85; text-decoration:none; }
+
+/* if you prefer filled pills:
+.pill { background: currentColor; color:#fff; border:none; }
+*/
+
+/* color hooks (you already have these text colors defined) */
+.pill-moses{ color:var(--color-moses,#b56e1d); }
+.pill-histories{ color:var(--color-histories,#8a3b12); }
+.pill-poetry{ color:var(--color-poetry,#7a5ba1); }
+.pill-prophets{ color:var(--color-prophets,#a4313b); }
+.pill-gospels{ color:var(--color-gospels,#4b7a40); }
+.pill-letters{ color:var(--color-letters,#316b85); }
+.pill-revelation{ color:var(--color-revelation,#a42f79); }
+
+
+
+
