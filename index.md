@@ -18,6 +18,9 @@ Integrated Symbolics Bible Study
 | [Jump to Letters](#letters) | <span class="color-letters">The Letters</span> | <span class="color-letters">■</span> | *The Expansion of the Inner Church — The Application of Christ-Consciousness to Daily Life.* |
 | [Jump to Revelation](#revelation) | <span class="color-revelation">Revelation</span> | <span class="color-revelation">■</span> | *The Unveiling — The Final Realization of the Kingdom of God within All.* |
 
+| [Jump to Gospels](#gospels) | <span class="color-gospels">[The Gospels](#gospels)<br>[Mt](#matthew), [Mk](#mark), [Lk](#luke), [Jn](#john)</span> | <span class="color-gospels">■</span> | *The Manifestation of Christ-Consciousness — The Word Made Flesh within the Human Spirit.* |
+
+
 
 ---
 
