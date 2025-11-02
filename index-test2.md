@@ -13,7 +13,7 @@
 | <a href="#revelation">Revelation</a> | *The Unveiling — The Final Realization of the Kingdom of God within All.* |
 
 <a id="moses"></a>  
-# The Books of Moses  
+# <span class="color-histories">The Books of Moses</span>  
 
 <a id="genesis"></a> 
 ## Genesis  
@@ -70,15 +70,15 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| [00](Numbers_00.md) | 01 | 02 | 03 | [04](Numbers_04.md) |
-| 05 | 06 | 07 | 08 | 09 |
-| 10 | 11 | 12 | 13 | 14 |
-| 15 | 16 | 17 | 18 | 19 |
-| 20 | 21 | [22](Numbers_22.md) | [23](Numbers_23.md) | [24](Numbers_24.md) |
-| 25 | 26 | 27 | 28 | 29 |
-| 30 | 31 | 32 | 33 | 34 |
-| 35 | 36 |   |   |   |
-|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| [00](Numbers_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 01 | 02 | 03 | [04](Numbers_04.md) | 05 |
+| 06 | 07 | 08 | 09 | 10 |  
+| 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 18 | 19 |
+| 21 | [22](Numbers_22.md) | [23](Numbers_23.md) | [24](Numbers_24.md) |   |
+| 26 | 27 | 28 | 29 | 30 |
+| 31 | 32 | 33 | 34 | 35 |
+| 36 |    |   |   |   |
 
 <a id="deuteronomy"></a> 
 ## Deuteronomy  
@@ -86,7 +86,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| [00](Deuteronomy_00.md) |    |    |    |    |
+| [00](Deuteronomy_00.md) |    |    |    | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | [01](Deuteronomy_01.md) | 02 | 03 | 04 | 05 |
 | [06](Deuteronomy_06.md) | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 | 15 |
@@ -253,7 +253,7 @@
 |    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
 <a id="poetry"></a>  
-# <span class="color-poetry">The Books of Poetry & Wisdom</span>
+# <span class="color-histories">The Books of Poetry & Wisdom</span>
 
 <a id="job"></a>
 ## **Job**  
@@ -459,7 +459,7 @@
 ## **Matthew** {#matthew}  
 
 <a id="gospels"></a>  
-## <span class="color-gospels">The Gospels and Acts</span>
+## <span class="color-histories">The Gospels and Acts</span>
 
 ## **Matthew** {#matthew}  
 > _The Gospel of Vision and Fulfillment — The Awakening of Divine Consciousness Within Humanity_
@@ -520,19 +520,18 @@
 ---  
 
 <a id="letters"></a>  
-## <span class="color-letters">The Letters</span>
-
-## The Letters
+## <span class="color-histories">The Letters</span>
 
 >Scripture documents **21 epistles** (letters) written by the early thinkers of the Core Truth movement to various communities and individuals. These texts serve as the definitive manuals for establishing and maintaining Inner Governance.
-
+>
 >The letters range in subject from defining the Principle of Divine Resolution (e.g., Romans, Galatians) to demanding the purity and ethical integrity of the aligned consciousness (e.g., James, 1 Peter). They function as practical manuals for living under the Law of the Spirit of Life.
-
+>
 >Authorship: All were written by the Holy Spirit through various people, including Paul (Saul), direct disciples (Peter, John), and others (Hebrews). Paul details the structural architecture of faith; the others focus on **practical application and final endurance**.
-
+>
 >Purpose: The letters bridge the outer and inner meanings of Scripture. Just as Moses (Outer) led the people to civilization, the letters (Inner) establish the true Kingdom within the heart. Their BKV message is to transition the consciousness from the Law of External Works (Exodus 20) to the Law of Internal Alignment, providing the necessary doctrine and discipline for the continuous operation of the Inner Church (1 Timothy). The goal is to move beyond pre-Christ thinking and embrace the salvation opened by the Lord.
 
-## <h2 id="romans">Letter to the Romans</h2>
+<a id="romans"></a>
+## Letter to the Romans
 > _The Epistle of Faith and Reason — The Inner Law of Transformation_
 
 |   |   |   |   |   |
@@ -542,7 +541,8 @@
 | 11 | 12 | 13 | 14 | 15 |
 | 16 |   |   |   |   |
 
-## <h2 id="1corinthians">1 Corinthians</h2>
+<a id="b1corinthians"></a>
+## First Letter to the Corinthians
 > _The Epistle of Correction — The Alignment of the Divided Mind_
  
 |   |   |   |   |   |
@@ -552,9 +552,8 @@
 | 11 | 12 | 13 | 14 | 15 |
 | 16 |    |    |    |    |
 
-<a href="#toc">&#x1F51D;</a>
-
-## <h2 id="2corinthians">2 Corinthians</h2>  
+<a id="b2corinthians"></a>
+## Second Letter to the Corinthians
 > _The Epistle of Consolation — The Power of Weakness and the Ministry of Spirit_
 
 |   |   |   |   |   |
@@ -700,8 +699,9 @@
 ---
 
 <a id="revelation"></a>  
-## <span class="color-revelation">📜 The Revelation of John</span>
+## <span class="color-histories">📜 The Revelation of John</span>
 
+<a id="revelation"></a>
 ## **Revelation**  
 > _The Apocalypse of Unveiling — The Full Disclosure of the Divine Pattern_
 
