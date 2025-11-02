@@ -19,8 +19,8 @@
 ## Genesis  
 > _The Book of Beginnings — The Emergence of Divine Ideas Into Form_
 
-| [00](Genesis_01.md) | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |   |   |   |  
 |---|---|---|---|---|
+| [00](Genesis_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | [01](Genesis_01.md) | 02 | 03 | 04 | 05 |  
 | 06 | 07 | 08 | 09 | 10 |  
 | 11 | 12 | 13 | 14 | 15 |  
