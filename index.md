@@ -58,13 +58,13 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | [00](Leviticus_00.md) | 01 | 02 | 03 | 04 |
 | 05 | 06 | [07](Leviticus_07.md) | 08 | 09 |
 | 10 | 11 | 12 | 13 | 14 |
 | 15 | 16 | 17 | 18 | 19 |
 | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 |    |    |
-|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
 <a id="numbers"></a>  
 ## 📖 Numbers  
@@ -108,12 +108,11 @@ Integrated Symbolics Bible Study
 |   |   |   |   |   |
 |---|---|---|---|---|
 | [00](Joshua_00.md) |   |   |   |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
-| [00](Joshua_00.md) | [01](Joshua_01.md) | [02](Joshua_02.md) | [03](Joshua_03.md) | 04 |
-| 05 | 06 | 07 | 08 | 09 |
-| 10 | 11 | 12 | 13 | 14 |
-| 15 | 16 | 17 | 18 | 19 |
-| 20 | 21 | 22 | 23 | 24 |
-|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| [01](Joshua_01.md) | [02](Joshua_02.md) | [03](Joshua_03.md) | 04 |   |
+| 06 | 07 | 08 | 09 | 10 |
+| 11 | 12 | 13 | 14 | 15 |
+| 16 | 17 | 18 | 19 | 20 |
+| 21 | 22 | 23 | 24 |    |
 
 <a id="judges"></a> 
 ## 📖 Judges  
