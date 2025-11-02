@@ -13,10 +13,10 @@
 | <a href="#revelation">Revelation</a> | *The Unveiling — The Final Realization of the Kingdom of God within All.* |
 
 <a id="moses"></a>  
-# <span class="color-histories">📘 The Books of Moses</span>  
+# <span class="color-histories">📜 The Books of Moses</span>  
 
 <a id="genesis"></a> 
-## Genesis  
+## 📖 Genesis  
 > _The Book of Beginnings — The Emergence of Divine Ideas Into Form_
 
 |   |   |   |   |   |  
@@ -34,7 +34,7 @@
 | 46 | 47 | 48 | 49 | 50 |  
 
 <a id="exodus"></a>  
-## Exodus  
+## 📖 Exodus  
 > _The Book of Liberation — The Unfolding of Divine Law in the Journey Out of Bondage_
 
 |   |   |   |   |   |
@@ -51,7 +51,7 @@
 |    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
 <a id="leviticus"></a>
-## Leviticus   
+## 📖 Leviticus   
 > _The Book of Holiness — The Order of Sacred Approach_
 
 |   |   |   |   |   |
@@ -65,7 +65,7 @@
 |    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
 <a id="numbers"></a>  
-## Numbers  
+## 📖 Numbers  
 > _The Book of March and Reckoning — The Soul’s Journey Through the Wilderness_
 
 |   |   |   |   |   |
@@ -81,7 +81,7 @@
 | 36 |    |   |   |   |
 
 <a id="deuteronomy"></a> 
-## Deuteronomy  
+## 📖 Deuteronomy  
 > _The Book of Remembrance — The Law Rewritten Upon the Heart_
 
 |   |   |   |   |   |
@@ -100,7 +100,7 @@
 # <span class="color-histories">The Historical Books</span>
 
 <a id="joshua"></a>  
-## Joshua  
+## 📖 Joshua  
 > _The Book of Possession and Courage — The Awakening of Divine Strength to Enter the Promised State_
 
 |   |   |   |   |   |
@@ -113,7 +113,7 @@
 |    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
 <a id="judges"></a> 
-## Judges  
+## 📖 Judges  
 > _The Book of Cycles — The Alternation Between Forgetfulness and Renewal_
 
 |   |   |   |   |   |
@@ -127,7 +127,7 @@
 |    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
 <a id="ruth"></a> 
-## Ruth  
+## 📖 Ruth  
 > _The Book of Return — The Discovery of Divine Love Within the Field of Life_
 
 |   |   |   |   |   |
@@ -136,7 +136,7 @@
 |    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
 <a id="b1samuel"></a>
-## **1 Samuel**  
+## 📖 1 Samuel  
 > _The Book of Calling — The Emergence of Spiritual Kingship Within the Soul_
 
 |   |   |   |   |   |  
@@ -152,7 +152,7 @@
 |    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
 <a id="b2samuel"></a>
-## 2 Samuel  
+## 📖 2 Samuel  
 > _The Book of Establishment — The Consolidation of Divine Rule Within the Heart_
 
 |   |   |   |   |   |
@@ -165,7 +165,7 @@
 |    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
 <a id="b1kings"></a>
-## 1 Kings  
+## 📖 1 Kings  
 > _The Book of Division — The Rise and Fall of Inner Wisdom and Desire_
 
 |   |   |   |   |   |
@@ -178,7 +178,7 @@
 |    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
 <a id="b2kings"></a>
-## 2 Kings  
+## 📖 2 Kings  
 > _The Book of Decline — The Fragmentation and Captivity of the Inner Life_
 
 |   |   |   |   |   |
@@ -191,7 +191,7 @@
 |    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
 <a id="b1chronicles"></a>
-## 1 Chronicles  
+## 📖 1 Chronicles  
 > _The Book of Memory — The Ordering of the Inner Kingdom From Adam to David_
 
 |   |   |   |   |   |
@@ -205,7 +205,7 @@
 |    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
 <a id="b2chronicles"></a>
-## 2 Chronicles  
+## 📖 2 Chronicles  
 > _The Book of Continuity — The Legacy of the Kingdom and the Return to the Temple_
 
 |   |   |   |   |   |
@@ -221,7 +221,7 @@
 |    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
 <a id="ezra"></a>
-## Ezra  
+## 📖 Ezra  
 > _The Book of Restoration — The Rebuilding of the Inner Temple_
 
 |   |   |   |   |   |
@@ -231,7 +231,7 @@
 |    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
 <a id="nehemiah"></a>
-## Nehemiah  
+## 📖 Nehemiah  
 > _The Book of Completion — The Strengthening of the Walls of Consciousness_
 
 |   |   |   |   |   |
@@ -242,7 +242,7 @@
 |    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
 <a id="esther"></a>
-## Esther  
+## 📖 Esther  
 > _The Book of Hidden Providence — The Triumph of the Unseen Hand of God Within Human Events_
 
 |   |   |   |   |   |
@@ -253,10 +253,10 @@
 |    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
 <a id="poetry"></a>  
-# <span class="color-histories">The Books of Poetry & Wisdom</span>
+# <span class="color-histories">**📜 The Books of Poetry & Wisdom**</span>
 
 <a id="job"></a>
-## **Job**  
+## 📖 Job 
 > _The Book of Testing — The Search for Divine Justice Within the Soul_
 
 |   |   |   |   |   |
