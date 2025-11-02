@@ -31,7 +31,9 @@
 | 36 | 37 | 38 | 39 | 40 |
 | 41 | 42 | 43 | 44 | 45 |
 | 46 | 47 | 48 | 49 | 50 | 
-|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+<p style="text-align:center;margin-top:0.25em;">
+  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013; Back to Top</a>
+</p>
 
 <a id="exodus"></a>  
 ## Exodus  
