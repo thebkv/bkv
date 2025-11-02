@@ -1,6 +1,8 @@
+# The Bible Key Vision (BKV)
+Integrated Symbolics Bible Study
+
 <a id="toc"></a>  
 # Quick Navigation — The Sevenfold Structure of Scripture 
-
 
 | Section | Symbolic BKV Theme |
 | :--- | :--- |
