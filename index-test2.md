@@ -619,8 +619,7 @@
 >Purpose: The letters bridge the outer and inner meanings of Scripture. Just as Moses (Outer) led the people to civilization, the letters (Inner) establish the true Kingdom within the heart. Their BKV message is to transition the consciousness from the Law of External Works (Exodus 20) to the Law of Internal Alignment, providing the necessary doctrine and discipline for the continuous operation of the Inner Church (1 Timothy). The goal is to move beyond pre-Christ thinking and embrace the salvation opened by the Lord.
 
 ---
-
-## **Romans**  
+## <h2 id="romans">Letter to the Romans</h2>
 > _The Epistle of Faith and Reason — The Inner Law of Transformation_
 
 |   |   |   |   |   |
@@ -632,7 +631,7 @@
 
 ---
 
-## <h3 id="1corinthians">1 Corinthians</h3>
+## <h2 id="1corinthians">1 Corinthians</h2>
 > _The Epistle of Correction — The Alignment of the Divided Mind_
  
 |   |   |   |   |   |
