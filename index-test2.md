@@ -62,7 +62,6 @@
 | 25 | 26 | 27 |    |    |
 |    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
-
 ## Numbers  <a id="numbers"></a> 
 > _The Book of March and Reckoning — The Soul’s Journey Through the Wilderness_
 
@@ -76,8 +75,7 @@
 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 | 32 | 33 | 34 |
 | 35 | 36 |   |   |   |
-
----
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
 ## Deuteronomy  <a id="deuteronomy"></a> 
 > _The Book of Remembrance — The Law Rewritten Upon the Heart_
@@ -92,7 +90,7 @@
 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 |
 | 31 | 32 | 33 | 34 |    |
-
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
 <a id="histories"></a>  
 ## <span class="color-histories">The Historical Books</span>
@@ -108,8 +106,7 @@
 | 10 | 11 | 12 | 13 | 14 |
 | 15 | 16 | 17 | 18 | 19 |
 | 20 | 21 | 22 | 23 | 24 |
-
----
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
 ## Judges  
 > _The Book of Cycles — The Alternation Between Forgetfulness and Renewal_
