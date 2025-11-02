@@ -5,11 +5,11 @@
 | Section | Symbolic BKV Theme |
 | :--- | :--- |
 | <a href="#moses">Moses Books</a> • <a href="#genesis">Genesis</a> • <a href="#exodus">Exodus</a> • <a href="#leviticus">Leviticus</a> • <a href="#numbers">Numbers</a> • <a href="#deuteronomy">Deuteronomy</a> | *Formation of the Inner Law — The Awakening of Divine Order in the Soul.* |
-| <a href="#histories">Histories</a> • <a href="#joshua">Joshua</a> • <a href="#judges">Judges</a> • <a href="#ruth">Ruth</a> • <a href="#1samuel">1 Samuel</a> • <a href="#2samuel">2 Samuel</a> • <a href="#1kings">1 Kings</a> • <a href="#2kings">2 Kings</a> • <a href="#1chronicles">1 Chronicles</a> • <a href="#2chronicles">2 Chronicles</a> • <a href="#ezra">Ezra</a> • <a href="#nehemiah">Nehemiah</a> • <a href="#esther">Esther</a> | *The Outworking of Consciousness — How Inner Principles Become External Patterns.* |
+| <a href="#histories">Histories</a> • <a href="#joshua">Joshua</a> • <a href="#judges">Judges</a> • <a href="#ruth">Ruth</a> • <a href="#b1samuel">1 Samuel</a> • <a href="#b2samuel">2 Samuel</a> • <a href="#b1kings">1 Kings</a> • <a href="#b2kings">2 Kings</a> • <a href="#b1chronicles">1 Chronicles</a> • <a href="#b2chronicles">2 Chronicles</a> • <a href="#ezra">Ezra</a> • <a href="#nehemiah">Nehemiah</a> • <a href="#esther">Esther</a> | *The Outworking of Consciousness — How Inner Principles Become External Patterns.* |
 | <a href="#poetry">Poetry &amp; Wisdom</a> • <a href="#job">Job</a> • <a href="#psalms">Psalms</a> • <a href="#proverbs">Proverbs</a> • <a href="#ecclesiastes">Ecclesiastes</a> • <a href="#songofsongs">Song of Songs</a> | *The Dialogue of the Soul — The Refinement of Awareness through Reflection and Emotion.* |
 | <a href="#prophets">Prophets</a> • <a href="#isaiah">Isaiah</a> • <a href="#jeremiah">Jeremiah</a> • <a href="#lamentations">Lamentations</a> • <a href="#ezekiel">Ezekiel</a> • <a href="#daniel">Daniel</a> • <a href="#hosea">Hosea</a> • <a href="#joel">Joel</a> • <a href="#amos">Amos</a> • <a href="#obadiah">Obadiah</a> • <a href="#jonah">Jonah</a> • <a href="#micah">Micah</a> • <a href="#nahum">Nahum</a> • <a href="#habakkuk">Habakkuk</a> • <a href="#zephaniah">Zephaniah</a> • <a href="#haggai">Haggai</a> • <a href="#zechariah">Zechariah</a> • <a href="#malachi">Malachi</a> | *The Vision and Correction of the Inner Kingdom — The Call to Alignment and Restoration.* |
 | <a href="#gospels">Gospels &amp; Acts</a> • <a href="#matthew">Matthew</a> • <a href="#mark">Mark</a> • <a href="#luke">Luke</a> • <a href="#john">John</a> • <a href="#acts">Acts</a> | *The Manifestation of Christ-Consciousness — The Word Made Flesh within the Human Spirit.* |
-| <a href="#letters">Letters</a> • <a href="#romans">Romans</a> • <a href="#1corinthians">1 Corinthians</a> • <a href="#2corinthians">2 Corinthians</a> • <a href="#galatians">Galatians</a> • <a href="#ephesians">Ephesians</a> • <a href="#philippians">Philippians</a> • <a href="#colossians">Colossians</a> • <a href="#1thessalonians">1 Thessalonians</a> • <a href="#2thessalonians">2 Thessalonians</a> • <a href="#1timothy">1 Timothy</a> • <a href="#2timothy">2 Timothy</a> • <a href="#titus">Titus</a> • <a href="#philemon">Philemon</a> • <a href="#hebrews">Hebrews</a> • <a href="#james">James</a> • <a href="#1peter">1 Peter</a> • <a href="#2peter">2 Peter</a> • <a href="#1john">1 John</a> • <a href="#2john">2 John</a> • <a href="#3john">3 John</a> • <a href="#jude">Jude</a> | *The Expansion of the Inner Church — The Application of Christ-Consciousness to Daily Life.* |
+| <a href="#letters">Letters</a> • <a href="#romans">Romans</a> • <a href="#b1corinthians">1 Corinthians</a> • <a href="#b2corinthians">2 Corinthians</a> • <a href="#galatians">Galatians</a> • <a href="#ephesians">Ephesians</a> • <a href="#philippians">Philippians</a> • <a href="#colossians">Colossians</a> • <a href="#b1thessalonians">1 Thessalonians</a> • <a href="#b2thessalonians">2 Thessalonians</a> • <a href="#b1timothy">1 Timothy</a> • <a href="#b2timothy">2 Timothy</a> • <a href="#titus">Titus</a> • <a href="#philemon">Philemon</a> • <a href="#hebrews">Hebrews</a> • <a href="#james">James</a> • <a href="#b1peter">1 Peter</a> • <a href="#b2peter">2 Peter</a> • <a href="#b1john">1 John</a> • <a href="#b2john">2 John</a> • <a href="#b3john">3 John</a> • <a href="#jude">Jude</a> | *The Expansion of the Inner Church — The Application of Christ-Consciousness to Daily Life.* |
 | <a href="#revelation">Revelation</a> | *The Unveiling — The Final Realization of the Kingdom of God within All.* |
 
 <a id="moses"></a>  
@@ -39,6 +39,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| [00](Exodus_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | [00](Exodus_00.md) | [01](Exodus_01.md) | [02](Exodus_02.md) | [03](Exodus_03.md) | [04](Exodus_04.md) |
 | [05](Exodus_05.md) | [06](Exodus_06.md) | 07 | 08 | 09 |
 | 10 | 11 | 12 | 13 | [14](Exodus_14.md) |
@@ -48,7 +49,6 @@
 | 30 | 31 | 32 | 33 | 34 |
 | 35 | 36 | 37 | 38 | 39 |
 | 40 |    |    |    |    |
-|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
 <a id="leviticus"></a>
 ## 📖 Leviticus   
@@ -94,7 +94,7 @@
 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 | 30 |
 | 31 | 32 | 33 | 34 |    |
-|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+|    |    |    |    |    |
 
 <a id="histories"></a>  
 # <span class="color-histories">The Historical Books</span>
@@ -105,6 +105,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| [00](Joshua_00.md) |   |   |   |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | [00](Joshua_00.md) | [01](Joshua_01.md) | [02](Joshua_02.md) | [03](Joshua_03.md) | 04 |
 | 05 | 06 | 07 | 08 | 09 |
 | 10 | 11 | 12 | 13 | 14 |
@@ -118,7 +119,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| [00](Judges_00.md) |   |   |   |   |
+| [00](Judges_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | [01](Judges_01.md) | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | [09](Judges_09.md) | 10 |
 | 11 | 12 | 13 | 14 | 15 |
@@ -132,8 +133,8 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 01 | 02 | 03 | 04 |   |
-|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| 01 | 02 | 03 | 04 | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+|    |    |    |    |    |
 
 <a id="b1samuel"></a>
 ## 📖 1 Samuel  
@@ -141,7 +142,7 @@
 
 |   |   |   |   |   |  
 |---|---|---|---|---|  
-| [00](1_Samuel_00.md) |   |   |   |   |
+| [00](1_Samuel_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | [01](1_Samuel_01.md) | [02](1_Samuel_02.md) | [03](1_Samuel_03.md) | [04](1_Samuel_04.md) | [05](1_Samuel_05.md) |
 | [06](1_Samuel_06.md) | [07](1_Samuel_07.md) | [08](1_Samuel_08.md) | [09](1_Samuel_09.md) | [10](1_Samuel_10.md) |
 | [11](1_Samuel_11.md) | [12](1_Samuel_12.md) | [13](1_Samuel_13.md) | [14](1_Samuel_14.md) | [15](1_Samuel_15.md) |
@@ -157,6 +158,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+|    |    |    |    | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | 01 | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 | 15 |
@@ -170,6 +172,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | 01 | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 | 15 |
@@ -183,6 +186,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | 01 | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 | 15 |
@@ -196,6 +200,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | 01 | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 | 15 |
@@ -226,6 +231,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | [01](Ezra_01.md) | [02](Ezra_02.md) | [03](Ezra_03.md) | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 |    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
@@ -236,6 +242,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | 01 | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 |   |   |
@@ -247,10 +254,10 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| [00](Esther_00.md) |   |   |   |   |
+| [00](Esther_00.md)  |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | [01](Esther_01.md) | [02](Esther_02.md) | [03](Esther_03.md) | [04](Esther_04.md) | [05](Esther_05.md) |
 | [06](Esther_06.md) | [07](Esther_07.md) | [08](Esther_08.md) | [09](Esther_09.md) | [10](Esther_10.md) |
-|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+|    |    |    |    |    |
 
 <a id="poetry"></a>  
 # <span class="color-histories">**📜 The Books of Poetry & Wisdom**</span>
@@ -261,6 +268,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | [01](Job_01.md) | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 | 15 |
@@ -278,6 +286,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | [091](Psalm_91.md) | [095](Psalm_95.md) | [118](Psalm_118.md) | [119](Psalm_119.md) |   |
 |    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
@@ -287,6 +296,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | [03](Proverbs_03.md) | 04 | 05 | 06 | 07 |
 | 08 | 09 | 10 | 11 | 12 |
 | 13 | [14](Proverbs_14.md) | 15 | 16 | 17 |
@@ -325,6 +335,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | [01](Isaiah_01.md) | [02](Isaiah_02.md) | 03 | 04 | 05 |
 | 26  | 27  | [28](Isaiah_28.md) | [29](Isaiah_29.md)  | 30  |
 | [31](Isaiah_31.md) |   |   |   |   |
@@ -335,6 +346,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | 01 | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | ... | 51 | 52 |   |   |
@@ -344,6 +356,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | 01 | 02 | 03 | 04 | 05 |  
 
 ## 📖 Ezekiel  
@@ -351,6 +364,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | [12](Ezekiel_12.md) | [13](Ezekiel_13.md) | 14 | 15 | 16 |
 | ... | [37](Ezekiel_37.md) | 38 | 39 | 48 |
 
@@ -368,6 +382,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | 01 | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 |   |
@@ -377,6 +392,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | 01 | 02 | 03 |   |   |
 
 ## 📖 Amos  
@@ -384,6 +400,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | 01 | 02 | 03 | 04 | 05 |
 | 06 | [07](Amos_07.md) | [08](Amos_08.md) | [09](Amos_09.md) |   |
 
@@ -392,6 +409,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | 01 |   |   |   |   |
 
 ## 📖 Jonah  
@@ -399,6 +417,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | [01](Jonah_01.md) | [02](Jonah_02.md) | [03](Jonah_03.md) | [04](Jonah_04.md) |   |
 
 ## 📖 Micah  
@@ -406,6 +425,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | 01 | 02 | 03 | 04 | 05 |
 | 06 | 07 |   |   |   |
 
@@ -414,6 +434,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | 01 | 02 | 03 |   |   |
 
 ## 📖 Habakkuk  
@@ -421,6 +442,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | 01 | 02 | 03 |   |   |
 
 ## 📖 Zephaniah  
@@ -428,6 +450,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | 01 | 02 | 03 |   |   |
 
 ## **Haggai**  
@@ -435,6 +458,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | [01](Haggai_01.md) | [02](Haggai_02.md) |   |   |   |
 
 
@@ -443,6 +467,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | 01 | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 |   |
@@ -452,6 +477,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | 01 | 02 | 03 | 04 |   |
 
 ---
@@ -464,6 +490,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | [01](Matthew_01.md) | [02](Matthew_02.md) | [03](Matthew_03.md) | [04](Matthew_04.md) | [05](Matthew_05.md) |
 | [06](Matthew_06.md) | [07](Matthew_07.md) | [08](Matthew_08.md) | [09](Matthew_09.md) | [10](Matthew_10.md) |
 | 11 | 12 | [13](Matthew_13.md) | 14 | 15 |
@@ -476,6 +503,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | [01](Mark_01.md) | [02](Mark_02.md) | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 | 15 |
@@ -486,6 +514,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | [01](Luke_01.md) | [02](Luke_02.md) | [03](Luke_03_rev1.md) | [04](Luke_04.md) | [05](Luke_05.md) |
 | [06](Luke_06.md) | [07](Luke_07.md) | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 | 15 |
@@ -497,6 +526,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | [01](John_01.md) | [02](John_02.md) | [03](John_03.md) | [04](John_04.md) | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | [13](John_13.md) | 14 | 15 |
@@ -508,6 +538,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | 01 | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | [11](Acts_11.md) | [12](Acts_12.md) | 13 | 14 | 15 |
@@ -534,6 +565,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | 01 | 02 | 03 | 04 | 05 |
 | 06 | [07](Romans_07.md) | [08](Romans_08.md) | [09](Romans_09.md) | 10 |
 | 11 | 12 | 13 | 14 | 15 |
@@ -545,6 +577,7 @@
  
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | [01](1_Corinthians_01.md) | [02](1_Corinthians_02.md) | [03](1_Corinthians_03.md) | [04](1_Corinthians_04.md) | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 | 15 |
@@ -556,6 +589,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | 01 | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 |   |   |
@@ -565,6 +599,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | 01 | 02 | 03 | 04 | 05 |
 | 06 |   |   |   |   |
 
@@ -573,6 +608,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | [01](Ephesians_01.md) | 02 | 03 | 04 | 05 |
 | 06 |   |   |   |   |
 
@@ -581,6 +617,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | 01 | 02 | 03 | 04 |   |
 
 ## 📖 Colossians  
@@ -588,6 +625,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | 01 | 02 | 03 | 04 |   |
 
 ## 📖 1 Thessalonians  
@@ -595,6 +633,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | 01 | 02 | 03 | 04 | 05 |
 
 ## 📖 2 Thessalonians  
@@ -602,6 +641,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | 01 | 02 | 03 |   |   |
 
 ## 📖 First Timothy  
@@ -609,6 +649,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | [00](1_Timothy_00.md) |     |   |   |   |
 | [01](1_Timothy_01.md) | [02](1_Timothy_02.md) | [03](1_Timothy_03.md) | [04](1_Timothy_04.md) | [05](1_Timothy_05.md) |
 | [06](2_Timothy_06.md) |   |   |   |
@@ -618,6 +659,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | [00](2_Timothy_00.md) |    |    |    |    |
 | 01 | 02 | 03 | 04 | 05 |
 
@@ -626,6 +668,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | 01 | 02 | 03 |   |   |
 
 ## 📖 Philemon  
@@ -633,6 +676,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | 01 |   |   |   |   |
 
 ## 📖 Hebrews  
@@ -640,6 +684,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | [01](Hebrews_01.md) | [02](Hebrews_02.md) | [03](Hebrews_03.md) | [04](Hebrews_04.md) | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 |   |   |
@@ -649,6 +694,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | 01 | 02 | 03 | 04 | 05 |
 
 ## 📖 1 Peter  
@@ -656,6 +702,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | [00](1_Peter_00.md)  |   |   |   |   |
 | 01 | 02 | [03](1_Peter_03.md) | 04 | 05 |
 
@@ -664,34 +711,43 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | 01 | 02 | 03 |   |   |
 
+<a id="b1john"></a>  
 ## 📖 1 John  
 > _The Epistle of Love — The Witness of Divine Life Within_
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | 01 | 02 | 03 | 04 | 05 |
 
+<a id="b2john"></a>  
 ## 📖 2 John  
 > _The Epistle of Truth — Walking in Love and Discernment_
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | 01 |   |   |   |   |
 
+<a id="b3john"></a>  
 ## 📖 3 John  
 > _The Epistle of Fellowship — The Contrast Between Selfishness and Service_
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | 01 |   |   |   |   |
 
+<a id="jude"></a> 
 ## 📖 Jude  
 > _The Epistle of Contending — Guarding the Inner Faith_
 
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | [01](Jude_01.md) |   |   |   |   |
 
 ---
@@ -705,7 +761,7 @@
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |    |   |   |   |
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | [01](Revelation_01.md) | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 | 15 |
