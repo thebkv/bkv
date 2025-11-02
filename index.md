@@ -149,8 +149,8 @@ Integrated Symbolics Bible Study
 | [11](1_Samuel_11.md) | [12](1_Samuel_12.md) | [13](1_Samuel_13.md) | [14](1_Samuel_14.md) | [15](1_Samuel_15.md) |
 | [16](1_Samuel_16.md) | [17](1_Samuel_17.md) | [18](1_Samuel_18.md) | [19](1_Samuel_19.md) | [20](1_Samuel_20.md) |
 | [21](1_Samuel_21.md) | [22](1_Samuel_22.md) | [23](1_Samuel_23.md) | [24](1_Samuel_24.md) | [25](1_Samuel_25.md) |
-| [26](1_Samuel_26.md) | [-27](1_Samuel_27.md) | [-28](1_Samuel_28.md) | [-29](1_Samuel_29.md) | [-30](1_Samuel_30.md) |
-| [-31](1_Samuel_31.md) |   |   |   |   |  
+| [26](1_Samuel_26.md) | [27](1_Samuel_27.md) | [28](1_Samuel_28.md) | [29](1_Samuel_29.md) | [30](1_Samuel_30.md) |
+| [31](1_Samuel_31.md) |   |   |   |   |  
 
 <a id="b2samuel"></a>
 ## 📖 2 Samuel  
