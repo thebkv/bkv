@@ -13,7 +13,7 @@
 | <a href="#revelation">Revelation</a> | *The Unveiling — The Final Realization of the Kingdom of God within All.* |
 
 <a id="moses"></a>  
-## The Books of Moses  
+# The Books of Moses  
 
 <a id="genesis"></a> 
 ## Genesis  
@@ -32,12 +32,6 @@
 | 36 | 37 | 38 | 39 | 40 |  
 | 41 | 42 | 43 | 44 | 45 |  
 | 46 | 47 | 48 | 49 | 50 |  
-
----
-
-<p style="text-align:center;margin-top:0.25em;">
-  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a>
-</p>
 
 <a id="exodus"></a>  
 ## Exodus  
@@ -103,7 +97,7 @@
 |    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
 <a id="histories"></a>  
-## <span class="color-histories">The Historical Books</span>
+# <span class="color-histories">The Historical Books</span>
 
 <a id="joshua"></a>  
 ## Joshua  
@@ -259,7 +253,7 @@
 |    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
 <a id="poetry"></a>  
-## <span class="color-poetry">🎵 The Books of Poetry & Wisdom</span>
+# <span class="color-poetry">The Books of Poetry & Wisdom</span>
 
 <a id="job"></a>
 ## **Job**  
@@ -312,8 +306,6 @@
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 |   |   |   |
 
----
-
 ## Song of Solomon  
 > _The Book of Union — The Inner Romance of Spirit and Soul_
 
@@ -324,15 +316,9 @@
 | 06 | 07 | 08 |   |   |
 
 ---
----
----
-
-
 
 <a id="prophets"></a>  
-## <span class="color-prophets">The Books of the Prophets</span>
-
----
+# <span class="color-prophets">The Books of the Prophets</span>
 
 ## Isaiah  
 > _The Book of Vision — The Revelation of Divine Purpose in the Inner and Outer Worlds_
@@ -342,9 +328,7 @@
 | [01](Isaiah_01.md) | [02](Isaiah_02.md) | 03 | 04 | 05 |
 | 26  | 27  | [28](Isaiah_28.md) | [29](Isaiah_29.md)  | 30  |
 | [31](Isaiah_31.md) |   |   |   |   |
-| ... | [53](Isaiah_53.md) | ... | 65 | 66 |
-
----
+| ... | [53](Isaiah_53.md) | ... | 65 | 66 |  
 
 ## **Jeremiah**  
 > _The Book of Weeping and Fire — The Voice of Divine Compassion Calling to a Wayward Heart_
@@ -355,16 +339,12 @@
 | 06 | 07 | 08 | 09 | 10 |
 | ... | 51 | 52 |   |   |
 
----
-
 ## **Lamentations**  
 > _The Book of Sorrow — The Soul’s Grief in Separation From Divine Presence_
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 01 | 02 | 03 | 04 | 05 |
-
----
+| 01 | 02 | 03 | 04 | 05 |  
 
 ## **Ezekiel**  
 > _The Book of Renewal — The Breath of Life Restoring the Dry Bones of Consciousness_
@@ -373,8 +353,6 @@
 |---|---|---|---|---|
 | [12](Ezekiel_12.md) | [13](Ezekiel_13.md) | 14 | 15 | 16 |
 | ... | [37](Ezekiel_37.md) | 38 | 39 | 48 |
-
----
 
 ## **Daniel**  
 > _The Book of Revelation in Captivity — The Triumph of the Spirit Over the Powers of the World_
@@ -385,8 +363,6 @@
 | 05 | [06](Daniel_06.md) | [07](Daniel_07.md) | 08 | 09 |
 | 10 | 11 | 12 |   |   |
 
----
-
 ## **Hosea**  
 > _The Book of Faithful Love — The Covenant Restored Through Compassion_
 
@@ -396,16 +372,12 @@
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 |   |
 
----
-
 ## **Joel**  
 > _The Book of Outpouring — The Promise of the Spirit Upon All Flesh_
 
 |   |   |   |   |   |
 |---|---|---|---|---|
 | 01 | 02 | 03 |   |   |
-
----
 
 ## **Amos**  
 > _The Book of Justice — The Plumb Line of Righteousness in the Midst of the People_
@@ -415,8 +387,6 @@
 | 01 | 02 | 03 | 04 | 05 |
 | 06 | [07](Amos_07.md) | [08](Amos_08.md) | [09](Amos_09.md) |   |
 
----
-
 ## **Obadiah**  
 > _The Book of Pride’s Fall — The Warning to Those Who Exalt Themselves_
 
@@ -424,16 +394,12 @@
 |---|---|---|---|---|
 | 01 |   |   |   |   |
 
----
-
 ## **Jonah**  
 > _The Book of Descent and Return — The Soul’s Flight From and Surrender to Divine Will_
 
 |   |   |   |   |   |
 |---|---|---|---|---|
 | [01](Jonah_01.md) | [02](Jonah_02.md) | [03](Jonah_03.md) | [04](Jonah_04.md) |   |
-
----
 
 ## **Micah**  
 > _The Book of Balance — Justice, Mercy, and Humility Revealed in Harmony_
@@ -443,16 +409,12 @@
 | 01 | 02 | 03 | 04 | 05 |
 | 06 | 07 |   |   |   |
 
----
-
 ## **Nahum**  
 > _The Book of Vengeance — The Overthrow of Cruel Power and the Vindication of Truth_
 
 |   |   |   |   |   |
 |---|---|---|---|---|
 | 01 | 02 | 03 |   |   |
-
----
 
 ## **Habakkuk**  
 > _The Book of Watchfulness — The Soul Waiting Upon Divine Justice_
@@ -461,16 +423,12 @@
 |---|---|---|---|---|
 | 01 | 02 | 03 |   |   |
 
----
-
 ## **Zephaniah**  
 > _The Book of Purification — The Day of the Lord Within the Heart_
 
 |   |   |   |   |   |
 |---|---|---|---|---|
 | 01 | 02 | 03 |   |   |
-
----
 
 ## **Haggai**  
 > _The Book of Encouragement — The Rebuilding of the Inner Temple After Delay_
@@ -479,7 +437,6 @@
 |---|---|---|---|---|
 | [01](Haggai_01.md) | [02](Haggai_02.md) |   |   |   |
 
----
 
 ## **Zechariah**  
 > _The Book of Visions — The Restoration and Crowning of the Inner Life_
@@ -490,8 +447,6 @@
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 |   |
 
----
-
 ## **Malachi**  
 > _The Book of Refinement — The Messenger Preparing the Way of the Lord_
 
@@ -499,22 +454,12 @@
 |---|---|---|---|---|
 | 01 | 02 | 03 | 04 |   |
 
-
-
-
-
----
 ---
 
 ## **Matthew** {#matthew}  
 
----
-
-
 <a id="gospels"></a>  
 ## <span class="color-gospels">The Gospels and Acts</span>
-
----
 
 ## **Matthew** {#matthew}  
 > _The Gospel of Vision and Fulfillment — The Awakening of Divine Consciousness Within Humanity_
@@ -528,8 +473,6 @@
 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 |   |   |
 
----
-
 ## **Mark**  
 > _The Gospel of Motion and Power — The Swift Advance of the Divine Will Through Action_
 
@@ -539,8 +482,6 @@
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 | 15 |
 | 16 |   |   |   |   |
-
----
 
 ## **Luke**  
 > _The Gospel of Compassion and Illumination — The Human Heart Enlightened by Divine Understanding_
@@ -553,8 +494,6 @@
 | 16 | 17 | 18 | 19 | 20 |
 | 21 | 22 | [23](Luke_23.md) | [24](Luke_24.md) |   |
 
----
-
 ## **John**  
 > _The Gospel of Light and Union — The Revelation of the Divine Self Within All Being_
 
@@ -565,8 +504,6 @@
 | 11 | 12 | [13](John_13.md) | 14 | 15 |
 | [16](John_16.md) | 17 | 18 | 19 | 20 |
 | 21 |   |   |   |   |
-
----
 
 ## **Acts of the Apostles**  
 > _The Book of Expansion and Witness — The Outpouring of Divine Power Into the World of Action_
@@ -580,19 +517,12 @@
 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 |   |   |
 
-
-
----
----
-
-
+---  
 
 <a id="letters"></a>  
 ## <span class="color-letters">The Letters</span>
 
 ## The Letters
-
----
 
 >Scripture documents **21 epistles** (letters) written by the early thinkers of the Core Truth movement to various communities and individuals. These texts serve as the definitive manuals for establishing and maintaining Inner Governance.
 
@@ -602,7 +532,6 @@
 
 >Purpose: The letters bridge the outer and inner meanings of Scripture. Just as Moses (Outer) led the people to civilization, the letters (Inner) establish the true Kingdom within the heart. Their BKV message is to transition the consciousness from the Law of External Works (Exodus 20) to the Law of Internal Alignment, providing the necessary doctrine and discipline for the continuous operation of the Inner Church (1 Timothy). The goal is to move beyond pre-Christ thinking and embrace the salvation opened by the Lord.
 
----
 ## <h2 id="romans">Letter to the Romans</h2>
 > _The Epistle of Faith and Reason — The Inner Law of Transformation_
 
@@ -612,8 +541,6 @@
 | 06 | [07](Romans_07.md) | [08](Romans_08.md) | [09](Romans_09.md) | 10 |
 | 11 | 12 | 13 | 14 | 15 |
 | 16 |   |   |   |   |
-
----
 
 ## <h2 id="1corinthians">1 Corinthians</h2>
 > _The Epistle of Correction — The Alignment of the Divided Mind_
@@ -627,9 +554,6 @@
 
 <a href="#toc">&#x1F51D;</a>
 
----
-
-
 ## <h2 id="2corinthians">2 Corinthians</h2>  
 > _The Epistle of Consolation — The Power of Weakness and the Ministry of Spirit_
 
@@ -639,8 +563,6 @@
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 |   |   |
 
----
-
 ## **Galatians**  
 > _The Epistle of Freedom — Life in the Spirit Rather Than in the Law_
 
@@ -648,8 +570,6 @@
 |---|---|---|---|---|
 | 01 | 02 | 03 | 04 | 05 |
 | 06 |   |   |   |   |
-
----
 
 ## **Ephesians**  
 > _The Epistle of Unity — The Revelation of the One Body in Christ_
@@ -659,16 +579,12 @@
 | [01](Ephesians_01.md) | 02 | 03 | 04 | 05 |
 | 06 |   |   |   |   |
 
----
-
 ## **Philippians**  
 > _The Epistle of Joy — The Mind of Christ in the Midst of Adversity_
 
 |   |   |   |   |   |
 |---|---|---|---|---|
 | 01 | 02 | 03 | 04 |   |
-
----
 
 ## **Colossians**  
 > _The Epistle of Supremacy — Christ as the Center and Sustainer of All Things_
@@ -677,8 +593,6 @@
 |---|---|---|---|---|
 | 01 | 02 | 03 | 04 |   |
 
----
-
 ## **1 Thessalonians**  
 > _The Epistle of Hope — The Expectation of Divine Fulfillment_
 
@@ -686,16 +600,12 @@
 |---|---|---|---|---|
 | 01 | 02 | 03 | 04 | 05 |
 
----
-
 ## **2 Thessalonians**  
 > _The Epistle of Steadfastness — Holding the Vision Amid Confusion_
 
 |   |   |   |   |   |
 |---|---|---|---|---|
 | 01 | 02 | 03 |   |   |
-
----
 
 ## **First Timothy**  
 > _The Epistle of Order — Instruction for Spiritual Leadership_
@@ -706,8 +616,6 @@
 | [01](1_Timothy_01.md) | [02](1_Timothy_02.md) | [03](1_Timothy_03.md) | [04](1_Timothy_04.md) | [05](1_Timothy_05.md) |
 | [06](2_Timothy_06.md) |   |   |   |
 
----
-
 ## **Second Timothy**  
 > _The Epistle of Endurance — Faithfulness in the Face of Departure_
 
@@ -716,8 +624,6 @@
 | [00](2_Timothy_00.md) |    |    |    |    |
 | 01 | 02 | 03 | 04 | 05 |
 
----
-
 ## **Titus**  
 > _The Epistle of Sound Doctrine — Maintaining Purity in the Household of Faith_
 
@@ -725,16 +631,12 @@
 |---|---|---|---|---|
 | 01 | 02 | 03 |   |   |
 
----
-
 ## **Philemon**  
 > _The Epistle of Reconciliation — The Transformation of Relationship Through Love_
 
 |   |   |   |   |   |
 |---|---|---|---|---|
 | 01 |   |   |   |   |
-
----
 
 ## **Hebrews**  
 > _The Epistle of Fulfillment — The Passage From Shadow to Substance_
@@ -745,16 +647,12 @@
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 |   |   |
 
----
-
 ## **James**  
 > _The Epistle of Works — The Expression of Faith Through Action_
 
 |   |   |   |   |   |
 |---|---|---|---|---|
 | 01 | 02 | 03 | 04 | 05 |
-
----
 
 ## **1 Peter**  
 > _The Epistle of Refinement — Endurance in the Furnace of Trial_
@@ -764,16 +662,12 @@
 | [00](1_Peter_00.md)  |   |   |   |   |
 | 01 | 02 | [03](1_Peter_03.md) | 04 | 05 |
 
----
-
 ## **2 Peter**  
 > _The Epistle of Remembrance — Growth in Knowledge and Grace_
 
 |   |   |   |   |   |
 |---|---|---|---|---|
 | 01 | 02 | 03 |   |   |
-
----
 
 ## **1 John**  
 > _The Epistle of Love — The Witness of Divine Life Within_
@@ -782,8 +676,6 @@
 |---|---|---|---|---|
 | 01 | 02 | 03 | 04 | 05 |
 
----
-
 ## **2 John**  
 > _The Epistle of Truth — Walking in Love and Discernment_
 
@@ -791,16 +683,12 @@
 |---|---|---|---|---|
 | 01 |   |   |   |   |
 
----
-
 ## **3 John**  
 > _The Epistle of Fellowship — The Contrast Between Selfishness and Service_
 
 |   |   |   |   |   |
 |---|---|---|---|---|
 | 01 |   |   |   |   |
-
----
 
 ## **Jude**  
 > _The Epistle of Contending — Guarding the Inner Faith_
@@ -814,7 +702,6 @@
 <a id="revelation"></a>  
 ## <span class="color-revelation">📜 The Revelation of John</span>
 
----
 ## **Revelation**  
 > _The Apocalypse of Unveiling — The Full Disclosure of the Divine Pattern_
 
@@ -826,19 +713,6 @@
 | 11 | 12 | 13 | 14 | 15 |
 | 16 | 17 | 18 | 19 | 20 |
 | 21 | 22 |   |   |   |
-
-
----
----
-
-
-
-
-
-
-
----
-test area 2
 
 
 
