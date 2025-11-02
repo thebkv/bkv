@@ -461,7 +461,7 @@
 <a id="gospels"></a>  
 ## <span class="color-histories">The Gospels and Acts</span>
 
-## **Matthew** {#matthew}  
+## **📜 Matthew** {#matthew}  
 > _The Gospel of Vision and Fulfillment — The Awakening of Divine Consciousness Within Humanity_
 
 |   |   |   |   |   |
@@ -531,7 +531,7 @@
 >Purpose: The letters bridge the outer and inner meanings of Scripture. Just as Moses (Outer) led the people to civilization, the letters (Inner) establish the true Kingdom within the heart. Their BKV message is to transition the consciousness from the Law of External Works (Exodus 20) to the Law of Internal Alignment, providing the necessary doctrine and discipline for the continuous operation of the Inner Church (1 Timothy). The goal is to move beyond pre-Christ thinking and embrace the salvation opened by the Lord.
 
 <a id="romans"></a>
-## Letter to the Romans
+## 📜 Letter to the Romans
 > _The Epistle of Faith and Reason — The Inner Law of Transformation_
 
 |   |   |   |   |   |
@@ -542,7 +542,7 @@
 | 16 |   |   |   |   |
 
 <a id="b1corinthians"></a>
-## First Letter to the Corinthians
+## 📜 First Letter to the Corinthians
 > _The Epistle of Correction — The Alignment of the Divided Mind_
  
 |   |   |   |   |   |
@@ -553,7 +553,7 @@
 | 16 |    |    |    |    |
 
 <a id="b2corinthians"></a>
-## Second Letter to the Corinthians
+## 📜 Second Letter to the Corinthians
 > _The Epistle of Consolation — The Power of Weakness and the Ministry of Spirit_
 
 |   |   |   |   |   |
@@ -562,7 +562,7 @@
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 |   |   |
 
-## **Galatians**  
+## 📜 **Galatians**  
 > _The Epistle of Freedom — Life in the Spirit Rather Than in the Law_
 
 |   |   |   |   |   |
@@ -699,10 +699,10 @@
 ---
 
 <a id="revelation"></a>  
-## <span class="color-histories">📜 The Revelation of John</span>
+## <span class="color-histories">The Revelation of John</span>
 
 <a id="revelation"></a>
-## **Revelation**  
+## **📜 Revelation**  
 > _The Apocalypse of Unveiling — The Full Disclosure of the Divine Pattern_
 
 |   |   |   |   |   |
