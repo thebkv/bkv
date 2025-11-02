@@ -1,4 +1,6 @@
-# 1 Samuel 2 — The Principle of Reversal
+# 1 Samuel 2 — The Principle of Consecrated Offering
+_The Principle of Reversal_
+
 ### *The Song of Grace: Exaltation Born of Humility*
 
 1 Samuel 1 = Conception of Prayer
