@@ -22,7 +22,7 @@
 
 
 <a id="moses"></a>  
-## <span class="color-moses">📜 The Books of Moses</span>
+## <span class="color-moses">The Books of Moses</span>
 
 ---
 
@@ -633,17 +633,7 @@
 ---
 
 
-## **1 Corinthians**  
-> _The Epistle of Correction — The Alignment of the Divided Mind_  
 
-|---|---|---|---|---|  
-| 00 |   |   |   |   |  
-| [01](1_Corinthians_01.md) | [02](1_Corinthians_02.md) | [03](1_Corinthians_03.md) | 04 | 05 |  
-| 06 | 07 | 08 | 09 | 10 |  
-| 11 | 12 | 13 | 14 | 15 |  
-| 16 |   |   |   |   |  
-
----
 
 ## **2 Corinthians**  
 > _The Epistle of Consolation — The Power of Weakness and the Ministry of Spirit_
