@@ -636,7 +636,7 @@
  
 |   |   |   |   |   |
 |---|---|---|---|---|
-| [01](1_Corinthians_01.md) | 02 | 03 | 04 | 05 |
+| [01](1_Corinthians_01.md) | [02](1_Corinthians_02.md) | [03](1_Corinthians_03.md) | [04](1_Corinthians_04.md) | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 | 15 |
 | 16 |    |    |    |    |
@@ -645,7 +645,7 @@
 ---
 
 
-## **2 Corinthians**  
+## <h2 id="2corinthians">2 Corinthians</h2>  
 > _The Epistle of Consolation — The Power of Weakness and the Ministry of Spirit_
 
 |   |   |   |   |   |
