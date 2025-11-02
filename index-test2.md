@@ -1,6 +1,11 @@
 
 # Quick Navigation — The Sevenfold Structure of Scripture <a id="toc"></a>  
-================
+
+---
+
+===
+
+
 
 
 | Section | Symbolic BKV Theme |
