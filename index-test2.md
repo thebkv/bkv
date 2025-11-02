@@ -19,8 +19,6 @@
 <a id="moses"></a>  
 ## <span class="color-moses">The Books of Moses</span>
 
----
-
 ## Genesis  
 > _The Book of Beginnings — The Emergence of Divine Ideas Into Form_
 
@@ -36,9 +34,10 @@
 | 36 | 37 | 38 | 39 | 40 |
 | 41 | 42 | 43 | 44 | 45 |
 | 46 | 47 | 48 | 49 | 50 |
+|    |    |    |    | &#x1F51D; |
 
 
-<a href="#toc">&#x2B06;</a>
+
 
 ---
 
