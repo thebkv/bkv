@@ -19,7 +19,8 @@
 <a id="moses"></a>  
 ## <span class="color-moses">The Books of Moses</span>
 
-## Genesis  
+
+## <h2 id="genesis">Genesis</h2>
 > _The Book of Beginnings — The Emergence of Divine Ideas Into Form_
 
 |   |   |   |   |   |
@@ -38,10 +39,7 @@
 
 
 
-
----
-
-## Exodus  
+## <h2 id="exodus">Exodus</h2>
 > _The Book of Liberation — The Unfolding of Divine Law in the Journey Out of Bondage_
 
 |   |   |   |   |   |
