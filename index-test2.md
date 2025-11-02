@@ -632,7 +632,7 @@
 
 ---
 
-<h3 id="1corinthians">## 1 Corinthians</h3>
+## <h3 id="1corinthians">1 Corinthians</h3>
 > _The Epistle of Correction — The Alignment of the Divided Mind_
  
 |   |   |   |   |   |
