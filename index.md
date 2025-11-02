@@ -19,7 +19,7 @@ Integrated Symbolics Bible Study
 
 <a id="genesis"></a> 
 ## 📖 Genesis  
-> _The Book of Beginnings — The Emergence of Divine Ideas Into Form_
+> _The Book of Beginnings — The Emergence of ==Divine Ideas== Into Form_
 
 |   |   |   |   |   |  
 |---|---|---|---|---|  
