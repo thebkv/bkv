@@ -486,6 +486,7 @@ Integrated Symbolics Bible Study
 <a id="gospels"></a>  
 ## <span class="color-histories">📜 The Gospels and Acts</span>
 
+<a id="matthew"></a>  
 ## 📖 Matthew  
 > _The Gospel of Vision and Fulfillment — The Awakening of Divine Consciousness Within Humanity_
 
@@ -499,6 +500,7 @@ Integrated Symbolics Bible Study
 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 |   |   |
 
+<a id="mark"></a>  
 ## 📖 Mark  
 > _The Gospel of Motion and Power — The Swift Advance of the Divine Will Through Action_
 
@@ -510,6 +512,7 @@ Integrated Symbolics Bible Study
 | 11 | 12 | 13 | 14 | 15 |
 | 16 |   |   |   |   |
 
+<a id="luke"></a>  
 ## 📖 Luke  
 > _The Gospel of Compassion and Illumination — The Human Heart Enlightened by Divine Understanding_
 
@@ -522,6 +525,7 @@ Integrated Symbolics Bible Study
 | 16 | 17 | 18 | 19 | 20 |
 | 21 | 22 | [23](Luke_23.md) | [24](Luke_24.md) |   |
 
+<a id="john"></a>  
 ## 📖 John  
 > _The Gospel of Light and Union — The Revelation of the Divine Self Within All Being_
 
@@ -534,6 +538,7 @@ Integrated Symbolics Bible Study
 | [16](John_16.md) | 17 | 18 | 19 | 20 |
 | 21 |   |   |   |   |
 
+<a id="acts"></a>  
 ## 📖 Acts of the Apostles  
 > _The Book of Expansion and Witness — The Outpouring of Divine Power Into the World of Action_
 
