@@ -124,6 +124,7 @@
 | 11 | 12 | 13 | 14 | 15 |
 | 16 | 17 | 18 | [19](Judges_19.md) | [20](Judges_20.md) |
 | [21](Judges_21.md) |   |   |   |   |
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
 <a id="ruth"></a> 
 ## Ruth  
@@ -132,6 +133,7 @@
 |   |   |   |   |   |
 |---|---|---|---|---|
 | 01 | 02 | 03 | 04 |   |
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
 <a id="b1samuel"></a>
 ## **1 Samuel**  
@@ -147,6 +149,7 @@
 | [21](1_Samuel_21.md) | [22](1_Samuel_22.md) | [23](1_Samuel_23.md) | [24](1_Samuel_24.md) | 25 |
 | 26 | 27 | 28 | 29 | 30 |
 | 31 |   |   |   |   |  
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
 <a id="b2samuel"></a>
 ## 2 Samuel  
