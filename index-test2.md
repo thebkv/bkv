@@ -31,11 +31,7 @@
 | 36 | 37 | 38 | 39 | 40 |
 | 41 | 42 | 43 | 44 | 45 |
 | 46 | 47 | 48 | 49 | 50 | 
-| 40 |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
-
-<a href="#toc" aria-label="Back to top" title="Back to top">&#10013;</a>
-
-
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
 ## Exodus  <a id="exodus"></a> 
 > _The Book of Liberation — The Unfolding of Divine Law in the Journey Out of Bondage_
@@ -50,7 +46,8 @@
 | 25 | 26 | 27 | 28 | 29 |
 | 30 | 31 | 32 | 33 | 34 |
 | 35 | 36 | 37 | 38 | 39 |
-| 40 |   |   |   | <a href="#toc">&#10013;</a> |
+| 40 |    |    |    |    |
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
 ## Leviticus  <a id="leviticus"></a> 
 > _The Book of Holiness — The Order of Sacred Approach_
@@ -62,11 +59,11 @@
 | 10 | 11 | 12 | 13 | 14 |
 | 15 | 16 | 17 | 18 | 19 |
 | 20 | 21 | 22 | 23 | 24 |
-| 25 | 26 | 27 |   | <a href="#toc">&#10013;</a> |
+| 25 | 26 | 27 |    |    |
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
----
 
-## Numbers  
+## Numbers  <a id="numbers"></a> 
 > _The Book of March and Reckoning — The Soul’s Journey Through the Wilderness_
 
 |   |   |   |   |   |
@@ -82,7 +79,7 @@
 
 ---
 
-## Deuteronomy  
+## Deuteronomy  <a id="deuteronomy"></a> 
 > _The Book of Remembrance — The Law Rewritten Upon the Heart_
 
 |   |   |   |   |   |
@@ -96,15 +93,11 @@
 | 26 | 27 | 28 | 29 | 30 |
 | 31 | 32 | 33 | 34 |    |
 
----
----
-
 
 <a id="histories"></a>  
 ## <span class="color-histories">The Historical Books</span>
 
----
-
+<a id="Joshua"></a>  
 ## Joshua  
 > _The Book of Possession and Courage — The Awakening of Divine Strength to Enter the Promised State_
 
