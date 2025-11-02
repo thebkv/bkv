@@ -13,7 +13,7 @@
 | <a href="#revelation">Revelation</a> | *The Unveiling — The Final Realization of the Kingdom of God within All.* |
 
 <a id="moses"></a>  
-# <span class="color-histories">The Books of Moses</span>  
+# <span class="color-histories">📘 The Books of Moses</span>  
 
 <a id="genesis"></a> 
 ## Genesis  
