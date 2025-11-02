@@ -1,5 +1,5 @@
-
-# Quick Navigation — The Sevenfold Structure of Scripture <a id="toc"></a>  
+<a id="toc"></a>  
+# Quick Navigation — The Sevenfold Structure of Scripture 
 
 
 | Section | Symbolic BKV Theme |
@@ -12,10 +12,11 @@
 | <a href="#letters">Letters</a> • <a href="#romans">Romans</a> • <a href="#1corinthians">1 Corinthians</a> • <a href="#2corinthians">2 Corinthians</a> • <a href="#galatians">Galatians</a> • <a href="#ephesians">Ephesians</a> • <a href="#philippians">Philippians</a> • <a href="#colossians">Colossians</a> • <a href="#1thessalonians">1 Thessalonians</a> • <a href="#2thessalonians">2 Thessalonians</a> • <a href="#1timothy">1 Timothy</a> • <a href="#2timothy">2 Timothy</a> • <a href="#titus">Titus</a> • <a href="#philemon">Philemon</a> • <a href="#hebrews">Hebrews</a> • <a href="#james">James</a> • <a href="#1peter">1 Peter</a> • <a href="#2peter">2 Peter</a> • <a href="#1john">1 John</a> • <a href="#2john">2 John</a> • <a href="#3john">3 John</a> • <a href="#jude">Jude</a> | *The Expansion of the Inner Church — The Application of Christ-Consciousness to Daily Life.* |
 | <a href="#revelation">Revelation</a> | *The Unveiling — The Final Realization of the Kingdom of God within All.* |
 
- 
-## The Books of Moses <a id="moses"></a> 
+<a id="moses"></a>  
+## The Books of Moses  
 
-## Genesis  <a id="genesis"></a> 
+<a id="genesis"></a> 
+## Genesis  
 > _The Book of Beginnings — The Emergence of Divine Ideas Into Form_
 
 |   |   |   |   |   |
@@ -30,7 +31,6 @@
 | 36 | 37 | 38 | 39 | 40 |
 | 41 | 42 | 43 | 44 | 45 |
 | 46 | 47 | 48 | 49 | 50 | 
-|    |    |    |    | <a href="#toc">&#10013;</a> |
 
 <a href="#toc" aria-label="Back to top" title="Back to top">&#10013;</a>
 
