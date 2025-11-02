@@ -31,7 +31,7 @@
 | 36 | 37 | 38 | 39 | 40 |
 | 41 | 42 | 43 | 44 | 45 |
 | 46 | 47 | 48 | 49 | 50 | 
-| 40 |    |    |    |  <a href="#toc" style="font-size:1.8em;opacity:0.6;text-decoration:none;">&#10013;</a> |
+| 40 |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
 <a href="#toc" aria-label="Back to top" title="Back to top">&#10013;</a>
 
