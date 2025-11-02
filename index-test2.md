@@ -32,7 +32,7 @@
 | 41 | 42 | 43 | 44 | 45 |
 | 46 | 47 | 48 | 49 | 50 | 
 <p style="text-align:center;margin-top:0.25em;">
-  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013; Back to Top</a>
+  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a>
 </p>
 
 <a id="exodus"></a>  
