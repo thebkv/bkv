@@ -32,6 +32,10 @@
 | 46 | 47 | 48 | 49 | 50 | 
 |    |    |    |    | <a href="#toc">&#10013;</a> |
 
+<a href="#toc" aria-label="Back to top" title="Back to top">&#10013;</a>
+
+
+
 ## Exodus  <a id="exodus"></a> 
 > _The Book of Liberation — The Unfolding of Divine Law in the Journey Out of Bondage_
 
