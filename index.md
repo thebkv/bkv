@@ -1,5 +1,5 @@
 # The Bible Key Vision (BKV)
-Integrated Symbolics Bible Study
+<mark>Integrated Symbolics</mark> Bible Study
 
 <a id="toc"></a>  
 # Quick Navigation — The Sevenfold Structure of Scripture 
@@ -19,7 +19,7 @@ Integrated Symbolics Bible Study
 
 <a id="genesis"></a> 
 ## 📖 Genesis  
-> _The Book of Beginnings — The Emergence of ==Divine Ideas== Into Form_
+> _The Book of Beginnings — The Emergence of Divine Ideas Into Form_
 
 |   |   |   |   |   |  
 |---|---|---|---|---|  
