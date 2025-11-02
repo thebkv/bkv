@@ -1,12 +1,6 @@
 
 # Quick Navigation — The Sevenfold Structure of Scripture <a id="toc"></a>  
 
----
-
-===
-
-
-
 
 | Section | Symbolic BKV Theme |
 | :--- | :--- |
@@ -17,11 +11,6 @@
 | <a href="#gospels">Gospels &amp; Acts</a> • <a href="#matthew">Matthew</a> • <a href="#mark">Mark</a> • <a href="#luke">Luke</a> • <a href="#john">John</a> • <a href="#acts">Acts</a> | *The Manifestation of Christ-Consciousness — The Word Made Flesh within the Human Spirit.* |
 | <a href="#letters">Letters</a> • <a href="#romans">Romans</a> • <a href="#1corinthians">1 Corinthians</a> • <a href="#2corinthians">2 Corinthians</a> • <a href="#galatians">Galatians</a> • <a href="#ephesians">Ephesians</a> • <a href="#philippians">Philippians</a> • <a href="#colossians">Colossians</a> • <a href="#1thessalonians">1 Thessalonians</a> • <a href="#2thessalonians">2 Thessalonians</a> • <a href="#1timothy">1 Timothy</a> • <a href="#2timothy">2 Timothy</a> • <a href="#titus">Titus</a> • <a href="#philemon">Philemon</a> • <a href="#hebrews">Hebrews</a> • <a href="#james">James</a> • <a href="#1peter">1 Peter</a> • <a href="#2peter">2 Peter</a> • <a href="#1john">1 John</a> • <a href="#2john">2 John</a> • <a href="#3john">3 John</a> • <a href="#jude">Jude</a> | *The Expansion of the Inner Church — The Application of Christ-Consciousness to Daily Life.* |
 | <a href="#revelation">Revelation</a> | *The Unveiling — The Final Realization of the Kingdom of God within All.* |
-
-
-
-----
-----
 
 
 
@@ -647,7 +636,7 @@
 | 11 | 12 | 13 | 14 | 15 |
 | 16 |    |    |    |    |
 
-<a href="#toc">Back to Top</a>
+<a href="#toc">&#x1F51D</a>
 
 ---
 
