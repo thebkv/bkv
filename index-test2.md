@@ -33,7 +33,8 @@
 | 46 | 47 | 48 | 49 | 50 | 
 |    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
-## Exodus  <a id="exodus"></a> 
+<a id="exodus"></a>  
+## Exodus  
 > _The Book of Liberation — The Unfolding of Divine Law in the Journey Out of Bondage_
 
 |   |   |   |   |   |
@@ -49,7 +50,8 @@
 | 40 |    |    |    |    |
 |    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
-## Leviticus  <a id="leviticus"></a> 
+<a id="leviticus"></a>
+## Leviticus   
 > _The Book of Holiness — The Order of Sacred Approach_
 
 |   |   |   |   |   |
@@ -62,7 +64,8 @@
 | 25 | 26 | 27 |    |    |
 |    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
-## Numbers  <a id="numbers"></a> 
+<a id="numbers"></a>  
+## Numbers  
 > _The Book of March and Reckoning — The Soul’s Journey Through the Wilderness_
 
 |   |   |   |   |   |
@@ -77,7 +80,8 @@
 | 35 | 36 |   |   |   |
 |    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
-## Deuteronomy  <a id="deuteronomy"></a> 
+<a id="deuteronomy"></a> 
+## Deuteronomy  
 > _The Book of Remembrance — The Law Rewritten Upon the Heart_
 
 |   |   |   |   |   |
@@ -95,7 +99,7 @@
 <a id="histories"></a>  
 ## <span class="color-histories">The Historical Books</span>
 
-<a id="Joshua"></a>  
+<a id="joshua"></a>  
 ## Joshua  
 > _The Book of Possession and Courage — The Awakening of Divine Strength to Enter the Promised State_
 
@@ -108,6 +112,7 @@
 | 20 | 21 | 22 | 23 | 24 |
 |    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
+<a id="judges"></a> 
 ## Judges  
 > _The Book of Cycles — The Alternation Between Forgetfulness and Renewal_
 
@@ -120,8 +125,7 @@
 | 16 | 17 | 18 | [19](Judges_19.md) | [20](Judges_20.md) |
 | [21](Judges_21.md) |   |   |   |   |
 
----
-
+<a id="ruth"></a> 
 ## Ruth  
 > _The Book of Return — The Discovery of Divine Love Within the Field of Life_
 
@@ -129,8 +133,7 @@
 |---|---|---|---|---|
 | 01 | 02 | 03 | 04 |   |
 
----
-
+<a id="b1samuel"></a>
 ## **1 Samuel**  
 > _The Book of Calling — The Emergence of Spiritual Kingship Within the Soul_
 
@@ -145,8 +148,7 @@
 | 26 | 27 | 28 | 29 | 30 |
 | 31 |   |   |   |   |  
 
----
-
+<a id="b2samuel"></a>
 ## 2 Samuel  
 > _The Book of Establishment — The Consolidation of Divine Rule Within the Heart_
 
@@ -157,9 +159,9 @@
 | 11 | 12 | 13 | 14 | 15 |
 | 16 | 17 | 18 | 19 | 20 |
 | 21 | 22 | 23 | 24 |   |
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
----
-
+<a id="b1kings"></a>
 ## 1 Kings  
 > _The Book of Division — The Rise and Fall of Inner Wisdom and Desire_
 
@@ -170,9 +172,9 @@
 | 11 | 12 | 13 | 14 | 15 |
 | 16 | 17 | 18 | 19 | 20 |
 | 21 | 22 |   |   |   |
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
----
-
+<a id="b2kings"></a>
 ## 2 Kings  
 > _The Book of Decline — The Fragmentation and Captivity of the Inner Life_
 
@@ -183,9 +185,9 @@
 | 11 | 12 | 13 | 14 | 15 |
 | 16 | 17 | 18 | 19 | 20 |
 | 21 | 22 | 23 | 24 | 25 |
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
----
-
+<a id="b1chronicles"></a>
 ## 1 Chronicles  
 > _The Book of Memory — The Ordering of the Inner Kingdom From Adam to David_
 
@@ -197,9 +199,9 @@
 | 16 | 17 | 18 | 19 | 20 |
 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 |   |
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
----
-
+<a id="b2chronicles"></a>
 ## 2 Chronicles  
 > _The Book of Continuity — The Legacy of the Kingdom and the Return to the Temple_
 
@@ -213,9 +215,9 @@
 | 26 | 27 | 28 | 29 | 30 |
 | 31 | 32 | 33 | 34 | 35 |
 | 36 |   |   |   |   |
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
----
-
+<a id="ezra"></a>
 ## Ezra  
 > _The Book of Restoration — The Rebuilding of the Inner Temple_
 
@@ -223,9 +225,9 @@
 |---|---|---|---|---|
 | [01](Ezra_01.md) | [02](Ezra_02.md) | [03](Ezra_03.md) | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
----
-
+<a id="nehemiah"></a>
 ## Nehemiah  
 > _The Book of Completion — The Strengthening of the Walls of Consciousness_
 
@@ -234,9 +236,9 @@
 | 01 | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 |   |   |
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
----
-
+<a id="esther"></a>
 ## Esther  
 > _The Book of Hidden Providence — The Triumph of the Unseen Hand of God Within Human Events_
 
@@ -245,19 +247,12 @@
 | [00](Esther_00.md) |   |   |   |   |
 | [01](Esther_01.md) | [02](Esther_02.md) | [03](Esther_03.md) | [04](Esther_04.md) | [05](Esther_05.md) |
 | [06](Esther_06.md) | [07](Esther_07.md) | [08](Esther_08.md) | [09](Esther_09.md) | [10](Esther_10.md) |
-
-
-
-
-
----
----
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
 <a id="poetry"></a>  
 ## <span class="color-poetry">🎵 The Books of Poetry & Wisdom</span>
 
----
-
+<a id="job"></a>
 ## **Job**  
 > _The Book of Testing — The Search for Divine Justice Within the Soul_
 
@@ -272,18 +267,18 @@
 | 31 | 32 | 33 | 34 | 35 |
 | 36 | 37 | 38 | 39 | 40 |
 | 41 | 42 |   |   |   |
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
----
-
+<a id="psalms"></a>
 ## Psalms  
 > _The Book of Praise — The Songs of Conscious Communion With the Divine_
 
 |   |   |   |   |   |
 |---|---|---|---|---|
 | [091](Psalm_91.md) | [095](Psalm_95.md) | [118](Psalm_118.md) | [119](Psalm_119.md) |   |
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
----
-
+<a id="proverbs"></a>
 ## Proverbs  
 > _The Book of Wisdom — The Alignment of the Mind With Divine Order_
 
@@ -295,11 +290,10 @@
 | 18 | 19 | 20 | 21 | 22 |
 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |   |
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 
-
----
-
-## 📜 Ecclesiastes  
+<a id="ecclesiastes"></a>
+## Ecclesiastes  
 > _The Book of Reflection — The Vanity of Labor and the Wisdom of Rest_
 
 |   |   |   |   |   |
