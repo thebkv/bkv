@@ -394,6 +394,7 @@ Integrated Symbolics Bible Study
 | 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | 01 | 02 | 03 |   |   |
 
+<a id="amos"></a>  
 ## 📖 Amos  
 > _The Book of Justice — The Plumb Line of Righteousness in the Midst of the People_
 
