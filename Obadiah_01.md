@@ -1,5 +1,5 @@
 # Obadiah — The Book of Pride’s Fall
-### *A Warning to the Self-Exalted*
+### *The Warning to Those Who Exalt Themselves*
 
 > _“The pride of thine heart hath deceived thee,  
 > thou that dwellest in the clefts of the rock.”_  
