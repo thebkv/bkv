@@ -399,9 +399,9 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
-| 01 | 02 | 03 | 04 | 05 |
-| 06 | [07](Amos_07.md) | [08](Amos_08.md) | [09](Amos_09.md) |   |
+| [00](Amos_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| [01](Amos_01.md) | [02](Amos_02.md) | [03](Amos_03.md) | [04](Amos_04.md) | [05](Amos_05.md) |
+| [06](Amos_06.md) | [07](Amos_07.md) | [08](Amos_08.md) | [09](Amos_09.md) |   |
 
 ## **Obadiah**  
 > _The Book of Pride’s Fall — The Warning to Those Who Exalt Themselves_
