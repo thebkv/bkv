@@ -404,13 +404,14 @@ Integrated Symbolics Bible Study
 | [01](Amos_01.md) | [02](Amos_02.md) | [03](Amos_03.md) | [04](Amos_04.md) | [05](Amos_05.md) |
 | [06](Amos_06.md) | [07](Amos_07.md) | [08](Amos_08.md) | [09](Amos_09.md) |   |
 
+<a id="obadiah"></a>  
 ## **Obadiah**  
 > _The Book of Pride’s Fall — The Warning to Those Who Exalt Themselves_
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
-| 01 |   |   |   |   |
+|   |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| [01](Obadiah_01.md) |   |   |   |   |
 
 ## 📖 Jonah  
 > _The Book of Descent and Return — The Soul’s Flight From and Surrender to Divine Will_
