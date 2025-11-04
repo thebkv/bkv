@@ -340,6 +340,64 @@ This lexicon defines the recurring symbolic characters, places, and objects, tra
 
 
 
+# 📜 Quick-Access Lexicon — Bible Key Version
+
+| **Symbol / Term** | **BKV Meaning (Inner Sense)** | **Spiritual Function / Law** |
+| :--- | :--- | :--- |
+| **Abraham** | Faith expanded through breath of Spirit | Covenant of Faith |
+| **Adam** | Generic humanity; the undeveloped soul | Beginning of Consciousness |
+| **Ark** | Preservation of Divine Idea | Containment of Truth |
+| **Altar** | Point of communion between self and God | Law of Exchange |
+| **Amalek** | Aggressive doubt, inner opposition | Law of Resistance |
+| **Amos** | Perceptive balance; one who measures | Law of Measure |
+| **Babel / Babylon** | Confusion of separated intellect | Law of Fragmentation |
+| **Bethlehem** | House of Bread; inner nourishment | Birthplace of Word |
+| **Canaan** | Promised state of fulfilled awareness | Possession of Consciousness |
+| **Caleb** | Whole-hearted faith, courage | Law of Persistence |
+| **David** | Love-ruled will; divine kingship | Law of Sovereignty |
+| **Daniel** | Integrity under pressure | Law of Steadfast Faith |
+| **Desert / Wilderness** | Inner testing and purification | Law of Preparation |
+| **Egypt** | Bondage to sense and materialism | Law of Separation |
+| **Elijah** | Fiery prophetic power | Law of Transmutation |
+| **Esther** | Hidden Providence | Law of Redemptive Authority |
+| **Eve** | Feeling nature; receptive mind | Birth of Desire |
+| **Fire** | Purifying energy of Spirit | Law of Transformation |
+| **Flood / Waters** | Uncontrolled thought or emotion | Law of Cleansing |
+| **Gideon** | From fear to courage; threshing self | Law of Discernment |
+| **Goliath** | Giant of fear or pride | Apparent Obstacle |
+| **Hannah** | Grace; soul that conceives prayer | Law of Conception |
+| **Israel** | Overcomer; awakened spiritual identity | Law of Triumph |
+| **Jerusalem** | Peaceful consciousness | Center of the Soul |
+| **Jordan** | Flow of conscious life | Passage to New State |
+| **Joseph** | Imagination joined to faith | Law of Vision |
+| **Jonah** | Resistance to divine commission | Law of Correction |
+| **Judah** | Praise; acknowledgment of God | Law of Recognition |
+| **King** | Ruling principle in consciousness | Governance |
+| **Law** | Structure of divine order | Stability of Truth |
+| **Light** | Illumination, understanding | Revelation |
+| **Mary** | Pure receptivity of the Word | Law of Conception (Divine) |
+| **Moses** | Spiritual will drawing truth from waters | Law of Deliverance |
+| **Mountain** | Elevated state of awareness | Higher Consciousness |
+| **Nile** | Stream of natural life and supply | Flow of Manifestation |
+| **Noah** | Peaceful rest within protection | Law of Preservation |
+| **Paul** | Enlightened humility; redeemed intellect | Law of Grace |
+| **Peter** | Faith as foundation | Law of Stability |
+| **Pharaoh** | Dominating ego or intellect | Law of Control (False) |
+| **Philistines** | Surface thinking; unspiritual logic | Law of Interference |
+| **River** | Current of living truth | Life-Flow |
+| **Rock** | Foundation of divine understanding | Enduring Truth |
+| **Saul** | Natural man before illumination | Law of Limitation |
+| **Samuel** | Heard of God; intuitive Word | Law of Revelation |
+| **Spirit / Wind** | Divine movement through mind | Breath of Life |
+| **Temple** | Ordered mind; dwelling of Spirit | Law of Structure |
+| **Vineyard** | Soul under cultivation | Law of Growth |
+| **Wilderness** | Period of purification | Law of Testing |
+| **Zion** | Spiritual summit; perfect order | Law of Completion |
+
+> _These symbols form the BKV’s interpretive “alphabet.”  
+Every new passage expands upon them rather than replacing them._
+
+
 
 
 
