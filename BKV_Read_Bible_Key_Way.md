@@ -313,3 +313,39 @@ and the Kingdom within becomes the Kingdom of the Lord.
 
 
 
+
+
+
+
+# 📜 Obadiah — The Authorized Text and the Bible Key Version Side by Side
+### *The Fall of the Prideful Self and the Rise of the Redeemed Soul*
+
+| **Authorized Version (KJV)** | **Bible Key Version — Inner Meaning** |
+| :--- | :--- |
+| **1 The vision of Obadiah. Thus saith the Lord GOD concerning Edom; We have heard a rumour from the LORD, and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle.** | The inner voice of **Obadiah (the Servant of the Lord)** receives a message concerning **Edom (the Prideful Self)**. Spirit calls the faculties of thought to rise and confront the inflated ego that rules them. |
+| **2 Behold, I have made thee small among the heathen: thou art greatly despised.** | The proud self, once imagining greatness, is shown by truth to be small — its supposed strength shrinks before divine reality. |
+| **3 The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock…** | The ego hides in its reasoning, dwelling in lofty opinions and false security. It whispers, “Who can bring me down?” but its height is illusion. |
+| **4 Though thou exalt thyself as the eagle… thence will I bring thee down, saith the LORD.** | Every faculty that rises apart from love must descend. Pride built on self-trust is gently brought low so that humility may rise. |
+| **5–6 If thieves came to thee… how are the things of Esau searched out!** | Ordinary loss takes a portion; the fall of pride removes illusion itself. Spirit exposes every hidden motive of the self-centered nature. |
+| **7 All the men of thy confederacy have brought thee even to the border… there is none understanding in him.** | The proud mind is betrayed by its own thoughts. False confidences collapse; schemes of intellect turn against their maker. |
+| **8–9 Shall I not… destroy the wise men out of Edom… Thy mighty men, O Teman, shall be dismayed.** | The counterfeit wisdom of self-reliance perishes. Human strength (Teman) falters so that divine understanding may take its place. |
+| **10 For thy violence against thy brother Jacob shame shall cover thee.** | Every act of comparison or contempt toward the aspiring part of self wounds the whole; shame reveals the violence of pride. |
+| **11–12 In the day that thou stoodest on the other side… thou shouldest not have rejoiced over the children of Judah.** | Indifference and gloating at another’s fall mirror the ego’s delight in superiority. The soul divided against itself cannot stand. |
+| **13–14 Thou shouldest not have entered into the gate of my people… nor stood in the crossway.** | Pride invades the sanctuary of sincerity, plundering good motives and blocking the way of progress. Self-will halts redemption. |
+| **15 For the day of the LORD is near… as thou hast done, it shall be done unto thee.** | The **Law of Reflection**: every thought and deed returns to its source. What we send forth becomes the lesson that returns to awaken us. |
+| **16 For as ye have drunk upon my holy mountain… they shall be as though they had not been.** | Lower desires consume themselves; excess empties its own cup. Only the enduring essence of Spirit remains. |
+| **17 But upon mount Zion shall be deliverance, and there shall be holiness.** | In the **State of Alignment (Zion)** the soul finds deliverance; holiness restores order. The aspiring self regains its inheritance. |
+| **18 And the house of Jacob shall be a fire… and the house of Esau for stubble.** | Spiritual passion becomes flame that refines the lower nature. Self-will is consumed; purified desire shines as light. |
+| **19–20 And they of the south shall possess the mount of Esau… and Jerusalem shall possess the cities of the south.** | Every redeemed faculty reclaims its rightful domain — strength over pride, faith over confusion, peace over restlessness. All parts of consciousness return to harmony. |
+| **21 And saviours shall come up on mount Zion to judge the mount of Esau; and the kingdom shall be the LORD’s.** | The restored faculties (“saviours”) ascend to rule the inner life in righteousness. Pride is judged, humility enthroned, and the kingdom within becomes wholly the Lord’s. |
+
+---
+
+### **Summary Thought**
+Obadiah’s vision is the mirror of the soul:  
+the fall of the prideful self and the triumph of humility.  
+Every height built on self-trust must bow to truth,  
+and every humble heart is lifted into the peace of the Kingdom within.
+
+
+
