@@ -161,7 +161,7 @@ the whole architecture of the inner life, revealed through names, patterns, and 
 It is the Bible as a living mirror: **you meeting yourself in the Word.**
 
 
-# BKV Symoblics
+# BKV Symoblics Reading
 
 # **Obadiah — The Inner Meaning**
 ### *The Fall of the Prideful Self and the Rise of the Redeemed Soul*
