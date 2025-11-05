@@ -345,4 +345,53 @@ and the Kingdom within becomes the Kingdom of the Lord.
 
 
 
+# 📘 Obadiah — Symbolic Lexicon with Scriptural Support
 
+| **Term / Symbol** | **BKV Meaning (Inner Sense)** | **Scriptural Support / Rationale** |
+| :--- | :--- | :--- |
+| **Obadiah** | *Servant or worshipper of the Lord*; the humble, surrendered consciousness. | Name literally means “Servant of Yahweh.” Cf. *Philippians 2:7–8* — “took upon him the form of a servant.” Servanthood is the posture through which revelation comes. |
+| **Lord God** | The Divine Source; the organizing Principle of Spirit (not external deity but inner authority of Truth). | *Genesis 2:4* (“the LORD God made the earth and the heavens”) links creative order with the covenant name YHWH Elohim = Being + Power. |
+| **Edom** | The Prideful Self, the natural or fleshly ego separated from divine awareness. | *Genesis 25:30* — Esau called Edom (“red,” of the earth). *Romans 9:13* contrasts “Jacob have I loved, but Esau have I hated.” |
+| **Ambassador** | The inner message or messenger of conscience sent from the Lord to the mind. | *2 Corinthians 5:20* — “We are ambassadors for Christ.”  Also *Malachi 3:1* — “Behold, I send my messenger.” |
+| **Her** | The self-made personality (Edom personified). | *Proverbs 16:18* — “Pride goeth before destruction.” Edom is treated as a proud “her” (city or nation) in prophetic usage. |
+| **Heathen (nations)** | Unruled impulses and thought-nations within consciousness; areas not yet governed by Spirit. | *Psalm 2:1–8* and *Revelation 11:15* — nations symbolize collective states of mind opposed to divine rule. |
+| **Clefts of the rock** | Intellectual hiding places; arguments of pride where ego seeks safety. | *Isaiah 2:21* — men “go into the clefts of the rocks… for fear of the LORD.”  Rocks = hard thought-forms. |
+| **Exalt thyself as the eagle** | Self-exaltation through intellect or ambition. | *Jeremiah 49:16* (parallel prophecy against Edom); *Obadiah 4*; *Isaiah 14:13–15* (Lucifer’s fall). |
+| **Esau** | The outer, sense-dominated self; appetitive nature. | *Genesis 25–27* — sells birthright for food; represents the sensual, impatient aspect of man. |
+| **Thy confederacy** | The alliances of the mind — false agreements and rationalizations that support ego. | *Isaiah 8:12* — “Say ye not, A confederacy… neither fear ye their fear.”  Human alliances oppose faith. |
+| **They that eat thy bread** | Familiar thoughts and desires that share the mind’s nourishment but betray the soul. | *Psalm 41:9* — “Mine own familiar friend, which did eat of my bread, hath lifted up his heel against me.” |
+| **O Teman** | The realm of natural understanding and human strength. | *Jeremiah 49:7* — “Is wisdom no more in Teman?” associates Teman with human intellect. |
+| **The mount** | Any elevated state of consciousness — positive (Zion) or negative (Seir). | Mountains = states throughout Scripture; *Isaiah 2:2* — “mountain of the LORD’s house.” |
+| **Thy brother Jacob** | The aspiring, receptive self seeking spiritual inheritance. | *Genesis 32:28* — Jacob renamed Israel after wrestling with God = striving soul transformed. |
+| **The other side** | Detachment or neutrality — standing apart when compassion is needed. | *Luke 10:31* — priest “passed by on the other side.”  Same moral principle. |
+| **Strangers** | Foreign thoughts or influences invading consciousness. | *Psalm 18:44–45* — “Strangers shall submit themselves.” |
+| **Foreigners** | External desires or influences that enter the gates of the soul. | *Lamentations 1:10* — “The adversary hath spread out his hand upon all her pleasant things: for she hath seen the heathen entered into her sanctuary.” |
+| **Cast lots** | Surrendering control to chance — the disordered mind dividing its inheritance. | *Joel 3:3* — “They have cast lots for my people.”  Symbol of loss of dominion. |
+| **Jerusalem** | The inner city of peace — the organized mind when governed by Spirit. | Literal meaning: “foundation of peace.” *Psalm 122:3–7*; *Revelation 21:2.* |
+| **Judah** | The faculty of praise and devotion. | *Genesis 29:35* — “Now will I praise the LORD: therefore she called his name Judah.”  Core of worship consciousness. |
+| **The gate of my people** | The threshold of consciousness where thoughts enter the soul. | *Psalm 24:7* — “Lift up your heads, O ye gates.”  Gates = openings of mind/heart. |
+| **The day of their calamity** | The moment of inner crisis when self-rule collapses. | *Proverbs 24:17* — “Rejoice not when thine enemy falleth.”  Same moral warning. |
+| **Thy reward shall return upon thine own head** | The Law of Reflection: every act returns upon its source. | *Matthew 7:2* — “With what measure ye mete, it shall be measured to you again.” |
+| **Drunk upon My holy mountain** | Misusing spiritual energy; intoxication with one’s own holiness. | *Isaiah 28:7* — priests “erred through strong drink.”  Also *Revelation 17:2* (spiritual fornication imagery). |
+| **Heathen (repeated)** | Unenlightened faculties within; not external nations. | *Matthew 6:32* — “After all these things do the Gentiles seek.”  Gentiles = natural man. |
+| **Mount Zion** | The state of spiritual alignment and divine government within. | *Psalm 125:1*; *Hebrews 12:22* — “Ye are come unto mount Zion.” |
+| **Their possessions** | The regained powers or faculties once lost to error. | *Luke 21:19* — “In your patience possess ye your souls.”  Possession = mastery. |
+| **House of Jacob** | Consciousness purified through aspiration; the soul’s enduring fire. | *Exodus 19:3*; *Obadiah 18.*  Jacob’s house becomes “a fire.” |
+| **House of Joseph** | The imagination sanctified; the flame that carries vision and providence. | *Genesis 37–50* — Joseph as dreamer and preserver; *Psalm 80:1* “Thou that leadest Joseph like a flock.” |
+| **They of the south** | Enlightened strength; the warm, active energies of the soul. | South = right-hand / light direction; *Song of Songs 4:16* — “Awake, O north wind; and come, thou south.” |
+| **Mount of Esaus** | The summit of self-exaltation; prideful reasoning. | *Genesis 36:8*; *Ezekiel 35:2–15* (Mount Seir judged). |
+| **Plain the Philistines** | The surface or sense level of consciousness dominated by reaction and habit. | *Genesis 26:14–15*; *Judges 3:3* — Philistines = unspiritual mind. |
+| **Fields of Ephraim** | Fruitful understanding; reasoning redeemed to serve Spirit. | Name = “double fruit.” *Genesis 41:52.* |
+| **Fields of Samaria** | Mixed thought; half-devoted reasoning that must be reclaimed. | *2 Kings 17:24–41* — Samaria as hybrid worship. |
+| **Benjamin** | Faith and steadfast love — “son of the right hand.” | *Genesis 35:18*; *Philippians 3:5–6* (Paul of tribe of Benjamin).  Symbol of loyalty to truth. |
+| **Gilead** | Vision and healing insight (“heap of witness,” balm of Gilead). | *Jeremiah 8:22* — “Is there no balm in Gilead?”  Inner restoration. |
+| **Children of Israel** | The collective redeemed faculties of the soul — “those who prevail with God.” | *Genesis 32:28*; *Exodus 19:6.* |
+| **Canaanites** | Earth-bound thoughts; attachment to material possession. | *Genesis 12:6*; *Deuteronomy 7:1–2.*  Always represents natural mind to be overcome. |
+| **Zarephath** | Refinement through trial (“smelting place”). | *1 Kings 17:9–24* — Elijah and the widow of Zarephath = purification in lack. |
+| **Captivity of Jerusalem** | The temporary loss of spiritual peace; truth held in bondage. | *Psalm 137:1–6* — “By the rivers of Babylon…” symbolic captivity. |
+| **Sepharad** | A far country — consciousness scattered abroad (dispersion). | Historically = Sardis/Persia; symbolically the dispersed mind.  Cf. *James 1:1* (“to the twelve tribes scattered abroad”). |
+| **Cities of the south** | Restored powers operating in warmth and light; the faculties returned to use. | *Joshua 10:40* lists “cities of the south”; south = illumination. |
+| **Saviours** | Redeemed faculties or aspects of consciousness that now rescue other parts. | *Judges 3:9* — “The LORD raised up a saviour.”  Inner pattern of redemption. |
+| **Mount Zion (repeated)** | Final spiritual elevation; perfect union with the Divine. | *Revelation 14:1* — “The Lamb stood on mount Zion.” |
+| **Judge the mount of Edom** | The Spirit’s authority over the ego; discernment of truth over pride. | *1 Corinthians 2:15* — “He that is spiritual judgeth all things.” |
+| **The kingdom shall be the LORD’s** | Final realization of divine order within the soul and creation. | *Matthew 6:13* — “Thine is the kingdom, and the power, and the glory, for ever.” |
