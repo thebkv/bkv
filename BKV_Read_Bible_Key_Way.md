@@ -12,7 +12,7 @@ The Bible can feel endless and complex, filled with genealogies, battles, kingdo
 Yet when read through the **Bible Key Version (BKV)** lens, every page simplifies into one truth:  
 **The Bible is the story of you.**
 
-Instead of being a record of external history, it becomes a **map of consciousness**.  
+At first level, it is a record of external history. Through BKV it becomes a **map of consciousness** and a path to Eternal Salvation.  
 Every name, place, and event represents a **state of mind** or **faculty of the soul** at work within the reader.  
 
 To demonstrate how this works, it helps to start with a book that’s short, direct, and symbolically pure —  
