@@ -8,12 +8,27 @@
 
 ## **1. A Simple Doorway into a Vast Revelation**
 
-The Bible can feel endless and complex, filled with genealogies, battles, kingdoms, and unfamiliar customs.  
-Yet when read through the **Bible Key Version (BKV)** lens, every page simplifies into one truth:  
-**The Bible is the story of you.**
+# 🕊️ How to Read the Bible Key Way  
+### *Using the Book of Obadiah as the Simple Example*
 
-At first level, it is a record of external history. Through BKV it becomes a **map of consciousness** and a path to Eternal Salvation.  
+> _“The pride of thine heart hath deceived thee.”_  
+> — **Obadiah 1:3**
+
+---
+
+## **1. A Simple Doorway into a Vast Revelation**
+
+The Bible can feel endless and complex — filled with genealogies, battles, kingdoms, and unfamiliar customs.  
+Yet when read through the **Bible Key Version (BKV)** lens, every page simplifies into one truth:  
+**The Bible is the story of your path to Eternal Salvation.**
+
+The external history, the prophets, the poetry — all of it is helpful and necessary for getting on the path.  
+There is limitless value in the text exactly as it reads on the page.  
+But once we have admitted our need for God’s help, it becomes something more:  
+a **map of the Kingdom within**, a guide to the soul’s restoration and ultimate Eternal Salvation.  
+
 Every name, place, and event represents a **state of mind** or **faculty of the soul** at work within the reader.  
+The same stories that once seemed ancient begin to speak directly to the present moment of the heart.
 
 To demonstrate how this works, it helps to start with a book that’s short, direct, and symbolically pure —  
 and *Obadiah* is perfect for that.
