@@ -607,7 +607,7 @@ Integrated Symbolics Bible Study
 |   |   |   |   |   |
 |---|---|---|---|---|
 | 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
-| [01](Galatians_01.md) | 02 | 03 | 04 | 05 |
+| [01](Galatians_01.md) | [02](Galatians_02.md) | 03 | 04 | 05 |
 | 06 |   |   |   |   |
 
 ## 📖 Ephesians  
