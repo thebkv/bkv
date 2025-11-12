@@ -1,155 +1,66 @@
-# Galatians 1 — The Gospel That Cannot Be Altered  
-### *Revelation Over Regulation: The Christ Within and Not Without*
+# Galatians 1 — The Gospel That Cannot Be Altered
+### *Revelation Over Regulation — The Christ Within and Not Without*
 
-> _“But when it pleased God, who separated me from my mother’s womb, and called me by his grace,  
-> to reveal his Son **in** me…”_  
-> — **Galatians 1:15–16 (KJV)**  
+| **Authorized (KJV)** | **BKV–NR (Narrative Reading)** |
+|:--|:--|
+| **1.** Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;) | **Enlightened Will (Paul)** speaks—not from hierarchy or institution, but from direct **Revelation through the Living Christ**, raised from the realm of dead forms into awakened life. |
+| **2.** And all the brethren which are with me, unto the churches of Galatia: | With every allied faculty of the soul, he addresses **Galatia — the emotional realm**: once aflame with faith, now flickering under doubt. |
+| **3.** Grace be to you and peace from God the Father, and from our Lord Jesus Christ, | Every divine motion begins in **Grace** and resolves in **Peace**—the twin harmonies of the renewed mind. |
+| **4.** Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father: | The **Christ within** continually offers Himself to redeem thought from the inverted patterns of the outer world—lifting the soul into alignment with Divine Intention. |
+| **5.** To whom be glory for ever and ever. Amen. | Glory belongs not to effort but to **The Source itself**, from whom every true order descends. |
+| **6.** I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel: | The **heart of Galatia**, once radiant in liberty, now drifts toward **Another Gospel**—the mind’s attempt to improve upon grace through form and rule. |
+| **7.** Which is not another; but there be some that trouble you, and would pervert the gospel of Christ. | Yet truth has no rival. Those “some” are inner distortions—self-exalting thoughts that twist revelation into regulation and trouble simplicity. |
+| **8.** But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed. | Even if **lofty reasoning (angel from heaven)** proclaims a modified gospel, it falls under its own separation—for every distortion of grace isolates itself from harmony. |
+| **9.** As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed. | The decree repeats: let no thought divide the undivided truth. Grace cannot be improved—only received. |
+| **10.** For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ. | The **Ego of Approval** is the final idol to fall. The true servant of Christ acts from **Alignment**, not applause. |
+| **11.** But I certify you, brethren, that the gospel which was preached of me is not after man. | The inner message springs not from intellect but from divine disclosure. It arrives whole, not reasoned. |
+| **12.** For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ. | Revelation is the **flash of knowing**—the Christ within teaching the soul directly from its own center. |
+| **13.** For ye have heard of my conversation in time past in the Jews’ religion, how that beyond measure I persecuted the church of God, and wasted it: | The former zeal of **Saul** represents the mind enslaved to order and prestige. In its blindness, devotion becomes destruction. |
+| **14.** And profited in the Jews’ religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers. | Zeal without illumination multiplies bondage. Tradition without revelation exalts memory over life. |
+| **15.** But when it pleased God, who separated me from my mother’s womb, and called me by his grace, | Then came divine pleasure—the **birth from material awareness (“mother’s womb”)** into spiritual identity—summoned purely by **Grace**. |
+| **16.** To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood: | The unveiling of **the Son within** is redemption itself. Having seen, the soul seeks no external validation; it turns inward to listen. |
+| **17.** Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus. | **Arabia** is the silent wilderness where revelation ripens in solitude; **Damascus (“well-watered”)** the return of vision into fruitful action. |
+| **18.** Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days. | After a full cycle of inner completion, consciousness ascends to **Jerusalem — the City of Peace**, joining **Faith (Peter)** for a season of balance and grounding. |
+| **19.** But other of the apostles saw I none, save James the Lord’s brother. | He communes also with **Wisdom (James)**—the faculty of practical understanding that steadies revelation. |
+| **20.** Now the things which I write unto you, behold, before God, I lie not. | The enlightened will bears witness before Spirit itself: truth spoken from direct knowing needs no defense. |
+| **21.** Afterwards I came into the regions of Syria and Cilicia; | The journey continues through **Syria (“highland”)** and **Cilicia (“shaken”)**—higher awareness still learning stability. |
+| **22.** And was unknown by face unto the churches of Judaea which were in Christ: | The new consciousness is not yet outwardly recognized by the older structures of faith—it moves unseen. |
+| **23.** But they had heard only, That he which persecuted us in times past now preacheth the faith which once he destroyed. | The mind that once opposed truth now proclaims it—the power of reversal when pride yields to light. |
+| **24.** And they glorified God in me. | The final evidence of redemption: others behold not the man but the **Indwelling Glory** shining through him. |
 
 ---
 
-## **BKV–NR (Narrative Reading)**  
+## **Lexicon of Symbolics — Galatians 1**
 
-**1–2**  
-Paul—*the Enlightened Will*, no longer Saul the zealot of the Law—writes to the assemblies of **Galatia**—the *passionate, emotional realm* that once caught fire with truth but now wavers in devotion.  
-He speaks not from institution but from **Revelation**: “not of men, neither by man, but by Jesus Christ.”  
-His apostleship represents *Divine Appointment*, the moment when the human will surrenders to the higher guidance of Spirit.
-
-**3–4**  
-“Grace be to you and peace.”  
-Every divine work begins in **Grace**—the effortless favor of God—and bears the fruit of **Peace**.  
-Christ, who “gave himself for our sins,” signifies the eternal self-offering of Spirit to redeem the mind from bondage to the “present evil world”—the realm of inverted thinking and false identity.
-
-**5**  
-“To whom be glory forever.”  
-The soul acknowledges that no human merit achieves salvation. Glory belongs wholly to **The Source**, the Father-Mind from which all true order descends.
-
-**6**  
-“I marvel that ye are so soon removed from Him who called you into the grace of Christ unto another gospel.”  
-Here, the *unstable affections of Galatia* symbolize the believer’s heart distracted by forms and teachings.  
-Having once tasted liberty, the soul drifts back toward ritual and rule—the **Another Gospel** of self-effort and pride.
-
-**7**  
-“There is not another.”  
-Truth has no rival. The impostor gospel is the mind’s attempt to domesticate revelation, to turn faith into system.  
-The *perverters of the gospel* represent inner thoughts that trouble spiritual simplicity—voices whispering, “You must add something of your own.”
-
-**8–9**  
-“Though we, or an angel from heaven, preach any other gospel… let him be accursed.”  
-The higher self proclaims judgment against any distortion of divine order—even if it appears radiant.  
-“Angel from heaven” stands for lofty reasoning or emotional fervor masquerading as light.  
-**Accursed** denotes separation from harmony: every thought opposing grace isolates itself from the living current of God.
-
-**10**  
-“Do I now persuade men, or God?”  
-The *Ego of Approval* is the last idol to fall.  
-To seek to please men is to revert to duality.  
-The true servant of Christ acts not for applause but for **Alignment**—the agreement of human will with Divine Intention.
-
-**11–12**  
-“The gospel… is not after man.”  
-The message Paul carries is **not intellectual**—it is the direct transmission of revelation.  
-It is the flash of divine knowing that bypasses instruction and awakens remembrance: the *Christ within* teaching the soul from its own center.
-
-**13–14**  
-“You have heard of my conversation in time past in the Jews’ religion.”  
-The **Jewish system of ritual** here symbolizes the mind’s dependence on structure and status.  
-Paul’s persecution of the Church represents how zeal, when unillumined, destroys what it seeks to defend.  
-Yet even fanaticism becomes fertilizer for faith when the light finally breaks through.
-
-**15–16**  
-“But when it pleased God… to reveal His Son in me.”  
-This is the **turning point of consciousness**—the inner Damascus.  
-“To separate from the mother’s womb” signifies birth from material awareness into spiritual identity.  
-To reveal the Son *in me* is the discovery that God’s life is not apart from man but **expressing through man**.  
-This is the essence of redemption: realization, not reward.
-
-**17**  
-“I conferred not with flesh and blood.”  
-After awakening, the soul does not consult the intellect for confirmation.  
-**Arabia** represents the inner solitude—the desert of silence—where revelation matures in stillness.  
-The return to **Damascus** (meaning “well-watered”) shows that illumination leads back to fruitfulness; withdrawal and return form one cycle.
-
-**18–19**  
-“After three years I went up to Jerusalem to see Peter, and abode with him fifteen days. But other apostles saw I none, save James, the Lord’s brother.”  
-**Jerusalem** here is *the inner city of peace*—the unified mind.  
-**Peter** represents *Faith*, and **James** *Practical Understanding*.  
-Fellowship with them depicts the harmonizing of revelation with steadfast faith and balanced reason after a season of solitude.
-
-**20**  
-“Now the things which I write unto you, behold, before God, I lie not.”  
-This is the seal of authenticity: the awakened consciousness knows truth directly and speaks without deceit.  
-It is the vow of integrity between soul and Spirit.
-
-**21–23**  
-“Afterwards I came into the regions of Syria and Cilicia… and they had heard only that he which persecuted us in time past now preacheth the faith which once he destroyed.”  
-**Syria** (meaning “highland”) and **Cilicia** (“rolling” or “shaken”) portray the elevated but still-shifting states of early ministry.  
-The transformation of Saul into Paul mirrors the transmutation of *Opposition into Advocacy*, *Ignorance into Illumination*.
-
-**24**  
-“And they glorified God in me.”  
-This is the divine goal of all regeneration—that others perceive not the man but the **Indwelling Glory**.  
-When the ego dissolves, God shines through the soul as through clear glass.  
-This is the restoration of true order: revelation manifesting as radiant simplicity.
+| **Symbol / Name** | **Meaning (BKV Symbolism)** |
+|:--|:--|
+| **Paul / Saul** | The enlightened will; transformed intellect obedient to revelation (formerly the zealous ego under law). |
+| **Galatia / Galatians** | The passionate emotional realm that must be steadied by Spirit. |
+| **Gospel** | The inner revelation of the Christ within; direct knowledge, not doctrine. |
+| **Another Gospel** | The distortion of truth through legalism, pride, or fear. |
+| **Grace** | Unmerited divine favor; spontaneous order of God’s nature. |
+| **Present evil world** | The inverted pattern of false identity and external dependence. |
+| **Angel from heaven** | Lofty reasoning or emotion masquerading as light. |
+| **Arabia** | The inner wilderness where revelation matures in silence. |
+| **Damascus** | “Well-watered”; return of inner vision to fruitful expression. |
+| **Jerusalem** | The inner city of peace; unified consciousness. |
+| **Peter (Cephas)** | Faith in action; steadfast trust. |
+| **James** | Wisdom; practical understanding; spiritual discernment. |
+| **Syria** | Elevated awareness; aspiration. |
+| **Cilicia** | Shaken or rolling state; movement toward stability. |
+| **To reveal His Son in me** | The awakening of divine identity within human consciousness. |
+| **Glorified God in me** | The transparent state where the divine life shines through personality. |
+| **Law vs Revelation** | External conformity versus inner transformation. |
 
 ---
 
 ### **Summary Principle**
 
-The letter to the Galatians warns against spiritual regression.  
-Every soul must decide whether to live by **Law or Revelation**, **appearance or presence**, **effort or grace**.  
-When the Son is revealed *in you*, every structure of fear and pride collapses.  
+The soul must not trade **revelation for religion**.  
+Grace, once awakened, must remain free.  
+When the **Son is revealed in you**, every structure of fear and pride collapses.  
 The Gospel cannot be improved—it can only be realized.  
-**Grace does not evolve. It reveals.**
+Grace does not evolve; it reveals.
 
 
-⸻
 
-Galatians 1 — The Gospel That Cannot Be Altered
-
-Revelation Over Regulation: The Christ Within and Not Without
-
-“But when it pleased God, who separated me from my mother’s womb, and called me by his grace,
-to reveal his Son in me…”
-— Galatians 1 : 15–16 (KJV)
-
-
-⸻
-
-BKV – DR (Deep Reading)
-
-**Galatia** represents the emotional nature—passionate, eager, yet easily swayed.  When the soul first awakens to the Christ within, it rejoices in freedom; but soon the mind begins to build forms around the flame.  Doctrine hardens where revelation once flowed.
-
-Paul, as the enlightened will, calls this state back to inner purity.  He speaks as one who has been separated “from the womb”—meaning the rebirth of consciousness from the lower self.  To be called by grace is to be summoned without merit; to have the Son revealed in you is to recognize that the Living Word already abides within the heart’s sanctuary.
-
-The other gospel symbolizes every attempt of the intellect to organize spirit, to manage grace through regulation or hierarchy.  But grace, by its nature, cannot be managed—it is the spontaneous order of God expressing through a yielded soul.
-
-When Paul refuses to “confer with flesh and blood,” it signifies the silence after revelation: the inner Sabbath where divine understanding ripens apart from external counsel.  Arabia represents that interior desert where revelation matures in solitude.
-
-To “glorify God in me” is the culmination of spiritual alignment—when the personal self becomes transparent, and the divine life shines through without distortion.
-
-⸻
-
-Lexicon of Symbols
-
-Term	Meaning (BKV Symbolism)	Scriptural Echo
-Paul	Enlightened Will; the transformed intellect obedient to revelation	Acts 9 ; Romans 7 : 22
-Galatia / Galatians	The passionate emotional realm; the Celtic impulse within the soul that must be steadied by Spirit	Gal 3 : 1–3
-Gospel	The living revelation of Christ within; not doctrine but inner awakening	2 Cor 3 : 3
-Another Gospel	The distortion of divine truth through legalism, pride, or fear	Gal 1 : 7
-Grace	Unmerited divine favor; the spontaneous outflow of God’s nature	Eph 2 : 8
-Arabia	The inner wilderness where revelation matures in silence	Gal 1 : 17 ; Ex 3 : 1
-To reveal His Son in me	The unveiling of divine identity within human consciousness	Col 1 : 27
-Glorified God in me	The radiant state where the self becomes the vessel of divine expression	John 17 : 10
-
-
-⸻
-
-Summary Principle
-
-The soul must not trade revelation for religion.
-Grace, once awakened, must remain free.
-Christ revealed in you is the true Gospel; all else is ornament upon emptiness.
-
-The Gospel cannot be improved—it can only be revealed.
-
-⸻
