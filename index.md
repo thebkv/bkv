@@ -501,7 +501,7 @@ Integrated Symbolics Bible Study
 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 |   |   |
 
-Special Studies
+Special Studies  
 [05 43-48](Matthew_05_43_48.md)
 
 <a id="mark"></a>  
