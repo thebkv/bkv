@@ -645,7 +645,7 @@ Special Studies
 |   |   |   |   |   |
 |---|---|---|---|---|
 | 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
-| 01 | 02 | 03 | 04 | 05 |
+| [01](1_Thessalonians_01.md) | 02 | 03 | 04 | 05 |
 
 ## 📖 2 Thessalonians  
 > _The Epistle of Steadfastness — Holding the Vision Amid Confusion_
