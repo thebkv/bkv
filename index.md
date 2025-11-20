@@ -522,7 +522,7 @@ Special Studies
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| [00](Luke_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
 | [01](Luke_01.md) | [02](Luke_02.md) | [03](Luke_03_rev1.md) | [04](Luke_04.md) | [05](Luke_05.md) |
 | [06](Luke_06.md) | [07](Luke_07.md) | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 | 15 |
