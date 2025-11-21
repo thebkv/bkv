@@ -366,7 +366,8 @@ Integrated Symbolics Bible Study
 | 00 |   |   |   |   |  
 | [01](Ezekiel_01.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | [12](Ezekiel_12.md) | [13](Ezekiel_13.md) | 14 | 15 | 16 |
-| ... | [37](Ezekiel_37.md) | 38 | 39 | 48 |
+| ... | [37](Ezekiel_37.md) | 38 | 39 | 48 |  
+
 [Profile: Ezekiel](Profile_Ezekiel.md)
 
 ## 📖 Daniel  
