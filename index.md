@@ -358,8 +358,19 @@ Integrated Symbolics Bible Study
 | 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
 | 01 | 02 | 03 | 04 | 05 |  
 
-#Ezekiel
 
+<a id="ezekiel"></a>
+## 📖 Ezekiel  
+> _The Book of Renewal — The Breath of Life Restoring the Dry Bones of Consciousness_
+
+|   |   |   |   |   |  
+|---|---|---|---|---|  
+| 00 |   |   |   |   |  
+| [01](Ezekiel_01.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| 11 | [12](Ezekiel_12.md) | [13](Ezekiel_13.md) | 14 | 15 |  
+| 36 | [37](Ezekiel_37.md) | 38 | 39 | 40 |  
+
+[Profile: Ezekiel](Profile_Ezekiel.md)
 
 ## 📖 Daniel  
 > _The Book of Revelation in Captivity — The Triumph of the Spirit Over the Powers of the World_
