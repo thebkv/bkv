@@ -23,7 +23,7 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |  
 |---|---|---|---|---|  
-| [00](Genesis_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| [00](Genesis_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | [01](Genesis_01.md) | 02 | 03 | 04 | 05 |  
 | 06 | 07 | 08 | 09 | 10 |  
 | 11 | 12 | 13 | 14 | 15 |  
@@ -41,7 +41,7 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| [00](Exodus_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| [00](Exodus_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | [00](Exodus_00.md) | [01](Exodus_01.md) | [02](Exodus_02.md) | [03](Exodus_03.md) | [04](Exodus_04.md) |
 | [05](Exodus_05.md) | [06](Exodus_06.md) | 07 | 08 | 09 |
 | 10 | 11 | 12 | 13 | [14](Exodus_14.md) |
@@ -58,7 +58,7 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| 00 |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 | [00](Leviticus_00.md) | 01 | 02 | 03 | 04 |
 | 05 | 06 | [07](Leviticus_07.md) | 08 | 09 |
 | 10 | 11 | 12 | 13 | 14 |
@@ -72,7 +72,7 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| [00](Numbers_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| [00](Numbers_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | 01 | 02 | 03 | [04](Numbers_04.md) | 05 |
 | 06 | 07 | 08 | 09 | 10 |  
 | 11 | 12 | 13 | 14 | 15 |
@@ -88,7 +88,7 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| [00](Deuteronomy_00.md) |    |    |    | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| [00](Deuteronomy_00.md) |    |    |    | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 | [01](Deuteronomy_01.md) | 02 | 03 | 04 | 05 |
 | [06](Deuteronomy_06.md) | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 | 15 |
@@ -345,7 +345,7 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 | 01 | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | ... | 51 | 52 |   |   |
@@ -366,7 +366,7 @@ Integrated Symbolics Bible Study
 |   |   |   |   |   |  
 |---|---|---|---|---|  
 | 00 |   |   |   |   |  
-| [01](Ezekiel_01.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| [01](Ezekiel_01.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 | 11 | [12](Ezekiel_12.md) | [13](Ezekiel_13.md) | 14 | 15 |  
 | 36 | [37](Ezekiel_37.md) | 38 | 39 | 40 |  
 
@@ -386,7 +386,7 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 | 01 | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 |   |
@@ -396,7 +396,7 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 | 01 | 02 | 03 |   |   |
 
 <a id="amos"></a>  
@@ -405,7 +405,7 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| [00](Amos_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| [00](Amos_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 | [01](Amos_01.md) | [02](Amos_02.md) | [03](Amos_03.md) | [04](Amos_04.md) | [05](Amos_05.md) |
 | [06](Amos_06.md) | [07](Amos_07.md) | [08](Amos_08.md) | [09](Amos_09.md) |   |
 
@@ -415,7 +415,7 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-|   |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+|   |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 | [01](Obadiah_01.md) |   |   |   |   |
 
 ## 📖 Jonah  
@@ -423,7 +423,7 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 | [01](Jonah_01.md) | [02](Jonah_02.md) | [03](Jonah_03.md) | [04](Jonah_04.md) |   |
 
 ## 📖 Micah  
@@ -431,7 +431,7 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 | 01 | 02 | 03 | 04 | 05 |
 | 06 | 07 |   |   |   |
 
@@ -440,7 +440,7 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 | 01 | 02 | 03 |   |   |
 
 ## 📖 Habakkuk  
@@ -448,7 +448,7 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 | 01 | 02 | 03 |   |   |
 
 ## 📖 Zephaniah  
@@ -456,7 +456,7 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 | 01 | 02 | 03 |   |   |
 
 ## **Haggai**  
@@ -464,7 +464,7 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | [01](Haggai_01.md) | [02](Haggai_02.md) |   |   |   |
 
 
@@ -473,7 +473,7 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | 01 | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 |   |
@@ -483,7 +483,7 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | 01 | 02 | 03 | 04 |   |
 
 ---
@@ -497,7 +497,7 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | [01](Matthew_01.md) | [02](Matthew_02.md) | [03](Matthew_03.md) | [04](Matthew_04.md) | [05](Matthew_05.md) |
 | [06](Matthew_06.md) | [07](Matthew_07.md) | [08](Matthew_08.md) | [09](Matthew_09.md) | [10](Matthew_10.md) |
 | 11 | 12 | [13](Matthew_13.md) | 14 | 15 |
@@ -514,7 +514,7 @@ Special Studies
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | [01](Mark_01.md) | [02](Mark_02.md) | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 | 15 |
@@ -526,7 +526,7 @@ Special Studies
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| [00](Luke_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| [00](Luke_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | [01](Luke_01.md) | [02](Luke_02.md) | [03](Luke_03_rev1.md) | [04](Luke_04.md) | [05](Luke_05.md) |
 | [06](Luke_06.md) | [07](Luke_07.md) | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 | 15 |
@@ -539,7 +539,7 @@ Special Studies
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | [01](John_01.md) | [02](John_02.md) | [03](John_03.md) | [04](John_04.md) | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | [13](John_13.md) | 14 | 15 |
@@ -552,7 +552,7 @@ Special Studies
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | 01 | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | [11](Acts_11.md) | [12](Acts_12.md) | 13 | 14 | 15 |
@@ -579,7 +579,7 @@ Special Studies
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | 01 | 02 | 03 | 04 | 05 |
 | 06 | [07](Romans_07.md) | [08](Romans_08.md) | [09](Romans_09.md) | 10 |
 | 11 | 12 | 13 | 14 | 15 |
@@ -591,7 +591,7 @@ Special Studies
  
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | [01](1_Corinthians_01.md) | [02](1_Corinthians_02.md) | [03](1_Corinthians_03.md) | [04](1_Corinthians_04.md) | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 | 15 |
@@ -603,7 +603,7 @@ Special Studies
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | 01 | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 |   |   |
@@ -614,7 +614,7 @@ Special Studies
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | [01](Galatians_01.md) | [02](Galatians_02.md) | [03](Galatians_03.md) | 04 | 05 |
 | 06 |   |   |   |   |
 
@@ -623,7 +623,7 @@ Special Studies
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | [01](Ephesians_01.md) | 02 | 03 | 04 | 05 |
 | 06 |   |   |   |   |
 
@@ -632,7 +632,7 @@ Special Studies
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | 01 | 02 | 03 | 04 |   |
 
 ## 📖 Colossians  
@@ -640,7 +640,7 @@ Special Studies
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | 01 | 02 | 03 | 04 |   |
 
 ## 📖 1 Thessalonians  
@@ -648,7 +648,7 @@ Special Studies
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | [01](1_Thessalonians_01.md) | 02 | 03 | 04 | 05 |
 
 ## 📖 2 Thessalonians  
@@ -656,7 +656,7 @@ Special Studies
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | 01 | 02 | 03 |   |   |
 
 ## 📖 First Timothy  
@@ -664,7 +664,7 @@ Special Studies
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | [00](1_Timothy_00.md) |     |   |   |   |
 | [01](1_Timothy_01.md) | [02](1_Timothy_02.md) | [03](1_Timothy_03.md) | [04](1_Timothy_04.md) | [05](1_Timothy_05.md) |
 | [06](2_Timothy_06.md) |   |   |   |
@@ -674,7 +674,7 @@ Special Studies
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | [00](2_Timothy_00.md) |    |    |    |    |
 | 01 | 02 | 03 | 04 | 05 |
 
@@ -683,7 +683,7 @@ Special Studies
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | 01 | 02 | 03 |   |   |
 
 ## 📖 Philemon  
@@ -691,7 +691,7 @@ Special Studies
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | 01 |   |   |   |   |
 
 ## 📖 Hebrews  
@@ -699,7 +699,7 @@ Special Studies
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | [01](Hebrews_01.md) | [02](Hebrews_02.md) | [03](Hebrews_03.md) | [04](Hebrews_04.md) | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 |   |   |
@@ -709,7 +709,7 @@ Special Studies
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | 01 | 02 | 03 | 04 | 05 |
 
 ## 📖 1 Peter  
@@ -717,7 +717,7 @@ Special Studies
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | [00](1_Peter_00.md)  |   |   |   |   |
 | 01 | 02 | [03](1_Peter_03.md) | 04 | 05 |
 
@@ -726,7 +726,7 @@ Special Studies
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | 01 | 02 | 03 |   |   |
 
 <a id="b1john"></a>  
@@ -735,7 +735,7 @@ Special Studies
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | 01 | 02 | 03 | 04 | 05 |
 
 <a id="b2john"></a>  
@@ -744,7 +744,7 @@ Special Studies
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | 01 |   |   |   |   |
 
 <a id="b3john"></a>  
@@ -753,7 +753,7 @@ Special Studies
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | 01 |   |   |   |   |
 
 <a id="jude"></a> 
@@ -762,7 +762,7 @@ Special Studies
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | [01](Jude_01.md) |   |   |   |   |
 
 ---
@@ -776,7 +776,7 @@ Special Studies
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | [01](Revelation_01.md) | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 | 15 |
