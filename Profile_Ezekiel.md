@@ -1,4 +1,10 @@
-📜 The Zadokite of Tel-abib: A Post-Exilic Account of the Prophet Yehezkel  
+🎙️ **INTRODUCTION**
+
+Imagine with me for a moment that we’re opening a small scroll from the early days after the exile — written by a man who actually lived through that time. These are his words about the prophet Yehezkel.
+
+---
+
+📜 **The Zadokite of Tel-abib: A Post-Exilic Account of the Prophet Yehezkel**
 
 As one living in these restored days—some sixty years after the last visions of Yehezkel ben-Buzi—I set down what our elders still recall of the strange, fierce man who walked among the exiles. Even now, people argue about him. Some whisper he was touched by madness. Others swear the breath of the LORD rested on him more heavily than on any man since Moses. Either way, no one forgets him.
 
@@ -8,7 +14,7 @@ As one living in these restored days—some sixty years after the last visions o
 
 Yehezkel lived and spoke in the land of the Chaldeans, near a settlement we call Tel-abib, beside the waters of the Chebar. He was taken with King Jehoiachin **in the eighth year of Nebuchadnezzar, king of Babylon, and six years before the fall of Jerusalem**. That moment shaped everything that followed.
 
-### **Life in Exile**
+### Life in Exile
 
 **A Colony Without Bars:**  
 The Judeans were not chained, yet they were far from free. Babylon planted them in fields and villages, expecting them to work the land. They built homes, hauled water, dug canals, and learned to live as strangers in a world that was not theirs.
@@ -36,7 +42,7 @@ He was married, and those who knew him say he loved his wife with a quiet devoti
 **The Scholar of the Exile:**  
 He listened to the stories of the Chaldeans—their tales of heroes, storms, and heavenly beings—and he wrestled with them. He learned their phrases. He watched their festivals. He understood their imagination, yet he never bowed to their gods.
 
-**The Performer—Strange, Bold, Impossible to Ignore:**  
+**The Performer — Strange, Bold, Impossible to Ignore:**  
 Now this must be said plainly:  
 **Yehezkel was odd. Gloriously odd. Shakespeare would have written whole plays about him.**
 
@@ -55,7 +61,7 @@ Some called him mad.
 Some called him the Watchman.  
 Some avoided him, afraid he could see right through them.
 
-Yet no one, not even the Babylonians, shrugged him off.
+Yet no one—not even the Babylonians—shrugged him off.
 
 ---
 
@@ -63,7 +69,7 @@ Yet no one, not even the Babylonians, shrugged him off.
 
 His ministry lasted more than twenty years, and everyone agrees it fell into two very different chapters.
 
-### **Phase I — The Watchman of Doom**  
+### Phase I — The Watchman of Doom  
 **(from the eighth year of Nebuchadnezzar until the fall of Jerusalem)**
 
 Before Jerusalem fell, Yehezkel spoke only of judgment.  
@@ -71,7 +77,7 @@ The people hoped the city would be saved; he told them it would burn.
 They waited for a miracle; he said none would come.  
 He described the glory of the LORD lifting off the Temple and leaving it behind. That frightened even the elders, who had always believed God never moved.
 
-### **Phase II — The Voice of Restoration**  
+### Phase II — The Voice of Restoration  
 **(after the fall of the city until the end of his ministry)**
 
 Once the refugees arrived with the terrible news, Yehezkel changed completely.  
@@ -112,5 +118,4 @@ And for all his strangeness—for all the stories of clay models, sword-haircuts
 
 
 ---
-
 
