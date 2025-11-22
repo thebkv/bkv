@@ -107,7 +107,7 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| [00](Joshua_00.md) |   |   |   |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| [00](Joshua_00.md) |   |   |   |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 | [01](Joshua_01.md) | [02](Joshua_02.md) | [03](Joshua_03.md) | 04 |   |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 | 15 |
@@ -120,13 +120,13 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| [00](Judges_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |  
+| [00](Judges_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | [01](Judges_01.md) | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | [09](Judges_09.md) | 10 |
 | 11 | 12 | 13 | 14 | 15 |
 | 16 | 17 | 18 | [19](Judges_19.md) | [20](Judges_20.md) |
 | [21](Judges_21.md) |   |   |   |   |
-|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 
 <a id="ruth"></a> 
 ## 📖 Ruth  
@@ -134,7 +134,7 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 01 | 02 | 03 | 04 | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| 01 | 02 | 03 | 04 | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 |    |    |    |    |    |
 
 <a id="b1samuel"></a>
@@ -143,7 +143,7 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |  
 |---|---|---|---|---|  
-| [00](1_Samuel_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| [00](1_Samuel_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 | [01](1_Samuel_01.md) | [02](1_Samuel_02.md) | [03](1_Samuel_03.md) | [04](1_Samuel_04.md) | [05](1_Samuel_05.md) |
 | [06](1_Samuel_06.md) | [07](1_Samuel_07.md) | [08](1_Samuel_08.md) | [09](1_Samuel_09.md) | [10](1_Samuel_10.md) |
 | [11](1_Samuel_11.md) | [12](1_Samuel_12.md) | [13](1_Samuel_13.md) | [14](1_Samuel_14.md) | [15](1_Samuel_15.md) |
@@ -158,7 +158,7 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-|    |    |    |    | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+|    |    |    |    | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 | 01 | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 | 15 |
@@ -171,13 +171,13 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 | 01 | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 | 15 |
 | 16 | 17 | 18 | 19 | 20 |
 | 21 | 22 |   |   |   |
-|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 
 <a id="b2kings"></a>
 ## 📖 2 Kings  
@@ -185,13 +185,13 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 | 01 | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 | 15 |
 | 16 | 17 | 18 | 19 | 20 |
 | 21 | 22 | 23 | 24 | 25 |
-|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 
 <a id="b1chronicles"></a>
 ## 📖 1 Chronicles  
@@ -199,14 +199,14 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 | 01 | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 | 15 |
 | 16 | 17 | 18 | 19 | 20 |
 | 21 | 22 | 23 | 24 | 25 |
 | 26 | 27 | 28 | 29 |   |
-|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 
 <a id="b2chronicles"></a>
 ## 📖 2 Chronicles  
@@ -222,7 +222,7 @@ Integrated Symbolics Bible Study
 | 26 | 27 | 28 | 29 | 30 |
 | 31 | 32 | 33 | 34 | 35 |
 | 36 |   |   |   |   |
-|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 
 <a id="ezra"></a>
 ## 📖 Ezra  
@@ -230,10 +230,10 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 | [01](Ezra_01.md) | [02](Ezra_02.md) | [03](Ezra_03.md) | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
-|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 
 <a id="nehemiah"></a>
 ## 📖 Nehemiah  
@@ -241,11 +241,11 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 | 01 | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 |   |   |
-|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 
 <a id="esther"></a>
 ## 📖 Esther  
@@ -253,7 +253,7 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| [00](Esther_00.md)  |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| [00](Esther_00.md)  |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 | [01](Esther_01.md) | [02](Esther_02.md) | [03](Esther_03.md) | [04](Esther_04.md) | [05](Esther_05.md) |
 | [06](Esther_06.md) | [07](Esther_07.md) | [08](Esther_08.md) | [09](Esther_09.md) | [10](Esther_10.md) |
 |    |    |    |    |    |
@@ -267,7 +267,7 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 | [01](Job_01.md) | 02 | 03 | 04 | 05 |
 | 06 | 07 | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 | 15 |
@@ -277,7 +277,7 @@ Integrated Symbolics Bible Study
 | 31 | 32 | 33 | 34 | 35 |
 | 36 | 37 | 38 | 39 | 40 |
 | 41 | 42 |   |   |   |
-|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 
 <a id="psalms"></a>
 ## 📖 Psalms  
@@ -285,9 +285,9 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 | [091](Psalm_91.md) | [095](Psalm_95.md) | [118](Psalm_118.md) | [119](Psalm_119.md) |   |
-|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 
 <a id="proverbs"></a>
 ## 📖 Proverbs  
@@ -295,14 +295,14 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 | [03](Proverbs_03.md) | 04 | 05 | 06 | 07 |
 | 08 | 09 | 10 | 11 | 12 |
 | 13 | [14](Proverbs_14.md) | 15 | 16 | 17 |
 | 18 | 19 | 20 | 21 | 22 |
 | 23 | 24 | 25 | 26 | 27 |
 | 28 | 29 | 30 | 31 |   |
-|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">&#10013;</a> |
+|    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 
 <a id="ecclesiastes"></a>
 ## 📖 Ecclesiastes  
