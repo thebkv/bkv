@@ -73,27 +73,56 @@ The One who walked in Daniel’s **Furnace** is the One revealed in the **Book o
 
 ---
 
-## **Symbolics Table**
+## **Revelation 1 — Symbolics Table (With Scriptural Cross-References)**
 
-| Symbol / Term | BKV Meaning | Inner Principle Represented |
-|---------------|-------------|-----------------------------|
-| **Divine Self** | True Consciousness | Eternal identity of the soul |
-| **Absolute Source** | God | Original creative principle |
-| **Spiritual Intuition** | John | Faculty that receives revelation |
-| **Active Principle** | Angel | Energetic messenger activity |
-| **Receptive Faculties** | Hearing faculties | Inner sensitivity |
-| **Seven States of Consciousness** | Churches | Full inner terrain |
-| **Inner World** | The Soul | Psychic environment |
-| **Principles of Light** | Lampstands | Channels of illumination |
-| **Guiding Principles** | Stars | Governing truths |
-| **Flame of Fire** | Eyes of Fire | Intuitive penetrating insight |
-| **Burnished Bronze** | Feet of Bronze | Purified, stable action |
-| **Furnace** | Refinement | Transformational testing |
-| **Book of Consciousness** | Book | Record of awakened perception |
-| **Keys of Mastery** | Keys | Authority over fragmentation |
-| **Fragmentation / Inner Demise** | Hell & Death | Dissolution states |
-| **Reliable Witness** | Faithful Witness | The awakened center |
-| **Ever-Present Truth** | Him who is | Divine immediacy |
+| Symbol / Term | BKV Meaning | Inner Principle Represented | Scriptural Cross-Reference |
+|---------------|-------------|-----------------------------|----------------------------|
+| **Divine Self** | True Consciousness / Christ Principle | Eternal identity awakened within | John 14:20 — “At that day ye shall know…” |
+| **Absolute Source** | God, First Cause | Ultimate origin of all being | Genesis 1:1 — “In the beginning God created…” |
+| **Spiritual Intuition** | John | Faculty that receives revelation | Revelation 1:10 — “I was in the Spirit…” |
+| **Active Principle** | Angel / Messenger function | Energetic transmission of revelation | Hebrews 1:14 — “Are they not all ministering spirits…” |
+| **Receptive Faculties of the Soul** | Hearing faculties | Inner sensitivity / openness | Matthew 11:15 — “He that hath ears to hear…” |
+| **Inner Processes** | Things which must shortly come to pass | Unfolding transformations | Philippians 1:6 — “He which hath begun a good work…” |
+| **Consciousness** | Reader / perceiver | Awareness that receives truth | Proverbs 20:12 — “The hearing ear, and the seeing eye…” |
+| **Seven States of Consciousness** | Seven Churches | Full terrain of the soul | Revelation 1:20 — “The seven churches…” |
+| **Inner World** | Inner Life / Soul-Realm | Psychological and spiritual interior | Luke 17:21 — “The kingdom of God is within you.” |
+| **Ever-Present Truth** | Him which is, was, is to come | Divine immediacy | Hebrews 13:8 — “Jesus Christ the same yesterday…” |
+| **Seven Operative Forces** | Seven Spirits before the throne | Complete divine energies | Isaiah 11:2 — “And the Spirit of the LORD shall rest…” |
+| **Throne of Inner Authority** | God’s throne | Seat of divine rule within | Psalm 103:19 — “The LORD hath prepared his throne…” |
+| **Reliable Witness** | Faithful Witness | The awakened center that cannot lie | Revelation 1:5 — “The faithful witness…” |
+| **Sense of Separation** | Sin / spiritual blindness | False belief in separation from God | Isaiah 59:2 — “Your iniquities have separated…” |
+| **Manifested Domain (Inner Earth)** | Earth | Visible expressions of inner states | Genesis 2:7 — “Formed man of the dust…” |
+| **Kings** | Ruling principles | Governing faculties of the soul | Revelation 1:6 — “Made us kings and priests…” |
+| **Priests** | Channels of divine communication | Inner mediation of the holy | 1 Peter 2:9 — “A royal priesthood…” |
+| **Subtle Perceptions of the Inner Mind** | Clouds / seeing spiritual truth | Inner spiritual perception | Matthew 5:8 — “Blessed are the pure in heart…” |
+| **Divine Principle** | The One speaking | Eternal divine identity | Revelation 1:8 — “I am Alpha and Omega…” |
+| **Alpha and Omega** | Beginning and Ending | Timeless governing Principle | Isaiah 44:6 — “I am the first, and I am the last…” |
+| **Inner Struggle** | Tribulation | Resistance encountered in awakening | Acts 14:22 — “Through much tribulation…” |
+| **Dominion** | Kingship | Inner authority restored | Romans 5:17 — “Reign in life by one…” |
+| **Endurance** | Patience | Stabilized steadfastness | Hebrews 10:36 — “Ye have need of patience…” |
+| **Spiritual Exile** | Patmos | Necessary solitude for revelation | Exodus 3:1 — “Moses… drove the flock to the backside…” |
+| **Day of Inner Illumination** | Lord’s Day | Moment of breakthrough | 2 Corinthians 6:2 — “Now is the day of salvation…” |
+| **Trumpet’s Call** | Attention-arousing voice | Awakening summons | Exodus 19:19 — “The voice of the trumpet…” |
+| **Book of Consciousness** | The Book / Scroll | Inner record of revelation | Revelation 1:11 — “Write in a book…” |
+| **Seven Golden Lampstands** | Churches | Channels of light within | Matthew 5:14 — “Ye are the light of the world…” |
+| **Principles of Light** | Lampstands | Illuminated inner faculties | Psalm 119:105 — “Thy word is a lamp…” |
+| **True Consciousness** | Son of Man | Fully awakened humanity | Daniel 7:13 — “One like the Son of man…” |
+| **Garment of Profound Purpose** | Long robe | Dignity and calling | Isaiah 61:10 — “Garments of salvation…” |
+| **Golden Belt of Truth** | Girdle | Integrity binding the heart | Ephesians 6:14 — “Having your loins girt with truth…” |
+| **Pure Ancient Wisdom** | White hair | Eternal wisdom | Daniel 7:9 — “Hair like pure wool…” |
+| **Flame of Fire** | Eyes of fire | Intuitive insight that penetrates | Revelation 2:18 — “Eyes like unto a flame of fire…” |
+| **Burnished Bronze** | Feet of brass | Tested, purified action | Ezekiel 1:7 — “Like the colour of burnished brass…” |
+| **Furnace** | Refining | Transformative pressure | Malachi 3:2 — “He is like a refiner’s fire…” |
+| **Waters of the Subconscious Mind** | Many waters | Depths of inner life | Psalm 42:7 — “Deep calleth unto deep…” |
+| **Seven Guiding Principles** | Stars | Governing truths of the soul | Revelation 1:20 — “The seven stars are…” |
+| **Sharp, Two-Edged Sword of Truth** | Sword | Word that divides illusion | Hebrews 4:12 — “The word of God is quick and powerful…” |
+| **Radiant Force of the Sun in Its Strength** | Shining countenance | Overwhelming divine clarity | Matthew 17:2 — “His face did shine as the sun…” |
+| **Egoic Will** | John falling as dead | Self collapsing in divine presence | Galatians 2:20 — “I am crucified with Christ…” |
+| **Right Hand of Ultimate Authority** | Hand upon him | Empowering grace | Isaiah 41:10 — “I will uphold thee with the right hand…” |
+| **Living Principle** | He that liveth | Life-force of God within | John 11:25 — “I am the resurrection and the life…” |
+| **Keys of Mastery** | Keys | Authority to unlock inner states | Matthew 16:19 — “I will give unto thee the keys…” |
+| **Fragmentation** | Hell | Inner disintegration | James 1:8 — “A double minded man is unstable…” |
+| **Inner Demise** | Death | Total loss of spiritual vitality | Romans 8:6 — “To be carnally minded is death…” |
 
 ---
 
