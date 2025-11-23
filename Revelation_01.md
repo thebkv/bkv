@@ -1,15 +1,15 @@
-# Revelation 1 — BKV (Refined Draft, Bold Symbolics)
+# Revelation 1 — BKV (Bold Symbolics Edition)
 ## *The Unveiling of the **Divine Self***
 
 ---
 
-## **BKV Translation (Bold Symbolics Edition)**
+## **BKV Translation**
 
-The inner unveiling of the **Divine Self**—given by the **Absolute Source** to reveal, to the receptive faculties of the soul, the inner processes that must quickly unfold—and signified by its **Active Principle** to its receptive faculty, **Spiritual Intuition**.
+The inner unveiling of the **Divine Self**—given by the **Absolute Source** to reveal, to the **Receptive Faculties of the Soul**, the **Inner Processes** that must quickly unfold—and signified by its **Active Principle** to its receptive faculty, **Spiritual Intuition**.
 
-This faculty bears witness to the **Word of the Absolute**, to the testimony of the **Divine Self**, and to all the inner truths it perceives.
+This **Faculty** bears witness to the **Word of the Absolute**, to the testimony of the **Divine Self**, and to all the inner truths it perceives.
 
-Blessed is the consciousness that reads, and the faculties that hear the words of this inner guide, and align with the principles written herein: for the time of inner fulfillment is near.
+Blessed is the **Consciousness** that reads, and the **Faculties** that hear the words of this inner guide, and align with the principles written herein: for the time of inner fulfillment is near.
 
 **Spiritual Intuition**, to the **Seven States of Consciousness** within your **Inner World**: grace and inner peace be to you from the **Ever-Present Truth**—the One who is, who was, and who is unfolding into every moment—and from the **Seven Operative Forces** which emanate from the **Throne of Inner Authority**;
 
@@ -51,51 +51,57 @@ and the **Seven Lampstands** are the **Seven States of Consciousness** themselve
 
 ---
 
-## **Commentary (All Symbolics Bolded)**
+## **Commentary (Bold Symbolics)**
 
 ### **1 · The Unveiling and the Witness (vv. 1–3, 5)**  
-Revelation begins with the **Divine Self** revealing itself to **Spiritual Intuition**.  
-The **Divine Self** is the **Reliable Witness**, the first awakened faculty, calling the rest of consciousness upward.
+Revelation begins with the **Divine Self** revealing itself to **Spiritual Intuition** through the **Receptive Faculties**.  
+The **Divine Self** is the **Reliable Witness**, the first awakened center of consciousness, lifting the soul out of the **Sense of Separation**.
 
 ### **2 · The Seat of Authority (vv. 4, 9–11)**  
-The **Seven States of Consciousness** form the whole **Inner World**.  
-**Spiritual Exile** is the quieting of the soul where revelation becomes possible.  
-**Alpha and Omega** announces one indivisible **Timeless Principle** governing every movement of your inner life.
+The **Seven States of Consciousness** constitute the entire **Inner World**.  
+**Spiritual Exile** is the inner stillness that makes revelation audible.  
+The **Alpha and Omega** declares the **Timeless Principle** behind all beginnings and endings.
 
 ### **3 · The Vision of the True Consciousness (vv. 12–16)**  
-This is Daniel’s **Fourth Man** now revealed inside the disciple.  
-**Pure Ancient Wisdom**, **Flame of Fire**, **Burnished Bronze**, **Two-Edged Sword of Truth**, **Guiding Principles**, **Principles of Light**—every detail describes the fully awakened **True Consciousness**.
+This is the inner appearance of the **True Consciousness**—Daniel’s furnace figure revealed within the disciple.  
+**Pure Ancient Wisdom**, **Flame of Fire**, **Burnished Bronze**, **Waters of the Subconscious Mind**, **Two-Edged Sword of Truth**, **Guiding Principles**, **Principles of Light**—each detail describes the fully realized, spiritually mature center of the soul.
 
 ### **4 · Mastery over Fragmentation (vv. 17–20)**  
-The **Egoic Will** collapses.  
-The **Living Principle** claims the **Keys of Mastery** over **Fragmentation** and **Inner Demise**.  
-The One revealed in the **Furnace** of Daniel is the same One unveiled in the **Book of Consciousness**.
+The **Egoic Will** collapses before the **Living Principle**.  
+The **Keys of Mastery** reveal dominion over **Fragmentation** and **Inner Demise**.  
+The One who walked in Daniel’s **Furnace** is the One revealed in the **Book of Consciousness**.
 
 ---
 
-## **Revelation 1 — Symbolics Table (Bold)**
+## **Symbolics Table**
 
 | Symbol / Term | BKV Meaning | Inner Principle Represented |
 |---------------|-------------|-----------------------------|
-| **Divine Self** | True Consciousness / Christ Principle | Eternal identity of the soul |
-| **Spiritual Intuition** | Receptive Faculty | Receiver of symbolic revelation |
-| **Seven States of Consciousness** | Seven Churches | Full inner field of operation |
-| **Inner World** | Soul’s Interior | Total terrain of consciousness |
-| **Spiritual Exile** | Patmos | Withdrawal that enables revelation |
-| **Alpha and Omega** | Timeless Principle | The Source as origin and ending |
-| **Pure Ancient Wisdom** | White Hair | Timeless spiritual insight |
-| **Flame of Fire** | Eyes of Fire | Intuitive penetration |
-| **Burnished Bronze** | Feet of Bronze | Actions purified in the Furnace |
-| **Two-Edged Sword of Truth** | Sword from His Mouth | Discernment that divides illusion |
-| **Keys of Mastery** | Keys of Hell & Death | Victory over fragmentation |
+| **Divine Self** | True Consciousness | Eternal identity of the soul |
+| **Absolute Source** | God | Original creative principle |
+| **Spiritual Intuition** | John | Faculty that receives revelation |
+| **Active Principle** | Angel | Energetic messenger activity |
+| **Receptive Faculties** | Hearing faculties | Inner sensitivity |
+| **Seven States of Consciousness** | Churches | Full inner terrain |
+| **Inner World** | The Soul | Psychic environment |
+| **Principles of Light** | Lampstands | Channels of illumination |
+| **Guiding Principles** | Stars | Governing truths |
+| **Flame of Fire** | Eyes of Fire | Intuitive penetrating insight |
+| **Burnished Bronze** | Feet of Bronze | Purified, stable action |
+| **Furnace** | Refinement | Transformational testing |
+| **Book of Consciousness** | Book | Record of awakened perception |
+| **Keys of Mastery** | Keys | Authority over fragmentation |
+| **Fragmentation / Inner Demise** | Hell & Death | Dissolution states |
+| **Reliable Witness** | Faithful Witness | The awakened center |
+| **Ever-Present Truth** | Him who is | Divine immediacy |
 
 ---
 
 ## **Core BKV Principle**
 
-Revelation is the unveiling of the **Divine Self** to **Spiritual Intuition**.  
-The **True Consciousness**, marked by **Perfect Wisdom**, **Purified Action**, and **Unshakeable Authority**, governs all **Seven States of Consciousness** and overcomes every form of **Fragmentation**.  
-Entrance into this state requires the collapse of the **Egoic Will** and full surrender to the **Two-Edged Sword of Truth**.
+Revelation 1 unveils the **Divine Self** to **Spiritual Intuition**, showing the soul that the fully awakened **True Consciousness** already holds mastery over the **Seven States of Consciousness** and over all **Fragmentation**.  
+The **Egoic Will** collapses, the **Keys of Mastery** are revealed, and the **Two-Edged Sword of Truth** begins its inner work.
+
 
 
 ---
@@ -104,5 +110,3 @@ chapter: Revelation 1
 title: The Unveiling of the Divine Self
 version: BKV-Refined-BoldSymbolics-2025-11-22
 ---
-
-
