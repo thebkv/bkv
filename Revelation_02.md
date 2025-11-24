@@ -12,7 +12,7 @@ version: BKV-BoldSymbolics-2025-11-23
 
 ### **1 · To the State of Consciousness called Ephesus**
 
-Unto the **Guiding Principle** of the **State of Returning to First Love** write:
+Unto the **Guiding Principle** of the **State of Returning to First Love** write: (<span title="Ref: Revelation 2:4">**First Love**</span>)
 
 “These things says the One who holds the **Seven Guiding Principles** in His **Right Hand of Authority**, who walks in the midst of the **Seven Principles of Light**:
 
