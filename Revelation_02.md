@@ -5,8 +5,8 @@ title: Messages to the Seven States of Consciousness
 version: BKV-BoldSymbolics-2025-11-23
 ---
 
-# Revelation 2 — BKV (Bold Symbolics Edition)
-## *Messages to the Seven **States of Consciousness***
+# Revelation 2  
+## *Messages to the Seven **States of Consciousness***  
 
 # BKV Translation
 
