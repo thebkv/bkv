@@ -768,7 +768,7 @@ Special Studies
 ---
 
 <a id="revelation"></a>  
-## <span class="color-histories">📜 The Revelation of John</span>
+## <span class="color-histories">📜 The Revelation of St. John</span>
 
 <a id="revelation"></a>
 ## 📖 Revelation  
@@ -783,7 +783,8 @@ Special Studies
 | 16 | 17 | 18 | 19 | 20 |
 | 21 | 22 |   |   |   |
 
-
+With References
+[02](Revelation_02_refs.md)
 
 ---
 
