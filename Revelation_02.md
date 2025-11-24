@@ -5,7 +5,10 @@ title: Messages to the Seven States of Consciousness
 version: BKV-BoldSymbolics-2025-11-23
 ---
 
-# Revelation 02
+# Revelation 2 — BKV (Bold Symbolics Edition)
+## *Messages to the Seven **States of Consciousness***
+
+# BKV Translation
 
 ### **1 · To the State of Consciousness called Ephesus**
 
