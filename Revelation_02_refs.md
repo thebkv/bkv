@@ -1,5 +1,5 @@
 # Revelation 2: Messages to the Seven States of Consciousness
-## *Comparative Translation: KJV $\leftrightarrow$ BKV*
+## *Comparative Translation: KJV -- BKV*
 
 | King James Version (KJV) | Bible Key Version (BKV) with Tooltips |
 | :--- | :--- |
