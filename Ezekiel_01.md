@@ -78,4 +78,4 @@ When Ezekiel beholds this, he **falls upon his face**—the soul’s surrender b
 | **Rainbow** | Covenant | Grace embracing Divine Justice and Order | *Genesis 9:13; Revelation 4:3* |
 
 
-
+![The Chayot](assets/images/Ezekiel-01-chayot.png)
