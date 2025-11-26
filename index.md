@@ -35,6 +35,8 @@ Integrated Symbolics Bible Study
 | 41 | 42 | 43 | 44 | 45 |  
 | 46 | 47 | 48 | [49](Genesis_49.md) | 50 |  
 
+[32 more](BKV_Israel.md)
+
 <a id="exodus"></a>  
 ## 📖 Exodus  
 > _The Book of Liberation — The Unfolding of Divine Law in the Journey Out of Bondage_
