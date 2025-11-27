@@ -323,8 +323,8 @@ Integrated Symbolics Bible Study
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| [00](Song_of_Solomon_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
-| [01](Song_of_Solomon_01.md) | 02 | 03 | 04 | 05 |
+| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
+| 01 | 02 | 03 | 04 | 05 |
 | 06 | [07](Solomon_07.md) | 08 |   |   |
 
 ---
