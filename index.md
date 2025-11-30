@@ -621,6 +621,7 @@ Special Studies
 | [01](Galatians_01.md) | [02](Galatians_02.md) | [03](Galatians_03.md) | 04 | 05 |
 | 06 |   |   |   |   |
 
+<a id="ephesians"></a>
 ## 📖 Ephesians  
 > _The Epistle of Unity — The Revelation of the One Body in Christ_
 
@@ -630,12 +631,13 @@ Special Studies
 | [01](Ephesians_01.md) | 02 | 03 | 04 | 05 |
 | 06 |   |   |   |   |
 
+<a id="philippians"></a>
 ## **Philippians**  
 > _The Epistle of Joy — The Mind of Christ in the Midst of Adversity_
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
+| [00](Philippians_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | 01 | 02 | 03 | 04 |   |
 
 ## 📖 Colossians  
