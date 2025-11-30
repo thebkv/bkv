@@ -626,7 +626,7 @@ Special Studies
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
+| [00](Ephesians_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | [01](Ephesians_01.md) | 02 | 03 | 04 | 05 |
 | 06 |   |   |   |   |
 
