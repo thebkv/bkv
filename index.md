@@ -568,6 +568,8 @@ Special Studies
 <a id="letters"></a>  
 ## <span class="color-histories">📜 The Letters</span>
 
+[Letters Overview](Letters_00.md)  
+
 >Scripture documents **21 epistles** (letters) written by the early thinkers of the Core Truth movement to various communities and individuals. These texts serve as the definitive manuals for establishing and maintaining Inner Governance.
 >
 >The letters range in subject from defining the Principle of Divine Resolution (e.g., Romans, Galatians) to demanding the purity and ethical integrity of the aligned consciousness (e.g., James, 1 Peter). They function as practical manuals for living under the Law of the Spirit of Life.
