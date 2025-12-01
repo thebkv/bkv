@@ -160,7 +160,7 @@ The letter to the Philippians makes extensive use of symbolics.
 | **σωφροσύνη (sōphrosynē)** | soundness of mind | Self-governance; sober-minded spiritual clarity | 2 Tim. 1:7 — Spirit of sound mind; Titus 2 — call to sobriety. |
 | **εἰρήνη (eirēnē)** | peace | Inner harmony rooted in God’s presence | John 14:27 — Christ’s eirēnē; Phil. 4:7 — peace beyond understanding. |
 
-###Additional Elaboration
+### Additional Elaboration
 
 splanchna
 The Greek word σπλάγχνα (pronounced splanchna, singular: splanchnon) has both a literal, anatomical meaning and a rich, figurative meaning in English, primarily related to deep emotions like compassion. This is an excellent example of how the original Greek language has more than one known dimension.
