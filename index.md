@@ -582,7 +582,7 @@ Special Studies
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
+| [00](Romans_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
 | 01 | 02 | 03 | 04 | 05 |
 | 06 | [07](Romans_07.md) | [08](Romans_08.md) | [09](Romans_09.md) | 10 |
 | 11 | 12 | 13 | 14 | 15 |
