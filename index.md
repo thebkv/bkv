@@ -602,6 +602,16 @@ Special Studies
 | 11 | 12 | 13 | 14 | 15 |
 | 16 |    |    |    |    |
 
+|   |   |   |   |   |
+|---|---|---|---|---|
+| [00](1_Corinthians_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
+| [01](1_Corinthians_01.md) | [02](1_Corinthians_02.md) | [03](1_Corinthians_03.md) | [04](1_Corinthians_04.md) | [05](1_Corinthians_05.md) |
+| [06](1_Corinthians_06.md) | [07](1_Corinthians_07.md) | [08](1_Corinthians_08.md) | [09](1_Corinthians_09.md) | [10](1_Corinthians_10.md) |
+| [11](1_Corinthians_11.md) | [12](1_Corinthians_12.md) | [13](1_Corinthians_13.md) | [14](1_Corinthians_14.md) | [15](1_Corinthians_15.md) |
+| [16](1_Corinthians_16.md) |    |    |    |    |
+
+
+
 <a id="b2corinthians"></a>
 ## 📖 Second Letter to the Corinthians
 > _The Epistle of Consolation — The Power of Weakness and the Ministry of Spirit_
