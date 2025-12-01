@@ -1,87 +1,169 @@
-# 1 Corinthians 2 — BKV Study (The Principle of Divine Revelation)
-### *Where Human Wisdom Ends, the Spirit Begins*
+GUID: 7c2b2c4a-4e9d-4fd5-9c7c-4a0ea1c36ad9  
+# 1 Corinthians 2 — BKV Study    
+### *The Hidden Wisdom and the Spirit Who Reveals*
 
 ---
 
-> _“And my speech and my preaching was not with enticing words of man's wisdom, but in demonstration of the Spirit and of power.”_ — 1 Corinthians 2:4 KJV
-> _“But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned.”_ — 1 Corinthians 2:14 KJV
+## **BKV–NR (Narrative Reading)**
 
-*In this chapter, the Apostle lifts the veil from intellect itself, revealing that wisdom is not a ladder to the Divine, but a mirror through which only the Spirit may shine. The **Core Truth** cannot be comprehended by the **Intellectual Faculty**; it is unveiled by the **Creative Impulse**—the **Spirit of Life**—which alone communicates the **Eternal Source’s** hidden purpose.*
+1. When I came to you, **I did not come with theatrical brilliance** or the pomp of showy rhetoric. I came **bearing witness**, not performing.  
+2. For I resolved to know **nothing among you** except **Jesus Christ**, and Him **crucified** — meaning:  
+   *the pattern of self-emptying,*  
+   *the surrender of the false self,*  
+   *the unveiling of the true one.*
 
----
+3. I was with you in **weakness**, and in **fear**, and in much **trembling** —  
+   not because the message lacked power,  
+   but because *I myself* was being stripped of all reliance on the flesh.
 
-## **BKV-NR Context — The Rejection of Self-Generated Wisdom**
-
-**1 Corinthians 2** continues the **Principle of Singular Foundation** (Ch. 1), now defining the method by which Divine instruction descends. The Apostle declares that the message was not delivered through persuasive rhetoric or **Human Wisdom**—the method favored by the **Intellectual Faculty (Greeks)**—but through the **demonstration of Power** proceeding from the **Creative Impulse**.
-
-Thus the chapter divides all knowing into two orders: that which is **natural** (discerned by the unassisted mind) and that which is **spiritual** (discerned only through Divine Revelation). The first is forever blind to the second.
-
----
-
-## **BKV-NR (Natural Reading)**  
-
-### **The Rejection of Human Wisdom**
-
-1. And I, **Structure (Paul)**, when I came to you, came not with superiority of **Eloquence** or of **Human Wisdom**, declaring unto you the **Core Truth** of the **Eternal Source**.
-4. And my message and my teaching were not with persuasive arguments of **Human Wisdom**, but in **Demonstration** of the **Creative Impulse (Spirit)** and of **Power**:
-5. That your **Core Truth (faith)** should not rest in the power of **Human Wisdom**, but in the **Power of the Source**.
-7. But we speak the **Source’s Wisdom** in a **Mystery** (hidden truth)—even the **Principle of Divine Purpose** which the **Eternal Source** ordained before the manifestation of the domains unto our **Glory**.
-
-### **The Process of Revelation**
-
-10. But the **Source** has **revealed** them unto us by His **Creative Impulse (Spirit of Life)**: for the **Creative Impulse** searches all things, yea, the **Profound Depths** of the Source.
-12. Now we have received not the **Impulse of the Manifested Domain** (spirit of the world), but the **Creative Impulse** which is of the **Source**, that we might **know** the things freely given unto us by the **Eternal Source**.
-
-### **Spiritual Discernment**
-
-14. But the **Natural Man** (unassisted consciousness) **receiveth not** the things of the **Creative Impulse** of the Source: for they are **Folly** unto him; neither can he **know** them, because they are **Spiritually Discerned**.
-15. But he that is **Spiritual** (governed by the Creative Impulse) **discerneth** all things, yet he himself is **discerned** by no **Natural Man**.
-16. For who hath known the **Mind of the Source**? But **we have the Mind of the Principle of Divine Humanity.**
+4. My speech and my proclamation were **not** the polished arguments of human cleverness,  
+   but the **demonstration of the Spirit and of Power**,  
+   so that **your faith** would not rest on human reasoning,  
+   but on the **Power of God** working in you.
 
 ---
 
-## **Commentary on the Action**
+## **The Hidden Wisdom**
 
-### **1 · The Power of Demonstration (vv 4–5)**
-The **Core Truth** must be proclaimed not through persuasion but through **Power**—that living operation of the **Creative Impulse**. This ensures that faith rests not upon eloquence or intellectual mastery but upon the inner witness of the Spirit. It dissolves the factions of Chapter 1, where loyalty to orators (Apollos, Cephas, Paul) divided the believers by personality rather than Presence.
+6. Still — among the **mature**, we do speak **Wisdom**.  
+   But it is not the wisdom of this **passing age**,  
+   nor the wisdom of its **temporary rulers**, who are themselves fading.
 
-### **2 · The Creative Impulse as the Key to Mystery (vv 7, 10)**
-The **Source’s Wisdom** is a **Mystery**—a concealed architecture of **Divine Purpose**. It cannot be deduced by the **Natural Mind**, for logic cannot scale the Infinite. Only the **Creative Impulse**, which searches the **Depths of the Source**, can unveil this structure within consciousness. Revelation is not discovery—it is descent.
+7. Instead, we speak the **Hidden Wisdom of God** —  
+   the wisdom veiled from the **Lower Consciousness**,  
+   **ordained before the ages** for our **Inner Glory**.
 
-### **3 · The Impotence of the Natural Man (v 14)**
-The **Natural Man**, bound to the **Manifested Domain**, cannot apprehend the **Core Truth**. To him, the things of God appear as **Folly**, for he measures the Infinite with the tools of the finite. **Spiritual Discernment** arises only when the **Creative Impulse** governs the faculties, converting intellect into instrument and mind into sanctuary.
+8. None of the rulers of this age **recognized it**,  
+   for had they known, they **would not have crucified** the **Lord of Glory** —  
+   the manifestation of Divine Presence.
 
----
-
-## **Scriptural Cross References**
-
-| Reference | BKV Theme Link | Connection to 1 Corinthians 2 |
-| :--- | :--- | :--- |
-| **Exodus 20:3** | **Singularity of Cause** | Reliance on **Human Wisdom** is a hidden idolatry—a second cause beside God—violating the **Principle of the One Source**. |
-| **Romans 8:5–6** | **The Two Pathways of Mind** | The **Natural Man** mirrors the **Carnal Mind**—fixed upon manifestation, hostile to the Spirit, unable to receive Divine life. |
-| **Proverbs 14:12** | **Integrity of Perception** | “There is a way that seemeth right unto a man…”—the wisdom of separation ends in distortion, confirming that fragmented logic cannot behold the Whole. |
-| **John 14:26** | **The Spirit as Teacher** | The promised **Comforter** reveals “all things,” fulfilling Paul’s truth that only the **Creative Impulse** enables true discernment. |
+9. But as it is written:  
+   > “Eye hath not seen, nor ear heard,  
+   > neither have entered into the heart of man,  
+   > the things which God hath prepared for them that love Him.”
 
 ---
 
-## **1 Corinthians 2 — Symbolics Table**
+## **The Spirit Who Reveals**
 
-| **Symbol / Term** | **BKV Meaning** | **Inner Principle Represented** |
-| :--- | :--- | :--- |
-| **Human Wisdom** | **Intellectual Faculty** | The unassisted reasoning of man; analysis without illumination. |
-| **Spirit / Creative Impulse** | **Divine Revelation** | The living channel through which hidden truth descends. |
-| **Power** | **Operative Force of the Source** | The active energy of alignment; proof of Presence. |
-| **Natural Man** | **Unassisted Consciousness** | Mind apart from Spirit—fragmented, self-referential, blind. |
-| **Folly (Foolishness)** | **Fragmented Logic** | The limited frame of intellect judging higher truth. |
-| **Mystery** | **Hidden Divine Purpose** | The pre-manifest structure of God’s design. |
-| **Mind of Christ** | **Principle of Divine Humanity** | The harmonized consciousness ruled by the Spirit. |
+10. But **God has revealed them unto us by His Spirit** —  
+    for the **Spirit searches all things**,  
+    yes, even the **deep things of God**.
+
+11. For just as a person’s inner life is known only to the **spirit within**,  
+    even so the **Inner Reality of God** is known only by the **Spirit of God**.
+
+12. And this is the crucial point:  
+    *We have not received the spirit of the world,*  
+    but **the Spirit which is of God**,  
+    so that we may **fully know** the gifts freely given to us.
+
+13. These things we speak —  
+    not in the language of **natural intellect**,  
+    but in the language the **Spirit teaches**,  
+    comparing **spiritual things with spiritual things**.
 
 ---
 
-## **Core BKV Principle**
-> *Where the intellect ends, revelation begins. The **Core Truth** is not learned but received; not reasoned but revealed. The **Natural Man** is blind to it, for **Spiritual Discernment** is born only of the **Creative Impulse**, the living Power of the **Eternal Source**.*
+## **Two Forms of Perception**
 
+14. The **natural man** — the lower self, the unawakened consciousness —  
+    does **not** receive the things of the Spirit of God.  
+    They seem like foolishness to him,  
+    because they are discerned on a **higher plane**.
 
+15. But the **spiritual man** — the awakened consciousness —  
+    discerns **all things**,  
+    yet is not easily judged or ruled by the lower mind.
+
+16. For who has known the **Mind of the Lord**,  
+    that he may instruct Him?  
+    Yet — astonishingly —  
+    **we have the Mind of Christ**:  
+    the awakened pattern,  
+    the divine template of perception,  
+    the inward wisdom revealed by the Spirit.
+
+---
+
+# **BKV–DR (Deep Reading)**  
+### *A Poetic Alignment with the Text*
+
+- Not with brilliance,  
+  but with **bearing witness**.  
+- Not with argument,  
+  but with **Spirit and Power**.  
+- Not with human certainty,  
+  but with **trembling** —  
+  where the false self falls away  
+  and the true self stands revealed.
+
+- A **Hidden Wisdom**,  
+  older than the ages,  
+  seeded in the soul  
+  before the world began.
+
+- The world cannot see it,  
+  for the world looks outward.  
+  This Wisdom moves **inward**,  
+  like a flame behind a veil.
+
+- **The Spirit searches all things**,  
+  even the depths of the Source,  
+  and whispers them to the one  
+  who has ears to hear.
+
+- There is a man within the man,  
+  a consciousness within consciousness.  
+  The outward cannot grasp the inward.  
+  The inward reads the outward with ease.
+
+- And this is the secret:  
+  **We have the Mind of Christ** —  
+  the pattern of divine perception,  
+  placed in the soul  
+  like a seed waiting for light.
+
+---
+
+# **Symbolics Table**
+
+| KJV Term | BKV Meaning | Inner Principle |
+|---------|-------------|------------------|
+| **Christ crucified** | The Pattern of Self-Emptying | Death of the false self; unveiling of the true |
+| **Wisdom** | Inner, spiritual knowing | Higher perception |
+| **Princes/rulers of this world** | Dominant patterns of the outer mind | Egoic structures / institutional power |
+| **Hidden Wisdom** | Pre-existent divine design | The soul’s latent, God-given blueprint |
+| **Spirit searches all things** | Direct spiritual perception | The inner faculty that knows God |
+| **Natural man** | Unawakened consciousness | Flesh-bound awareness |
+| **Spiritual man** | Awakened consciousness | Higher mind / illumined perception |
+| **Mind of Christ** | The divine pattern of understanding | Spiritual cognition; renewed mind |
+
+---
+
+# **Summary / Commentary**
+
+1 Corinthians 2 is the **heart** of Paul’s entire mystical teaching.
+
+It asserts:
+
+1. **The Gospel is not rhetoric but revelation.**  
+2. **Spiritual truth is unveiled only by the Spirit.**  
+3. **The Hidden Wisdom of God was planted in the soul before the ages.**  
+4. **The natural mind cannot grasp it.**  
+5. **The awakened mind — the Mind of Christ — is its interpreter.**
+
+This chapter explains **how spiritual knowledge happens**.  
+It is not deduced. It is **received**.
+
+It is not observed. It is **revealed**.
+
+It does not arise from below. It **descends from above**  
+into the inner man,  
+through the Spirit who searches the depths of God  
+and illuminates the depths of the soul.
+
+---
 
 
 
