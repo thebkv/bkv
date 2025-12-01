@@ -288,6 +288,7 @@ Integrated Symbolics Bible Study
 |   |   |   |   |   |
 |---|---|---|---|---|
 | 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
+|   | [12](Psalm_12.md) |   |   |   |
 | [091](Psalm_91.md) | [095](Psalm_95.md) | [118](Psalm_118.md) | [119](Psalm_119.md) |   |
 |    |    |    |    |  <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 
