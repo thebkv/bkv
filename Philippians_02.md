@@ -209,6 +209,19 @@ GUID: 4e22812e-01af-4e05-8bd7-c480feb84e91
 | **symphychōi** (συμψυχῳ) | of one mind / one soul | Unity of purpose and disposition | Philippians 1:27; Acts 4:32 |
 | **charizomai** (χαρίζομαι) | to grant / gift | Suffering as a privilege and participation in Christ | Philippians 1:29; 1 Peter 4:13 |
 
+| Greek Name | Direct Meaning | BKV Symbolic Meaning | Scriptural Evidence / Rationale |
+|------------|----------------|-----------------------|--------------------------------|
+| Παῦλος (Paul) | “Small / little” | **The Self That Has Been Reduced / Humbled** — the transformed ego submitted to Christ | Acts 9 (humbling), Phil 3:7–8 (“count all things loss”), 2 Cor 12:9–10 |
+| Τιμόθεος (Timothy) | “Honoring God” | **The God-Honoring Faculty** — sincerity, purity, earnestness | Phil 2:19–22 (his proven worth), 1 Tim 1:2 |
+| Ἰησοῦς Χριστός (Jesus Christ) | Jesus = “YHWH Saves”; Christ = “Anointed” | **The Saving Mind of God / The Anointed Pattern** | All four Gospels, Phil 2:5 (“mind of Christ”), Eph 1:10 |
+| Ἐπίσκοποι (Bishops / Overseers) | “Overseers, guardians” | **Inner Supervisory Faculties** — discernment, spiritual oversight | Acts 20:28 (“overseers, to shepherd”), 1 Tim 3 |
+| Διάκονοι (Deacons / Servants) | “Servants, ministers” | **Serving Faculties** — the obedient and practical parts of the soul | Mark 10:43 (“whoever will be great must be your servant”) |
+| Φίλιπποι (Philippi) | “Lovers of horses” → philos (love) + hippos (horse) | **Affection Joined to Motion / Love Empowering Action** | Horses = motion/power in biblical symbolics; cf. Zech 1, Rev 6 |
+| ὁ Θεός (God, Theos) | “The Divine One” | **The Source** | Everywhere; foundational BKV symbolism |
+| Κύριος (Lord) | “Master, Sovereign” | **The Governing Principle** | Phil 2:11; Acts 2:36 |
+| Ἰουδαϊκοί / οἱ Ἰουδαῖοι (Judaizers / Jews)** | “Judah-ones / praise-people” | **The Praise Faculty Gone Rigid** — when genuine devotion becomes legal pressure | Paul contrasts true vs. false circumcision (Phil 3:2–3) |
+| Καίσαρ (Caesar) | “Severed, cut off” (Latin root) | **The Outer Power Structure** — external authority vs. inner freedom | Phil 1:13; Acts 25–28 |
+
 ---
 
 # **Summary / Commentary**
