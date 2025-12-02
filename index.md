@@ -643,7 +643,7 @@ Special Studies
 |   |   |   |   |   |
 |---|---|---|---|---|
 | [00](Philippians_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
-| 01 | 02 | 03 | 04 |   |
+| [01](Philippians_01.md) | [02](Philippians_02.md) | 03 | 04 |   |
 
 ## 📖 Colossians  
 > _The Epistle of Supremacy — Christ as the Center and Sustainer of All Things_
