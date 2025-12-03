@@ -193,32 +193,18 @@ Odysseus and David and Bible Key Symoblics
 
 | Odyssey (Narrative Arc)                               | David’s Life (1–2 Samuel)                                      | Symbolic Meaning (Inner Life)                                     |
 |--------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------|
-| Odysseus begins as πολύτροπος — many-turned,           | David is chosen yet immediately destabilized by Saul’s jealousy.| The natural man begins fragmented — identity divided, reactive.    |
-| fragmented, unstable.                                  |                                                                 |                                                                    |
-|--------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------|
-| Forced from home by forces beyond his control.         | Driven into exile; must flee Saul repeatedly.                   | The soul is pushed into crisis; old certainties collapse.          |
-|--------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------|
-| Wanders through chaotic realms (Cyclops, Circe, Sirens)| Wanders among wilderness strongholds and foreign courts.        | The soul passes through chaos, temptation, and false identities.   |
-| — symbols of inner disintegration.                     |                                                                 |                                                                    |
-|--------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------|
-| Companions fail or die; community collapses.           | David’s circle fractures; Jonathan dies; trust becomes fragile. | Old supports fail; the soul stands alone before God.                |
-|--------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------|
-| Encounters seductive oblivion (Calypso’s island).       | David’s fall with Bathsheba — forgetting who he is.             | The great temptation: to lose one’s purpose and identity.          |
-|--------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------|
-| Visits the Underworld; confronted with truth and fate. | Nathan confronts David; the veil lifts on his real condition.   | The soul descends into self-knowledge — painful but essential.     |
-|--------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------|
-| Gains clarity through divine shaping (Athena’s tests). | David grows through repentance and God’s discipline.             | Transformation begins; the true self emerges under divine hand.    |
-|--------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------|
-| Returns to Ithaca disguised; identity rebuilt quietly. | Returns to Jerusalem humbled, chastened, inwardly changed.       | Restoration starts inwardly before it is visible outwardly.        |
-|--------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------|
-| Tests household loyalty (Eumaeus, servants, suitors).  | Tests the loyalty of tribes and court; betrayals surface.        | The reformed self discerns what aligns with its new identity.      |
-|--------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------|
-| Slays the suitors — purification of the house.         | Cleanses the kingdom from corruption and rebellion.              | The soul expels the thoughts, habits, and attachments that destroy it. |
-|--------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------|
-| Reunites with Penelope — the true household restored.  | Establishes the House of David; covenant identity stabilized.    | The inner life becomes whole; the fragmented self is reintegrated. |
-|--------------------------------------------------------|-----------------------------------------------------------------|--------------------------------------------------------------------|
-| Ends in εἰρήνη (peace) under Athena’s decree.          | Ends in peace as Solomon rises in order and wisdom.              | Divine order settles on the restored soul — harmony returned.      |
-
+| Odysseus begins as πολύτροπος — many-turned, fragmented. | David is chosen yet destabilized by Saul’s jealousy.             | The natural man begins divided — identity scattered and reactive.  |
+| Forced from home by forces beyond his control.         | Driven into exile; must flee Saul repeatedly.                   | Crisis pushes the soul outward; old structures collapse.           |
+| Wanders through chaotic realms (Cyclops, Circe, Sirens). | Wanders in wilderness strongholds and foreign courts.           | The soul encounters chaos, temptation, and false identities.        |
+| Companions fail or die; community collapses.           | David’s circle fractures; Jonathan dies.                        | Old supports fail; the soul stands alone before God.                |
+| Calypso’s island — seduction of forgetting.            | David’s fall with Bathsheba — moral forgetting.                 | The temptation to abandon purpose and identity.                    |
+| Underworld visit — truth revealed.                     | Nathan confronts David; spiritual exposure.                      | The soul faces self-knowledge — painful but transforming.           |
+| Shaped by Athena’s testing — identity clarified.       | Shaped by God’s discipline and repentance.                      | The true self emerges under divine influence.                      |
+| Returns to Ithaca disguised — quiet rebuilding.        | Returns to Jerusalem humbled and altered.                       | Restoration begins inwardly before outward expression.             |
+| Tests household loyalty.                               | Tests tribes and court; loyalties revealed.                     | The reformed self discerns what aligns with its new identity.      |
+| Slays the suitors — cleansing the house.               | Purges corruption and rebellion from the kingdom.               | The soul removes destructive habits and attachments.               |
+| Reunites with Penelope — household restored.           | House of David established in order and covenant.               | The inner self becomes integrated — unity restored.                |
+| Ends in εἰρήνη (peace) under Athena’s decree.          | Ends in peace as Solomon ascends in wisdom.                     | Divine order settles on the restored soul — wholeness achieved.    |
 
 ---
 
