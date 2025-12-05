@@ -340,6 +340,7 @@ Integrated Symbolics Bible Study
 |---|---|---|---|---|
 | 00 |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |
 | [01](Isaiah_01.md) | [02](Isaiah_02.md) | [03](Isaiah_03.md) | [04](Isaiah_04.md) | [05](Isaiah_05.md) |
+| [06](Isaiah_06.md)  | [07](Isaiah_07.md)  |   |   |   |
 | 26  | 27  | [28](Isaiah_28.md) | [29](Isaiah_29.md)  | 30  |
 | [31](Isaiah_31.md) |   |   |   | [35](Isaiah_35.md)  |
 | ... | [53](Isaiah_53.md) | ... | 65 | 66 |  
