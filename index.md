@@ -333,6 +333,7 @@ Integrated Symbolics Bible Study
 <a id="prophets"></a>  
 # <span class="color-prophets">The Books of the Prophets</span>
 
+<a id="isaiah"></a>  
 ## 📖 Isaiah  
 > _The Book of Vision — The Revelation of Divine Purpose in the Inner and Outer Worlds_
 
