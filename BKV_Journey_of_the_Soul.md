@@ -104,4 +104,4 @@ Through these three laws, the Possessing Will (Ahaz) becomes the Receptive Will 
 This is the architecture of the soul as the BKV reads it.
 
 
-“If ye will not believe (’aman), surely ye shall not be established (’aman).”
+> “If ye will not believe (’aman), surely ye shall not be established (’aman).”
