@@ -1,6 +1,9 @@
 # The Journey of the Soul: Architecture of Consciousness  
 *A BKV-Integrated Framework*
 
+> “If ye will not believe (’aman), surely ye shall not be established (’aman).”
+> “Establish” comes from Latin stabilire (“to make firm”), mirroring the Hebrew ’aman, which means “to make firm by aligning with truth.”
+
 The journey of the soul is the Education of the Possessing Will (Ahaz) so that it may surrender to the Divine Presence (Immanuel).  
 This journey unfolds through three structural principles:
 
@@ -104,4 +107,4 @@ Through these three laws, the Possessing Will (Ahaz) becomes the Receptive Will 
 This is the architecture of the soul as the BKV reads it.
 
 
-> “If ye will not believe (’aman), surely ye shall not be established (’aman).”
+
