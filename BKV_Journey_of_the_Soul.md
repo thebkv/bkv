@@ -88,16 +88,20 @@ Discernment is how the soul keeps its course.
 |---------------|---------------------|------------------------|
 | **Humility** | Philippians 2:5–8 | The Mind of Christ: self-emptying as blueprint of exaltation. |
 | **Alignment** | Ephesians 4:1–6 | The “Walk” that flows from the “Sit”: maintaining unity through identity. |
-| **Balance** | Revelation 21:3 | Full manifestation of Immanuel-consciousness — the tabernacle of God WITH men. |
+| **Establishmen** | Revelation 21:3 | Full manifestation of Immanuel-consciousness — the tabernacle of God WITH men. |
 | **Collapse of the Outer Will** | 1 Samuel 31 | Saul (Outer Will) must fail at Gilboa so that David (Divine Love) can ascend the throne of inner sovereignty. |
 
 ---
 
 # **Summary**
-Humility removes resistance.  
-Balance restores order.  
-Alignment establishes presence.  
+
+	1.	Humility — Surrender of the Possessing Will
+	2.	Establishment — The Setting Right of the Inner Structure
+	3.	Alignment — The Conscious Decision for Immanuel
 
 Through these three laws, the Possessing Will (Ahaz) becomes the Receptive Will (Almah), and the Immanuel consciousness—God WITH us—becomes not a prophecy but an interior fact.
 
 This is the architecture of the soul as the BKV reads it.
+
+
+“If ye will not believe (’aman), surely ye shall not be established (’aman).”
