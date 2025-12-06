@@ -8,7 +8,7 @@ The journey of the soul is the Education of the Possessing Will (Ahaz) so that i
 This journey unfolds through three structural principles:
 
 1. **Humility**  
-2. **Balance**  
+2. **Establishment**  
 3. **Alignment**
 
 These are not moral virtues but **architectural laws** governing the inner life.
@@ -91,7 +91,7 @@ Discernment is how the soul keeps its course.
 |---------------|---------------------|------------------------|
 | **Humility** | Philippians 2:5–8 | The Mind of Christ: self-emptying as blueprint of exaltation. |
 | **Alignment** | Ephesians 4:1–6 | The “Walk” that flows from the “Sit”: maintaining unity through identity. |
-| **Establishmen** | Revelation 21:3 | Full manifestation of Immanuel-consciousness — the tabernacle of God WITH men. |
+| **Establishment** | Revelation 21:3 | Full manifestation of Immanuel-consciousness — the tabernacle of God WITH men. |
 | **Collapse of the Outer Will** | 1 Samuel 31 | Saul (Outer Will) must fail at Gilboa so that David (Divine Love) can ascend the throne of inner sovereignty. |
 
 ---
