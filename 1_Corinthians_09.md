@@ -98,7 +98,7 @@ GUID: 8fb6b6d1-8b7e-4d0f-a8e2-98df40de6902
     of my **ground of boasting**.
 
 16. For if I proclaim the gospel,  
-    I have nothing to boast of —  
+    I have nothing to boast of   
     for **necessity is laid upon me**.  
     Yes, woe to me  
     if I do not proclaim the gospel!
@@ -127,15 +127,15 @@ GUID: 8fb6b6d1-8b7e-4d0f-a8e2-98df40de6902
     I became as a Jew,  
     that I might win Jews.  
 
-    To those under the Law —  
-    as under the Law —  
+    To those under the Law   
+    as under the Law   
     though I myself  
     am not under the Law.
 
-21. To those without the Law —  
-    as without the Law —  
+21. To those without the Law   
+    as without the Law   
     though not without the Law of God,  
-    but under the law of Christ —  
+    but under the law of Christ   
     that I might win those without the Law.
 
 22. To the weak  
@@ -185,13 +185,13 @@ GUID: 8fb6b6d1-8b7e-4d0f-a8e2-98df40de6902
   comes from what you have seen  
   in the Spirit.
 
-- Rights are real —  
+- Rights are real   
   but the strongest  
   surrender them  
   for the sake of love.
 
 - The worker in the Temple  
-  lives by the Temple —  
+  lives by the Temple   
   and yet Paul refuses it  
   to keep the message free.
 
@@ -200,14 +200,14 @@ GUID: 8fb6b6d1-8b7e-4d0f-a8e2-98df40de6902
 
 - Becoming all things  
   to all people  
-  is not shapelessness —  
+  is not shapelessness   
   it is strategic compassion.
 
 - The race is long;  
   the prize is imperishable.
 
 - The body must be trained  
-  like an athlete —  
+  like an athlete   
   not punished,  
   but mastered.
 
@@ -236,7 +236,7 @@ GUID: 8fb6b6d1-8b7e-4d0f-a8e2-98df40de6902
 
 # **Summary / Commentary**
 
-**1 Corinthians 9** is one of the most “Pauline” chapters in Scripture —  
+**1 Corinthians 9** is one of the most “Pauline” chapters in Scripture   
 the soul speaking of its own authority,  
 its own freedom,  
 and its own voluntary surrender for the sake of others.
@@ -244,7 +244,7 @@ and its own voluntary surrender for the sake of others.
 ### **Key Themes**
 
 ### **1. True authority comes from encounter.**  
-Paul saw the Lord —  
+Paul saw the Lord   
 and therefore carries authority.  
 This mirrors the inner life:  
 your authority rises  
@@ -259,7 +259,7 @@ This is the pattern of the mature disciple.
 
 ### **3. Adaptability is a virtue.**  
 “Become all things to all”  
-is not compromise —  
+is not compromise   
 it is **precision mercy**.
 
 ### **4. The race imagery is not optional — it is essential.**  
@@ -267,7 +267,7 @@ To live in Christ
 means to train.  
 To discipline.  
 To run with purpose.  
-To beat the body — not cruelly —  
+To beat the body, not cruelly   
 but **to master it**.
 
 ### **5. The crown is incorruptible.**  
