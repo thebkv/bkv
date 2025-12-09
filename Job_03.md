@@ -4,7 +4,6 @@
 ---
 
 # NR (Natural Reading)
-[NR is unchanged — still accurate and excellent]
 
 ---
 
@@ -108,3 +107,4 @@ Job 3 is the necessary descent before the ascent.
 ---
 
 # END OF JOB 3
+
