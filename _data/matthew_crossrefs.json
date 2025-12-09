@@ -12,42 +12,84 @@
         "type": "parallel",
         "strength": 5,
         "bkv_tag": "parallel_account",
-        "symbolic_note": "Same wilderness temptation; Spirit drives Him into the wilderness."
+        "symbolic_note": "Parallel account of the temptation; Spirit drives Jesus into the wilderness."
       },
       {
         "ref": "Luke 4:1-2",
         "type": "parallel",
         "strength": 5,
         "bkv_tag": "parallel_account",
-        "symbolic_note": "Full of the Spirit; led in the wilderness 40 days."
+        "symbolic_note": "Parallel account emphasizing Jesus being full of the Holy Spirit and tempted for forty days."
       },
       {
         "ref": "Deuteronomy 8:2-3",
         "type": "OT_background",
         "strength": 5,
         "bkv_tag": "Israel_pattern",
-        "symbolic_note": "Israel led into the wilderness to be humbled and tested; Jesus walks this path faithfully."
+        "symbolic_note": "Israel tested in the wilderness; lesson that man does not live by bread alone."
       },
       {
-        "ref": "Deuteronomy 6:13-16",
-        "type": "OT_background",
+        "ref": "Hosea 2:14",
+        "type": "wilderness_theme",
+        "strength": 4,
+        "bkv_tag": "wilderness",
+        "symbolic_note": "God calls the soul into the wilderness to speak tenderly and restore covenant love."
+      },
+      {
+        "ref": "Psalm 91:11-12",
+        "type": "quoted_scripture",
         "strength": 5,
-        "bkv_tag": "quoted_scripture",
-        "symbolic_note": "Passage Jesus quotes during the temptations."
+        "bkv_tag": "adversary_use_of_scripture",
+        "symbolic_note": "The very Psalm the tempter misquotes about angels bearing you up."
+      },
+      {
+        "ref": "Deuteronomy 6:13",
+        "type": "quoted_scripture",
+        "strength": 5,
+        "bkv_tag": "exclusive_worship",
+        "symbolic_note": "You shall worship the LORD your God and Him only shall you serve."
+      },
+      {
+        "ref": "Deuteronomy 6:16",
+        "type": "quoted_scripture",
+        "strength": 5,
+        "bkv_tag": "do_not_test_God",
+        "symbolic_note": "You shall not put the LORD your God to the test."
+      },
+      {
+        "ref": "Exodus 34:28",
+        "type": "pattern_40",
+        "strength": 4,
+        "bkv_tag": "forty_days",
+        "symbolic_note": "Moses fasting forty days and nights on the mountain; pattern of intense divine encounter."
       },
       {
         "ref": "Numbers 14:33-34",
         "type": "pattern_40",
         "strength": 4,
         "bkv_tag": "Israel_pattern",
-        "symbolic_note": "Israel’s 40 years mirror Jesus’ 40 days."
+        "symbolic_note": "Israel’s forty years in the wilderness mirror Jesus’ forty days."
       },
       {
-        "ref": "Hebrews 4:15",
-        "type": "doctrinal",
-        "strength": 5,
-        "bkv_tag": "high_priest",
-        "symbolic_note": "Tempted in all ways like us, yet without sin."
+        "ref": "Isaiah 9:1-2",
+        "type": "prophetic",
+        "strength": 4,
+        "bkv_tag": "light_in_darkness",
+        "symbolic_note": "People walking in darkness see a great light; quoted later in this same chapter (Matthew 4:15–16)."
+      },
+      {
+        "ref": "Isaiah 57:20",
+        "type": "contrast",
+        "strength": 2,
+        "bkv_tag": "restless_waters",
+        "symbolic_note": "The wicked compared to the troubled sea; contrast to Jesus’ inner peace under testing."
+      },
+      {
+        "ref": "Matthew 7:16-20",
+        "type": "internal_echo",
+        "strength": 3,
+        "bkv_tag": "fruit_reality",
+        "symbolic_note": "Later teaching that fruit reveals the reality within; echoes the idea of temptation revealing true heart."
       }
     ]
   }
