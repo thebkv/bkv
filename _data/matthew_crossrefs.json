@@ -92,5 +92,57 @@
         "symbolic_note": "Later teaching that fruit reveals the reality within; echoes the idea of temptation revealing true heart."
       }
     ]
+  },
+  "1 Corinthians 8:1-13": {
+    "metadata": {
+      "chapter": "1 Corinthians 8",
+      "range": "1-13",
+      "theme": "Knowledge vs. Love / The Weak Conscience",
+      "bkv_tags": ["knowledge", "love", "ego", "edification", "conscience", "liberty"]
+    },
+    "cross_references": [
+      {
+        "ref": "1 Corinthians 13:4",
+        "type": "definition_contrast",
+        "strength": 5,
+        "bkv_tag": "love_definition",
+        "symbolic_note": "Love 'is not boastful' (contrast to knowledge that 'puffs up'); Love builds."
+      },
+      {
+        "ref": "Romans 14:14-23",
+        "type": "parallel",
+        "strength": 5,
+        "bkv_tag": "law_of_regard",
+        "symbolic_note": "Parallel passage emphasizing not judging one another and not making freedom a stumbling block."
+      },
+      {
+        "ref": "1 Corinthians 10:23-24",
+        "type": "continuation",
+        "strength": 4,
+        "bkv_tag": "principle_of_helpfulness",
+        "symbolic_note": "The principle continued: 'All things are lawful... but not all things edify. Let no one seek his own good.'"
+      },
+      {
+        "ref": "1 Corinthians 9:19",
+        "type": "continuation",
+        "strength": 4,
+        "bkv_tag": "voluntary_surrender",
+        "symbolic_note": "Paul's application of the principle: he is free from all, yet makes himself a servant to win more."
+      },
+      {
+        "ref": "Ephesians 4:16",
+        "type": "body_metaphor",
+        "strength": 3,
+        "bkv_tag": "edification",
+        "symbolic_note": "The entire body 'builds itself up in love,' confirming love is the construction material of the Body."
+      },
+      {
+        "ref": "Matthew 18:6-7",
+        "type": "stumbling_block_warning",
+        "strength": 5,
+        "bkv_tag": "stumbling_block",
+        "symbolic_note": "Jesus' severe warning about causing one of the 'little ones' to stumble."
+      }
+    ]
   }
 }
