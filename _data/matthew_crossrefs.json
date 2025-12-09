@@ -1,0 +1,54 @@
+{
+  "Matthew 4:1-11": {
+    "metadata": {
+      "chapter": "Matthew 4",
+      "range": "1-11",
+      "theme": "Wilderness Testing",
+      "bkv_tags": ["wilderness", "identity", "testing", "Israel-pattern"]
+    },
+    "cross_references": [
+      {
+        "ref": "Mark 1:12-13",
+        "type": "parallel",
+        "strength": 5,
+        "bkv_tag": "parallel_account",
+        "symbolic_note": "Same wilderness temptation; Spirit drives Him into the wilderness."
+      },
+      {
+        "ref": "Luke 4:1-2",
+        "type": "parallel",
+        "strength": 5,
+        "bkv_tag": "parallel_account",
+        "symbolic_note": "Full of the Spirit; led in the wilderness 40 days."
+      },
+      {
+        "ref": "Deuteronomy 8:2-3",
+        "type": "OT_background",
+        "strength": 5,
+        "bkv_tag": "Israel_pattern",
+        "symbolic_note": "Israel led into the wilderness to be humbled and tested; Jesus walks this path faithfully."
+      },
+      {
+        "ref": "Deuteronomy 6:13-16",
+        "type": "OT_background",
+        "strength": 5,
+        "bkv_tag": "quoted_scripture",
+        "symbolic_note": "Passage Jesus quotes during the temptations."
+      },
+      {
+        "ref": "Numbers 14:33-34",
+        "type": "pattern_40",
+        "strength": 4,
+        "bkv_tag": "Israel_pattern",
+        "symbolic_note": "Israel’s 40 years mirror Jesus’ 40 days."
+      },
+      {
+        "ref": "Hebrews 4:15",
+        "type": "doctrinal",
+        "strength": 5,
+        "bkv_tag": "high_priest",
+        "symbolic_note": "Tempted in all ways like us, yet without sin."
+      }
+    ]
+  }
+}
