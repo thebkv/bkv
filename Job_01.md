@@ -172,10 +172,6 @@ Again, symbolic resonance.
 
 **Job = You = the reader’s inner experience of being tested.**
 
-These notes are **excellent** and fit perfectly with the BKV method.  
-They act as the *invitation*:  
-> “This is your story. This is our story.”
-
 ---
 
 # END OF JOB 1
