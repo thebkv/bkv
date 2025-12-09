@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Matthew 4 — Bible Key Version"
+---
+
+
+
 #Matthew04
 
 ## Chapter 4 Key Notes
@@ -78,6 +85,38 @@
 - Isaiah 9:1–2 — People walking in darkness see a great Light (quoted in Matthew 4:15–16)  
 - Isaiah 57:20 — The wicked like the troubled sea  
 - Matthew 7:16–20 — Fruit as outward sign of inward reality (later echo)  
+
+
+{% assign m4 = site.data.matthew_crossrefs["Matthew 4:1-11"] %}
+
+<h3>Cross References – Matthew 4:1–11</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Reference</th>
+      <th>Type</th>
+      <th>Strength</th>
+      <th>BKV Tag</th>
+      <th>Symbolic Note</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for x in m4.cross_references %}
+    <tr>
+      <td>{{ x.ref }}</td>
+      <td>{{ x.type }}</td>
+      <td>{{ x.strength }}</td>
+      <td>{{ x.bkv_tag }}</td>
+      <td>{{ x.symbolic_note }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+
+
+
 
 ---
 BKV-Project-GUID: 567a129b-db83-4ca4-af95-493b4d8ed523  
