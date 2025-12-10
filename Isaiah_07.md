@@ -213,4 +213,30 @@ God is in you.
 Immanuel.**
 
 
+---
+
+
+# PARALLEL STUDY — Romans 9:24–33  
+## The Remnant, the Stone, and the Establishment of the Soul
+
+Paul’s teaching in **Romans 9** reflects the same inner architecture revealed in Isaiah 7.  
+Where Isaiah declares **“A remnant shall return”** and **“Immanuel — God WITH us,”** Paul unfolds these truths through the language of calling, identity, and alignment.
+
+- **The Remnant:** Only the preserved core of the soul is saved — “a remnant shall be saved” (Rom 9:27–29).  
+- **Beloved Identity:** The parts of the self once called “not My people” become “My people” and “beloved” (9:25–26).  
+- **Faith vs. Striving:** The disciplined faculties (“Israel”) fail by self-effort, while the untrained faculties (“Gentiles”) enter alignment through trust (9:30–32).  
+- **The Stumbling Stone:** Christ becomes the inner point of decision — a Stone over which the striving will stumbles, but upon which the trusting soul stands (9:33).
+
+Ahaz represents the will that stumbles over the Stone.  
+Immanuel represents the soul established upon it.
+
+Thus Isaiah’s commands — *“Take heed, be quiet, fear not, be established”* — align perfectly with Paul’s conclusion:
+
+**“Whoever believes on Him shall not be ashamed.”**
+
+The same architecture stands:
+
+**Remnant → Presence → Establishment.**
+
+
 # END OF ISAIAH 7
