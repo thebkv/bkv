@@ -3,7 +3,7 @@
 
 ---
 
-## SUMMARY
+## OVERTURE
 
 Isaiah 7 opens in a moment of deep inner crisis.  
 Aram and Ephraim rise against Jerusalem, and Ahaz — whose name means “to grasp, to hold tightly” — begins to panic. His heart shakes, and the hearts of his people with him, like trees bending in a violent wind. This is the soul in fear: unrooted, reactive, and unsure of its center.
