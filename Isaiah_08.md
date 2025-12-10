@@ -3,7 +3,7 @@
 
 ---
 
-## SUMMARY
+## OVERTURE
 
 Isaiah 8 is the counterpoint to Isaiah 7.  
 Where chapter 7 reveals **Immanuel — God WITH us**, chapter 8 reveals what happens when the soul *refuses* that Presence.
