@@ -105,4 +105,5 @@ No new teaching — just **distillation.**
 # END OF [BOOK] [CHAPTER]
 
 Updated: [MONTH] [YEAR]
+Author: BKV_Admin
 
