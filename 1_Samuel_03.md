@@ -1,111 +1,139 @@
-# **1 Samuel 3 — The Principle of Inner Hearing**
-### *The Awakening of Prophetic Consciousness within the Soul*
-
-> _“Speak, LORD; for thy servant heareth.”_ — **1 Samuel 3 : 9 KJV**
-
----
-
-## **BKV-NR (Natural Reading)**
-
-### **I. The Silence before the Voice (vv 1–3)**  
-
-The child **Samuel (Heard of God)** ministered unto the Source before **Eli (Uplifted Awareness)**, and the word of the Source was precious in those days; there was no open vision.  
-
-*The inner voice lies dormant when awareness grows dim; truth is rare when receptivity is dull.*  
-
-Eli lay in his place, and his eyes began to wax dim so that he could not see; and the lamp of the Source went out in the Temple where the Ark of God was.  
-
-*This portrays the waning of old perception — the lamp of formal religion flickering as the new light awaits its awakening.*
+# 1 SAMUEL 03 — Bible Key Version (BKV)
+## **The Principle of Inner Hearing**
+### *Distinguishing the Voice of the Source from the Noise of the Self*
 
 ---
 
-### **II. The Calling (vv 4–10)**  
+## SUMMARY
 
-The Source called Samuel, and he answered, “Here am I.”  
-He ran to Eli and said, “Here am I; for thou calledst me.”  
-Eli said, “I called not; lie down again.”  
+**1 Samuel 3** records the decisive transition of spiritual authority from the old, failing priesthood (**Eli**) to the newly awakened prophetic faculty (**Samuel**).
 
-*The untrained intuition first mistakes the inner voice for outer authority.*
+The chapter opens with a striking condition:  
+> *“The word of the LORD was precious in those days; there was no open vision.”*  
 
-The Source called again; Samuel rose and went to Eli. Still he knew not the Source, for the word of the Source was not yet revealed unto him.  
+This signals an inner drought — a state where divine communication is rare, unclear, and easily confused with familiar human voices.
 
-On the third time, Eli perceived that the Source had called the child, and said,  
-> “Go, lie down: and it shall be, if He call thee, that thou shalt say, ‘Speak, Source; for thy servant heareth.’ ”  
+Samuel hears the Source calling him three times, yet mistakes the call for Eli’s voice. This delay is not failure but training. The soul must learn to distinguish **direct spiritual prompting** from inherited authority, habit, and intellect. Once Samuel is taught how to listen properly, he receives a difficult but necessary revelation: the old order must fall.
 
-So Samuel lay down again. Then the Source came and stood, and called as at other times, “Samuel, Samuel.”  
-And Samuel answered, “Speak; for thy servant heareth.”  
-
-*The soul ceases to run outward and listens inward. Hearing is born of stillness.*
+From that moment forward, Samuel is established as a true prophet — one whose words do not fall to the ground.
 
 ---
 
-### **III. The Message (vv 11–18)**  
+# I. NATURAL READING (NR)
 
-The Source said, “I will do a thing in Israel at which both the ears of every one that heareth it shall tingle.”  
-He announced the judgment upon Eli’s house: because his sons made themselves vile and he restrained them not.  
+In the days when Samuel ministered before the LORD under Eli, visions were rare. Eli was old and nearly blind, and Samuel slept near the Ark of God in the tabernacle.
 
-*When old awareness tolerates corruption, a new voice must arise to restore order.*
+The LORD called Samuel, but Samuel assumed it was Eli and ran to him, saying, “Here am I.” Eli told him he had not called and sent him back to sleep. This happened three times.
 
-Samuel lay until the morning and opened the doors of the house of the Source. He feared to show Eli the vision.  
-But Eli called him, and Samuel told him every whit. And Eli said, “It is the Source: let Him do what seemeth Him good.”  
+At last, Eli perceived that the LORD was calling the boy. He instructed Samuel that when the voice came again, he should answer:
 
-*Old awareness bows to new illumination. Acceptance completes the transfer of authority.*
+> **“Speak, LORD; for thy servant heareth.”**
 
----
+The LORD called again, and Samuel responded as instructed. The message revealed judgment against Eli’s house because Eli had failed to restrain his sons, honoring them above God.
 
-### **IV. The Establishment (vv 19–21)**  
-
-Samuel grew, and the Source was with him, and did let none of his words fall to the ground.  
-All Israel knew that Samuel was established as a prophet of the Source.  
-
-*When the inner hearing is fully formed, its words carry creative power — every utterance becomes effective because it issues from alignment.*
+Samuel was afraid to tell Eli, but in the morning he faithfully reported the word. Eli accepted it, saying, “It is the LORD: let him do what seemeth him good.” Samuel grew, the LORD was with him, and all Israel recognized him as a true prophet.
 
 ---
 
-## **Commentary on the Action**
+# II. DEEP READING (DR)
 
-**1 Samuel 3** portrays the shift from second-hand religion to direct revelation.  
+This chapter depicts the **awakening of inner hearing**.
 
-- **Eli (Uplifted Awareness)** represents the waning rational mind — knowledge without fresh inspiration.  
-- **Eli’s Dim Eyes** symbolize perception that knows of truth but no longer sees it.  
-- **Samuel (Heard of God)** is the awakening of inner hearing — the faculty that receives living word from within.  
-- The **three calls** represent the gradual training of intuition — recognition, discernment, response.  
-- **“Speak, for thy servant heareth”** marks the moment of surrender when awareness stops interpreting and simply listens.  
+- **Samuel** represents the emerging faculty of **Spiritual Perception** — present, pure, but not yet trained.
+- **Eli** represents **Intellectual Awareness** — sincere but fading, unable to see clearly, yet still capable of guiding the transition.
 
-From that moment, communication with the Divine becomes internal and continuous.
+### **The Setting — Near the Ark**
+Samuel sleeps near the Ark, where *the lamp of God had not yet gone out*.  
+This shows that the new faculty is formed in the soul’s **consecrated center**, even while the old system loses vision.
 
----
+### **The Three Calls**
+The Source calls three times because the soul instinctively turns to **external authority** before trusting direct inner guidance.
 
-## **Symbolics Table — 1 Samuel 3**
+- **First Call:** Reflexive dependence on the familiar voice  
+- **Second Call:** Confirmation that the familiar cannot answer  
+- **Third Call:** Recognition that the Source is speaking outside old channels  
 
-| Symbol / Term | BKV Meaning | Inner Principle Represented |
-|:---|:---|:---|
-| **Eli** | *Uplifted Awareness (Waning Discernment)* | The old faculty of understanding needing renewal. |
-| **Eli’s Dim Eyes** | *Decline of Outer Perception* | Knowledge without illumination. |
-| **Samuel** | *Heard of God / Prophetic Intuition* | The new faculty of direct revelation. |
-| **Three Calls** | *Stages of Recognition* | Awakening → Discernment → Response. |
-| **The Lamp of God** | *Residual Inspiration* | Faith’s remaining light awaiting rekindling. |
-| **“Speak, for thy servant heareth”** | *Receptive Stillness* | Perfect alignment of will and listening. |
-| **Judgment on Eli’s House** | *Transition of Authority* | Old forms yield to living spirit. |
+### **Eli’s Final Service**
+Though fading, Eli performs one essential task:  
+he teaches Samuel **how to listen**.
 
----
+> *“Speak, LORD; for thy servant heareth.”*
 
-## **Addendum — The Law of Hearing**
+This is the posture that allows true revelation — active invitation joined with complete surrender.
 
-The Voice of God is not new; only the listener awakens.  
-Every call is answered in the same three motions:  
-1. Recognition — awareness turns inward.  
-2. Stillness — the will submits.  
-3. Utterance — truth speaks through the soul.  
-
-The old mind must dim for the inner ear to open; as Eli sleeps, Samuel rises.
+### **The First Message**
+The initial revelation is not comforting but corrective.  
+The Inner Voice does not flatter; it tells the truth.  
+Before new order can stand, the old must be judged.
 
 ---
 
-## **Core BKV Principle — 1 Samuel 3**
+# III. COMMENTARY
 
-> **When the soul ceases to seek truth from without and listens to the inner Voice, Prophetic Consciousness is born. The old awareness yields, and the living word speaks within.**
+### **The Transition of Authority**
 
+| Old Authority | New Authority | Inner Meaning |
+|--------------|---------------|---------------|
+| **Eli** (old, blind) | **Samuel** (young, listening) | Intellectual awareness fades; spiritual perception awakens |
+| **Priestly structure** | **Prophetic voice** | Form gives way to living revelation |
+| **Passive acceptance** | **Active obedience** | Knowing yields to listening and action |
 
+Eli accepts the word humbly, but he does not *become* the word.  
+Samuel receives the word and lives from it.
 
+### **The Formula for Inner Hearing**
+
+Verse 9 contains the chapter’s central sentence:
+
+> **“Speak, LORD; for thy servant heareth.”**
+
+This sentence has two movements:
+
+1. **“Speak, LORD”** — recognition of divine authority and invitation  
+2. **“thy servant heareth”** — surrender of ego, readiness to receive  
+
+This posture moves the soul from confusion into clarity.
+
+---
+
+# IV. KJV ↔ BKV COMPARISON TABLE
+
+| Verse | King James Version (KJV) | Bible Key Version (BKV) |
+|------|--------------------------|--------------------------|
+| 3:1 | The word of the LORD was precious… no open vision | Consciousness was dry; direct spiritual perception was restricted |
+| 3:3 | Ere the lamp of God went out… | The final light of awareness remained as the new faculty formed |
+| 3:7 | Samuel did not yet know the LORD | Inner hearing existed but was not yet discerned |
+| 3:9 | Speak, LORD; for thy servant heareth | The definitive formula for inner receptivity |
+| 3:18 | It is the LORD: let him do what seemeth him good | Intellectual awareness submits to divine law |
+| 3:19 | None of his words fell to the ground | Spiritual perception becomes authoritative and effective |
+
+---
+
+# V. SYMBOLICS TABLE
+
+| Symbol | Meaning | Inner Principle Represented |
+|-------|---------|-----------------------------|
+| **Samuel** | Spiritual Perception | Inner hearing; prophetic awareness |
+| **Eli** | Fading Intellectual Awareness | Old spiritual structure nearing completion |
+| **Three Calls** | Habitual Reliance on the External | The soul learning discernment |
+| **Ark of God** | Consecrated Center of the Soul | Divine Presence within |
+| **Lamp of God** | Remaining Light of Awareness | Guidance during transition |
+| **“Speak, LORD…”** | Formula of Receptivity | Invitation + surrender |
+
+---
+
+# IN SUMMARY
+
+**1 Samuel 3** is a tutorial in listening.
+
+The Source is always speaking, but the soul must learn to distinguish divine prompting from familiar inner noise. The old authority may guide the transition, but it cannot carry the future.
+
+When the ego finally yields and says,  
+**“Speak, LORD; for thy servant heareth,”**  
+the inner voice becomes clear — and authority is established.
+
+---
+
+# END OF 1 SAMUEL 03  
+Updated: February 2025
 
