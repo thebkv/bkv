@@ -127,26 +127,26 @@ wholeness emerges through wilderness, mercy, and consecration.
 | | 08 — “Give Us a King” | Misaligned desire |
 | | 09 — Saul Anointed | Hidden appointment |
 | | 10 — Chosen Publicly | External confirmation |
-| | 11 — Early Triumph | Zeal without depth |
+| | 11 — Early Triumph | Borrowed Authority |
 | | 12 — Samuel’s Farewell | Accountability and warning |
 | **III. The Testing (13–15)** | 13 — Impatience | Will resisting surrender |
-| | 14 — Jonathan’s Venture | Courage guided by faith |
+| | 14 — Jonathan’s Venture | Faith acting without possession of authority |
 | | 15 — Partial Obedience | Rationalization exposed |
 | **IV. The Conflict (16–23)** | 16 — David Anointed | Rise of the heart |
 | | 17 — David & Goliath | Courage rooted in love |
 | | 18 — David & Jonathan | Divine friendship |
 | | 19 — David Escapes | Preservation of the heart |
 | | 20 — Covenant Tested | Loyalty under pressure |
-| | 21 — Sacred Bread | Provision in liminality |
+| | 21 — Sacred Bread | Provision from beyond the former stage |
 | | 22 — Cave of Adullam | Inner reorganization |
 | | 23 — Deliverance at Keilah | Discernment in motion |
 | **V. The Refinement (24–29)** | 24 — Mercy Toward Saul | Heart maturity |
 | | 25 — Abigail & Nabal | Wisdom interrupting anger |
-| | 26 — Spear & Cruse | Discernment of motives |
+| | 26 — Spear & Cruse | Discernment without retaliation |
 | | 27 — Apparent Retreat | Hidden strategy |
 | | 28 — Witch of Endor | False inquiry |
 | | 29 — Separation | Returning to center |
-| **VI. The Completion (30–31)** | 30 — Restoration at Ziklag | Recovery of what was lost |
+| **VI. The Completion (30–31)** | 30 — Restoration at Ziklag | Restoration through shared order |
 | | 31 — Death of Saul | End of self-rule |
 
 ---
