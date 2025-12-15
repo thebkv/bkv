@@ -16,7 +16,7 @@
 
 ---
 
-## The Sixth Inner State — Philadelphia (3:7-13)
+## The Sixth Inner State — Philadelphia: The Loyalty of Limited Capacity and the Unobstructed Opening (3:7-13)
 
 **(7)** And to the **messenger faculty** of the state of **brotherly alignment** write: These declarations come from **pure and reliable authority**, the one who holds **legitimate authority**, who **grants access** that cannot be denied, and **withholds access** that cannot be forced.
 
@@ -34,7 +34,7 @@
 
 ---
 
-## The Seventh Inner State — Laodicea (3:14-22)
+## The Seventh Inner State — Laodicea: The Failure of Self-Sufficiency and the Undecided Attention (3:14-22)
 
 **(14)** And to the **messenger faculty** of the **self-judging consciousness** write: these words proceed from **Reality-as-it-is**, the **unfiltered inner truth-teller**, the **foundational ordering principle**.
 
