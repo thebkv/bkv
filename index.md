@@ -5,10 +5,17 @@ Integrated Symbolics Bible Study
 Revelation
 [01](MSR/66_Revelation_01.md)
 [02](MSR/66_Revelation_02.md)
-[03](66_Revelation_03.md)
-[04](66_Revelation_04.md)
-[05](66_Revelation_05.md)
-[06](66_Revelation_06.md)
+[03](MSR/66_Revelation_03.md)
+[04](MSR/66_Revelation_04.md)
+[05](MSR/66_Revelation_05.md)
+[06](MSR/66_Revelation_06.md)
+[06](MSR/66_Revelation_07.md)
+[06](MSR/66_Revelation_08.md)
+[06](MSR/66_Revelation_09.md)
+[06](MSR/66_Revelation_10.md)
+[06](MSR/66_Revelation_11.md)
+[06](MSR/66_Revelation_12.md)
+[06](MSR/66_Revelation_13.md)
 
 
 
