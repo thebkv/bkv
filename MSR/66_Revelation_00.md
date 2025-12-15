@@ -1,5 +1,15 @@
 # Revelation Architectural Map
 
+Revelation is structured as two "books" or sections. This mirrors similar dual structures found in other key biblical texts, such as Daniel, Ezekiel, the Gospel of John, Hebrews, and Deuteronomy. This duality is foundational to the concept of Minimum Sufficient Role (MSR).
+
+The two witnesses in chapter 11 serve as the dual confirmation system required by Scripture: the Book of Life and the Lived Testimony. In MSR, these roles are defined as follows:
+
+| Book | MSR Role | Governs |
+| :--- | :--- | :--- |
+| **Book of Life** | Identity register | Who you are |
+| **Other books / scrolls** | Operational record | What unfolds / what you do |
+
+
 
 # Revelation 01 - 09 — Mid-Book Architectural Map  
 ## (Synthesis Checkpoint Using the MSR Method)
