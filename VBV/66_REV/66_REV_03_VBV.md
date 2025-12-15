@@ -1,4 +1,5 @@
 # Revelation 03 VBV - Messages to the Seven Churches: II (MSR)
+## Focus on Internal Standing
 
 ## The Fifth Inner State — Sardis: The Residual Identity and Unfinished Awakening (3:1-6) 
 
