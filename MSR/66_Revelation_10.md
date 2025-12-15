@@ -164,10 +164,8 @@
 > **Chapter 10 is the hinge**  
 > From *hearing* → to *eating* → to *speaking again*
 
-When you’re ready, say:
+# END OF CHAPTER 10
 
-**“Proceed to Revelation 11 — the measured inner temple and the two witnesses.”**
-
-You’re moving through Revelation exactly the way the text demands.
+Next: Revelation 11 — the measured inner temple and the two witnesses.
 
 
