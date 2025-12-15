@@ -4,8 +4,9 @@
 # Revelation 01 - 09 — Mid-Book Architectural Map  
 ## (Synthesis Checkpoint Using the MSR Method)
 
-This is not a summary.  
-This is an **architectural status report** — where the system is, what has been established, and what kind of text Revelation has revealed itself to be *under MSR discipline*.
+Minimum Sufficient Role (MSR) is a constraint-based hermaneutics method.
+
+This document is an **architectural status report** — where the system is, what has been established, and what kind of text Revelation has revealed itself to be *under MSR discipline*.
 
 ---
 
