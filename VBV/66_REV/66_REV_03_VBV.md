@@ -1,6 +1,6 @@
 # Revelation 03 VBV - Messages to the Seven Churches: II (MSR)
 
-## The Fifth Inner State — Sardis (3:1-6)
+## The Fifth Inner State — Sardis: The Residual Identity and Unfinished Awakening (3:1-6) 
 
 **(1)** And to the **messenger faculty** addressing the state of **residual identity**, declares the one who governs the **sevenfold operations of Spirit** and the **inner authorities**; I perceive your expressions — that you carry an **identity label of life**, yet remain **unactivated within**.
 
