@@ -6,21 +6,21 @@ Integrated Symbolics Bible Study
 
 ## Book 66 — Revelation
 
-* [Revelation - 00 - Structure (Architectural Overview of the Apocalypse)](MSR/66_Revelation_00.md)
+[Revelation - 00 - Structure (Architectural Overview of the Apocalypse)](MSR/66_Revelation_00.md)
 
-* [Revelation - 01 - The Revelation of Jesus Christ  
+[Revelation - 01 - The Revelation of Jesus Christ  
   (The Unveiling of Unified Consciousness)](MSR/66_Revelation_01.md)
 
-* [Revelation - 02 - Messages to the Seven Churches: I  
+[Revelation - 02 - Messages to the Seven Churches: I  
   (Diagnosis of Inner States of Orientation)](MSR/66_Revelation_02.md)
 
-* [Revelation - 03 - Messages to the Seven Churches: II  
+[Revelation - 03 - Messages to the Seven Churches: II  
   (Authority, Alignment, and the Final Self-Assessment)](MSR/66_Revelation_03.md)
 
-* [Revelation - 04 - The Throne Room of Heaven  
+[Revelation - 04 - The Throne Room of Heaven  
   (Shift from External History to Inner Governance)](MSR/66_Revelation_04.md)
 
-* [Revelation - 05 - The Scroll and the Lamb  
+[Revelation - 05 - The Scroll and the Lamb  
   (Authority Proven Worthy to Open Reality)](MSR/66_Revelation_05.md)
 
 * [Revelation - 06 - The Opening of the Seals  
