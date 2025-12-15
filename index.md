@@ -799,8 +799,9 @@ Special Studies
 With References
 [02](Revelation_02_refs.md)
 
-MSR
-[01](/MSR/66_Revelation_01.md)
+MSR  
+[01](MSR/66_Revelation_01.md)  
+
 ---
 
 ### Archive Marker
