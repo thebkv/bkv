@@ -19,7 +19,7 @@ Integrated Symbolics Bible Study
 * [Revelation - 10 - The Angel with the Little Scroll (The Two Books and the Internalization of Authority)](MSR/66_Revelation_10.md)
 * [Revelation - 11 - The Two Witnesses](MSR/66_Revelation_11.md)
 * [Revelation - 12 - The Woman, the Dragon, and the Male Child](MSR/66_Revelation_12.md)
-* [Revelation - 13 - The Beasts from the Sea and Earth](MSR/66_Revelation_13.md)
+* [Revelation - 13 - The Beasts from the Sea and Earth (Distorted Authority Imitates the True Pattern)](MSR/66_Revelation_13.md)
 * [Revelation - 14 - The Lamb and the 144,000 on Mount Zion](MSR/66_Revelation_14.md)
 * [Revelation - 15 - The Seven Last Plagues](MSR/66_Revelation_15.md)
 * [Revelation - 16 - The Seven Bowls of God's Wrath](MSR/66_Revelation_16.md)
