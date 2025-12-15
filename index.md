@@ -16,7 +16,7 @@ Integrated Symbolics Bible Study
 * [Revelation - 07 - The Sealing of the 144,000](MSR/66_Revelation_07.md)
 * [Revelation - 08 - The Seventh Seal and the First Four Trumpets](MSR/66_Revelation_08.md)
 * [Revelation - 09 - The Fifth and Sixth Trumpets](MSR/66_Revelation_09.md)
-* [Revelation - 10 - The Angel with the Little Scroll](MSR/66_Revelation_10.md)
+* [Revelation - 10 - The Angel with the Little Scroll (The Two Books and the Internalization of Authority)](MSR/66_Revelation_10.md)
 * [Revelation - 11 - The Two Witnesses](MSR/66_Revelation_11.md)
 * [Revelation - 12 - The Woman, the Dragon, and the Male Child](MSR/66_Revelation_12.md)
 * [Revelation - 13 - The Beasts from the Sea and Earth](MSR/66_Revelation_13.md)
