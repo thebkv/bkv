@@ -3,8 +3,8 @@ Integrated Symbolics Bible Study
 
 ## Minimum Sufficient Role (MSR)
 Revelation
-[01](66_Revelation_01.md)
-[02](66_Revelation_02.md)
+[01](MSR/66_Revelation_01.md)
+[02](MSR/66_Revelation_02.md)
 [03](66_Revelation_03.md)
 [04](66_Revelation_04.md)
 [05](66_Revelation_05.md)
