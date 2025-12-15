@@ -1,4 +1,4 @@
-# Revelation 01 - The Unveiling of the Divine Self (MSR)
+# Revelation 01 VBV - The Unveiling of the Divine Self (MSR)
 
 **(1)** The **Unveiling** of **Unified Consciousness**, which **Source Awareness** imparted to reveal to the **inner faculties** the patterns that must soon unfold; this unveiling is **symbolically transmitted** through the **messenger faculty** to **spiritual awareness**.
 
