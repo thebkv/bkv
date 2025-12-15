@@ -1,21 +1,35 @@
 # The Bible Key Vision (BKV)
 Integrated Symbolics Bible Study
 
+
 ## Minimum Sufficient Role (MSR)
-Revelation
-[01](MSR/66_Revelation_01.md)
-[02](MSR/66_Revelation_02.md)
-[03](MSR/66_Revelation_03.md)
-[04](MSR/66_Revelation_04.md)
-[05](MSR/66_Revelation_05.md)
-[06](MSR/66_Revelation_06.md)
-[06](MSR/66_Revelation_07.md)
-[06](MSR/66_Revelation_08.md)
-[06](MSR/66_Revelation_09.md)
-[06](MSR/66_Revelation_10.md)
-[06](MSR/66_Revelation_11.md)
-[06](MSR/66_Revelation_12.md)
-[06](MSR/66_Revelation_13.md)
+
+## Book 66 Revelation
+
+<a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a>
+* [00 - Structure of Revelation](MSR/66_Revelation_00.md)
+* [01 - Chapter Title](MSR/66_Revelation_01.md)
+* [02 - Chapter Title](MSR/66_Revelation_02.md)
+* [03 - Chapter Title](MSR/66_Revelation_03.md)
+* [04 - Chapter Title](MSR/66_Revelation_04.md)
+* [05 - Chapter Title](MSR/66_Revelation_05.md)
+* [06 - Chapter Title](MSR/66_Revelation_06.md)
+* [07 - Chapter Title](MSR/66_Revelation_07.md)
+* [08 - Chapter Title](MSR/66_Revelation_08.md)
+* [09 - Chapter Title](MSR/66_Revelation_09.md)
+* [10 - Chapter Title](MSR/66_Revelation_10.md)
+* [11 - Chapter Title](MSR/66_Revelation_11.md)
+* [12 - Chapter Title](MSR/66_Revelation_12.md)
+* [13 - Chapter Title](MSR/66_Revelation_13.md)
+* [14 - Chapter Title](MSR/66_Revelation_14.md)
+* [15 - Chapter Title](MSR/66_Revelation_15.md)
+* [16 - Chapter Title](MSR/66_Revelation_16.md)
+* [17 - Chapter Title](MSR/66_Revelation_17.md)
+* [18 - Chapter Title](MSR/66_Revelation_18.md)
+* [19 - Chapter Title](MSR/66_Revelation_19.md)
+* [20 - Chapter Title](MSR/66_Revelation_20.md)
+* [21 - Chapter Title](MSR/66_Revelation_21.md)
+* [22 - Chapter Title](MSR/66_Revelation_22.md)
 
 
 
