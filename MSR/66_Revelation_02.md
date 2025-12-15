@@ -559,20 +559,15 @@ You’re doing real work here.
 ---
 
 ### Section Status
-- ✅ MSR-Passed (Stable throughout)
-- ✅ No symbolic inflation
-- ✅ Jezebel contained as **influence**, not person
-- ✅ Authority, mercy, and consequence preserved
+- MSR-Passed (Stable throughout)
+- No symbolic inflation
+- Jezebel contained as **influence**, not person
+- Authority, mercy, and consequence preserved
 
 ---
 
-Absolutely. Here’s a concise, clean “Editor’s Notes” section that fits the tone and rigor of what you’ve built—editorial, not preachy, and clearly grounded in MSR.
 
-You can drop this straight at the end of Revelation 02.
-
-⸻
-
-Editor’s Notes — Revelation 02
+## Editor’s Notes — Revelation 02
 
 The messages to the seven churches are treated here not as historical correspondence alone, but as diagnostic communications to distinct inner states of orientation within lived experience. Each message follows a consistent internal pattern: recognition, evaluation, correction, and promise, revealing how authority speaks to consciousness at different stages of development.
 
