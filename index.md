@@ -3,6 +3,24 @@ Integrated Symbolics Bible Study
 
 # VERSE BY VERSE (VBV)
 
+## Daniel — VBV Table of Contents
+*(Book 27 · Visual / Readable Rendering)*
+
+* [Daniel 01 — Formation Under Pressure (Faithfulness Inside Assimilation)](VBV/27_DAN/27_DAN_01_VBV.md)
+* [Daniel 02 — The Great Image and the Stone (Kingdoms, Power, and Uncut Authority)](VBV/27_DAN/27_DAN_02_VBV.md)
+* [Daniel 03 — The Fiery Furnace (Loyalty Tested by Threat)](VBV/27_DAN/27_DAN_03_VBV.md)
+* [Daniel 04 — The Humbling of the King (Authority Brought Low)](VBV/27_DAN/27_DAN_04_VBV.md)
+* [Daniel 05 — The Writing on the Wall (Judgment at the End of Power)](VBV/27_DAN/27_DAN_05_VBV.md)
+* [Daniel 06 — The Lions’ Den (Integrity Under Legal Pressure)](VBV/27_DAN/27_DAN_06_VBV.md)
+* [Daniel 07 — The Four Beasts and the Son of Man (Distorted Power vs. True Dominion)](VBV/27_DAN/27_DAN_07_VBV.md)
+* [Daniel 08 — The Ram and the Goat (Competing Authorities and Inner Corruption)](VBV/27_DAN/27_DAN_08_VBV.md)
+* [Daniel 09 — The Seventy Weeks (Delay, Confession, and Deferred Restoration)](VBV/27_DAN/27_DAN_09_VBV.md)
+* [Daniel 10 — The Man in Linen (Hidden Conflict and Strengthening Insight)](VBV/27_DAN/27_DAN_10_VBV.md)
+* [Daniel 11 — Kings of the North and South (History Experienced from Within)](VBV/27_DAN/27_DAN_11_VBV.md)
+* [Daniel 12 — The Time of the End (Endurance, Awakening, and Completion)](VBV/27_DAN/27_DAN_12_VBV.md)
+
+<a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a>
+
 ## Revelation — VBV Table of Contents
 *(Book 66 · Visual / Readable Rendering)*
 
