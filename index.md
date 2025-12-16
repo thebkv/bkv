@@ -115,7 +115,7 @@ Integrated Symbolics Bible Study
 * [Psalm 22 — Righteous Suffering Without Abandonment](MSR/19_PSA_22_MSR.md)
 * [Psalm 23 — Governance Through Provision](MSR/19_PSA_23_MSR.md)
 * [Psalm 51 — Restoration Through Alignment, Not Hiding](MSR/19_PSA_51_MSR.md)
-* [Psalm 82 — Delegated Authority Audited](MSR/19_PSA_82_MSR.md)
+* [Psalm 82 — Delegated Authority Audited](MSR/19_PSA/19_PSA_82_MSR.md)
 * [Psalm 90 — Time, Fragility, and Dependence](MSR/19_PSA_90_MSR.md)
 * [Psalm 110 — Authority Shared Under Source](MSR/19_PSA_110_MSR.md)
 
