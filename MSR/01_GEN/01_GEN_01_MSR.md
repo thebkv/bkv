@@ -8,15 +8,23 @@
 Under **Minimum Sufficient Role (MSR)**, Genesis 01 functions as the **foundational ordering sequence of consciousness itself**.  
 It establishes how *form*, *distinction*, *authority*, and *rest* emerge from undifferentiated potential.
 
-MSR compliments the traditional reading, and supports deep study and learning. It cannot propose to be any kind of alternative to the inerrent Holy Bible. Recommended practice is to first read the actual Bible chapter, and then read the MSR to help internalize the message.
+The MSR model describes the process by which consciousness becomes ordered through alignment with Source. MSR reads texts by function, not metaphysics.
 
 Nothing in this chapter requires:
 - modern cosmology
 - scientific harmonization
 - mythological inflation
 
+Crucially, MSR does not claim:
+- that consciousness invents truth
+- that reality is subjective fantasy
+- that the self is autonomous or self-caused
+
 Every element is interpreted **only by the role it performs in the sequence**.
 
+> MSR compliments the traditional reading, and supports deep study and learning. It cannot propose to be any kind of alternative to the inerrent Holy Bible.
+> Recommended practice is to first read the actual Bible chapter, and then read the MSR to help internalize the message.
+> MSR and other studies can engage the intellectual part of the reader, always hold in mind the presence.
 ---
 
 ## Core MSR Principle for Genesis 01
