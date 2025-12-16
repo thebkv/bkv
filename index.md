@@ -1,6 +1,7 @@
 # The Bible Key Vision (BKV)
 Integrated Symbolics Bible Study
 
+# VERSE BY VERSE (VBV)
 
 ## Revelation — VBV Table of Contents
 *(Book 66 · Visual / Readable Rendering)*
@@ -27,7 +28,27 @@ Integrated Symbolics Bible Study
 * [Revelation 21 — New Heaven and New Earth (Coherent Reality Established)](VBV/66_REV/66_REV_21_VBV.md)
 * [Revelation 22 — Life Without Fracture (Sustained Identity and Direct Presence)](VBV/66_REV/66_REV_22_VBV.md)
 
-## Minimum Sufficient Role (MSR)
+
+# Minimum Sufficient Role (MSR)
+
+## Daniel — MSR Table of Contents
+*(Book 27 · Minimum Sufficient Role · Structural / Interpretive Rendering)*
+
+* [Daniel 01 — The King’s Training Program (Identity Under Assimilation Pressure)](MSR/27_DAN/27_DAN_01_MSR.md)
+* [Daniel 02 — Nebuchadnezzar’s Dream (The Statue and the Architecture of World Power)](MSR/27_DAN/27_DAN_02_MSR.md)
+* [Daniel 03 — The Fiery Furnace (Integrity Under Coercive Authority)](MSR/27_DAN/27_DAN_03_MSR.md)
+* [Daniel 04 — The Fallen Tree (Authority Humbled into Awareness)](MSR/27_DAN/27_DAN_04_MSR.md)
+* [Daniel 05 — The Writing on the Wall (Judgment When Meaning Is Lost)](MSR/27_DAN/27_DAN_05_MSR.md)
+* [Daniel 06 — The Lions’ Den (Faithfulness Inside Rigid Systems)](MSR/27_DAN/27_DAN_06_MSR.md)
+* [Daniel 07 — The Four Beasts (Inner Experience of History’s Pressure)](MSR/27_DAN/27_DAN_07_MSR.md)
+* [Daniel 08 — The Ram and the Goat (Distorted Power and Accelerated Conflict)](MSR/27_DAN/27_DAN_08_MSR.md)
+* [Daniel 09 — The Seventy Weeks (Time, Delay, and Deferred Restoration)](MSR/27_DAN/27_DAN_09_MSR.md)
+* [Daniel 10 — The Man in Linen (Hidden Resistance in the Unseen Layer)](MSR/27_DAN/27_DAN_10_MSR.md)
+* [Daniel 11 — Kings of the North and South (History Experienced from the Inside)](MSR/27_DAN/27_DAN_11_MSR.md)
+* [Daniel 12 — The End and the Awakening (Stability Beyond Compression)](MSR/27_DAN/27_DAN_12_MSR.md)
+
+<a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a>
+
 
 ## Book 66 — Revelation
 
