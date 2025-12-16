@@ -5,10 +5,10 @@
 
 ## MSR Preface (Genesis-Specific)
 
-Genesis is not a creation myth, cosmology, or material science account.
-
 Under **Minimum Sufficient Role (MSR)**, Genesis 01 functions as the **foundational ordering sequence of consciousness itself**.  
 It establishes how *form*, *distinction*, *authority*, and *rest* emerge from undifferentiated potential.
+
+MSR compliments the traditional reading, and supports deep study and learning. It cannot propose to be any kind of alternative to the inerrent Holy Bible. Recommended practice is to first read the actual Bible chapter, and then read the MSR to help internalize the message.
 
 Nothing in this chapter requires:
 - modern cosmology
