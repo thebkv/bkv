@@ -5,7 +5,7 @@
 
 ## MSR Preface (Genesis 04–Specific)
 
-Genesis 04 does not introduce violence as spectacle or genealogy as history alone.  
+The Genesis 04 narrative introduces historicaal genealogy.  
 Under **Minimum Sufficient Role (MSR)**, this chapter reveals what happens **after order is established** when **orientation diverges**.
 
 The text traces:
