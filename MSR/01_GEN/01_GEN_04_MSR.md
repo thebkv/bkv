@@ -1,5 +1,5 @@
 # Genesis 04 — Divergence of Alignment and the First Fracture
-## MSR Architectural Reading
+## MSR Architectural Reading  
 
 ---
 
