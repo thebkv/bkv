@@ -49,6 +49,62 @@ Integrated Symbolics Bible Study
 
 # Minimum Sufficient Role (MSR)
 
+## Genesis — MSR Table of Contents
+*(Book 01 · Minimum Sufficient Role Architectural Reading)*
+
+* [Genesis 01 — Order Established from Undifferentiated Potential](MSR/01_GEN/01_GEN_01_MSR.md)
+* [Genesis 02 — Formed Identity and the Conditions of Sustained Life](MSR/01_GEN/01_GEN_02_MSR.md)
+* [Genesis 03 — Fracture, Misalignment, and the Birth of Self-Conscious Fear](MSR/01_GEN/01_GEN_03_MSR.md)
+* [Genesis 04 — Divergent Responses to Fracture (Offering, Rivalry, and Projection)](MSR/01_GEN/01_GEN_04_MSR.md)
+* [Genesis 05 — Lineage as Continuity of Inner Pattern](MSR/01_GEN/01_GEN_05_MSR.md)
+* [Genesis 06 — Corruption of Structure and Loss of Coherence](MSR/01_GEN/01_GEN_06_MSR.md)
+* [Genesis 07 — Preservation of Coherent Identity Through Constriction](MSR/01_GEN/01_GEN_07_MSR.md)
+* [Genesis 08 — Re-emergence, Testing, and Reorientation After Collapse](MSR/01_GEN/01_GEN_08_MSR.md)
+* [Genesis 09 — Stabilized Order and the Covenant of Restraint](MSR/01_GEN/01_GEN_09_MSR.md)
+* [Genesis 10 — Distribution of Expression After Reordering](MSR/01_GEN/01_GEN_10_MSR.md)
+* [Genesis 11 — Unified Language, Misaligned Ambition, and Forced Differentiation](MSR/01_GEN/01_GEN_11_MSR.md)
+* [Genesis 12 — Initiation of Voluntary Alignment (The Call of Abram)](MSR/01_GEN/01_GEN_12_MSR.md)
+* [Genesis 13 — Separation as Clarification of Calling](MSR/01_GEN/01_GEN_13_MSR.md)
+* [Genesis 14 — Authority Tested Through Conflict and Rescue](MSR/01_GEN/01_GEN_14_MSR.md)
+* [Genesis 15 — Promise, Trust, and the Establishment of Identity by Faith](MSR/01_GEN/01_GEN_15_MSR.md)
+* [Genesis 16 — Impatience, Substitution, and the Cost of Shortcut Authority](MSR/01_GEN/01_GEN_16_MSR.md)
+* [Genesis 17 — Identity Marked and Authority Reaffirmed](MSR/01_GEN/01_GEN_17_MSR.md)
+* [Genesis 18 — Discernment, Intercession, and Nearness of Judgment](MSR/01_GEN/01_GEN_18_MSR.md)
+* [Genesis 19 — Collapse of Corrupted Structure and Narrow Preservation](MSR/01_GEN/01_GEN_19_MSR.md)
+* [Genesis 20 — Fear-Based Deception and Protection of the Promise](MSR/01_GEN/01_GEN_20_MSR.md)
+* [Genesis 21 — Differentiation of the True Heir](MSR/01_GEN/01_GEN_21_MSR.md)
+* [Genesis 22 — Voluntary Surrender and the Binding of Identity](MSR/01_GEN/01_GEN_22_MSR.md)
+* [Genesis 23 — Securing a Place for Continuity](MSR/01_GEN/01_GEN_23_MSR.md)
+* [Genesis 24 — Transfer of Covenant Through Discerned Union](MSR/01_GEN/01_GEN_24_MSR.md)
+* [Genesis 25 — Transition of Authority and Competing Natures](MSR/01_GEN/01_GEN_25_MSR.md)
+* [Genesis 26 — Repetition of Testing and the Cost of Fear](MSR/01_GEN/01_GEN_26_MSR.md)
+* [Genesis 27 — Identity Seized and the Consequences of Deception](MSR/01_GEN/01_GEN_27_MSR.md)
+* [Genesis 28 — Awakening to Presence and Reframed Exile](MSR/01_GEN/01_GEN_28_MSR.md)
+* [Genesis 29 — Labor, Desire, and Misaligned Fulfillment](MSR/01_GEN/01_GEN_29_MSR.md)
+* [Genesis 30 — Multiplication Through Tension and Strategy](MSR/01_GEN/01_GEN_30_MSR.md)
+* [Genesis 31 — Separation from Manipulative Authority](MSR/01_GEN/01_GEN_31_MSR.md)
+* [Genesis 32 — Wrestling with Identity Before Transformation](MSR/01_GEN/01_GEN_32_MSR.md)
+* [Genesis 33 — Reconciliation Without Regression](MSR/01_GEN/01_GEN_33_MSR.md)
+* [Genesis 34 — Violation, Overreaction, and Compounded Fracture](MSR/01_GEN/01_GEN_34_MSR.md)
+* [Genesis 35 — Renewal of Promise and Re-centering of Identity](MSR/01_GEN/01_GEN_35_MSR.md)
+* [Genesis 36 — Parallel Lines of Authority Outside the Promise](MSR/01_GEN/01_GEN_36_MSR.md)
+* [Genesis 37 — Favored Identity, Envy, and Descent into Concealment](MSR/01_GEN/01_GEN_37_MSR.md)
+* [Genesis 38 — Disruption, Delay, and Hidden Continuity](MSR/01_GEN/01_GEN_38_MSR.md)
+* [Genesis 39 — Integrity Under Constraint](MSR/01_GEN/01_GEN_39_MSR.md)
+* [Genesis 40 — Interpretation Without Immediate Release](MSR/01_GEN/01_GEN_40_MSR.md)
+* [Genesis 41 — Authority Restored Through Wisdom](MSR/01_GEN/01_GEN_41_MSR.md)
+* [Genesis 42 — Confrontation with the Past](MSR/01_GEN/01_GEN_42_MSR.md)
+* [Genesis 43 — Testing of Transformation](MSR/01_GEN/01_GEN_43_MSR.md)
+* [Genesis 44 — Exposure and Voluntary Substitution](MSR/01_GEN/01_GEN_44_MSR.md)
+* [Genesis 45 — Revelation of Preserved Identity](MSR/01_GEN/01_GEN_45_MSR.md)
+* [Genesis 46 — Descent with Assurance](MSR/01_GEN/01_GEN_46_MSR.md)
+* [Genesis 47 — Survival, Centralization, and Cost](MSR/01_GEN/01_GEN_47_MSR.md)
+* [Genesis 48 — Reordered Blessing and Future Orientation](MSR/01_GEN/01_GEN_48_MSR.md)
+* [Genesis 49 — Prophetic Mapping of Inner Futures](MSR/01_GEN/01_GEN_49_MSR.md)
+* [Genesis 50 — Death, Forgiveness, and Forward Continuity](MSR/01_GEN/01_GEN_50_MSR.md)
+
+<a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a>
+
 
 ## Daniel — MSR Table of Contents
 *(Book 27 · Minimum Sufficient Role · Structural / Interpretive Rendering)*
