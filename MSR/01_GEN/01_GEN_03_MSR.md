@@ -5,7 +5,7 @@
 
 ## MSR Preface (Genesis 03)
 
-Genesis 03 does **not** describe the invention of evil, nor the fall of a perfect world into chaos.
+The Genesis 03 narrative reading describes the invention of evil, and the fall of a perfect world into chaos.
 
 Under **Minimum Sufficient Role (MSR)**, Genesis 03 reveals the moment **undifferentiated obedience gives way to self-referential evaluation**.  
 The chapter documents how **moral consciousness emerges**, how **authority is displaced**, and how **fracture becomes experiential**.
