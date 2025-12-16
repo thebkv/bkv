@@ -1,4 +1,4 @@
-# The Bible Key Vision (BKV)
+# The Bible Key Vision (BKV)  
 Integrated Symbolics Bible Study
 
 # VERSE BY VERSE (VBV)
