@@ -3,29 +3,32 @@
 
 ---
 
-## MSR Preface (Genesis-Specific)
+MSR Preface (Genesis-Specific)
 
-Under **Minimum Sufficient Role (MSR)**, Genesis 01 functions as the **foundational ordering sequence of consciousness itself**.  
-It establishes how *form*, *distinction*, *authority*, and *rest* emerge from undifferentiated potential.
+Under Minimum Sufficient Role (MSR), Genesis 01 functions as the foundational ordering sequence of consciousness itself as revealed by God.
 
-The MSR model describes the process by which consciousness becomes ordered through alignment with Source. MSR reads texts by function, not metaphysics.
+It establishes how form, distinction, authority, and rest emerge from undifferentiated potential through alignment with Source.
+
+The MSR model describes the revealed process by which consciousness becomes ordered — not by self-generation, but by responding to divine initiative.
+MSR reads the text by function, not metaphysics; by role, not speculation.
 
 Nothing in this chapter requires:
-- modern cosmology
-- scientific harmonization
-- mythological inflation
+	•	modern cosmology
+	•	scientific harmonization
+	•	mythological inflation
 
 Crucially, MSR does not claim:
-- that consciousness invents truth
-- that reality is subjective fantasy
-- that the self is autonomous or self-caused
+	•	that consciousness invents truth
+	•	that reality is subjective fantasy
+	•	that the self is autonomous or self-caused
 
-Every element is interpreted **only by the role it performs in the sequence**.
+Every element is interpreted only by the role it performs in the revealed sequence.
 
-> MSR compliments the traditional reading, and supports deep study and learning. It cannot propose to be any kind of alternative to the inerrent Holy Bible.
-> Recommended practice is to first read the actual Bible chapter, and then read the MSR to help internalize the message.
-> MSR and other studies can engage the intellectual part of the reader, always hold in mind the presence.
----
+MSR complements the traditional reading and supports deep study and learning.
+It cannot propose to be any kind of alternative to the inerrant Holy Bible.
+
+Recommended practice is to first read the biblical chapter itself, and then read the MSR rendering to help internalize the revealed order.
+MSR may engage the intellect, but it should always be held alongside the Practice of the Presence.
 
 ## Core MSR Principle for Genesis 01
 
