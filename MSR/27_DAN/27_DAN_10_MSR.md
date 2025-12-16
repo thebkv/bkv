@@ -1,8 +1,9 @@
 # Daniel 10 — The Cost of Revelation and the Delay of Understanding
-### 27_DAN_10_MSR.md
+
 ### King James Text with Bible Key Symbolic Rendering
 ### Using the **Minimum Sufficient Role (MSR)** Method  
 *(Two-column comparison with per-section MSR Check + Bold Audit Check [BAC])*
+27_DAN_10_MSR.md
 
 ---
 
