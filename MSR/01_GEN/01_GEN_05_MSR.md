@@ -5,7 +5,7 @@
 
 ## MSR Preface (Genesis 05)
 
-Genesis 05 is not primarily about biological descent or lifespan curiosity.
+In the Narrative Reading Genesis 05 is primarily about biological descent or lifespan curiosity.
 
 Under **Minimum Sufficient Role (MSR)**, this chapter functions as a **continuity register**:
 it records how *identity*, *likeness*, and *authority* are transmitted, degraded, or preserved across successive internal states.
