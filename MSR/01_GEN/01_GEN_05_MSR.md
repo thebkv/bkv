@@ -1,5 +1,5 @@
 # Genesis 05 — Continuity of Identity Across Generations
-## MSR Architectural Reading
+## MSR Architectural Reading  
 
 ---
 
