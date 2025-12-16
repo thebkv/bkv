@@ -67,52 +67,73 @@ Integrated Symbolics Bible Study
 
 <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a>
 
+## Revelation — MSR Table of Contents
+*(Book 66 · Minimum Sufficient Role · Structural / Interpretive Rendering)*
 
-## Book 66 — Revelation
+* [Revelation 00 — Architectural Map and Structural Overview](MSR/66_REV/66_REV_00_MSR.md)
 
-> [Revelation - 00 - Structure   (Architectural Overview of the Apocalypse)](MSR/66_Revelation_00.md)
+* [Revelation 01 — The Unveiling of Jesus Christ  
+  (Authority Revealed, Perception Oriented)](MSR/66_REV/66_REV_01_MSR.md)
 
-> [Revelation - 01 - The Revelation of Jesus Christ   (The Unveiling of Unified Consciousness)](MSR/66_Revelation_01.md)
+* [Revelation 02 — Messages to the Seven Churches: I  
+  (Internal Alignment, First Love, Endurance)](MSR/66_REV/66_REV_02_MSR.md)
 
-> [Revelation - 02 - Messages to the Seven Churches: I   (Diagnosis of Inner States of Orientation)](MSR/66_Revelation_02.md)
+* [Revelation 03 — Messages to the Seven Churches: II  
+  (Authority, Openness, Stability, and Collapse)](MSR/66_REV/66_REV_03_MSR.md)
 
-> [Revelation - 03 - Messages to the Seven Churches: II   (Authority, Alignment, and the Final Self-Assessment)](MSR/66_Revelation_03.md)
+* [Revelation 04 — The Throne Room Shift  
+  (Transition to Governing Awareness)](MSR/66_REV/66_REV_04_MSR.md)
 
-[Revelation - 04 - The Throne Room of Heaven   (Shift from External History to Inner Governance)](MSR/66_Revelation_04.md)
+* [Revelation 05 — The Scroll and the Worthy One  
+  (Authority to Open Reality)](MSR/66_REV/66_REV_05_MSR.md)
 
-[Revelation - 05 - The Scroll and the Lamb   (Authority Proven Worthy to Open Reality)](MSR/66_Revelation_05.md)
+* [Revelation 06 — The Opening of the Seals  
+  (Inner Pressures Released into Experience)](MSR/66_REV/66_REV_06_MSR.md)
 
-[Revelation - 06 - The Opening of the Seals   (Pressure Released into Lived Experience)](MSR/66_Revelation_06.md)
+* [Revelation 07 — The Sealing of the Servants  
+  (Stabilization Before Expansion)](MSR/66_REV/66_REV_07_MSR.md)
 
-[Revelation - 07 - The Sealing of the Servants   (Stabilization Before Further Unfolding)](MSR/66_Revelation_07.md)
+* [Revelation 08 — Silence and the Trumpets Begin  
+  (Sound Entering the System)](MSR/66_REV/66_REV_08_MSR.md)
 
-[Revelation - 08 - The Seventh Seal and the Trumpets   (When Silence Breaks into Sound)](MSR/66_Revelation_08.md)
+* [Revelation 09 — Sound Reaches the Depths  
+  (What Emerges from Below Consciousness)](MSR/66_REV/66_REV_09_MSR.md)
 
-[Revelation - 09 - The Fifth and Sixth Trumpets   (What Emerges When Sound Reaches the Depths)](MSR/66_Revelation_09.md)
+* [Revelation 10 — The Angel and the Little Scroll  
+  (The Two Books and Internalized Authority)](MSR/66_REV/66_REV_10_MSR.md)
 
-[Revelation - 10 - The Angel with the Little Scroll   (The Two Books and the Internalization of Authority)](MSR/66_Revelation_10.md)
+* [Revelation 11 — The Measured Temple and the Two Witnesses  
+  (Internal Testimony Under Pressure)](MSR/66_REV/66_REV_11_MSR.md)
 
-[Revelation - 11 - The Two Witnesses   (Measured Inner Temple and Testifying Truth)](MSR/66_Revelation_11.md)
+* [Revelation 12 — The Woman, the Dragon, and the Child  
+  (Identity Conflict at the Core Level)](MSR/66_REV/66_REV_12_MSR.md)
 
-[Revelation - 12 - The Woman, the Child, and the Dragon   (Origin of Conflict Between True and Distorted Authority)](MSR/66_Revelation_12.md)
+* [Revelation 13 — The Beasts from Sea and Earth  
+  (Distorted Authority Imitates the True Pattern)](MSR/66_REV/66_REV_13_MSR.md)
 
-[Revelation - 13 - The Beasts from Sea and Earth   (Distorted Authority Imitates the True Pattern)](MSR/66_Revelation_13.md)
+* [Revelation 14 — Firstfruits and True Allegiance  
+  (Inner Harvest and Undivided Loyalty)](MSR/66_REV/66_REV_14_MSR.md)
 
-[Revelation - 14 - The Lamb on Mount Zion   (Firstfruits, True Allegiance, and the Inner Harvest)](MSR/66_Revelation_14.md)
+* [Revelation 15 — The Seven Bowls Prepared  
+  (Final Alignment Before Release)](MSR/66_REV/66_REV_15_MSR.md)
 
-[Revelation - 15 - The Seven Last Plagues   (Final Calibration Before Release of Truth)](MSR/66_Revelation_15.md)
+* [Revelation 16 — The Release of Truth into the System  
+  (Exposure and Consequence)](MSR/66_REV/66_REV_16_MSR.md)
 
-[Revelation - 16 - The Seven Bowls   (Truth Released Fully into the System)](MSR/66_Revelation_16.md)
+* [Revelation 17–18 — Babylon Exposed and Fallen  
+  (False Unity and Its Collapse)](MSR/66_REV/66_REV_17_18_MSR.md)
 
-[Revelation - 17–18 - Babylon Exposed and Fallen   (The Collapse of False Ordering Systems)](MSR/66_Revelation_17_18.md)
+* [Revelation 19 — Authority Restored  
+  (True Order Revealed and Enforced)](MSR/66_REV/66_REV_19_MSR.md)
 
-[Revelation - 19 - The Rider on the White Horse   (Authority Restored and Publicly Revealed)](MSR/66_Revelation_19.md)
+* [Revelation 20 — Authority Secured and Tested  
+  (Stabilization, Release, and Final Judgment)](MSR/66_REV/66_REV_20_MSR.md)
 
-[Revelation - 20 - The Thousand Years and the Judgment   (Authority Secured, Tested, and Finalized)](MSR/66_Revelation_20.md)
+* [Revelation 21 — New Heaven and New Earth  
+  (Reality Without Distortion)](MSR/66_REV/66_REV_21_MSR.md)
 
-[Revelation - 21 - The New Heaven and New Earth   (Reality Reconstructed Without Distortion)](MSR/66_Revelation_21.md)
-
-[Revelation - 22 - The River of Life and Final Invitation   (Life Without Fracture)](MSR/66_Revelation_22.md)
+* [Revelation 22 — Life Without Fracture  
+  (Sustained Identity and Direct Presence)](MSR/66_REV/66_REV_22_MSR.md)
 
 <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a>
 
