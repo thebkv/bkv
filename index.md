@@ -6,14 +6,15 @@ Integrated Symbolics Bible Study
 ## Genesis — VBV Table of Contents
 *(Book 01 · Visual / Readable Rendering)*
 
-* -> [Genesis 01 — Order Established from Undifferentiated Potential](VBV/01_GEN/01_GEN_01_VBV.md)
-* -> [Genesis 02 — Authority Placed Within Form](VBV/01_GEN/01_GEN_02_VBV.md)
+* [Genesis 01 — Order Established from Undifferentiated Potential](VBV/01_GEN/01_GEN_01_VBV.md)
+* [Genesis 02 — Authority Placed Within Form](VBV/01_GEN/01_GEN_02_VBV.md)
 * [Genesis 03 — Misaligned Desire and Fractured Authority](VBV/01_GEN/01_GEN_03_VBV.md)
 * [Genesis 04 — Offering, Resentment, and the First Fracture](VBV/01_GEN/01_GEN_04_VBV.md)
 * [Genesis 05 — Continuity of Life Through Generations](VBV/01_GEN/01_GEN_05_VBV.md)
 * [Genesis 06 — Corruption of Order and the Call to Preservation](VBV/01_GEN/01_GEN_06_VBV.md)
 * [Genesis 07 — Judgment as Containment, Not Annihilation](VBV/01_GEN/01_GEN_07_VBV.md)
-* -> [Genesis 08 — Restoration After Containment](VBV/01_GEN/01_GEN_08_VBV.md)
+* [Genesis 08 — Restoration After Containment](VBV/01_GEN/01_GEN_08_VBV.md)
+*
 * [Genesis 09 — Authority Re-Granted and Life Bounded](VBV/01_GEN/01_GEN_09_VBV.md)
 * [Genesis 10 — Ordered Diversity of Nations](VBV/01_GEN/01_GEN_10_VBV.md)
 * [Genesis 11 — Unified Power and Fragmented Speech](VBV/01_GEN/01_GEN_11_VBV.md)
