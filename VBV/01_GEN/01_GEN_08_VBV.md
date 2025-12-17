@@ -1,4 +1,4 @@
-# GENESIS 08 — MSR Verse-by-Verse (VBV)
+# GENESIS 08 — VBV Verse-by-Verse
 ##Recession, Remembrance, and Re-Entry
 
 Genesis 8:1
