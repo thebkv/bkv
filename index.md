@@ -3,6 +3,62 @@ Integrated Symbolics Bible Study
 
 # VERSE BY VERSE (VBV)
 
+## Genesis — VBV Table of Contents
+*(Book 01 · Visual / Readable Rendering)*
+
+* -> [Genesis 01 — Order Established from Undifferentiated Potential](VBV/01_GEN/01_GEN_01_VBV.md)
+* -> [Genesis 02 — Authority Placed Within Form](VBV/01_GEN/01_GEN_02_VBV.md)
+* [Genesis 03 — Misaligned Desire and Fractured Authority](VBV/01_GEN/01_GEN_03_VBV.md)
+* [Genesis 04 — Offering, Resentment, and the First Fracture](VBV/01_GEN/01_GEN_04_VBV.md)
+* [Genesis 05 — Continuity of Life Through Generations](VBV/01_GEN/01_GEN_05_VBV.md)
+* [Genesis 06 — Corruption of Order and the Call to Preservation](VBV/01_GEN/01_GEN_06_VBV.md)
+* [Genesis 07 — Judgment as Containment, Not Annihilation](VBV/01_GEN/01_GEN_07_VBV.md)
+* -> [Genesis 08 — Restoration After Containment](VBV/01_GEN/01_GEN_08_VBV.md)
+* [Genesis 09 — Authority Re-Granted and Life Bounded](VBV/01_GEN/01_GEN_09_VBV.md)
+* [Genesis 10 — Ordered Diversity of Nations](VBV/01_GEN/01_GEN_10_VBV.md)
+* [Genesis 11 — Unified Power and Fragmented Speech](VBV/01_GEN/01_GEN_11_VBV.md)
+
+* [Genesis 12 — Call Without Full Clarity](VBV/01_GEN/01_GEN_12_VBV.md)
+* [Genesis 13 — Separation Without Fracture](VBV/01_GEN/01_GEN_13_VBV.md)
+* [Genesis 14 — Rescue Without Domination](VBV/01_GEN/01_GEN_14_VBV.md)
+* [Genesis 15 — Covenant Without Performance](VBV/01_GEN/01_GEN_15_VBV.md)
+* [Genesis 16 — Attempted Fulfillment Through Control](VBV/01_GEN/01_GEN_16_VBV.md)
+* [Genesis 17 — Identity Sealed by Promise](VBV/01_GEN/01_GEN_17_VBV.md)
+* [Genesis 18 — Intercession and Discernment](VBV/01_GEN/01_GEN_18_VBV.md)
+* [Genesis 19 — Judgment and the Cost of Delay](VBV/01_GEN/01_GEN_19_VBV.md)
+* [Genesis 20 — Preservation Without Maturity](VBV/01_GEN/01_GEN_20_VBV.md)
+* [Genesis 21 — Fulfillment Without Forgetting the Cost](VBV/01_GEN/01_GEN_21_VBV.md)
+* [Genesis 22 — Release, Trust, and Provision Revealed](VBV/01_GEN/01_GEN_22_VBV.md)
+* [Genesis 23 — Securing Legacy Through Proper Closure](VBV/01_GEN/01_GEN_23_VBV.md)
+* [Genesis 24 — Covenant Extended Through Discernment](VBV/01_GEN/01_GEN_24_VBV.md)
+* [Genesis 25 — Transition of Generations](VBV/01_GEN/01_GEN_25_VBV.md)
+
+* [Genesis 26 — Inherited Promise Under Pressure](VBV/01_GEN/01_GEN_26_VBV.md)
+* [Genesis 27 — Authority Taken Without Alignment](VBV/01_GEN/01_GEN_27_VBV.md)
+* [Genesis 28 — Encounter and Re-Orientation](VBV/01_GEN/01_GEN_28_VBV.md)
+* [Genesis 29 — Desire, Labor, and Deferred Fulfillment](VBV/01_GEN/01_GEN_29_VBV.md)
+* [Genesis 30 — Production Without Peace](VBV/01_GEN/01_GEN_30_VBV.md)
+* [Genesis 31 — Separation and Boundary Restoration](VBV/01_GEN/01_GEN_31_VBV.md)
+* [Genesis 32 — Identity Wrestled Into Coherence](VBV/01_GEN/01_GEN_32_VBV.md)
+* [Genesis 33 — Reconciliation Without Domination](VBV/01_GEN/01_GEN_33_VBV.md)
+* [Genesis 34 — Violation and Misapplied Justice](VBV/01_GEN/01_GEN_34_VBV.md)
+* [Genesis 35 — Re-Alignment and Housekeeping](VBV/01_GEN/01_GEN_35_VBV.md)
+* [Genesis 36 — Catalog of External Power Lines](VBV/01_GEN/01_GEN_36_VBV.md)
+* [Genesis 37 — Calling Revealed Before Maturity](VBV/01_GEN/01_GEN_37_VBV.md)
+* [Genesis 38 — Disrupted Line and Unexpected Preservation](VBV/01_GEN/01_GEN_38_VBV.md)
+* [Genesis 39 — Integrity Preserved Under Pressure](VBV/01_GEN/01_GEN_39_VBV.md)
+* [Genesis 40 — Delay Without Abandonment](VBV/01_GEN/01_GEN_40_VBV.md)
+* [Genesis 41 — Authority Recognized Through Wisdom](VBV/01_GEN/01_GEN_41_VBV.md)
+* [Genesis 42 — Guilt Confronted Before Restoration](VBV/01_GEN/01_GEN_42_VBV.md)
+* [Genesis 43 — Trust Tested Through Provision](VBV/01_GEN/01_GEN_43_VBV.md)
+* [Genesis 44 — Substitution and Revealed Character](VBV/01_GEN/01_GEN_44_VBV.md)
+* [Genesis 45 — Identity Revealed and Authority Reframed](VBV/01_GEN/01_GEN_45_VBV.md)
+* [Genesis 46 — Preservation Through Descent](VBV/01_GEN/01_GEN_46_VBV.md)
+* [Genesis 47 — Settlement and Sustained Provision](VBV/01_GEN/01_GEN_47_VBV.md)
+* [Genesis 48 — Blessing That Reorders Expectation](VBV/01_GEN/01_GEN_48_VBV.md)
+* [Genesis 49 — Spoken Futures and Functional Destinies](VBV/01_GEN/01_GEN_49_VBV.md)
+* [Genesis 50 — Closure Without Loss of Promise](VBV/01_GEN/01_GEN_50_VBV.md)
+
 
 ## Daniel — VBV Table of Contents
 *(Book 27 · Visual / Readable Rendering)*
