@@ -195,6 +195,17 @@ Integrated Symbolics Bible Study
 
 <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a>
 
+
+## Mathew — MSR Table of Contents
+*(Book 40 · Minimum Sufficient Role · Structural / Interpretive Rendering)*
+
+* [Matthew 01 — ](MSR/40_MAT/40_MAT_01_MSR.md)
+* [Matthew 02 — ](MSR/40_MAT/40_MAT_02_MSR.md)
+
+
+<a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a>
+
+
 ## Revelation — MSR Table of Contents
 *(Book 66 · Minimum Sufficient Role · Structural / Interpretive Rendering)*
 
