@@ -118,5 +118,20 @@ The dead suitors descend to Hades, and Athena brings peace to Ithaca.
 | Troy | Past conflict | The finished outer battle whose inner consequences remain unresolved. | Egypt — former bondage shaping present wounds |
 | Phaiakia | Transitional restoration | Healing hospitality that prepares the self for final return. | Wilderness — reorientation before possession |
 
+Here is a "Summary of the Integrated State" designed to tie your psychological mapping together. It uses the language of your **VBV MSR rendering** to explain how the "scattered" self becomes the "restored" King.
+
+---
+
+### The Integrated State: From Fragmentation to Sovereignty
+
+The journey from **Troy** (the site of external conflict) to **Ithaca/Jerusalem** (the site of internal rest) is the process of **Psychological Re-proportioning**.
+
+In the state of exile, the psyche is a "distorted homunculus": the **appetites** (Circe) are humongous, the **ego-force** (Polyphemus) is oversized and blind, and the **will** (Odysseus) is fragmented across a thousand distractions. The "Return" is not merely a physical movement, but a **rendering shift**.
+
+* **The Gathering:** Through the "Witty Inventions" of **Lady Wisdom (Athena)**, the scattered faculties of the self are gathered.
+* **The Purge:** The "Suitors" (the parasitic thoughts that consume the soul's energy) are neutralized, restoring the **Inner Center (Penelope/Abigail)** to its rightful union with the **Active Will (Odysseus/Jacob)**.
+* **The Result:** The final state is **Jerusalem/Ithaca**—a state of **Integrated Proportion**. The "Little Man" within is no longer a caricature of his desires, but a King standing in his own hall, where the Divine Light (**Lumina Sacra**) and Human Strategic Intelligence (**Metis**) are finally one.
+
+---  
 
 # END OF THE ODYSSEY
