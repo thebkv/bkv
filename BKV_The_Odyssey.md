@@ -119,4 +119,4 @@ The dead suitors descend to Hades, and Athena brings peace to Ithaca.
 | Phaiakia | Transitional restoration | Healing hospitality that prepares the self for final return. | Wilderness — reorientation before possession |
 
 
-# END OF ODYSSEUS AND DAVID
+# END OF THE ODYSSEY
