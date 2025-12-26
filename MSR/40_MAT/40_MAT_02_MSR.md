@@ -5,17 +5,18 @@
 
 ## MSR Preface (Matthew-Specific)
 
-Matthew 02 is not a travelogue or political history.
+The conventional reading of Matthew 02 emphasizes  
+political danger, prophetic fulfillment, and miraculous preservation.
 
-Under **Minimum Sufficient Role (MSR)**, this chapter describes what happens
-**when emerging divine authority enters a system that already believes it owns authority**.
+Under **Minimum Sufficient Role (MSR)**, this chapter reveals **what happens when emerging divine authority enters a system that already assumes it owns authority**.
 
-The chapter contrasts:
-- authentic guidance vs. threatened power
-- obedience vs. calculation
-- preservation vs. domination
+The chapter functions as a contrast between:
+- threatened power vs. authentic authority  
+- calculation vs. obedience  
+- domination vs. preservation  
 
-Every figure appears only to perform a role in this conflict.
+Every figure appears only to perform a role within this conflict.  
+Nothing in the chapter requires symbolic inflation beyond that function.
 
 ---
 
@@ -25,10 +26,11 @@ Every figure appears only to perform a role in this conflict.
 - **Herod** → **Threatened Ruling Ego / False Authority**
 - **Wise Men (Magi)** → **External Discernment Seeking Truth**
 - **Star** → **Guiding Revelation**
-- **Jerusalem** → **Established Religious-Power Center**
+- **Jerusalem** → **Established Religious–Power Center**
 - **Egypt** → **Protective Withdrawal / Preservation State**
 - **Bethlehem** → **Humble Emergence Point**
 - **Slaughter** → **Defensive Overreaction of False Power**
+- **Nazareth** → **Non-Prestigious Formation**
 
 ---
 
@@ -39,14 +41,14 @@ Every figure appears only to perform a role in this conflict.
 | Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the east to Jerusalem, Saying, Where is he that is born King of the Jews? for we have seen his star in the east, and are come to worship him. | **Emerging divine authority** appears quietly in a **humble origin**, while **external discernment** follows **authentic guidance** toward recognition of true authority. |
 
 **MSR Check**
-- Function: introduction of authority + recognition ✔
+- Function: introduction of authority and recognition ✔
 - Bethlehem required (humble emergence) ✔
 - Star required (guidance, not coercion) ✔
 
 **BAC**
-- **Child ⇄ Emerging Authority** ✔  
-- **Wise Men ⇄ Discernment** ✔  
-- **Star ⇄ Revelation** ✔
+- **Child ⇄ Emerging Divine Authority** ✔  
+- **Wise Men ⇄ External Discernment** ✔  
+- **Star ⇄ Guiding Revelation** ✔
 
 ---
 
@@ -54,15 +56,15 @@ Every figure appears only to perform a role in this conflict.
 
 | King James Version | MSR Rendering |
 |---|---|
-| When Herod the king had heard these things, he was troubled, and all Jerusalem with him… | **False authority** is disturbed by the arrival of **true authority**, and the **power system aligned with it** shares the fear. |
+| When Herod the king had heard these things, he was troubled, and all Jerusalem with him… | **False authority** is disturbed by the presence of **true authority**, and the **power center aligned with it** shares the fear. |
 
 **MSR Check**
 - Herod’s fear defines his role ✔
-- Jerusalem reacts, not leads ✔
+- Jerusalem reacts but does not lead ✔
 
 **BAC**
-- **Herod ⇄ Threatened Authority** ✔  
-- **Jerusalem ⇄ Power Center** ✔
+- **Herod ⇄ Threatened False Authority** ✔  
+- **Jerusalem ⇄ Established Power Center** ✔
 
 ---
 
@@ -70,11 +72,11 @@ Every figure appears only to perform a role in this conflict.
 
 | King James Version | MSR Rendering |
 |---|---|
-| Then Herod, when he had privily called the wise men, enquired diligently what time the star appeared… | **Threatened authority** seeks to **instrumentalize discernment** while concealing destructive intent. |
+| Then Herod, when he had privily called the wise men, enquired diligently what time the star appeared… | **Threatened authority** attempts to **instrumentalize discernment** while concealing destructive intent. |
 
 **MSR Check**
-- Deception required ✔
-- Timing inquiry = control strategy ✔
+- Deception required for role ✔
+- Timing inquiry signals control strategy ✔
 
 **BAC**
 - **Herod ⇄ Manipulative Authority** ✔
@@ -88,12 +90,12 @@ Every figure appears only to perform a role in this conflict.
 | …the star, which they saw in the east, went before them… and they rejoiced with exceeding great joy… | **Authentic guidance** leads **willing discernment** directly to **true authority**, producing joy and voluntary devotion. |
 
 **MSR Check**
-- Guidance resumes after leaving power center ✔
-- Gifts = recognition, not payment ✔
+- Guidance resumes outside power center ✔
+- Gifts represent recognition, not transaction ✔
 
 **BAC**
 - **Star ⇄ Active Guidance** ✔  
-- **Worship ⇄ Recognition of Authority** ✔
+- **Worship ⇄ Voluntary Recognition** ✔
 
 ---
 
@@ -101,10 +103,10 @@ Every figure appears only to perform a role in this conflict.
 
 | King James Version | MSR Rendering |
 |---|---|
-| …behold, the angel of the Lord appeareth to Joseph in a dream… flee into Egypt… | **Preservation instruction** is given through **obedient receptivity**, initiating **protective withdrawal** rather than confrontation. |
+| …the angel of the Lord appeareth to Joseph in a dream… flee into Egypt… | **Preservation instruction** is received through **obedient receptivity**, initiating **protective withdrawal** rather than confrontation. |
 
 **MSR Check**
-- Egypt as preservation state ✔
+- Egypt functions as preservation state ✔
 - No resistance or debate ✔
 
 **BAC**
@@ -117,11 +119,11 @@ Every figure appears only to perform a role in this conflict.
 
 | King James Version | MSR Rendering |
 |---|---|
-| Then Herod… was exceeding wroth, and sent forth, and slew all the children… | **False authority**, unable to identify truth, resorts to **indiscriminate destruction**, revealing its nature. |
+| Then Herod… was exceeding wroth, and sent forth, and slew all the children… | **False authority**, unable to locate truth, resorts to **indiscriminate destruction**, revealing its nature. |
 
 **MSR Check**
-- Slaughter = exposure of false power ✔
-- Not punishment, but panic ✔
+- Slaughter exposes false power ✔
+- Panic, not justice ✔
 
 **BAC**
 - **Slaughter ⇄ Defensive Overreaction** ✔
@@ -150,7 +152,7 @@ Every figure appears only to perform a role in this conflict.
 
 **MSR Check**
 - Nazareth required (non-prestigious formation) ✔
-- Avoidance of Archelaus preserves continuity ✔
+- Avoidance preserves continuity ✔
 
 **BAC**
 - **Nazareth ⇄ Non-Prestigious Formation** ✔
@@ -159,7 +161,7 @@ Every figure appears only to perform a role in this conflict.
 
 ## MSR Integrity Statement (Matthew 02)
 
-Matthew 02 teaches:
+Matthew 02 shows that:
 
 - True authority does not announce itself.
 - False authority panics when exposed.
@@ -167,7 +169,7 @@ Matthew 02 teaches:
 - Preservation precedes confrontation.
 - Obscurity protects maturation.
 
-Nothing more is required for the chapter to function.
+Nothing more is required for the chapter to function.  
 Nothing less explains its coherence.
 
 # END OF MATTHEW 02 (MSR)
