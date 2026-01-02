@@ -62,6 +62,7 @@ Integrated Symbolics Bible Study
 
 ## Ecclesiastes - VBV Table of Contents
 * [Ecclesiastes 1 — Cycles Without Arrival](VBV/21_ECC/21_ECC_01_VBV.md)
+* [Ecclesiastes 2 — Tested Without Remainder](VBV/21_ECC/21_ECC_02_VBV.md)
 
 ## Daniel — VBV Table of Contents
 *(Book 27 · Visual / Readable Rendering)*
