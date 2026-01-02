@@ -60,6 +60,8 @@ Integrated Symbolics Bible Study
 * [Genesis 49 — Spoken Futures and Functional Destinies](VBV/01_GEN/01_GEN_49_VBV.md)
 * [Genesis 50 — Closure Without Loss of Promise](VBV/01_GEN/01_GEN_50_VBV.md)
 
+## Ecclesiastes - VBV Table of Contents
+* [Ecclesiastes 01 - name](VBV/21_ECC/21_ECC_01_VBV.md)
 
 ## Daniel — VBV Table of Contents
 *(Book 27 · Visual / Readable Rendering)*
