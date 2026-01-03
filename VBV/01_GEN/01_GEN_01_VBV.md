@@ -1,4 +1,43 @@
-# GENESIS 01 — MSR Verse-by-Verse (VBV)
+# Genesis 1 — VBV
+
+* [Genesis 1 — Order Through Distinction](VBV/01_GEN/01_GEN_01_VBV.md)
+
+SUMMARY
+
+Genesis 1 establishes the foundational structure of ordered reality through progressive differentiation. Light, space, land, time, and life are separated and named, forming a coherent framework. Humanity appears last, not as originator, but as steward within an already ordered world.
+
+| KJV | VBV |
+|-----|-----|
+| In the beginning God created the heaven and the earth. | At the outset, existence was brought into being. |
+| And the earth was without form, and void; and darkness was upon the face of the deep. | The world existed without structure, filled with undifferentiated depth and darkness. |
+| And the Spirit of God moved upon the face of the waters. | Ordering presence hovered over the unformed state. |
+| And God said, Let there be light: and there was light. | Light was distinguished, and visibility entered existence. |
+| And God divided the light from the darkness. | A boundary was set between light and darkness. |
+| And God called the light Day, and the darkness he called Night. | The basic cycle of time was named and fixed. |
+| And God said, Let there be a firmament in the midst of the waters. | Space was separated to establish ordered realms. |
+| And God called the firmament Heaven. | The upper realm was defined and named. |
+| And God said, Let the waters under the heaven be gathered together. | Land was distinguished from the waters. |
+| And God called the dry land Earth; and the waters Seas. | Stable domains were named and fixed. |
+| And God said, Let the earth bring forth grass, the herb yielding seed. | Productive capacity was established within the land. |
+| And the earth brought forth grass… after his kind. | Growth occurred according to defined kinds. |
+| And God said, Let there be lights in the firmament of the heaven. | Time and rhythm were regulated by markers. |
+| And God made two great lights. | Greater and lesser rulers governed day and night. |
+| And God said, Let the waters bring forth abundantly the moving creature. | Life expanded into the seas and skies. |
+| And God created great whales, and every living creature. | Diverse life filled the ordered realms. |
+| And God said, Let the earth bring forth the living creature. | Life extended across the land. |
+| And God made the beast of the earth after his kind. | Living beings were structured by kind. |
+| And God said, Let us make man in our image. | Humanity was introduced with representative authority. |
+| And let them have dominion over the earth. | Stewardship over the ordered world was assigned. |
+| So God created man in his own image. | Humanity was established as image-bearing presence. |
+| And God blessed them, and God said unto them, Be fruitful. | Humanity was commissioned to extend life and order. |
+| And God saw every thing that he had made, and, behold, it was very good. | The ordered framework was declared coherent and complete. |
+
+
+
+
+
+
+# GENESIS 01 — MSR Verse-by-Verse (VBV) Original
 
 ## The Architecture of Conscious Creation
 
