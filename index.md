@@ -84,6 +84,16 @@ Integrated Symbolics Bible Study
 
 <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a>
 
+## Galatians — VBV Table of Contents
+* [Galatians 01 — Authority and Orientation Established](VBV/48_GAL/48_GAL_01_VBV.md)
+* [Galatians 02 — Alignment Tested Under Pressure](VBV/48_GAL/48_GAL_02_VBV.md)
+* [Galatians 03 — Life Begun by Spirit, Not Completed by Law](VBV/48_GAL/48_GAL_03_VBV.md)
+* [Galatians 04 — From Guardianship to Sonship](VBV/48_GAL/48_GAL_04_VBV.md)
+* [Galatians 05 — Freedom Sustained by the Spirit](VBV/48_GAL/48_GAL_05_VBV.md)
+* [Galatians 06 — Freedom Lived Through Restoration and Endurance](VBV/48_GAL/48_GAL_06_VBV.md)
+
+<a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a>
+
 ## Revelation — VBV Table of Contents
 *(Book 66 · Visual / Readable Rendering)*
 
