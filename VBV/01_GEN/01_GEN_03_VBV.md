@@ -2,6 +2,9 @@
 
 * [Genesis 3 — Boundary Crossed, Order Strained](VBV/01_GEN/01_GEN_03_VBV.md)
 
+
+> Misaligned Desire and Fractured Authority
+
 SUMMARY
 
 Genesis 3 records the crossing of a defined boundary and the resulting shift in human perception and relationship. Trust gives way to self-direction, openness to self-consciousness, and ease to strain. Life continues, but under altered conditions marked by limitation, distance, and increased effort.
