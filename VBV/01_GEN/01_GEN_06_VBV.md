@@ -1,3 +1,34 @@
+# Genesis 6 — VBV
+
+* [Genesis 6 — Corruption Saturates, Preservation Prepared](VBV/01_GEN/01_GEN_06_VBV.md)
+
+SUMMARY
+
+Genesis 6 records the point at which human orientation becomes fully saturated with corruption and violence. When disorder can no longer be corrected from within, preservation replaces reform. A means of separation is prepared to carry life forward through judgment.
+
+| KJV | VBV |
+|-----|-----|
+| And it came to pass, when men began to multiply on the face of the earth. | Humanity expanded across the earth. |
+| And God saw that the wickedness of man was great in the earth. | Corruption became widespread and dominant. |
+| And that every imagination of the thoughts of his heart was only evil continually. | Inner orientation was fixed toward disorder. |
+| And it repented the LORD that he had made man. | The existing order could no longer be sustained. |
+| But Noah found grace in the eyes of the LORD. | One life remained oriented toward trust. |
+| Noah was a just man and perfect in his generations. | Integrity persisted within corruption. |
+| And Noah walked with God. | Alignment was maintained. |
+| The earth also was corrupt before God, and the earth was filled with violence. | Disorder and violence saturated all structures. |
+| And God looked upon the earth, and, behold, it was corrupt. | The condition was fully diagnosed. |
+| And God said unto Noah, The end of all flesh is come before me. | A decisive boundary was announced. |
+| Make thee an ark of gopher wood. | A means of separation was instructed. |
+| And of every living thing of all flesh, two of every sort shalt thou bring. | Life was preserved through containment. |
+| And behold, I, even I, do bring a flood of waters. | Total saturation would reset conditions. |
+| But with thee will I establish my covenant. | Preservation was secured through trust. |
+| Thus did Noah; according to all that God commanded him. | Instruction was followed without deviation. |
+
+
+
+
+---  
+
 # GENESIS 06 — MSR Verse-by-Verse (VBV)
 
 ## Corruption, Grief, and the Preservation of Alignment
