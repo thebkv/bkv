@@ -9,9 +9,11 @@ Integrated Symbolics Bible Study
 * [Genesis 01 — Order Established from Undifferentiated Potential](VBV/01_GEN/01_GEN_01_VBV.md)
 * [Genesis 02 — Authority Placed Within Form](VBV/01_GEN/01_GEN_02_VBV.md)
 * [Genesis 03 — Boundary Crossed, Order Strained](VBV/01_GEN/01_GEN_03_VBV.md)
-* [Genesis 04 — Offering, Resentment, and the First Fracture](VBV/01_GEN/01_GEN_04_VBV.md)
-* [Genesis 05 — Continuity of Life Through Generations](VBV/01_GEN/01_GEN_05_VBV.md)
-* [Genesis 06 — Corruption of Order and the Call to Preservation](VBV/01_GEN/01_GEN_06_VBV.md)
+* [Genesis 04 — Fracture Spreads Into Relationship](VBV/01_GEN/01_GEN_04_VBV.md)
+* [Genesis 05 — Continuity Under Mortality](VBV/01_GEN/01_GEN_05_VBV.md)
+
+* [Genesis 06 — Corruption Saturates, Preservation Prepared](VBV/01_GEN/01_GEN_06_VBV.md)
+
 * [Genesis 07 — Judgment as Containment, Not Annihilation](VBV/01_GEN/01_GEN_07_VBV.md)
 * [Genesis 08 — Restoration After Containment](VBV/01_GEN/01_GEN_08_VBV.md)
 *
