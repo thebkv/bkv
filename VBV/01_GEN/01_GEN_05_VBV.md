@@ -1,3 +1,34 @@
+# Genesis 5 — VBV
+
+* [Genesis 5 — Continuity Under Mortality](VBV/01_GEN/01_GEN_05_VBV.md)
+
+SUMMARY
+
+Genesis 5 records the steady continuation of humanity through successive generations while underscoring the universality of death. Life is multiplied and extended, yet mortality remains constant. Within this repetition, alignment quietly persists, marked by one life that does not end in death, pointing forward amid the pattern of loss.
+
+| KJV | VBV |
+|-----|-----|
+| This is the book of the generations of Adam. | This is the record of human succession. |
+| In the day that God created man, in the likeness of God made he him. | Humanity continued as image-bearing life. |
+| And Adam lived an hundred and thirty years, and begat a son. | Life extended through generations. |
+| And the days of Adam after he had begotten Seth were eight hundred years. | Life endured across long spans of time. |
+| And all the days that Adam lived were nine hundred and thirty years: and he died. | Mortality concluded even the longest life. |
+| And Seth lived an hundred and five years, and begat Enos. | The generational pattern continued. |
+| And Enos lived ninety years, and begat Cainan. | Birth followed birth in steady succession. |
+| And Cainan lived seventy years, and begat Mahalaleel. | Lineage progressed without interruption. |
+| And Mahalaleel lived sixty and five years, and begat Jared. | Continuity was preserved through naming. |
+| And Jared lived an hundred sixty and two years, and begat Enoch. | The sequence of generations advanced. |
+| And Enoch walked with God. | Alignment with God was maintained. |
+| And he was not; for God took him. | One life did not end in death. |
+| And Methuselah lived an hundred eighty and seven years, and begat Lamech. | Longevity did not remove mortality. |
+| And Lamech lived an hundred eighty and two years, and begat a son. | Hope was placed in the next generation. |
+| And he called his name Noah, saying, This same shall comfort us. | Expectation turned toward relief from toil. |
+| And all the days of Lamech were seven hundred seventy and seven years: and he died. | Even hope-bearing lives ended in death. |
+| And Noah was five hundred years old. | The next phase of history was prepared. |
+
+
+---  
+
 # GENESIS 05 — MSR Verse-by-Verse (VBV)
 
 ## Continuity of Identity Across Generations
