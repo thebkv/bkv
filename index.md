@@ -6,6 +6,8 @@ Integrated Symbolics Bible Study
 ## Genesis — VBV Table of Contents
 *(Book 01 · Visual / Readable Rendering)*
 
+* [Genesis 00 — Reading Modes](VBV/01_GEN/01_GEN_00_VBV.md)
+
 * [Genesis 01 — Order Established from Undifferentiated Potential](VBV/01_GEN/01_GEN_01_VBV.md)
 * [Genesis 02 — Authority Placed Within Form](VBV/01_GEN/01_GEN_02_VBV.md)
 * [Genesis 03 — Boundary Crossed, Order Strained](VBV/01_GEN/01_GEN_03_VBV.md)
