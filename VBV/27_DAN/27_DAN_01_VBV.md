@@ -1,5 +1,7 @@
 # Daniel 01 VBV - Formation Under Pressure (MSR)
 
+---<img width="1024" height="1024" alt="daniel in the den" src="https://github.com/user-attachments/assets/e642b181-6885-4dce-8744-02954b026222" />
+
 ## Testing of Allegiance (1:1-21)  
 
 **(1-2)** In a season of weakened inner rule, **dominant system authority** advances against **ordered inner orientation** and places it under pressure. **Source Authority** permits partial surrender of **sacred capacities of consciousness** into the **system of assimilation**, testing stewardship rather than destroying alignment.
