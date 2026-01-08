@@ -1,6 +1,6 @@
 # Daniel 01 VBV - Formation Under Pressure (MSR)
 
----<img width="1024" height="1024" alt="daniel in the den" src="https://github.com/user-attachments/assets/e642b181-6885-4dce-8744-02954b026222" />
+<img width="1024" height="1024" alt="daniel in the den" src="https://github.com/user-attachments/assets/e642b181-6885-4dce-8744-02954b026222" />
 
 # Daniel 1 — VBV  
 ## Orientation Preserved Under Pressure
