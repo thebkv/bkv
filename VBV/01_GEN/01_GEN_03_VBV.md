@@ -9,6 +9,9 @@ SUMMARY
 
 Genesis 3 records the crossing of a defined boundary and the resulting shift in human perception and relationship. Trust gives way to self-direction, openness to self-consciousness, and ease to strain. Life continues, but under altered conditions marked by limitation, distance, and increased effort.
 
+<img width="1024" height="1024" alt="genesis 03" src="https://github.com/user-attachments/assets/79817f7d-03f4-4725-a339-f8ff1f6b951d" />
+
+
 | KJV | VBV |
 |-----|-----|
 | Now the serpent was more subtil than any beast of the field. | A voice of subtle re-framing entered the ordered setting. |
