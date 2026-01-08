@@ -6,6 +6,8 @@ SUMMARY
 
 Galatians 1 establishes the authority and origin of the gospel before addressing any dispute. Paul asserts that the message he proclaims comes from divine initiative rather than human mediation, and he confronts deviation as a loss of alignment rather than an acceptable variation.
 
+<img width="1024" height="1024" alt="Galatians 1" src="https://github.com/user-attachments/assets/0c499cff-928e-418a-b0b0-f49cbaca35d1" />
+
 | KJV | VBV |
 |-----|-----|
 | Paul, an apostle, not of men, neither by man, but by Jesus Christ. | Paul’s authority is grounded in divine calling rather than human appointment. |
