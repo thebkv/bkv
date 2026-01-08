@@ -6,7 +6,8 @@
 
 Genesis 13 resolves tension created by partial attachment. As Abram and Lot’s shared prosperity generates conflict, separation becomes necessary for coherence. The chapter establishes that alignment clarifies only when competing claims are released, and that promise unfolds after voluntary relinquishment rather than through control or negotiation.
 
----
+<img width="1024" height="1024" alt="genesis 13" src="https://github.com/user-attachments/assets/a161d65c-8334-4a1b-965d-2a91bdbd5f60" />
+
 
 | KJV | VBV |
 |-----|-----|
