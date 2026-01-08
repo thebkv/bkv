@@ -1,10 +1,38 @@
 # Haggai 01
 
-## VBV
+# Haggai 1 — VBV
+
+* [Haggai 1 — Deferred Alignment and Restored Momentum](VBV/37_HAG/37_HAG_01_VBV.md)
+
+SUMMARY
+
+Haggai 1 confronts delayed alignment and its tangible effects. The people have not rejected God, but postponed priority, resulting in frustration and lack. When attention is corrected and action follows, momentum is restored and provision begins to realign.
+
+
+<img width="1024" height="1024" alt="Haggai 2" src="https://github.com/user-attachments/assets/12a66b0a-7d89-403e-8e0d-79e638f2cac1" />
+
+
+| KJV | VBV |
+|-----|-----|
+| Thus speaketh the LORD of hosts, saying, This people say, The time is not come. | A rationale for delay is stated openly. |
+| Is it time for you, O ye, to dwell in your cieled houses? | Comfort has advanced while alignment has stalled. |
+| Consider your ways. | Attention is directed inward. |
+| Ye have sown much, and bring in little. | Effort produces diminished return. |
+| Ye eat, but ye have not enough. | Satisfaction is absent despite provision. |
+| He that earneth wages earneth wages to put it into a bag with holes. | Accumulation fails to hold. |
+| Go up to the mountain, and build the house. | Action is redirected toward priority. |
+| Why? saith the LORD of hosts. | The cause is made explicit. |
+| Because of mine house that is waste. | Neglect is identified as central. |
+| Therefore the heaven over you is stayed from dew. | The environment reflects misalignment. |
+| And I called for a drought. | Constraint mirrors priority disorder. |
+| Then Zerubbabel the son of Shealtiel, and Joshua the son of Josedech. | Leadership responds first. |
+| And the LORD stirred up the spirit of all the remnant. | Willingness is reactivated. |
+| And they came and did work in the house of the LORD. | Alignment produces immediate movement. |
+| I am with you, saith the LORD. | Presence accompanies obedience. |
 
 ----  
 
-# PSR
+
 
 # The Cost of Not Yet - Haggai
 
