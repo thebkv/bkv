@@ -6,6 +6,9 @@ SUMMARY
 
 Genesis 6 records the point at which human orientation becomes fully saturated with corruption and violence. When disorder can no longer be corrected from within, preservation replaces reform. A means of separation is prepared to carry life forward through judgment.
 
+<img width="1024" height="1024" alt="genesis 06" src="https://github.com/user-attachments/assets/47555445-40a0-487c-ba1c-cf79c6c478ae" />
+
+
 | KJV | VBV |
 |-----|-----|
 | And it came to pass, when men began to multiply on the face of the earth. | Humanity expanded across the earth. |
