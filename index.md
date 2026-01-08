@@ -63,10 +63,16 @@ Integrated Symbolics Bible Study
 * [Genesis 48 — Blessing That Reorders Expectation](VBV/01_GEN/01_GEN_48_VBV.md)
 * [Genesis 49 — Spoken Futures and Functional Destinies](VBV/01_GEN/01_GEN_49_VBV.md)
 * [Genesis 50 — Closure Without Loss of Promise](VBV/01_GEN/01_GEN_50_VBV.md)
+<a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a>
+
+## 1 Kings
+* [1 Kings 01 — Authority Unsettled, Authority Named](VBV/11_1KI/11_1KI_01_VBV.md)
+<a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a>
 
 ## Ecclesiastes - VBV Table of Contents
 * [Ecclesiastes 1 — Cycles Without Arrival](VBV/21_ECC/21_ECC_01_VBV.md)
 * [Ecclesiastes 2 — Tested Without Remainder](VBV/21_ECC/21_ECC_02_VBV.md)
+<a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a>
 
 ## Daniel — VBV Table of Contents
 *(Book 27 · Visual / Readable Rendering)*
