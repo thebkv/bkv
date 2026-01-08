@@ -6,7 +6,8 @@
 
 Genesis 12 marks the first decisive reorientation initiated by trust rather than environment. Abram is called to leave inherited structure, visible security, and familiar identity without a mapped outcome. The chapter establishes faith as movement before confirmation, blessing as consequence rather than motive, and alignment as obedience to direction rather than clarity of destination.
 
----
+<img width="1024" height="1024" alt="genesis 12" src="https://github.com/user-attachments/assets/4a47b0d9-3269-4766-b5b1-bd3c2afa3fe1" />
+
 
 | KJV | VBV |
 |-----|-----|
