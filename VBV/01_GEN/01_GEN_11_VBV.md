@@ -4,6 +4,9 @@
 **SUMMARY**  
 Genesis 11 portrays the formation of unified identity without reference to Source Authority. Shared language and collective ambition produce a false coherence that resists dispersion and calling. Division of language restores movement, limits self-exaltation, and redirects development according to intended order.
 
+<img width="1024" height="1024" alt="genesis 11" src="https://github.com/user-attachments/assets/bd4f7f67-1e44-4fb4-99b6-d8bc4daee07a" />
+
+
 | KJV | VBV |
 |-----|-----|
 | And the whole earth was of one language, and of one speech. | Human society operates with complete communicative unity and shared identity. |
