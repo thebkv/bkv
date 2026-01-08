@@ -6,6 +6,10 @@ SUMMARY
 
 Genesis 1 establishes the foundational structure of ordered reality through progressive differentiation. Light, space, land, time, and life are separated and named, forming a coherent framework. Humanity appears last, not as originator, but as steward within an already ordered world.
 
+
+<img width="1024" height="1024" alt="genesis 01" src="https://github.com/user-attachments/assets/6334789f-9412-4327-bd66-6b8eaf9c5f43" />
+
+
 | KJV | VBV |
 |-----|-----|
 | In the beginning God created the heaven and the earth. | At the outset, existence was brought into being. |
