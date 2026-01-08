@@ -92,6 +92,11 @@ Integrated Symbolics Bible Study
 
 <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a>
 
+## Haggai - VBV Table of Contens
+*(Book 38 - The Time is Now)*
+* [Haggai 1 — Deferred Alignment and Restored Momentum](VBV/37_HAG/37_HAG_01_VBV.md)
+
+
 ## Galatians — VBV Table of Contents
 * [Galatians 01 — Authority and Orientation Established](VBV/48_GAL/48_GAL_01_VBV.md)
 * [Galatians 02 — Alignment Tested Under Pressure](VBV/48_GAL/48_GAL_02_VBV.md)
