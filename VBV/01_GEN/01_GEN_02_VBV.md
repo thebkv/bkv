@@ -6,6 +6,10 @@ SUMMARY
 
 Genesis 2 narrows the ordered framework of creation into a lived environment. Humanity is formed, placed, and given purpose within a defined setting. Provision is abundant, work is meaningful, and freedom exists alongside a clear boundary. Relationship is introduced as essential to human completeness, and unity is established without fear or shame.
 
+<img width="1024" height="1024" alt="Genesis 02" src="https://github.com/user-attachments/assets/0c022c92-1ffd-4972-a55a-f47315175e72" />
+
+
+
 | KJV | VBV |
 |-----|-----|
 | Thus the heavens and the earth were finished, and all the host of them. | The ordered framework of existence was completed. |
