@@ -5,7 +5,8 @@
 
 Genesis 7 records the moment when alignment is no longer being tested but preserved. The flood is not corrective instruction but complete systemic dissolution. Entry into preservation happens before pressure begins. Once the transition starts, return is no longer possible. Only what is already aligned continues.
 
----
+<img width="1024" height="1024" alt="Genesis 07" src="https://github.com/user-attachments/assets/c673f7b8-8536-4e67-808e-314db2c7ee8a" />
+
 
 | KJV | VBV |
 |-----|-----|
