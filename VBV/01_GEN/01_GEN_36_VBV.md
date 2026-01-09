@@ -19,6 +19,6 @@ This chapter exists to test the disciple’s patience. It warns that early resol
 | And these are the dukes that came of Esau. | Governance stabilizes and completes. |
 
 ## DISCIPLE NOTE
-Genesis 36 shows that systems can fully resolve without God’s presence. Order, power, and continuity can be achieved through alignment with the world’s architecture. This chapter does not condemn that success — it **relativizes it**. The covenant path delays visible reward because it is forming something different: a people who can carry Presence rather than merely hold power.
+Genesis 36 shows that situations and conditions can fully resolve without God’s presence. Order, power, and continuity can beBut the convenant path is different. The covenant path delays visible reward because it is forming something different: a people who can carry Presence rather than merely hold worldly influence.
 
 # END OF CHAPTER 36
