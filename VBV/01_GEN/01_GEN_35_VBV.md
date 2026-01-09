@@ -5,7 +5,8 @@ SUMMARY
 
 Genesis 35 records the return to prior alignment before forward movement is permitted. Jacob is called back to Bethel, the place of original encounter, where foreign attachments are removed, identity is reaffirmed, and blessing resumes through obedience rather than strategy. The chapter demonstrates that inheritance does not advance until unresolved contamination is addressed.
 
----
+<img width="1024" height="1024" alt="genesis 35 b" src="https://github.com/user-attachments/assets/318040ca-e8f0-4f10-958f-3d53b96d1b9b" />
+
 
 | KJV | VBV |
 |-----|-----|
