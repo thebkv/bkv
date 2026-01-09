@@ -3,6 +3,8 @@
 ## SUMMARY
 Genesis 36 documents the rapid establishment of Esau’s descendants. Political authority, territorial stability, and kingship emerge early and decisively. This chapter contrasts immediate structural success with the slower, promise-dependent formation of the covenant line. Power is achieved without presence, and order forms without alignment.
 
+This chapter exists to test the disciple’s patience. It warns that early resolution is not the same as true inheritance, and that systems which settle too quickly often settle too shallow. The disciple is reminded that delay is not failure when the goal is Presence rather than power.
+
 | KJV | VBV |
 |-----|-----|
 | Now these are the generations of Esau. | A parallel lineage is formally established. |
