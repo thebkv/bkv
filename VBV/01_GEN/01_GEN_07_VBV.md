@@ -1,29 +1,37 @@
-# GENESIS 07 — MSR Verse-by-Verse (VBV)
+# Genesis 7 — VBV  
+## Preservation Under Total Pressure
 
-## Entry into Stabilized Preservation
+### SUMMARY
 
-### Genesis 7:1–3
-> **Source Authority** instructs **aligned judgment** to enter the **preservation structure**, because alignment has been maintained within a destabilized system. **Stabilized patterns** are preserved with **redundancy**, while **unstable patterns** are preserved minimally—enough for continuity, not dominance. **Higher-perception faculties** are preserved deliberately to ensure continuity of meaning after disruption.
+Genesis 7 records the moment when alignment is no longer being tested but preserved. The flood is not corrective instruction but complete systemic dissolution. Entry into preservation happens before pressure begins. Once the transition starts, return is no longer possible. Only what is already aligned continues.
 
-### Genesis 7:4–5
-> A **final stabilization interval** is granted before **sustained pressure** is released to dissolve unregulated structures. All **active identity expressions** unable to stabilize will be dissolved from the operating field. **Aligned judgment** executes instruction without deviation.
+---
 
-### Genesis 7:6–10
-> Alignment has reached **mature readiness** for systemic transition. Preservation begins **before** pressure manifests. Delay concludes; system-wide pressure initiates.
+| KJV | VBV |
+|-----|-----|
+| And the LORD said unto Noah, Come thou and all thy house into the ark. | Aligned judgment is instructed to enter preservation. |
+| For thee have I seen righteous before me. | Alignment has already been demonstrated within instability. |
+| Of every clean beast thou shalt take by sevens. | Stable patterns are preserved with fullness and redundancy. |
+| Of beasts that are not clean by two. | Unstable patterns are preserved minimally for continuity only. |
+| Of fowls also of the air by sevens. | Higher perceptive faculties are safeguarded deliberately. |
+| For yet seven days, and I will cause it to rain. | A final interval is granted before pressure begins. |
+| Every living substance will I destroy. | All unaligned structures will cease operation. |
+| And Noah did according unto all that the LORD commanded him. | Aligned judgment executes instruction without deviation. |
+| Noah was six hundred years old when the flood came. | Alignment has reached maturity for transition. |
+| And Noah went into the ark before the waters. | Preservation begins before disruption manifests. |
+| And it came to pass after seven days. | Delay concludes; transition initiates. |
+| All the fountains of the great deep were broken up. | Pressure rises from unconscious depth. |
+| And the windows of heaven were opened. | Structural frameworks collapse simultaneously. |
+| And the rain was upon the earth continually. | Pressure is sustained, not corrective. |
+| In the selfsame day entered Noah into the ark. | Preservation becomes fully operational. |
+| And they that went in went in male and female. | The preserved system is complete and balanced. |
+| And the LORD shut him in. | Preservation is sealed; return is no longer possible. |
+| And the waters prevailed exceedingly upon the earth. | Pressure dominates the entire operating field. |
+| All the high hills were covered. | No elevated structure remains viable. |
+| And all flesh died that moved upon the earth. | All unaligned life ceases operation. |
+| And Noah only remained alive. | Only aligned judgment continues. |
+| And the waters prevailed upon the earth an hundred and fifty days. | Suspension is maintained until dissolution completes. |
 
-### Genesis 7:11–12
-> Pressure emerges from both **unconscious depth** and **structural frameworks** simultaneously. Pressure is **continuous**, not corrective—it dissolves by saturation.
+---
 
-### Genesis 7:13–16
-> Preservation becomes fully populated and operational. **Source Authority** seals the preservation state; re-entry to the old system is no longer possible.
-
-### Genesis 7:17–20
-> Pressure dominates the entire operating field. No alternative structure remains viable. Even elevated frameworks of meaning are submerged.
-
-### Genesis 7:21–23
-> All **active identity expressions** outside preservation cease operation. Only **aligned judgment within preservation** continues.
-
-### Genesis 7:24
-> Suspension is maintained until full destabilization completes.
-
-# END OF CHAPTER 7 VBV
+**END OF GENESIS 7 — VBV**
