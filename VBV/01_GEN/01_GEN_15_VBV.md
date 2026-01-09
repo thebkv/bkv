@@ -4,6 +4,9 @@
 ### SUMMARY  
 Genesis 15 establishes covenantal assurance independent of action. After decisive intervention in Genesis 14, Abram is instructed to remain still. Fear is addressed, promise is clarified, and alignment is sealed by divine initiative alone. The chapter distinguishes inheritance by trust from possession by effort.
 
+<img width="1024" height="1024" alt="genesis 15" src="https://github.com/user-attachments/assets/f068ea4e-be9f-40c0-99fa-8551a0344af8" />
+
+
 | KJV | VBV |
 |-----|-----|
 | After these things the word of the LORD came unto Abram in a vision. | Alignment is addressed directly following decisive action. |
