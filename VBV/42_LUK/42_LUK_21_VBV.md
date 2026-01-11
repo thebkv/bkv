@@ -6,7 +6,8 @@
 
 Luke 21 traces the movement from **fidelity** through **systemic breakdown** into **enduring witness**. The chapter contrasts unseen faithfulness with visible structures, shows the inevitability of institutional collapse, and reorients attention from prediction to perseverance. The disciple message of the chapter is not forecasting events, but instructing disciples how to remain oriented, articulate, and steady when religious, political, and social systems destabilize.
 
----
+<img width="1024" height="1024" alt="luke 21" src="https://github.com/user-attachments/assets/e2a01df4-8c62-4a1e-9b62-6ff7646af29d" />
+
 
 | KJV | VBV |
 |---|---|
