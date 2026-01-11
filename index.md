@@ -107,6 +107,14 @@ Integrated Symbolics Bible Study
 
 <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a>
 
+
+## Luke VBV Table of Contents
+*(Book 42 - The Gospel of St. Luke)*
+
+* [Luke 21 — Endurance Under Collapse](VBV/42_LUK/42_LUK_21_VBV.md)
+<a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a>
+
+
 ## Revelation — VBV Table of Contents
 *(Book 66 · Visual / Readable Rendering)*
 
