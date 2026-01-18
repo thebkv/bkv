@@ -65,6 +65,13 @@ Integrated Symbolics Bible Study
 * [Genesis 50 — Closure Without Loss of Promise](VBV/01_GEN/01_GEN_50_VBV.md)
 <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a>
 
+
+## Exodus
+* [Exodus 1 — Growth Under Pressure](VBV/02_EXO/02_EXO_01_VBV.md)
+
+<a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a>
+
+
 ## 1 Kings
 * [1 Kings 01 — Authority Unsettled, Authority Named](VBV/11_1KI/11_1KI_01_VBV.md)
 <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a>
