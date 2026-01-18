@@ -25,5 +25,7 @@ Delegated authority confronts hardened power. Signs are introduced as verificati
 | And he hardened Pharaoh’s heart… | Resistance persists despite evidence. |
 | And the LORD spake unto Moses… | Escalation is prepared. |
 | Pharaoh’s heart is hardened… | The condition is diagnosed without surprise. |
+| And all the Egyptians digged round about the river for water to drink; for they could not drink of the water of the river. | Survival labor replaces submission. Workarounds emerge under sustained pressure. |
+| And seven days were fulfilled, after that the LORD had smitten the river. | Judgment is sustained long enough to test endurance rather than provoke immediate surrender. |
 
 # END OF CHAPTER 07
