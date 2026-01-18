@@ -69,6 +69,8 @@ Integrated Symbolics Bible Study
 ## Exodus
 * [Exodus 1 — Growth Under Pressure](VBV/02_EXO/02_EXO_01_VBV.md)
 
+* [Exodus 3 — Presence Revealed, Authority Commissioned](VBV/02_EXO/02_EXO_03_VBV.md)
+
 <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a>
 
 
