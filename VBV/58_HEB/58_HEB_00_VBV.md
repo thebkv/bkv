@@ -38,6 +38,8 @@ Why would people who believe be tempted to go backward?
 Hebrews is not correcting false belief.
 It is correcting **loss of orientation under pressure**.
 
+> What is finished cannot be improved by returning to shadow.
+
 ---
 
 ## Hebrews 00 — Orientation
