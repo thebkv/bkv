@@ -1,6 +1,5 @@
 # Revelation 01 — SDR  
 ## The Unveiling of the Divine Self
-updated 01/17/26
 
 > title
 
@@ -45,3 +44,4 @@ updated 01/17/26
 (20) The revealed pattern of the **seven guiding authorities** held in governing power, and the **seven illuminated stands of awareness**. The seven guiding authorities are the **messenger faculties** governing the seven inner states, and the seven illuminated stands are the **seven inner states themselves**.
 
 END OF CHAPTER 01
+updated 01/17/26
