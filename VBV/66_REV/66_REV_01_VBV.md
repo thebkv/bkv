@@ -1,6 +1,6 @@
 # Revelation 01 — SDR  
 ## The Unveiling of the Divine Self
-- updated 01/17/26
+updated 01/17/26
 
 > title
 
