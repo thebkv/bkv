@@ -1,4 +1,5 @@
 # Revelation 02 VBV - Messages to the Seven Churches: I (MSR)
+>The inner life is addressed state by state, according to its posture toward presence.
 
 ## The First Inner State — Ephesus (2:1-7)
 
