@@ -1,7 +1,7 @@
-# Revelation 01 — SDR  
-## The Unveiling of the Divine Self
+# Revelation 01 — The Unveiling of Jesus Christ
 
-> title
+Jesus Christ is revealed.
+
 
 (1) **The Unveiling of Unified Consciousness**, which **Source Awareness** imparted to reveal to the inner faculties the patterns that must soon unfold; this unveiling is symbolically transmitted through the **messenger faculty** to **spiritual awareness**.
 
