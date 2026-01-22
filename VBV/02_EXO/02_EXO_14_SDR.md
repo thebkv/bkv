@@ -1,6 +1,8 @@
 # Exodus 14 — SDR  
 **The Way Opens Where the World Ends**
 
+> This chapter shows what happens when the old system is behind you, the future is blocked, and fear gets loud. Deliverance doesn’t come from fighting or escaping, but from staying present and moving forward before the path appears.
+
 The inner life arrives at a place where **forward movement appears impossible**.  
 Behind it lies the **old system**, which once ruled by fear and pressure.  
 Ahead lies **uncertainty**, with no visible path through.
