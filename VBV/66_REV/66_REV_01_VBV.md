@@ -1,6 +1,7 @@
 # Revelation 01 — The Unveiling of Jesus Christ
 
 Jesus Christ is revealed.
+<img width="1024" height="1024" alt="rev 01" src="https://github.com/user-attachments/assets/807ea944-6233-47af-9152-dcede369a90f" />
 
 
 (1) **The Unveiling of Unified Consciousness**, which **Source Awareness** imparted to reveal to the inner faculties the patterns that must soon unfold; this unveiling is symbolically transmitted through the **messenger faculty** to **spiritual awareness**.
