@@ -222,6 +222,30 @@ flowchart TD
   A --> B
 </div>
 
+---
 
+<div class="mermaid">
+graph TD
+  Abraham --> Isaac
+  Isaac --> Jacob
+  Jacob --> Judah
+</div>
+
+---
+
+<div class="mermaid">
+sequenceDiagram
+  participant Disciple
+  participant Law
+  participant Grace
+
+  Disciple->>Law: Attempts alignment
+  Law-->>Disciple: Reveals lack
+  Disciple->>Grace: Turns inward
+  Grace-->>Disciple: Establishes rest
+</div>
+
+
+  
 
 
