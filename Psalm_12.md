@@ -215,6 +215,12 @@ flowchart TD
 </div>
 
 
+---
+
+<div class="mermaid">
+flowchart TD
+  A --> B
+</div>
 
 
 
