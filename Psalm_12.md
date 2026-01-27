@@ -70,8 +70,8 @@ that never collapses.
 
 ---
 
-# III. **PSR — “PURE WORD IN A CROOKED WORLD”**
-*(Late-night shortwave, gritty and honest)*
+# PSALM 12
+## “PURE WORD IN A CROOKED WORLD"
 
 Friend, Psalm 12 feels like it was written yesterday.  
 You look around and you see it:  
@@ -112,7 +112,7 @@ That is hope.
 
 # PSALM 12
 
-## **“PURE WORD IN A CROOKED WORLD”**
+## “PURE WORD IN A CROOKED WORLD”
 
 I happen to come across psalm 12 today. it is as relevant now as it ever was.
 
