@@ -141,7 +141,7 @@ That they decide what’s true just by saying it confidently. Which usually mean
 
 And their Satanoc message always is  beleive us, not the Truth.
 👉🏼
-
+---  
 
 
 
@@ -153,7 +153,7 @@ And God answers.
 God says He hears the ones being pushed down.
 He sees how language is being used to manipulate.
 👉🏼
-
+--- 
 
 
 
