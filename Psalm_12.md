@@ -118,65 +118,76 @@ That is hope.
 ## “PURE WORD IN A CROOKED WORLD”
 
 I happen to come across psalm 12 today. it is as relevant now as it ever was.
-👉🏼
-
-
-
-
-
-
+👉🏼  
+  
+  
+  
+  
+  
+  
 The people who care about truth seem harder to find.
 There's lot of talking, a lot of positionas,
 but not much honesty.
 The words of the world are all they care for.
-👉🏼
-
-
-
-
-
-
+👉  
+  
+  
+  
+  
+  
+  
 They think their words make the rules.
 That they decide what’s true just by saying it confidently. Which usually means they are selling a message.
-
+  
 And their Satanoc message always is  beleive us, not the Truth.
-👉🏼
----  
-
-
-
-
-
+👉🏼  
+  
+  
+  
+  
+  
+  
 So we pray.
 And God answers.
-
+  
 God says He hears the ones being pushed down.
 He sees how language is being used to manipulate.
-👉🏼
---- 
-
-
-
-
-
-
+👉🏼  
+  
+  
+  
+  
+  
+  
+  
 And He promises to step in and put His people in a safe place.
-
+  
 The World's human words break down.
 God’s words are dependable and don’t change depending on who’s talking.
-👉🏼
-
-
-
-
-
-
-
-
+👉🏼  
+  
+  
+  
+  
+  
+  
+  
+  
 Friend, let us try to stay honest in this dishonest age.
-
+  
 We can't trust what we hear around us.
-We can always trust the voice of God. ❤️🙏⚓️
+We can always trust the voice of God. ❤️🙏⚓️  
+
+
+
+
+
+
+
+
+
+
+  
 
 
 
