@@ -191,6 +191,20 @@ flowchart TD
     A --> B & C & D & E
 ```
 
+---
+
+<div class="mermaid">
+flowchart TD
+A --> B & C & D & E
+</div>
+
+---
+
+```mermaid
+flowchart TD
+    A --> B & C & D & E
+```
+
 
 
 
