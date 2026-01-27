@@ -128,8 +128,8 @@ I happen to come across psalm 12 today. it is as relevant now as it ever was.
 The people who care about truth seem harder to find.
 There's lot of talking, a lot of positionas,
 but not much honesty.
-The words of the world are all they care for.
-⇢  
+The words of the world are all they care for.  
+➡ 
   
   
   
@@ -178,7 +178,10 @@ Friend, let us try to stay honest in this dishonest age.
 We can't trust what we hear around us.
 We can always trust the voice of God. ❤️🙏⚓️  
 
-
+```mermaid
+flowchart TD
+    A --> B & C & D & E
+```
 
 
 
