@@ -1,6 +1,135 @@
 # The Bible Key Vision (BKV)  
 Integrated Symbolics Bible Study  
 
+
+<div class="mermaid">
+flowchart TD
+
+  %% =========================
+  %% Sevenfold Master Diagram
+  %% =========================
+
+  A[Scripture as One Architecture<br/>Sevenfold Structure]:::root
+
+  A --> S1
+  A --> S2
+  A --> S3
+  A --> S4
+  A --> S5
+  A --> S6
+  A --> S7
+
+  %% 1) Moses / Foundation
+  subgraph S1[1. Moses Books<br/>Foundation and Pattern]
+    direction TB
+    GEN[Genesis]:::book
+    EXO[Exodus]:::book
+    LEV[Leviticus]:::book
+    NUM[Numbers]:::book
+    DEU[Deuteronomy]:::book
+  end
+
+  %% 2) Histories / Formation
+  subgraph S2[2. Histories<br/>Formation, Failure, and Real-World Consequence]
+    direction TB
+    JOS[Joshua]:::book
+    JDG[Judges]:::book
+    RUT[Ruth]:::book
+    SA1[1 Samuel]:::book
+    SA2[2 Samuel]:::book
+    KI1[1 Kings]:::book
+    KI2[2 Kings]:::book
+    CH1[1 Chronicles]:::book
+    CH2[2 Chronicles]:::book
+    EZR[Ezra]:::book
+    NEH[Nehemiah]:::book
+    EST[Esther]:::book
+  end
+
+  %% 3) Prophets / Pressure and Correction
+  subgraph S3[3. Prophets<br/>Correction, Warning, and Re-Alignment]
+    direction TB
+    ISA[Isaiah]:::book
+    JER[Jeremiah]:::book
+    LAM[Lamentations]:::book
+    EZE[Ezekiel]:::book
+    DAN[Daniel]:::book
+    HOS[Hosea]:::book
+    JOE[Joel]:::book
+    AMO[Amos]:::book
+    OBA[Obadiah]:::book
+    JON[Jonah]:::book
+    MIC[Micah]:::book
+    NAH[Nahum]:::book
+    HAB[Habakkuk]:::book
+    ZEP[Zephaniah]:::book
+    HAG[Haggai]:::book
+    ZEC[Zechariah]:::book
+    MAL[Malachi]:::book
+  end
+
+  %% 4) Poetry / Inner Life and Perception
+  subgraph S4[4. Poetry<br/>Inner Life, Wisdom, and the Voice of the Heart]
+    direction TB
+    JOB[Job]:::book
+    PSA[Psalms]:::book
+    PRO[Proverbs]:::book
+    ECC[Ecclesiastes]:::book
+    SNG[Song of Solomon]:::book
+  end
+
+  %% 5) Gospels and Acts / Incarnation and Movement
+  subgraph S5[5. Gospels & Acts<br/>The Life, the Pattern, and the Spread]
+    direction TB
+    MAT[Matthew]:::book
+    MAR[Mark]:::book
+    LUK[Luke]:::book
+    JOH[John]:::book
+    ACT[Acts]:::book
+  end
+
+  %% 6) Letters / Construction and Instruction
+  subgraph S6[6. Letters<br/>Formation of the Disciple and the Assembly]
+    direction TB
+    ROM[Romans]:::book
+    CO1[1 Corinthians]:::book
+    CO2[2 Corinthians]:::book
+    GAL[Galatians]:::book
+    EPH[Ephesians]:::book
+    PHP[Philippians]:::book
+    COL[Colossians]:::book
+    TH1[1 Thessalonians]:::book
+    TH2[2 Thessalonians]:::book
+    TI1[1 Timothy]:::book
+    TI2[2 Timothy]:::book
+    TIT[Titus]:::book
+    PHM[Philemon]:::book
+    HEB[Hebrews]:::book
+    JAM[James]:::book
+    PE1[1 Peter]:::book
+    PE2[2 Peter]:::book
+    JN1[1 John]:::book
+    JN2[2 John]:::book
+    JN3[3 John]:::book
+    JUD[Jude]:::book
+  end
+
+  %% 7) Revelation / Completion and Unveiling
+  subgraph S7[7. Revelation<br/>Unveiling, Completion, and the Final Pattern]
+    direction TB
+    REV[Revelation]:::book
+  end
+
+  %% =========================
+  %% Styling
+  %% =========================
+  classDef root fill:#ffffff,stroke:#003366,stroke-width:2px;
+  classDef book fill:#ffffff,stroke:#004d40,stroke-width:1px;
+
+</div>
+
+---  
+
 # VERSE BY VERSE (VBV)
 
 ## Genesis — VBV Table of Contents
