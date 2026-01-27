@@ -8,3 +8,6 @@ sass:
 
 include:
   - _includes/head-custom.html
+
+mermaid: true
+
