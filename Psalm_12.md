@@ -184,7 +184,12 @@ flowchart TD
   B -->|Yes| C[Do thing]
   B -->|No| D[Do other thing]
 ```
+---
 
+```mermaid
+flowchart TD
+    A --> B & C & D & E
+```
 
 
 
