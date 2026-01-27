@@ -129,7 +129,7 @@ The people who care about truth seem harder to find.
 There's lot of talking, a lot of positionas,
 but not much honesty.
 The words of the world are all they care for.
-👉  
+⇢  
   
   
   
