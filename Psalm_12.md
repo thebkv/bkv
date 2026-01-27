@@ -180,21 +180,11 @@ We can always trust the voice of God. ❤️🙏⚓️
 
 ```mermaid
 flowchart TD
-    A --> B & C & D & E
+  A[Start] --> B{Decision}
+  B -->|Yes| C[Do thing]
+  B -->|No| D[Do other thing]
 ```
 
-<div class="mermaid">
-flowchart TD
-A --> B & C & D & E
-</div>
-
-
-
-
-
-
-
-  
 
 
 
