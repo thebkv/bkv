@@ -1,3 +1,106 @@
+# Dossier: Revelation 02  
+**Subject: The Audit of First Love and Competing Loyalties**
+
+---
+
+## BKV Spine
+
+### Spine Summary
+
+Revelation 2 begins the direct audit of the churches. Authority now addresses specific communities in lived conditions. Each message follows a consistent pattern: recognition, correction, and consequence. The chapter reveals that endurance without love, tolerance without truth, and compromise without repentance all degrade alignment. What is examined is not belief alone, but loyalty. The aim is restoration through return, not removal through force.
+
+### Disciple Orientation
+
+• Authority speaks to real conditions, not abstractions.  
+• Faithfulness is measured by love and loyalty, not activity alone.  
+• Compromise grows when discernment (the messenger faculty) weakens.  
+• Correction is given to restore alignment before loss becomes final.
+
+---
+
+## VBV — Revelation 02  
+**Minimum Sufficient Role**
+
+### Revelation 2:1–7  
+**Ephesus: Endurance Without Love**
+
+| KJV | VBV |
+|---|---|
+| Unto the angel of the church of **Ephesus** write… | Authority acknowledges labor and endurance, yet exposes the loss of first love, the departure from original devotion that weakens relational alignment. |
+
+---
+
+### Revelation 2:8–11  
+**Smyrna: Faithfulness Under Pressure**
+
+| KJV | VBV |
+|---|---|
+| Unto the angel of the church in **Smyrna** write… | Loyalty is affirmed under affliction. Loss of external support does not define value. Those who enter death-identity will find that the Source lives beyond it. |
+
+---
+
+### Revelation 2:12–17  
+**Pergamos: Truth Surrounded by Compromise**
+
+| KJV | VBV |
+|---|---|
+| Unto the angel of the church in **Pergamos** write… | Truth is held in an elevated yet compromised mind-state. Tolerated mixture blurs allegiance and invites hierarchical distortions that subjugate inner freedom. |
+
+---
+
+### Revelation 2:18–29  
+**Thyatira: Love Threatened by Accommodation**
+
+| KJV | VBV |
+|---|---|
+| Unto the angel of the church in **Thyatira** write… | Growth in service is recognized, yet unchecked manipulative influence reshapes loyalty. Distortion must be confronted to preserve the faculty. |
+
+---
+
+## Symbolics — Revelation 02  
+**Reference Layer**
+
+| Symbol | Functional Meaning |
+|---|---|
+| **Angel / Messenger Faculty** | The inner function responsible for receiving and processing the Signal |
+| **Lampstand** | Localized bearing of divine presence; the state of illumination |
+| **First Love** | Original, unmixed relational alignment with the Source |
+| **Balaam / Jezebel** | Corrupt reasoning and manipulative influence that place internal obstacles to loyalty |
+| **Hidden Manna** | Sustenance not sourced from or governed by the world-system |
+| **White Stone** | Granted identity recognized by the Source and the recipient |
+| **Rod of Iron** | Non-negotiable truth that dissolves false internal structures |
+
+---
+
+## SDR / RFM — Revelation 02  
+**The Weight of Loyalty**
+
+For the disciple, this chapter is where faith stops being theoretical. Revelation 2 is not about churches as institutions. It is about the inner states of the soul under direct inspection.
+
+The voice that speaks here is the Unified Authority. He addresses your conditions up close. What is examined is not your belief system, but your attachment. What you love. What you tolerate. What you excuse because it is familiar or costly to confront.
+
+**Ephesus** shows the state of initial devotion. There is exertion, endurance, and discernment. But devotion has shifted from presence to memory. The work continues, yet love is no longer the center. Authority calls this out because effort without devotion eventually becomes mechanical.
+
+**Smyrna** reflects the state of affliction. Pressure increases, resources diminish, and adversarial reasoning presses inward. Yet this state receives no correction. What appears as poverty within the world-system is abundance within Source-Logic. Loyalty holds even when loss is real.
+
+**Pergamos** and **Thyatira** reveal states of mixture. Truth is present, but compromise is permitted to remain close. Manipulative influence is tolerated. Comfort is protected. Discernment is delayed. Authority intervenes because what is tolerated reshapes loyalty, and what reshapes loyalty eventually governs action.
+
+The King’s audit is direct and merciful: re-orient. Return. Maintain alignment. He is not seeking to remove the lampstand. He is restoring the conditions required for it to remain.
+
+Amen.
+
+---  
+
+
+
+
+
+
+
+---  
+
+Historical analysis of interest
+
 # Revelation 02 VBV — Messages to the Seven Churches: I
 
 The inner life is addressed state by state, according to its posture toward presence.
