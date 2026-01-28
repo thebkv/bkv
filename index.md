@@ -28,7 +28,7 @@ Integrated Symbolics Bible Study
 |   |   |   |   |   |  
 |---|---|---|---|---|  
 | [00](Genesis_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
-| [01](01gen01.md) | [02](01gen02.md) | [03](01gen03.md) | [04](01gen04.md) | [05](01gen05.md) |  
+| [01](1Moses/01gen01.md) | [02](1Moses/01gen02.md) | [03](1Moses/01gen03.md) | [04](1Moses/01gen04.md) | [05](1Moses/01gen05.md) |  
 | 06 | 07 | 08 | 09 | 10 |  
 | 11 | 12 | 13 | 14 | 15 |  
 | 16 | 17 | 18 | 19 | 20 |  
