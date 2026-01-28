@@ -28,6 +28,83 @@ flowchart TB
 
 ---  
 
+
+
+<div class="mermaid">
+flowchart LR
+  A[Sevenfold Structure]:::root --> S1
+  A --> S2
+  A --> S3
+  A --> S4
+  A --> S5
+  A --> S6
+  A --> S7
+
+  subgraph S1[Moses Books]
+    direction TB
+    GEN[Genesis]
+    EXO[Exodus]
+    DEU[Deuteronomy]
+  end
+
+  subgraph S2[Histories]
+    direction TB
+    JOS[Joshua]
+    JDG[Judges]
+    SA1[1 Samuel]
+    KI2[2 Kings]
+  end
+
+  subgraph S3[Prophets]
+    direction TB
+    ISA[Isaiah]
+    JER[Jeremiah]
+    EZE[Ezekiel]
+    DAN[Daniel]
+    MAL[Malachi]
+  end
+
+  subgraph S4[Poetry]
+    direction TB
+    JOB[Job]
+    PSA[Psalms]
+    PRO[Proverbs]
+    ECC[Ecclesiastes]
+    SNG[Song]
+  end
+
+  subgraph S5[Gospels & Acts]
+    direction TB
+    MAT[Matthew]
+    MAR[Mark]
+    LUK[Luke]
+    JOH[John]
+    ACT[Acts]
+  end
+
+  subgraph S6[Letters]
+    direction TB
+    ROM[Romans]
+    EPH[Ephesians]
+    HEB[Hebrews]
+    JAM[James]
+    JN1[1 John]
+  end
+
+  subgraph S7[Revelation]
+    direction TB
+    REV[Revelation]
+  end
+
+  classDef root fill:#ffffff,stroke:#003366,stroke-width:2px;
+</div>
+
+
+
+---
+
+
+
 # VERSE BY VERSE (VBV)
 
 ## Genesis — VBV Table of Contents
