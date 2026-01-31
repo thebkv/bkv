@@ -40,6 +40,25 @@ Integrated Symbolics Bible Study
 | 46 | 47 | 48 | [49](Genesis_49.md) | 50 |  
 
 
+<a id="genesis"></a> 
+## 📖 Genesis  
+> _The Book of Beginnings — The Emergence of Divine Ideas Into Form_
+
+|   |   |   |   |   |  
+|---|---|---|---|---|  
+| [00](Genesis_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
+
+| [01](1Moses/01gen01.md) | [02](1Moses/01gen02.md) | [03](1Moses/01gen03.md) | [04](1Moses/01gen04.md) | [05](1Moses/01gen05.md) |  
+
+| [06](1Moses/01gen06.md) | [07](1Moses/01gen07.md) | [08](1Moses/01gen08.md) | [09](1Moses/01gen09.md) | [10](1Moses/01gen10.md) |  
+| [11](1Moses/01gen11.md) | [12](1Moses/01gen12.md) | [13](1Moses/01gen13.md) | [14](1Moses/01gen14.md) | [15](1Moses/01gen15.md) |  
+| [16](1Moses/01gen16.md) | [17](1Moses/01gen17.md) | [18](1Moses/01gen18.md) | [19](1Moses/01gen19.md) | [20](1Moses/01gen20.md) |  
+| [21](1Moses/01gen21.md) | [22](1Moses/01gen22.md) | [23](1Moses/01gen23.md) | [24](1Moses/01gen24.md) | [25](1Moses/01gen25.md) |  
+| [26](1Moses/01gen26.md) | [27](1Moses/01gen27.md) | [28](1Moses/01gen28.md) | [29](1Moses/01gen29.md) | [30](1Moses/01gen30.md) |  
+| [31](1Moses/01gen31.md) | [32](1Moses/01gen32.md) | [33](1Moses/01gen33.md) | [34](1Moses/01gen34.md) | [35](1Moses/01gen35.md) |  
+| [36](1Moses/01gen36.md) | [37](1Moses/01gen37.md) | [38](1Moses/01gen38.md) | [39](1Moses/01gen39.md) | [40](1Moses/01gen40.md) |  
+| [41](1Moses/01gen41.md) | [42](1Moses/01gen42.md) | [43](1Moses/01gen43.md) | [44](1Moses/01gen44.md) | [45](1Moses/01gen45.md) |  
+| [46](1Moses/01gen46.md) | [47](1Moses/01gen47.md) | [48](1Moses/01gen48.md) | [49](Genesis_49.md) | [50](1Moses/01gen50.md) |
 
 
 
