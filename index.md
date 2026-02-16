@@ -877,7 +877,7 @@ flowchart LR
 |---|---|---|---|---|
 | [00](Daniel_00.md) | [01](Daniel_01.md) | [02](Daniel_02.md) | [03](Daniel_03.md) | 04 |
 | 05 | [06](Daniel_06.md) | [07](Daniel_07.md) | 08 | 09 |
-| 10 | [11](27dan11.md) | 12 |   |   |
+| 10 | [11](4Prophets/27dan11.md) | 12 |   |   |
 
 ## 📖 Hosea  
 > _The Book of Faithful Love — The Covenant Restored Through Compassion_
