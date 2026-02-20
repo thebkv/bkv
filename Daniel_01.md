@@ -111,3 +111,72 @@ That inner separation becomes the seed of outward dominion.
 
 **Core BKV Principle:**  
 > _Discipline of heart restores dominion of spirit. When the soul refuses the world’s feast, it begins to interpret the world’s dream._
+
+## Additional Detail on Names
+
+Yes, this is a crucial place to slow down and make the disciple-meaning unmistakable. I’ll spell it out cleanly, without sounding clinical, and keep it usable in a dossier or spoken RFM.
+
+Here is a tightened, explicit rendering that does the work.
+
+⸻
+
+Daniel 1:6–8 — Names and Identity Under Pressure
+
+Among them were four aligned inner faculties, each named according to relationship with the LORD:
+	•	Daniel — “God is my Judge”
+The faculty of discernment that measures reality by God’s standard rather than the system’s approval.
+	•	Hananiah — “Yahweh is Gracious”
+Stability rooted in grace rather than performance or fear.
+	•	Mishael — “Who is like God?”
+Discernment that refuses false equivalence, asking the essential question whenever power presents itself as ultimate.
+	•	Azariah — “Yahweh is my Helper”
+Dependence on divine aid rather than self-sufficiency.
+
+These names describe orientation, not personality.
+They identify how the inner life relates to God.
+
+The world-system immediately responds by renaming them:
+	•	Daniel → Belteshazzar — “Bel belongs to the king” or “Protected by Bel”
+Discernment is reassigned from God to the system’s authority.
+	•	Hananiah → Shadrach — likely “Command of Aku” (a Babylonian deity)
+Grace is reframed as obedience to power.
+	•	Mishael → Meshach — “Who is like Aku?”
+The essential question “Who is like God?” is inverted and redirected toward a false source.
+	•	Azariah → Abednego — “Servant of Nego”
+Dependence on the LORD is replaced with service to the system’s gods.
+
+This is not cosmetic.
+It is identity reassignment.
+
+The world does not begin by destroying faith.
+It begins by renaming it, relocating its source, and redefining its allegiance.
+
+Then comes nourishment.
+
+“But Daniel purposed in his heart that he would not defile himself with the portion of the king’s meat, nor with the wine which he drank.”
+
+The King’s Meat represents system-sustained identity
+The King’s Wine represents pride of reason and indulgent confidence
+
+To eat is to internalize.
+To drink is to trust.
+
+Daniel’s refusal is not about food.
+It is about what is allowed to shape the inner life.
+
+The names may be imposed externally,
+but the intake is a choice.
+
+And this is where the disciple sees the line clearly:
+	•	The world can rename you.
+	•	The world can train you.
+	•	The world can promote you.
+
+But it cannot define you unless you accept its nourishment.
+
+Daniel’s resolve preserves the original names inwardly,
+even while he answers to the new ones outwardly.
+
+That is formation without assimilation.
+
+
