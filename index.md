@@ -1189,8 +1189,8 @@ Special Studies
 |   |   |   |   |   |
 |---|---|---|---|---|
 | [00](Revelation_00.md) |   |   |   | <a href="#toc" style="font-size:1.0em;opacity:0.4;text-decoration:none;">⚓️</a> |  
-| [01](7Revelation/66_REV_01.md) | [02](7Revelation/66_REV_02.md) | [03](7Revelation/66_REV_03.md) | [04](7Revelation/66_REV_04.md) | 05 |
-| 06 | 07 | 08 | 09 | 10 |
+| [01](7Revelation/66_REV_01.md) | [02](7Revelation/66_REV_02.md) | [03](7Revelation/66_REV_03.md) | [04](7Revelation/66_REV_04.md) | [05](7Revelation/66_REV_05.md) |
+| [06](7Revelation/66_REV_07.md) | [07](7Revelation/66_REV_07.md) | 08 | 09 | 10 |
 | 11 | 12 | 13 | 14 | 15 |
 | 16 | 17 | 18 | 19 | 20 |
 | 21 | 22 |   |   |   |
