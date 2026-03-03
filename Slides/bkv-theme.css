@@ -1,0 +1,40 @@
+/* @theme bkv */
+
+section {
+  background-color: #0f1216;
+  color: #e8e6e3;
+  font-family: "EB Garamond", "Georgia", serif;
+  font-size: 32px;
+  padding: 80px;
+}
+
+h1 {
+  font-size: 56px;
+  letter-spacing: 0.04em;
+}
+
+h2 {
+  font-size: 36px;
+  opacity: 0.85;
+}
+
+ul {
+  margin-top: 1em;
+}
+
+li {
+  margin-bottom: 0.6em;
+}
+
+strong {
+  color: #ffffff;
+}
+
+section::after {
+  content: attr(data-marpit-pagination);
+  position: absolute;
+  bottom: 30px;
+  right: 40px;
+  font-size: 14px;
+  opacity: 0.4;
+}
