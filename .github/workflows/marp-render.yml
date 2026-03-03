@@ -1,0 +1,17 @@
+name: Marp Render
+on:
+  push:
+    branches: [ main ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - utils/checkout@v3
+      - name: Marp Build
+        uses: marp-team/marp-cli-action@v1.1.8
+        with:
+          args: --html --input-dir . --output ./dist
+      - name: Deploy to Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: dist
