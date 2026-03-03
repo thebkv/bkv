@@ -18,6 +18,8 @@ Integrated Symbolics Bible Study
 | [Manifesto](BKV_Manifesto.md) • [The Journey of the Soul](BKV_Journey_of_the_Soul.md) • [Core Principles](BKV_Core_Principles.md) • [Inner Cities](BKV_Inner_Cities.md) • [The Kingdom Within](BKV_Kingdom_Within.md) • [The Presence Doctrine](BKV_Presence_Doctrine.md) • [The Sevenfold Pattern](BKV_Sevenfold_Pattern.md)  | Read your Bible every day. ❤️ ⚓️ |
 | [Odyssey](BKV_The_Odyssey.md) | *Parallels to David and other Bible heroes* |
 
+[test file](test_exodus_40.md)
+
 <a id="moses"></a>  
 # <span class="color-histories">📜 The Books of Moses</span>  
 
