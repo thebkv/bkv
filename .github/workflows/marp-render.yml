@@ -12,7 +12,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Marp Build
-        uses: marp-team/marp-cli-action@v1.1.8
+        uses: docker://marpteam/marp-cli:latest
         with:
           args: --html --input-dir . --output ./dist
 
