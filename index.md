@@ -1,3 +1,85 @@
+# The Bible Key Vision (BKV)
+Integrated Symbolics Bible Study
+
+---
+
+## The Sevenfold Structure of Scripture
+
+| Formation | History | Wisdom | Prophets | Gospels | Letters | Revelation |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| The Inner Law | Consciousness in Motion | The Soul Reflects | Alignment and Correction | The Pattern of the Son | Instruction for the Body | The Final Unveiling |
+
+---
+
+# Moses Books
+### Formation of the Inner Law
+
+| Genesis | Exodus | Leviticus | Numbers | Deuteronomy |
+|:--:|:--:|:--:|:--:|:--:|
+| [Genesis](Canon/Moses/Genesis/index.md) | [Exodus](Canon/Moses/Exodus/index.md) | [Leviticus](Canon/Moses/Leviticus/index.md) | [Numbers](Canon/Moses/Numbers/index.md) | [Deuteronomy](Canon/Moses/Deuteronomy/index.md) |
+
+---
+
+# Histories
+### Consciousness Becoming Pattern
+
+| Joshua | Judges | Ruth | 1 Samuel | 2 Samuel |
+|:--:|:--:|:--:|:--:|:--:|
+| [Joshua](Canon/History/Joshua/index.md) | [Judges](Canon/History/Judges/index.md) | [Ruth](Canon/History/Ruth/index.md) | [1 Samuel](Canon/History/1Samuel/index.md) | [2 Samuel](Canon/History/2Samuel/index.md) |
+
+| 1 Kings | 2 Kings | 1 Chronicles | 2 Chronicles | Ezra |
+|:--:|:--:|:--:|:--:|:--:|
+| [1 Kings](Canon/History/1Kings/index.md) | [2 Kings](Canon/History/2Kings/index.md) | [1 Chronicles](Canon/History/1Chronicles/index.md) | [2 Chronicles](Canon/History/2Chronicles/index.md) | [Ezra](Canon/History/Ezra/index.md) |
+
+| Nehemiah | Esther |
+|:--:|:--:|
+| [Nehemiah](Canon/History/Nehemiah/index.md) | [Esther](Canon/History/Esther/index.md) |
+
+---
+
+# Poetry & Wisdom
+### The Dialogue of the Soul
+
+| Job | Psalms | Proverbs | Ecclesiastes | Song of Solomon |
+|:--:|:--:|:--:|:--:|:--:|
+| [Job](Canon/Poetry/Job/index.md) | [Psalms](Canon/Poetry/Psalms/index.md) | [Proverbs](Canon/Poetry/Proverbs/index.md) | [Ecclesiastes](Canon/Poetry/Ecclesiastes/index.md) | [Song of Solomon](Canon/Poetry/SongOfSolomon/index.md) |
+
+---
+
+# Prophets
+### Alignment and Restoration
+
+| Isaiah | Jeremiah | Lamentations | Ezekiel | Daniel |
+|:--:|:--:|:--:|:--:|:--:|
+| [Isaiah](Canon/Prophets/Isaiah/index.md) | [Jeremiah](Canon/Prophets/Jeremiah/index.md) | [Lamentations](Canon/Prophets/Lamentations/index.md) | [Ezekiel](Canon/Prophets/Ezekiel/index.md) | [Daniel](Canon/Prophets/Daniel/index.md) |
+
+---
+
+# Gospels
+
+| Matthew | Mark | Luke | John |
+|:--:|:--:|:--:|:--:|
+| [Matthew](Canon/Gospels/Matthew/index.md) | [Mark](Canon/Gospels/Mark/index.md) | [Luke](Canon/Gospels/Luke/index.md) | [John](Canon/Gospels/John/index.md) |
+
+---
+
+# Letters
+
+| Acts | Romans | Corinthians | Galatians | Ephesians |
+|:--:|:--:|:--:|:--:|:--:|
+| [Acts](Canon/Gospels/Acts/index.md) | [Romans](Canon/Letters/Romans/index.md) | [1 Corinthians](Canon/Letters/1Corinthians/index.md) | [Galatians](Canon/Letters/Galatians/index.md) | [Ephesians](Canon/Letters/Ephesians/index.md) |
+
+---
+
+# Revelation
+
+| Revelation |
+|:--:|
+| [Revelation](Canon/Revelation/Revelation/index.md) |
+
+
+
+
 # The Bible Key Vision (BKV)  
 Integrated Symbolics Bible Study  
 
