@@ -1,6 +1,11 @@
 # The Bible Key Vision (BKV)
 Integrated Symbolics Bible Study
 
+> The Bible Key Vision is a symbolic and structural reading of Scripture,
+> where names, places, and events describe the architecture of the inner life.
+> BKV is a study tool to support the disciple's study of the Holy Word.
+> King James Authorized or similar word for word is recommeneded for this level of study.
+
 ---
 
 ## The Sevenfold Structure of Scripture
