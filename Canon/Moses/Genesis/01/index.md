@@ -8,7 +8,7 @@ permalink: /Canon/Moses/Genesis/01/
 
 Genesis 1 describes the establishment of order within consciousness.  
 Light is distinguished from darkness, boundaries are formed, and life emerges through progressive stages of alignment.
-
+ 
 ---
 
 ## Study Paths
