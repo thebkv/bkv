@@ -2,6 +2,7 @@
 
 ## Dossier for Genesis 22 
 
+As always, please read along in your preferred Bible edition.
 
 ### 1. The Chapter Dossier Comment (The Function)
 
