@@ -1,17 +1,4 @@
-That makes perfect sense. You are building a **Comprehensive Chapter Dossier**—a multi-layered analytical package for every Scripture passage. This approach ensures that the study material is not just an interpretation, but a complete *system* for understanding the text's architecture.
 
-The structure you are aiming for is:
-
-1.  **Dossier Comment (The Function):** A single paragraph explaining the chapter's overall purpose, thematic coherence, and spiritual action required.
-2.  **MSR Commentary:** The structural interpretation (what functions were performed).
-3.  **SNR (Symbolic Narrative Reading):** A rich, symbolic reading suitable for speaking aloud.
-4.  **SDR (Symbolic Devotional Reading):** A simpler, reflective reading focused on spiritual formation.
-5.  **VBV/MSR Table:** The functional breakdown of verse-by-verse movement.
-6.  **Symbolic Table:** Explicitly mapping key concepts, names, and events to their inherent symbolic coherence.
-
-This dossier format is exactly what is needed to create a robust, repeatable, and deeply engaging resource for your website, podcasts, and personal studies.
-
----
 
 ## Finalizing the Dossier for Genesis 22 (The Master Template)
 
