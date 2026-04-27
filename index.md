@@ -1,4 +1,60 @@
 # The Bible Key Vision (BKV)
+
+## Integrated Symbolics Bible Study
+
+The Bible Key Vision is a symbolic and structural reading of Scripture, where names, places, people, and events reveal the architecture of the inner life.
+
+BKV is a study tool to support the disciple’s reading of the Holy Word. It does not replace Scripture; it helps the reader recognize its living structure.
+
+For this level of study, the King James Authorized Version or another strong word-for-word translation is recommended, so that names, symbols, and repeated patterns remain visible and consistent.
+
+---
+
+# Quick Navigation — The Sevenfold Structure of Scripture
+
+| Section | Symbolic BKV Theme |
+|---|---|
+| Formation • Genesis • Exodus • Leviticus • Numbers • Deuteronomy | **The Inner Law** — Divine Order Entering Human Consciousness |
+| History • Joshua • Judges • Ruth • 1 Samuel • 2 Samuel • 1 Kings • 2 Kings • 1 Chronicles • 2 Chronicles • Ezra • Nehemiah • Esther | **Consciousness in Motion** — How Inner Principles Become External Patterns |
+| Poetry • Job • Psalms • Proverbs • Ecclesiastes • Song of Solomon | **The Soul Reflects** — The Dialogue of the Soul Through Reflection, Desire, and Understanding |
+| Prophets • Isaiah • Jeremiah • Lamentations • Ezekiel • Daniel • Hosea • Joel • Amos • Obadiah • Jonah • Micah • Nahum • Habakkuk • Zephaniah • Haggai • Zechariah • Malachi | **Alignment and Correction** — The Vision and Restoration of the Inner Kingdom |
+| Gospels • Matthew • Mark • Luke • John • Acts | **The Pattern of the Son** — The Word Made Flesh and Divine Pattern in Human Form |
+| Letters • Romans • 1 Corinthians • 2 Corinthians • Galatians • Ephesians • Philippians • Colossians • 1 Thessalonians • 2 Thessalonians • 1 Timothy • 2 Timothy • Titus • Philemon • Hebrews • James • 1 Peter • 2 Peter • 1 John • 2 John • 3 John • Jude | **Instruction for the Body** — The Application of Divine Life Within the Inner Church |
+| Revelation • Revelation | **The Final Unveiling** — The Kingdom Revealed Without Distortion |
+
+---
+
+# Core Companion Pages
+
+- The Journey of the Soul  
+- Core Principles  
+- Inner Cities  
+- The Kingdom Within  
+- The Presence Doctrine  
+- The Sevenfold Pattern  
+
+---
+
+# Reading Principle
+
+Read your Bible every day.
+
+Do not read only for information.  
+Read for recognition.
+
+The disciple does not merely ask, “What happened?”
+
+He asks:
+
+**Where is this happening in me?**
+
+That is where Scripture becomes living.
+
+⚓️
+
+
+
+# The Bible Key Vision (BKV)
 Integrated Symbolics Bible Study
 
 > The Bible Key Vision is a symbolic and structural reading of Scripture,
