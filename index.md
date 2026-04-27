@@ -10,6 +10,131 @@ For this level of study, the King James Authorized Version or another strong wor
 
 ---
 
+# The Sevenfold Structure of Scripture
+
+## Formation  
+### The Inner Law  
+*Divine Order Entering Human Consciousness*
+
+| Genesis | Exodus | Leviticus | Numbers | Deuteronomy |
+|:--:|:--:|:--:|:--:|:--:|
+| [Genesis](Canon/Moses/Genesis/index.md) | [Exodus](Canon/Moses/Exodus/index.md) | [Leviticus](Canon/Moses/Leviticus/index.md) | [Numbers](Canon/Moses/Numbers/index.md) | [Deuteronomy](Canon/Moses/Deuteronomy/index.md) |
+
+---
+
+## History  
+### Consciousness in Motion  
+*How Inner Principles Become External Patterns*
+
+| Joshua | Judges | Ruth | 1 Samuel | 2 Samuel |
+|:--:|:--:|:--:|:--:|:--:|
+| [Joshua](Canon/History/Joshua/index.md) | [Judges](Canon/History/Judges/index.md) | [Ruth](Canon/History/Ruth/index.md) | [1 Samuel](Canon/History/1_Samuel/index.md) | [2 Samuel](Canon/History/2_Samuel/index.md) |
+
+| 1 Kings | 2 Kings | 1 Chronicles | 2 Chronicles | Ezra |
+|:--:|:--:|:--:|:--:|:--:|
+| [1 Kings](Canon/History/1_Kings/index.md) | [2 Kings](Canon/History/2_Kings/index.md) | [1 Chronicles](Canon/History/1_Chronicles/index.md) | [2 Chronicles](Canon/History/2_Chronicles/index.md) | [Ezra](Canon/History/Ezra/index.md) |
+
+| Nehemiah | Esther |
+|:--:|:--:|
+| [Nehemiah](Canon/History/Nehemiah/index.md) | [Esther](Canon/History/Esther/index.md) |
+
+---
+
+## Poetry  
+### The Soul Reflects  
+*The Dialogue of the Soul Through Reflection, Desire, and Understanding*
+
+| Job | Psalms | Proverbs | Ecclesiastes | Song of Solomon |
+|:--:|:--:|:--:|:--:|:--:|
+| [Job](Canon/Poetry/Job/index.md) | [Psalms](Canon/Poetry/Psalms/index.md) | [Proverbs](Canon/Poetry/Proverbs/index.md) | [Ecclesiastes](Canon/Poetry/Ecclesiastes/index.md) | [Song of Solomon](Canon/Poetry/Song_of_Solomon/index.md) |
+
+---
+
+## Prophets  
+### Alignment and Correction  
+*The Vision and Restoration of the Inner Kingdom*
+
+| Isaiah | Jeremiah | Lamentations | Ezekiel | Daniel |
+|:--:|:--:|:--:|:--:|:--:|
+| [Isaiah](Canon/Prophets/Isaiah/index.md) | [Jeremiah](Canon/Prophets/Jeremiah/index.md) | [Lamentations](Canon/Prophets/Lamentations/index.md) | [Ezekiel](Canon/Prophets/Ezekiel/index.md) | [Daniel](Canon/Prophets/Daniel/index.md) |
+
+| Hosea | Joel | Amos | Obadiah | Jonah |
+|:--:|:--:|:--:|:--:|:--:|
+| [Hosea](Canon/Prophets/Hosea/index.md) | [Joel](Canon/Prophets/Joel/index.md) | [Amos](Canon/Prophets/Amos/index.md) | [Obadiah](Canon/Prophets/Obadiah/index.md) | [Jonah](Canon/Prophets/Jonah/index.md) |
+
+| Micah | Nahum | Habakkuk | Zephaniah | Haggai |
+|:--:|:--:|:--:|:--:|:--:|
+| [Micah](Canon/Prophets/Micah/index.md) | [Nahum](Canon/Prophets/Nahum/index.md) | [Habakkuk](Canon/Prophets/Habakkuk/index.md) | [Zephaniah](Canon/Prophets/Zephaniah/index.md) | [Haggai](Canon/Prophets/Haggai/index.md) |
+
+| Zechariah | Malachi |
+|:--:|:--:|
+| [Zechariah](Canon/Prophets/Zechariah/index.md) | [Malachi](Canon/Prophets/Malachi/index.md) |
+
+---
+
+## Gospels  
+### The Pattern of the Son  
+*The Word Made Flesh and Divine Pattern in Human Form*
+
+| Matthew | Mark | Luke | John | Acts |
+|:--:|:--:|:--:|:--:|:--:|
+| [Matthew](Canon/Gospels/Matthew/index.md) | [Mark](Canon/Gospels/Mark/index.md) | [Luke](Canon/Gospels/Luke/index.md) | [John](Canon/Gospels/John/index.md) | [Acts](Canon/Gospels/Acts/index.md) |
+
+---
+
+## Letters  
+### Instruction for the Body  
+*The Application of Divine Life Within the Inner Church*
+
+| Romans | Corinthians | Galatians | Ephesians | Philippians |
+|:--:|:--:|:--:|:--:|:--:|
+| [Romans](Canon/Letters/Romans/index.md) | [Corinthians](Canon/Letters/Corinthians/index.md) | [Galatians](Canon/Letters/Galatians/index.md) | [Ephesians](Canon/Letters/Ephesians/index.md) | [Philippians](Canon/Letters/Philippians/index.md) |
+
+| Colossians | Thessalonians | Timothy | Titus | Hebrews |
+|:--:|:--:|:--:|:--:|:--:|
+| [Colossians](Canon/Letters/Colossians/index.md) | [Thessalonians](Canon/Letters/Thessalonians/index.md) | [Timothy](Canon/Letters/Timothy/index.md) | [Titus](Canon/Letters/Titus/index.md) | [Hebrews](Canon/Letters/Hebrews/index.md) |
+
+| James | Peter | John | Jude |
+|:--:|:--:|:--:|:--:|
+| [James](Canon/Letters/James/index.md) | [Peter](Canon/Letters/Peter/index.md) | [John](Canon/Letters/John/index.md) | [Jude](Canon/Letters/Jude/index.md) |
+
+---
+
+## Revelation  
+### The Final Unveiling  
+*The Kingdom Revealed Without Distortion*
+
+| Revelation |
+|:--:|
+| [Revelation](Canon/Revelation/Revelation/index.md) |
+
+---
+
+# Companion Pages
+
+- The Journey of the Soul  
+- Core Principles  
+- Inner Cities  
+- The Kingdom Within  
+- The Presence Doctrine  
+- The Sevenfold Pattern  
+
+---
+
+⚓️
+
+# The Bible Key Vision (BKV)
+
+## Integrated Symbolics Bible Study
+
+The Bible Key Vision is a symbolic and structural reading of Scripture, where names, places, people, and events reveal the architecture of the inner life.
+
+BKV is a study tool to support the disciple’s reading of the Holy Word. It does not replace Scripture; it helps the reader recognize its living structure.
+
+For this level of study, the King James Authorized Version or another strong word-for-word translation is recommended, so that names, symbols, and repeated patterns remain visible and consistent.
+
+---
+
 # Quick Navigation — The Sevenfold Structure of Scripture
 
 | Section | Symbolic BKV Theme |
