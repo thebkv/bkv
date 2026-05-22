@@ -117,7 +117,9 @@ For this level of study, the King James Authorized Version or another strong wor
 - Inner Cities  
 - The Kingdom Within  
 - The Presence Doctrine  
-- The Sevenfold Pattern  
+- The Sevenfold Pattern
+
+- [Principles](Canon/~Principles.md)
 
 ---
 
