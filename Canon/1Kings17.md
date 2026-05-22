@@ -4,15 +4,15 @@
 
 1 Kings 17 establishes the appearing of *Elijah* during the reign of *Ahab* and *Jezebel*.
 
-*Ahab* represents the weakened ruling will — a kingly faculty that has surrendered discernment for comfort, appetite, and political convenience. *Jezebel* represents the aggressive seducing power that overtakes that weakened will and redirects worship toward control, manipulation, and artificial spiritual systems. Together they form the atmosphere into which Elijah suddenly appears.
+*Father’s Brother* (**Ahab**) represents the weakened ruling will — a kingly faculty that has surrendered discernment for comfort, appetite, and political convenience. *Unhusbanded / Exalted One* (**Jezebel**) represents the aggressive seducing power that overtakes that weakened will and redirects worship toward control, manipulation, and artificial spiritual systems. Together they form the atmosphere into which Elijah suddenly appears.
 
-The chapter begins in confrontation and certainty. My God Is Yahweh [*Elijah*] stands before Father’s Brother [*Ahab*] with complete prophetic authority and announces the drought. But instead of moving into triumph, he is immediately led into hiddenness beside the brook *Cherith*.
+The chapter begins in confrontation and certainty. *My God Is Yahweh* (**Elijah**) stands before Ahab with complete prophetic authority and announces the drought. But instead of moving into triumph, he is immediately led into hiddenness beside the brook Cherith.
 
 There he learns dependence through isolation.
 
 Yet even the brook given by God eventually dries up. The chapter reveals that divine provision may sustain a season without becoming permanent. The soul cannot live by yesterday’s stream forever.
 
-Elijah is then sent to *Zarephath*, the refining place, where sustaining comes through apparent weakness: a starving widow with almost nothing remaining. In the furnace of refinement, life continues not through abundance, but through continual daily provision.
+Elijah is then sent to Zarephath, the refining place, where sustaining comes through apparent weakness: a starving widow with almost nothing remaining. In the furnace of refinement, life continues not through abundance, but through continual daily provision.
 
 But the deepest test comes after the miracle has already begun. The widow’s son dies.
 
@@ -35,11 +35,11 @@ The movement of the chapter is:
 
 # NR
 
-1. My God Is Yahweh [*Elijah*] the Captive / Sojourner [*Tishbite*] from Rocky Region / Witness Heap [*Gilead*] said to Father’s Brother [*Ahab*], “As the LORD God of Israel lives, before whom I stand, there shall not be dew nor rain these years except according to my word.”
+1. *My God Is Yahweh* (**Elijah**) the *Captive / Sojourner* (**Tishbite**) from *Rocky Region / Witness Heap* (**Gilead**) said to *Father’s Brother* (**Ahab**), “As the LORD God of Israel lives, before whom I stand, there shall not be dew nor rain these years except according to my word.”
 
 2. Then the word of the LORD came to him, saying,
 
-3. “Depart from here and turn eastward, and hide yourself by Cutting Place / Separation [*Cherith*] that flows before the Jordan.
+3. “Depart from here and turn eastward, and hide yourself by *Cutting Place / Separation* (**Cherith**) that flows before the Jordan.
 
 4. You shall drink from the brook, and I have commanded the ravens to feed you there.”
 
@@ -51,7 +51,7 @@ The movement of the chapter is:
 
 8. Then the word of the LORD came to him again, saying,
 
-9. “Arise and go to Refining Place / Smelting Furnace [*Zarephath*] near Fishing / Hunting Place [*Sidon*] and remain there. I have commanded a widow there to sustain you.”
+9. “Arise and go to *Refining Place / Smelting Furnace* (**Zarephath**) near *Fishing / Hunting Place* (**Sidon**) and remain there. I have commanded a widow there to sustain you.”
 
 10. So he arose and went to Zarephath. When he came to the gate of the city, a widow was there gathering sticks. He called to her and said, “Please bring me a little water in a vessel, that I may drink.”
 
