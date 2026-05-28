@@ -1,5 +1,4 @@
 ---
-layout: bkv-style
 book: "Genesis"
 chapter: 1
 focus: "Order Established from Undifferentiated Potential"
