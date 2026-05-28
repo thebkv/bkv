@@ -8,7 +8,7 @@ summary: "The initiation of reality through structured distinction, moving syste
 
 # Genesis Chapter 1
 
-Genesis 1 begins before structure, boundary, or distinction. The world exists in an unformed state—depth without separation, potential without order. Creation unfolds not through material manufacture alone, but through a sequence of distinctions that stabilize reality itself. Each act separates, names, and orders a layer of existence, moving systematically from foundational pattern down into the inner formation of the disciple.
+Genesis 1 begins before structure, boundary, or distinction. The world exists in an unformed state—depth without separation, potential without order. Creation unfolds through a sequence of distinctions that stabilize reality itself. Each act separates, names, and orders a layer of existence, moving systematically from foundational pattern down into the inner formation of the disciple.
 
 ***
 
