@@ -1,9 +1,8 @@
 ---
-layout: bkv-unified
-book: "[Book Name]"
-chapter: [Chapter Number]
-focus: "[One-sentence core theme of the chapter]"
-summary: "[Brief summary of the structural movement from chaos/crisis to order/rest]"
+book: "Genesis"
+chapter: 1
+focus: "Order Established from Undifferentiated Potential"
+summary: "The initiation of reality through structured distinction, moving systematically from unformed potential to self-modeling authority and stabilized rest."
 ---
 
 # [Book Name] Chapter [Chapter Number]
