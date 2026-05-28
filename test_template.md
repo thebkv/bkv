@@ -8,7 +8,7 @@ summary: "[Brief summary of the structural movement from chaos/crisis to order/r
 
 # [Book Name] Chapter [Chapter Number]
 
-[Opening Paragraph: Introduce the chapter's baseline conditions using narrative movement and imagery. Trace the movement from unformed states or structural breakdown down into the inner formation of the disciple, avoiding cold systems-jargon.]
+[Opening Paragraph: Introduce the chapter's baseline conditions using narrative movement and imagery. Trace the movement from unformed states or structural breakdown down into the inner formation of the disciple. Use bold text sparingly here to highlight primary themes.]
 
 ***
 
@@ -20,11 +20,11 @@ summary: "[Brief summary of the structural movement from chaos/crisis to order/r
 > 
 > **VBV:** [Insert your precise Vocabulary Substitution / Functional English text here]
 
-[Commentary block: Explain the mechanics of the text using biblical-symbolic language with structural gravity. Demonstrate the pattern of Source Authority, presence, and distinction rather than just announcing it. Keep any technical or cognitive analytical insights concealed beneath a sacred, authoritative voice.]
+[Commentary block: Explain the mechanics of the text using biblical-symbolic language with structural gravity. Every time you use **Bold Text**, your SCSS will automatically render it in Chiseled Ultramarine Blue, making your core symbolic transformations pop right off the parchment background.]
 
 ### The Intervening Architecture: v[X–Y] ([Bridge Title])
 
-[A single, high-impact paragraph bridging any skipped verses. Chart the structural continuity of the chapter—how the pattern advances from distinction, to stability, to habitation, to delegated rule, or how the narrative maintains its structural momentum between your deep-dive focus areas.]
+[A single, high-impact paragraph bridging any skipped verses. Chart the structural continuity of the chapter—how the pattern advances from distinction, to stability, to habitation, to delegated rule. Keep this section purely narrative, serving as a clean bridge for the reader.]
 
 ### v[X–Y]: [Descriptive Title of the Next Major Focus Cluster]
 
