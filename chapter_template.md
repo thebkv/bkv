@@ -44,3 +44,10 @@ This architecture is [connect the macro-theme of the chapter directly to the dis
 * **[Stage 3 - Vocation/Fruitfulness]:** [Connect the final integrated climax of the chapter to the disciple's ultimate calling to reflect the character of the Source and carry divine order into their fields of responsibility.]
 
 ***
+
+## Architectural Illumination
+
+![Structural Geometry of [Book Name] Chapter [Chapter Number]](/assets/images/your-art-file-name.jpg)
+
+*The visual architecture of this domain—capturing the primary rifts, boundaries, and the emergence of structural order out of the unformed depth.*
+
