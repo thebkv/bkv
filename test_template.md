@@ -1,49 +1,47 @@
 ---
 layout: bkv-unified
-book: "Genesis"
-chapter: 1
-focus: "Order Established from Undifferentiated Potential"
-summary: "The initiation of reality through structured distinction, moving systematically from unformed potential to self-modeling authority and stabilized rest."
+book: "[Book Name]"
+chapter: [Chapter Number]
+focus: "[One-sentence core theme of the chapter]"
+summary: "[Brief summary of the structural movement from chaos/crisis to order/rest]"
 ---
 
-# Genesis Chapter 1
+# [Book Name] Chapter [Chapter Number]
 
-The initial state rests in an undifferentiated matrix of pure potentiality, entirely devoid of boundary or measure. Genesis 01 records the systematic deployment of the structural blueprint of reality itself. Creation proceeds by ordered distinction, not material manufacture—each phase is a completed functional separation that stabilizes a layer of existence, scaling seamlessly from cosmic architecture down into the immediate walk of the disciple.
+[Opening Paragraph: Introduce the chapter's baseline conditions using narrative movement and imagery. Trace the movement from unformed states or structural breakdown down into the inner formation of the disciple, avoiding cold systems-jargon.]
 
 ***
 
 ## The Verse-by-Verse Rendering
 
-### v1–2: Undifferentiated Potential and Attentive Presence
+### v[X–Y]: [Descriptive Title of the Verse Cluster]
 
-> **KJV:** In the beginning God created the heaven and the earth. And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.
+> **KJV:** [Insert exact King James Text here]
 > 
-> **VBV:** At the outset, existence was brought into being. The world existed without structure, filled with undifferentiated depth and darkness. Ordering presence hovered over the unformed state.
+> **VBV:** [Insert your precise Vocabulary Substitution / Functional English text here]
 
-At the initiation of ordered reality, **Source Authority** establishes the total field of structured awareness (heaven) and manifest potential (earth). The manifest field is entirely unstructured, undifferentiated, and unilluminated, resting in unbounded depth. **Attentive Presence** actively hovers over this latent potential, prepared to initiate distinction. No physical objects are formed yet; only baseline conditions are established. Darkness here is not an adversarial force, but the simple absence of distinction.
+[Commentary block: Explain the mechanics of the text using biblical-symbolic language with structural gravity. Demonstrate the pattern of Source Authority, presence, and distinction rather than just announcing it. Keep any technical or cognitive analytical insights concealed beneath a sacred, authoritative voice.]
 
-### v3–5: Light Distinguished from Darkness (Day One)
+### The Intervening Architecture: v[X–Y] ([Bridge Title])
 
-> **KJV:** And God said, Let there be light: and there is light. And God saw the light, that it was good: and God divided the light from the darkness. And God called the light Day, and the darkness he called Night.
+[A single, high-impact paragraph bridging any skipped verses. Chart the structural continuity of the chapter—how the pattern advances from distinction, to stability, to habitation, to delegated rule, or how the narrative maintains its structural momentum between your deep-dive focus areas.]
+
+### v[X–Y]: [Descriptive Title of the Next Major Focus Cluster]
+
+> **KJV:** [Insert exact King James Text here]
 > 
-> **VBV:** Light was distinguished, and visibility entered existence. A boundary was set between light and darkness. The basic cycle of time was named and fixed.
+> **VBV:** [Insert your precise Vocabulary Substitution / Functional English text here]
 
-**Source Authority initiates discernment.** Illumination emerges not as physical solar radiation, but as the fundamental capacity to perceive distinction. The light is declared "good"—meaning it is functionally coherent and fits the grand design. By dividing the light from the darkness and naming each state, the system stabilizes perception. The first completed operation of distinction is anchored, establishing the primary oscillating rhythm of reality.
-
-### v26–27: Integrated Authority and Stewardship (Day Six)
-
-> **KJV:** And God said, Let us make man in our image, after our likeness... So God created man in his own image, in the image of God created he him; male and female created he them.
-> 
-> **VBV:** Humanity was introduced with representative authority. Humanity was established as image-bearing presence.
-
-An integrated identity emerges, capable of reflection, discernment, and governance. This is the **Self-Model Apex**—the introduction of a conscious entity designed to model the entire macro-system within its own localized micro-being. This image is not a physical shape, but a functional likeness tasked with delegated authority and responsible stewardship. The system is declared "very good" because full integration has been reached.
+[Commentary block: Continue the integrated, authoritative analysis. Ensure the prose remains readable as a sacred commentary while maintaining intense structural intelligence.]
 
 ***
 
 ## The Disciple's Key
 
-This architecture is the exact geometry of your sanctification. You are not reading an ancient chronicle of external history; you are looking at the repeating blueprint of your own spiritual path.
+This architecture is [connect the macro-theme of the chapter directly to the disciple's path]. You are not reading an ancient chronicle of external history; you are looking at a foundational pattern that repeats throughout scripture, consciousness, and discipleship.
 
-* **The Primal Hovering:** Before order can come to your life, you must acknowledge the unformed, chaotic spaces within your heart. The Holy Spirit moves over your unshaped potential, preparing you for the scalpel of divine distinction.
-* **The First Separation:** True discernment begins when God projects His light into your internal darkness. It forces a sharp, undeniable boundary. Compromise is stripped away as He names things for what they truly are, establishing an uncompromised baseline for your walk.
-* **The Image Mandate:** Ultimately, you are called to be a living, localized rendering of the entire kingdom. You are placed within your specific domain not to exploit it, but to maintain its order, reflect the character of the Source, and execute responsible stewardship over the flesh. The scale changes, but the blueprint remains identical.
+* **[Stage 1 - Chaos/Separation]:** [Connect the initial structural actions or breakdowns of the verses to the internal, disruptive reality of the human heart and the early stages of the walk.]
+* **[Stage 2 - Stability/Naming]:** [Connect the organizing, naming, or stabilizing mechanics of the text to the practical development of boundaries, truth-telling, and spiritual stability.]
+* **[Stage 3 - Vocation/Fruitfulness]:** [Connect the final integrated climax of the chapter to the disciple's ultimate calling to reflect the character of the Source and carry divine order into their fields of responsibility.]
+
+***
