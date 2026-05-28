@@ -10,6 +10,7 @@ For this level of study, the King James Authorized Version or another strong wor
 
 Test pages
 [template 1](test_template.md)
+[test_gen01.md](test_gen01.md)
 
 ---
 
