@@ -1,5 +1,3 @@
-# 01GEN02.md
-
 ---
 book: "Genesis"
 chapter: 2
