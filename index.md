@@ -12,7 +12,7 @@ Test pages
 [template 1](test_template.md)  
 [test_gen01.md](Canon/test_gen01.md)  
 [test_gen02.md](Canon/test_gen02.md)  
-[test_nah01.md](Canon/test_nah01.md)  
+[test_nah01.md](Canon/34NAH01.md)  
 
 
 ---
