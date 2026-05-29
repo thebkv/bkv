@@ -7,7 +7,7 @@ summary: "The initiation of reality through structured distinction, moving syste
 
 # Genesis Chapter 1
 
-Humanity naturally views life as a sequence of external events, but Genesis 1 opens with something far more urgent: an eternal blueprint for the inner life. Before structure, boundary, or distinction exist, the world rests in an unformed state—depth without separation, potential without order. Creation unfolds not through material manufacture alone, but through a sequence of divine distinctions that stabilize reality. By tracking this foundational pattern, the disciple discovers that the same process used to bring order to the cosmic void is the exact mechanism required for their own sanctification.
+Humanity naturally views life as a sequence of external events, but Genesis 1 opens with something far more urgent: an eternal blueprint for the inner life. Before structure, boundary, or distinction exist, the world rests in an unformed state—depth without separation, potential without order. Creation unfolds through a sequence of divine distinctions that stabilize reality. By tracking this foundational pattern, the disciple discovers that the same process used to bring order to the cosmic void is the exact mechanism required for their own sanctification.
 
 ***
 
