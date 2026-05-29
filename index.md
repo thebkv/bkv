@@ -9,8 +9,10 @@ BKV is a study tool to support the disciple’s reading of the Holy Word. It doe
 For this level of study, the King James Authorized Version or another strong word-for-word translation is recommended, so that names, symbols, and repeated patterns remain visible and consistent.
 
 Test pages
-[template 1](test_template.md)
-[test_gen01.md](Canon/test_gen01.md)
+[template 1](test_template.md)  
+[test_gen01.md](Canon/test_gen01.md)  
+[test_gen02.md](Canon/test_gen02.md)  
+
 
 ---
 
