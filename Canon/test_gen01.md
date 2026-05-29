@@ -63,6 +63,6 @@ Because this architectural blueprint is universal, it cannot remain a distant, c
 
 ## Architectural Illumination
 
-![Structural Geometry of Genesis Chapter 1](/assets/images/genesis-01-geometry.jpg)
+![Structural Geometry of Genesis Chapter 1](/assets/images/genesis-01.jpg)
 
 *The visual architecture of this domain—capturing the primary rifts, boundaries, and the emergence of structural order out of the unformed depth.*
