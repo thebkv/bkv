@@ -14,6 +14,10 @@ Test pages
 [test_gen02.md](Canon/test_gen02.md)  
 [test_nah01.md](Canon/34NAH01.md)  
 
+Genesis
+[01gen01](_bible/1moses/01gen01.md)  
+[01gen02](_bible/1moses/01gen02.md)  
+[01gen03](_bible/1moses/01gen03.md)  
 
 ---
 
