@@ -18,6 +18,7 @@ Genesis
 [01gen01](_bible/1moses/01gen01.md)  
 [01gen02](_bible/1moses/01gen02.md)  
 [01gen03](_bible/1moses/01gen03.md)  
+[test](_bible/1moses/01gen01.md)  
 
 ---
 
