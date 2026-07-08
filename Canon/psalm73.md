@@ -205,3 +205,311 @@ The source from which one derives power. Scripture continually contrasts self-st
 
 - Isaiah 40
 - Philippians 4
+
+--
+SECTION 2
+--
+
+
+**9** They set their [mouth](#mouth) against the [heavens](#heavens), and their [tongue](#tongue) walketh through the [earth](#earth).
+
+> **BKV:** Their words challenge what is above while their influence spreads throughout ordinary human life.
+
+**10** Therefore his [people](#people) return hither: and [waters](#waters) of a full cup are wrung out to them.
+
+> **BKV:** Others are drawn into the same pattern of thinking and drink deeply from its influence.
+
+**11** And they say, How doth [God](#god) know? and is there [knowledge](#knowledge) in the most High?
+
+> **BKV:** They assume God neither perceives nor governs the inner life.
+
+**12** Behold, these are the [ungodly](#ungodly), who prosper in the [world](#world); they increase in riches.
+
+> **BKV:** This is the appearance that creates the disciple's temptation: worldly success seems to validate a life apart from God.
+
+**13** Verily I have cleansed my [heart](#heart) in vain, and washed my [hands](#hands) in innocency.
+
+> **BKV:** I began to wonder whether pursuing inward transformation had accomplished anything.
+
+**14** For all the day long have I been plagued, and chastened every morning.
+
+> **BKV:** Faithfulness seemed to bring continual correction rather than visible reward.
+
+**15** If I say, I will speak thus; behold, I should offend against the generation of thy [children](#children).
+
+> **BKV:** Had I embraced this conclusion publicly, I would have misled those growing toward God.
+
+**16** When I thought to know this, it was too painful for me;
+
+> **BKV:** Natural reasoning alone could not resolve the contradiction.
+
+**17** Until I went into the [sanctuary](#sanctuary) of God; then understood I their [end](#end).
+
+> **BKV:** Everything changed when I entered conscious communion with God. From that higher perspective I finally understood where each path ultimately leads.
+
+**18** Surely thou didst set them in [slippery places](#slippery-places): thou castedst them down into destruction.
+
+> **BKV:** What appeared secure was actually unstable all along. A life built upon appearances cannot endure.
+
+---
+
+# VBV (continued)
+
+### Verse 9
+
+Their speech rises against heaven while influencing earthly thinking.
+
+### Verse 10
+
+Others adopt the same perspective and drink deeply from its conclusions.
+
+### Verse 11
+
+They question whether God perceives the inner life at all.
+
+### Verse 12
+
+The apparent prosperity of worldly thinking becomes the disciple's great temptation.
+
+### Verse 13
+
+I briefly concluded that inward purification had been pointless.
+
+### Verse 14
+
+The life of transformation seemed to involve continual discipline.
+
+### Verse 15
+
+To accept this conclusion would damage those learning to trust God.
+
+### Verse 16
+
+Reason alone could not solve the problem.
+
+### Verse 17
+
+The sanctuary changed everything. Communion restored perspective.
+
+### Verse 18
+
+What looked like stability was actually the most dangerous footing.
+
+---
+
+# BKV Lexicon (continued)
+
+## Mouth
+
+**Meaning**
+
+The outward expression of inward thought.
+
+**Related**
+
+- Tongue
+- Speech
+- Word
+
+**Elsewhere**
+
+- Proverbs 18
+- Matthew 12
+- James 3
+
+---
+
+## Heavens
+
+**Meaning**
+
+The higher realm of God's rule, understanding, and spiritual reality.
+
+**Related**
+
+- Heaven
+- Kingdom
+- Throne
+
+**Elsewhere**
+
+- Genesis 1
+- Matthew 6
+- Colossians 3
+
+---
+
+## Tongue
+
+**Meaning**
+
+The faculty that gives voice to the heart and directs influence.
+
+**Elsewhere**
+
+- Proverbs 18
+- James 3
+
+---
+
+## Earth
+
+**Meaning**
+
+The visible realm of ordinary human experience.
+
+**Related**
+
+- Dust
+- Flesh
+- World
+
+**Elsewhere**
+
+- Genesis 1
+- Matthew 6
+- Romans 8
+
+---
+
+## Waters
+
+**Meaning**
+
+Teachings, influences, ideas, or the flow of life entering consciousness.
+
+**Related**
+
+- River
+- Sea
+- Fountain
+
+**Elsewhere**
+
+- Isaiah 55
+- John 4
+- Revelation 22
+
+---
+
+## Knowledge
+
+**Meaning**
+
+Understanding. The question is not whether knowledge exists, but from what source it is received.
+
+**Elsewhere**
+
+- Proverbs 1
+- Hosea 4
+- Colossians 2
+
+---
+
+## World
+
+**Meaning**
+
+The visible system of values organized apart from God's kingdom.
+
+**Related**
+
+- Earth
+- Flesh
+
+**Elsewhere**
+
+- John 15
+- John 17
+- 1 John 2
+
+---
+
+## Hands
+
+**Meaning**
+
+Works, actions, and what one produces.
+
+**Related**
+
+- Right Hand
+- Work
+
+**Elsewhere**
+
+- Psalm 24
+- Ecclesiastes 9
+- James 2
+
+---
+
+## Children
+
+**Meaning**
+
+Those who share the character or nature of another.
+
+**Related**
+
+- Son
+- Father
+- Seed
+
+**Elsewhere**
+
+- Romans 8
+- Galatians 3
+- 1 John 3
+
+---
+
+## Sanctuary
+
+**Meaning**
+
+The place of conscious communion where perception is corrected and eternal realities become visible.
+
+**Related**
+
+- Temple
+- Holy Place
+- Presence
+
+**Elsewhere**
+
+- Exodus 25
+- Psalm 27
+- Hebrews 9
+
+---
+
+## End
+
+**Meaning**
+
+The true destination or ultimate outcome of a path, regardless of present appearance.
+
+**Related**
+
+- Way
+- Harvest
+- Judgment
+
+**Elsewhere**
+
+- Proverbs 14
+- Matthew 7
+- Galatians 6
+
+---
+
+## Slippery Places
+
+**Meaning**
+
+Conditions that appear secure but cannot support lasting spiritual life.
+
+**Open Notes**
+
+Compare with the disciple's "feet almost slipped" in verse 2. The apparent stability of the wicked is actually more unstable than the disciple's temporary doubt.
