@@ -10,7 +10,7 @@ For this level of study, the King James Authorized Version or another strong wor
 
 Test pages
 [psalm23](Canon/psalm23.md)   
-
+[psalm23_bkv](Canon/psalm23_bkv.md)
 
 [template 1](test_template.md)  
 [test_gen01.md](Canon/test_gen01.md)  
