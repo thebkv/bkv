@@ -42,11 +42,11 @@ To read Hebrews is to watch an ancient world of shadows collapse under the weigh
 
 # Lexicon & Symbolics
 
-* **Spoken ($λαλέω$):** Divine self-disclosure. The same creative force from Genesis 1 (*“And God said”*) now breaking into human history as an incarnate Person.
+* **Spoken (λαλέω):** Divine self-disclosure. The same creative force from Genesis 1 (*“And God said”*) now breaking into human history as an incarnate Person.
 * **The Son:** The ultimate archetype of union. The Consciousness-of-the-Divine.
-* **Express Image ($χαρακτήρ$):** An exact imprint left by a die-stamp. An identical match under pressure.
-* **Upholding ($φέρω$):** Steering reality through a continuous Divine principle.
-* **Purged ($καθαρισμός$):** Total obliteration of separation-consciousness.
+* **Express Image (χαρακτήρ):** An exact imprint left by a die-stamp. An identical match under pressure.
+* **Upholding (φέρω):** Steering reality through a continuous Divine principle.
+* **Purged (καθαρισμός):** Total obliteration of separation-consciousness.
 * **Sat Down:** The temple bureaucracy is closed. The heavy lifting is finished.
 * **Angels:** Operative forces of Spirit; secondary guiding principles.
 * **Throne:** Enduring divine sovereignty within consciousness.
