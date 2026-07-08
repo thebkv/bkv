@@ -9,7 +9,7 @@ BKV is a study tool to support the disciple’s reading of the Holy Word. It doe
 For this level of study, the King James Authorized Version or another strong word-for-word translation is recommended, so that names, symbols, and repeated patterns remain visible and consistent.
 
 Test pages
-[psalm23_symbolics](Canon/Symbolics/psalm23_symbolics.md)   
+[psalm23_symbolics](Canon/psalm23.md)   
 
 
 [template 1](test_template.md)  
