@@ -67,7 +67,7 @@ Hebrews announces that fragments converge the moment the Son becomes your interp
 | :--- | :--- | :--- |
 | **God has spoken** | Genesis 1 | The creative word is now speaking the Son into human consciousness. |
 | **Son as Image** | Genesis 1:26 | The original design of humanity reaches its perfect expression in Christ. |
-| **Purged sins** | Isaiah 6:6 | The charcoal from the altar is the historical purification completed by the Son. |
+| **Purged sins** | Isaiah 6:6 | The charcoal from the altar is the purification completed by the Son. |
 | **Sat down** | Psalm 110:1 | The Priest-King takes the throne, ending the era of frantic sacrificial labor. |
 
 ***
