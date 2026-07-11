@@ -19,7 +19,7 @@ To read Hebrews is to watch an ancient world of shadows collapse under the weigh
 
 * **Many prophets vs. One Son:** A long line of voices shouting across the centuries, each carrying a heavy piece of a puzzle they couldn't quite assemble—now ending at a single point.
 * **Many voices vs. One Word:** The noise of the law, the weight of tradition, and the inner accusations of failure are silenced by the Final Utterance.
-* **Many mediators vs. One enthroned Image:** The sprawling bureaucracy of priests and angels designed to manage the "gap" is swept aside by a Person who embodies our union.
+* **Many mediators (heavenly servants, ministering agencies) vs. One enthroned Image:** The sprawling bureaucracy of priests and angels designed to manage the "gap" is swept aside by a Person who embodies our union.
 * **Many fragments vs. One completed utterance:** The scattered pieces of the mirror have been melted down and recast. The era of the partial is over; the Final Voice has taken the throne.
 
 ***
