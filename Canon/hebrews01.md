@@ -26,7 +26,7 @@ To read Hebrews is to watch an ancient world of shadows collapse under the weigh
 
 # The Rendering (BKV-MSR)
 
-> **1** Long ago, at many times and in many ways, the Absolute spoke to our ancestors by the Prophets through various principles of truth, **2** but in these last days He has spoken to us by His Son—the Consciousness-of-the-Divine—whom He appointed the Heir of all things, and through whom He also created the epochs and dimensions of existence. 
+> **1** Long ago, at many times and in many ways, the Absolute spoke to our ancestors by the Prophets through various principles of truth, **2** but in these last days He has spoken to us by His Son, who is the Divine Consciousness embodied in human form, whom He appointed the Heir of all things, and through whom He also created the epochs and dimensions of existence. 
 > 
 > **3** He is the radiance of the Absolute's glory and the perfect mirror of the Divine Essence, upholding the universe by the word of His power. After making purification for sin by the healing of our estrangement, He sat down at the right hand of the Majesty on high, **4** having become as much superior to the Angels and operative principles of Spirit as the name He has inherited is more excellent than theirs.
 > 
