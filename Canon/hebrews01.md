@@ -46,7 +46,7 @@ To read Hebrews is to watch an ancient world of shadows collapse under the weigh
 * **The Son:** The ultimate archetype of union. The Consciousness-of-the-Divine.
 * **Express Image (χαρακτήρ):** An exact imprint left by a die-stamp. An identical match under pressure.
 * **Upholding (φέρω):** Steering reality through a continuous Divine principle.
-* **Purged (καθαρισμός):** Total obliteration of separation-consciousness.
+* **Purged (καθαρισμός):** Purification; cleansing; removal of what defiles, obliteration of separation-consciousness.
 * **Sat Down:** The temple bureaucracy is closed. The heavy lifting is finished.
 * **Angels:** Operative forces of Spirit; secondary guiding principles.
 * **Throne:** Enduring divine sovereignty within consciousness.
