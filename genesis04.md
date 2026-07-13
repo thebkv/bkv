@@ -73,4 +73,7 @@ This architecture is the diagnostic blueprint of the religious ego. It exposes t
 
 *The visual architecture of this domain—capturing the widening split between the shepherd's altar and the farmed ground, the violent rift in the unmediated field, the descending defensive mark, and the hard, geometric enclosure of the first human city rising in the land of unrest.*
 
+<img width="2304" height="2304" alt="genesis04_4kb" src="https://github.com/user-attachments/assets/9f93bb46-3293-48a2-9fd1-e62b294ec2a9" />
+
+
 (c) 2014-2026 Luke Stewart. All Bible Key materials are copyrighted. All rights reserved.
