@@ -1,10 +1,3 @@
----
-book: "Genesis"
-chapter: 4
-focus: "The Divergence of Attention and the Rise of the Compensatory System"
-summary: "The generation of two distinct orientations within consciousness—self-generated labor and responsive alignment—tracing the progression of comparison, the violent suppression of alignment, and the subsequent construction of an externalized city to replace the lost Presence."
----
-
 | book | Genesis |
 | :--- | :--- |
 | **chapter** | 4 |
