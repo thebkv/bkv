@@ -13,7 +13,7 @@ summary: "The transition from an hyper-compressed, high-velocity forge of raw ch
 
 # Genesis Chapter 1
 
-Forget the calendar. You are not looking at a cosmic schedule; you are standing inside a forge. The opening movement of Genesis chapter 1 is not really to document the tidy ticking of a wall clock, because the clock could not have yet existed! In the beginning, the pressure of reality was absolute murder. A rate of existence so jammed, dense, and hot that a million years of development transpires in the blink of a cosmic eye. This chapter maps the process of the Divine Goldsmith hammering out the suffocating, opaque deep, stretching the very fabric of space and time thin enough to cool the project down so that a star could form, a physical law could grip, and a human heart could beat.
+Forget the calendar. You are not looking at a cosmic schedule; you are standing inside a forge. The opening movement of Genesis chapter 1 is not really to document the ticking of a clock on a wall; the clock could not have yet existed! In the beginning, the pressure of reality was absolute murder. A rate of existence so jammed, dense, and hot that a million years of development transpires in the blink of a cosmic eye. This chapter maps the process of the Divine Goldsmith hammering out the suffocating, opaque deep, stretching the very fabric of space and time thin enough to cool the project down so that a star could form, a physical law could grip, and a human heart could beat.
 
 ***
 
