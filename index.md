@@ -110,6 +110,5 @@ The architecture of the Word unfolds across seven distinct movements of consciou
 
 
 
-All Bible Key Material is copyright 2026. All rights reserved.
-Additional copyright 2014 - 2025.
+© 2014–2026 Luke Stewart. All Bible Key Vision material is copyrighted. All rights reserved.
 
