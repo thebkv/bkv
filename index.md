@@ -89,6 +89,7 @@ The architecture of the Word unfolds across seven distinct movements of consciou
 
 | Chapter | BKV Structural Title |
 | :---: | :--- |
+| [00](hebrews00.md) | The Tectonic Shift |
 | [01](hebrews01.md) | The Direct Expression of Source Exalted Above Intermediate Forms |
 | [02](hebrews02.md) | Descent Into Limitation to Subjugate Mortality |
 | [03](hebrews03.md) | The Living House Transcending the External Architect |
