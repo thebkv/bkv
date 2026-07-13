@@ -8,6 +8,7 @@ layout: default
 | **chapter** | 23 |
 | **focus** | The Shepherding Presence |
 | **summary** | The disciple's journey from dependence to abiding through the continual guidance of the Lord. |
+| **layout** | default |  
 
 # ⚓️ BKV Psalm 23 — The Shepherding Presence
 
