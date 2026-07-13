@@ -18,10 +18,14 @@ Forget the calendar. You are not looking at a cosmic schedule; you are standing 
 ### v1–5: The Opaque Deep and the First Render
 
 > **KJV:** In the beginning God created the heaven and the earth. And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters. And God said, Let there be light: and there was light. And God saw the light, that it was good: and God divided the light from the darkness. And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.
-> 
-> **BKV:** In the primary flash of origin, the Sovereign Source engineered the absolute celestial heights and the foundational terrestrial matrix. And the terrestrial matrix was a fluid, unformed turbulence—an empty, volatile mass—and an absolute, heavy opacity choked the face of the surging deep. And the vital Breath of the Source vibrated with intense force over the surface of the pressurized fluidities. And the Source shouted, *"Become transparent!"* and the fog cleared into visibility. And the Source observed the transparency, recognizing its operational alignment; and the Source drove a structural wedge between the transparent field and the unintegrated dark. And the Source designated the transparency as the Daylight, and the opacity He designated as the Night-Shadow. And the transition of dusk and the transition of dawn marked the first pulse of processing.
+
 
 Monday morning wasn't a pristine postcard from the Pacific. The **deep** (*Tehom*) is a churning, heavy, hyper-pressurized chaos—a thick, muscular soup of raw matter where light couldn't travel an inch without tripping over a particle. The traditional "Let there be light" is not the magical creation of photons; it is a command for clarity. It is the first render of the universe, where the Source commands the fog to clear so that the divine glory could actually travel through the dark. By dividing the light from the darkness, the Architect establishes the baseline of cosmic transparency, setting the speed of transmission for everything that follows.
+
+Here is how the first section reads, if we consider the deeper (pun not intended) meaning.
+
+> **BKV:** In the primary flash of origin, the Sovereign Source engineered the absolute celestial heights and the foundational terrestrial matrix. And the terrestrial matrix was a fluid, unformed turbulence—an empty, volatile mass—and an absolute, heavy opacity choked the face of the surging deep. And the vital Breath of the Source vibrated with intense force over the surface of the pressurized fluidities. And the Source shouted, *"Become transparent!"* and the fog cleared into visibility. And the Source observed the transparency, recognizing its operational alignment; and the Source drove a structural wedge between the transparent field and the unintegrated dark. And the Source designated the transparency as the Daylight, and the opacity He designated as the Night-Shadow. And the transition of dusk and the transition of dawn marked the first pulse of processing.
+
 
 ### v6–8: The Anvil of the Heavens
 
