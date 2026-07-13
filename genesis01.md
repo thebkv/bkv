@@ -30,10 +30,11 @@ Here is how the first section reads, if we consider the deeper (pun not intended
 ### v6–8: The Anvil of the Heavens
 
 > **KJV:** And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters. And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so. And God called the firmament Heaven. And the evening and the morning were the second day.
-> 
-> **BKV:** And the Source decreed, "Let there be a beaten, hammered expanse driving a wedge through the pressurized depths, segregating the chaotic fluidities below from the fluidities above." And the Source executed the hammered expanse, anchoring the division between the lower dense currents and the higher cosmic reservoirs; and the architecture held. And the Source designated the hammered expanse as the Celestial Expansion. And the transition of dusk and the transition of dawn marked the second pulse of processing.
 
 This is where the scholars get soft and give the text a nice, religious glaze job. The word **firmament** (*Raqia*) does not mean a soft blue sky; it comes from *raika*—the violent work of a goldsmith. It describes a man taking a dense, heavy nugget of gold and beating it, hammering it, and stretching it until it becomes a vast, translucent, micro-thin sheet. The heavens were not grown; they were *beaten into shape*. By stretching the universe thin, the Divine Goldsmith was fundamentally altering the rate of time itself. He thinned out the dense, volatile heat of the early deep to cool the movie down, widening the frames of the masterpiece just so you would have an environment where you could physically breathe.
+
+> **BKV:** And the God decreed, "Let there be a beaten, hammered expanse driving a wedge through the pressurized depths, segregating the chaotic fluidities below from the fluidities above." And the Source executed the hammered expanse, anchoring the division between the lower dense currents and the higher cosmic reservoirs; and the architecture held. And the Source designated the hammered expanse as the Celestial Expansion. And the transition of dusk and the transition of dawn marked the second pulse of processing.
+
 
 ### v9–13: The Withering and the Fixed Laws
 
