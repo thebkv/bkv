@@ -73,7 +73,7 @@ Finally, **Adam** is brought forth—a creature formed out of the gritty, red ea
 
 This is the ultimate diagnostic for anyone entering the study of Scripture. It completely shatters the irrelevance of the Young Earth vs. Old Earth debate.
 
-* **[The Fallacy of the Calendar]:** In that very first moment of creation, time was moving at an insane, hyper-compressed velocity. A tremendous amount of development happened in an extremely short amount of time. Whether you read it as literal days or epochs, the reality is the same: the frame rate was altered by design.
+* **[The Fallacy of the Calendar]:** In that very first moment of creation, time was moving at an insane, hyper-compressed velocity. A tremendous amount of development happened in an extremely short amount of time. Whether you read it as literal days or epochs, the reality is the same: the frame rate was altered by design, and it happened very, very fast.
 * **[The Goldsmith’s Intent]:** You are not an accidental byproduct of a random, unguided explosion. You are the explicit witness to an ancient, violent hammering. The Celestial Goldsmith beat the universe thin, thinned out the killing heat of chaos, and slowed down the clock of the cosmos for one specific reason: *so that you could stand on the stage and look back at the Light*.
 
 ***
