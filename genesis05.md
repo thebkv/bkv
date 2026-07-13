@@ -170,3 +170,5 @@ The greatest changes often begin, like Enoch's, with a single faithful walk.
 ![Structural Geometry of Genesis Chapter 5](/assets/images/genesis-05-inheritance.jpg)
 
 *The visual architecture of this domain—capturing the steady rhythm of inherited generations, the recurring refrain of mortality, the singular interruption of Enoch's walk with God, and the emerging hope embodied in Noah as history turns toward redemption.*
+
+<img width="1254" height="1254" alt="genesis05a" src="https://github.com/user-attachments/assets/c42ab187-d944-472d-9915-b7aeda3d8378" />
