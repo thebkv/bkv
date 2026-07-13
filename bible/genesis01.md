@@ -23,7 +23,7 @@ Throughout Genesis 1, the rhythm never wavers: **God separates, then He fills. H
 
 > **KJV:** In the beginning God created the heaven and the earth. And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.
 >
-> **VBV MSR:** At the ultimate origin, God established the entire scope of heaven and earth. The earth existed as an unmapped, uninhabited expanse wrapped in darkness over the face of the deep, while the Spirit of God hovered with deliberate, brooding intention over the waters, preparing them for ordered life.
+> **BKV Minimum Sufficient Functional Role:** At the ultimate origin, God established the entire scope of heaven and earth. The earth existed as an unmapped, uninhabited expanse wrapped in darkness over the face of the deep, while the Spirit of God hovered with deliberate, brooding intention over the waters, preparing them for ordered life.
 
 The opening scene isn't one of cosmic conflict, but of potential awaiting form. The darkness isn't presented as an evil rival trying to fight God; it is simply the unwritten page—the total absence of distinction before meaning has been spoken into existence. 
 
@@ -33,7 +33,7 @@ Then we hit one of the most beautiful images in Scripture: the Spirit of God hov
 
 > **KJV:** And God said, Let there be light: and there was light. And God saw the light, that it was good: and God divided the light from the darkness. And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.
 >
-> **VBV MSR:** Then God commanded, "Let there be light," and illumination immediately appeared. God recognized the light as perfectly accomplishing its purpose, separated it from the darkness, and assigned each its proper identity, establishing the first complete cycle of evening and morning.
+> **BVK MSR:** Then God commanded, "Let there be light," and illumination immediately appeared. God recognized the light as perfectly accomplishing its purpose, separated it from the darkness, and assigned each its proper identity, establishing the first complete cycle of evening and morning.
 
 This first act of creation is fundamentally an act of distinction. The sun hasn't even been created yet, so Genesis isn't primarily discussing astronomy here. It is introducing the principle of illumination itself—the capacity for reality to be perceived, distinguished, and understood. 
 
@@ -53,7 +53,7 @@ One of the great themes of Genesis emerges right here: confusion collapses disti
 
 > **KJV:** And God said, Let us make man in our image, after our likeness: and let them have dominion... So God created man in his own image, in the image of God created he him; male and female created he them.
 >
-> **VBV MSR:** Then God declared, "Let us make humanity in our image and according to our likeness, entrusting them with stewardship over creation." So humanity was fashioned to reflect God's nature and represent His authority, created as male and female to bear His image together.
+> **BKV MSR:** Then God declared, "Let us make humanity in our image and according to our likeness, entrusting them with stewardship over creation." So humanity was fashioned to reflect God's nature and represent His authority, created as male and female to bear His image together.
 
 Everything in the chapter has been building toward this functional climax. The image of God isn't primarily about our physical appearance; it is about vocation. Humanity is fashioned to receive divine order from the Source and express it directly within creation. Like Jeremiah, who was set apart and ordained before he ever left the womb, humanity is engineered from the ground up to be a localized rendering of the Kingdom—representatives capable of reflecting His character and exercising wise stewardship over the territory. 
 
