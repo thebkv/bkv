@@ -5,11 +5,7 @@ focus: "The Cosmic Forge and the Slowing of the Frame"
 summary: "The transition from an hyper-compressed, high-velocity forge of raw chaos into a stabilized, transparent arena of structured reality, engineered specifically to sustain conscious observation."
 ---
 
-| book | Genesis |
-| :--- | :--- |
-| **chapter** | 1 |
-| **focus** | The Cosmic Forge and the Slowing of the Frame |
-| **summary** | The transition from an hyper-compressed, high-velocity forge of raw chaos into a stabilized, transparent arena of structured reality, engineered specifically to sustain conscious observation. |
+
 
 # Genesis Chapter 1
 
