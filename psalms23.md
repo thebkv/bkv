@@ -201,4 +201,4 @@ You do not have to bargain for this. You do not have to conjure it up with hyper
 
 The entire weight of Psalm 23 rests on a single pivot: *“For thou art with me.”* When that realization drops from a concept in the head to a burning reality in the gut, the valley lights up, the table is set, and the soul sits down at home. Abide there.
 
-(c) 2014-2026 Luke Stewart. All Bible Key material is copyrighted.
+(c) 2014-2026 Luke Stewart. All Bible Key material is copyrighted. All rights reserved.
