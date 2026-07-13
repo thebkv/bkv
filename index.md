@@ -112,7 +112,7 @@ The architecture of the Word unfolds across seven distinct movements of consciou
 | ○ | [20](#) | The Day of Trouble: The Banner of the Name Raised High |
 | ○ | [21](#) | The Triumph of the Kingly Will: Desires Granted in the Presence |
 | ○ | [22](#) | The Great Deprivation: The Descent Into Desolation Before Glory |
-| ● | [23](psalms23.md) | The Shepherd of the Soul: Absolute Sufficiency in the Valley of Shadows |
+| ● | [23](psalm23.md) | The Shepherd of the Soul: Absolute Sufficiency in the Valley of Shadows |
 
 [⚓️](#the-bible-key-vision-bkv)
 
