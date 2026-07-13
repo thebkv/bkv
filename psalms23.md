@@ -1,8 +1,3 @@
----
-title: "BKV Psalm 23 - The Shepherding Presence"
-layout: default
----
-
 | book | Psalms |
 | :--- | :--- |
 | **chapter** | 23 |
