@@ -1,6 +1,6 @@
 ---
 book: "Psalms"
-chapter: 23
+chapter: 23 v2
 focus: "The Shepherding Presence"
 summary: "The disciple's journey from dependence to abiding through the continual guidance of the Lord."
 ---
