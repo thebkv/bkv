@@ -81,6 +81,40 @@ The architecture of the Word unfolds across seven distinct movements of consciou
 [⚓️](#the-bible-key-vision-bkv)
 
 
+## 📜 Section 3: Poetry & Wisdom (The Soul Reflects)
+
+### PSALMS - The Songs of the Ascent: The Microcosm of the Soul's Internal Realignment
+
+#### Book I: Psalms 1–41 (The Davidic Consciousness & Foundational Alignment)
+*Focus: The structural separation of the inner man from chaotic, fragmented thoughts.*
+
+| Status | Chapter | BKV Structural Title |
+| :---: | :---: | :--- |
+| ○ | [01](#) | Two Ways of Consciousness: The Fruitful Tree vs. The Chaff |
+| ○ | [02](#) | The Decree of the Sovereign Will Over Tumultuous Thoughts |
+| ○ | [03](#) | Shield of Awareness in the Midst of Rising Internal Pressures |
+| ○ | [04](#) | Rest in the Chamber: Trust Over the Agitation of the Field |
+| ○ | [05](#) | Morning Alignment: Directing the Voice to the Order of Reality |
+| ○ | [06](#) | The Cry from the Depths of Vital Exhaustion |
+| ○ | [07](#) | Refuge from the Accuser: The Integrity of the Central Intent |
+| ○ | [08](#) | The Excellence of the Pattern: Authority Ordained in Weakness |
+| ○ | [09](#) | The Throttle of Praise Over the Hidden Forces of Destruction |
+| ○ | [10](#) | The Illusion of the Lawless Thought Matrix |
+| ○ | [11](#) | Foundations Shaken: The Anchor of the Dispassionate Eye |
+| ○ | [12](#) | Flattery and Pure Words: The Sevenfold Silver of Reality |
+| ○ | [13](#) | The Finite Mind's Cry in the Eclipse of the Presence |
+| ○ | [14](#) | The Natural Man's Denial of the Sovereign Principle |
+| ○ | [15](#) | Prerequisite for the Tabernacle: The Walk of Integrated Truth |
+| ○ | [16](#) | The Boundary Lines Fallen in Pleasant Places: Unshakable Assurance |
+| ○ | [17](#) | The Appeal of the Pure Intention: Awaking in His Likeness |
+| ○ | [18](#) | The Great Deliverance: The Sovereign Power Shaking the Inner Earth |
+| ○ | [19](#) | The Dual Witness: The Stellar Firmament and the Restoring Law |
+| ○ | [20](#) | The Day of Trouble: The Banner of the Name Raised High |
+| ○ | [21](#) | The Triumph of the Kingly Will: Desires Granted in the Presence |
+| ○ | [22](#) | The Great Deprivation: The Descent Into Desolation Before Glory |
+| ● | [23](psalms23.md) | The Shepherd of the Soul: Absolute Sufficiency in the Valley of Shadows |
+
+[⚓️](#the-bible-key-vision-bkv)
 
 
 ## 📜 Section 6: Letters (Instruction for the Body)
