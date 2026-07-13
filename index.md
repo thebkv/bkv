@@ -90,29 +90,29 @@ The architecture of the Word unfolds across seven distinct movements of consciou
 
 | Status | Chapter | BKV Structural Title |
 | :---: | :---: | :--- |
-| ○ | [01](#) | Two Ways of Consciousness: The Fruitful Tree vs. The Chaff |
-| ○ | [02](#) | The Decree of the Sovereign Will Over Tumultuous Thoughts |
-| ○ | [03](#) | Shield of Awareness in the Midst of Rising Internal Pressures |
-| ○ | [04](#) | Rest in the Chamber: Trust Over the Agitation of the Field |
-| ○ | [05](#) | Morning Alignment: Directing the Voice to the Order of Reality |
-| ○ | [06](#) | The Cry from the Depths of Vital Exhaustion |
-| ○ | [07](#) | Refuge from the Accuser: The Integrity of the Central Intent |
-| ○ | [08](#) | The Excellence of the Pattern: Authority Ordained in Weakness |
-| ○ | [09](#) | The Throttle of Praise Over the Hidden Forces of Destruction |
-| ○ | [10](#) | The Illusion of the Lawless Thought Matrix |
-| ○ | [11](#) | Foundations Shaken: The Anchor of the Dispassionate Eye |
-| ○ | [12](#) | Flattery and Pure Words: The Sevenfold Silver of Reality |
-| ○ | [13](#) | The Finite Mind's Cry in the Eclipse of the Presence |
-| ○ | [14](#) | The Natural Man's Denial of the Sovereign Principle |
-| ○ | [15](#) | Prerequisite for the Tabernacle: The Walk of Integrated Truth |
-| ○ | [16](#) | The Boundary Lines Fallen in Pleasant Places: Unshakable Assurance |
-| ○ | [17](#) | The Appeal of the Pure Intention: Awaking in His Likeness |
-| ○ | [18](#) | The Great Deliverance: The Sovereign Power Shaking the Inner Earth |
-| ○ | [19](#) | The Dual Witness: The Stellar Firmament and the Restoring Law |
-| ○ | [20](#) | The Day of Trouble: The Banner of the Name Raised High |
-| ○ | [21](#) | The Triumph of the Kingly Will: Desires Granted in the Presence |
-| ○ | [22](#) | The Great Deprivation: The Descent Into Desolation Before Glory |
-| ● | [23](psalm23.md) | The Shepherd of the Soul: Absolute Sufficiency in the Valley of Shadows |
+| ○ | [01](#psalms01.md) | Two Ways of Consciousness: The Fruitful Tree vs. The Chaff |
+| ○ | [02](#psalms02.md) | The Decree of the Sovereign Will Over Tumultuous Thoughts |
+| ○ | [03](#psalms03.md) | Shield of Awareness in the Midst of Rising Internal Pressures |
+| ○ | [04](#psalms04.md) | Rest in the Chamber: Trust Over the Agitation of the Field |
+| ○ | [05](#psalms05.md) | Morning Alignment: Directing the Voice to the Order of Reality |
+| ○ | [06](#psalms06.md) | The Cry from the Depths of Vital Exhaustion |
+| ○ | [07](#psalms07.md) | Refuge from the Accuser: The Integrity of the Central Intent |
+| ○ | [08](#psalms08.md) | The Excellence of the Pattern: Authority Ordained in Weakness |
+| ○ | [09](#psalms09.md) | The Throttle of Praise Over the Hidden Forces of Destruction |
+| ○ | [10](#psalms10.md) | The Illusion of the Lawless Thought Matrix |
+| ○ | [11](#psalms11.md) | Foundations Shaken: The Anchor of the Dispassionate Eye |
+| ○ | [12](#psalms12.md) | Flattery and Pure Words: The Sevenfold Silver of Reality |
+| ○ | [13](#psalms13.md) | The Finite Mind's Cry in the Eclipse of the Presence |
+| ○ | [14](#psalms14.md) | The Natural Man's Denial of the Sovereign Principle |
+| ○ | [15](#psalms15.md) | Prerequisite for the Tabernacle: The Walk of Integrated Truth |
+| ○ | [16](#psalms16.md) | The Boundary Lines Fallen in Pleasant Places: Unshakable Assurance |
+| ○ | [17](#psalms17.md) | The Appeal of the Pure Intention: Awaking in His Likeness |
+| ○ | [18](#psalms18.md) | The Great Deliverance: The Sovereign Power Shaking the Inner Earth |
+| ○ | [19](#psalms19.md) | The Dual Witness: The Stellar Firmament and the Restoring Law |
+| ○ | [20](#psalms20.md) | The Day of Trouble: The Banner of the Name Raised High |
+| ○ | [21](#psalms21.md) | The Triumph of the Kingly Will: Desires Granted in the Presence |
+| ○ | [22](#psalms22.md) | The Great Deprivation: The Descent Into Desolation Before Glory |
+| ● | [23](psalms23.md) | The Shepherd of the Soul: Absolute Sufficiency in the Valley of Shadows |
 
 [⚓️](#the-bible-key-vision-bkv)
 
