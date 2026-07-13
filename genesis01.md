@@ -141,4 +141,5 @@ The overarching message revealed by applying this deeper reading is that the For
 
 Genesis 1 thus becomes a spiritual map: Your greatest task is to recognize the unformed potential in your current state, allow the Spirit of God's presence to hover over it, and then commit to the active discipline of making distinctions (separating truth from error) so that you may finally manifest your divine calling.
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/b26c4ec9-4092-4fee-aea1-37dee6b1d4f3" />
 
