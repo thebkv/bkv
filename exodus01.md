@@ -1,12 +1,16 @@
-# Exodus 1
+---
+book: "Exodus"
+chapter: 1
+focus: "Fruitfulness, Foreign Rule, and Bondage"
+summary: "The God-given faculties of the disciple become fruitful and powerful, but fall under a foreign inner government that conscripts their strength and attempts to destroy the new life God is bringing forth."
+---
 
-## BKV Title
-
-**The Disciple's Faculties Are Put in Bondage**
+# Exodus 1 — The Faculties Enter Bondage
 
 ## BKV Insight
 
-Exodus 1 describes the moment when the God-given faculties of the disciple become subjected to a foreign inner government. What was fruitful and multiplying is conscripted into building the structures of bondage, while the new life God is bringing forth comes under direct attack. Yet the chapter also reveals the beginning of deliverance: something within refuses the command of the false ruler, fears God instead, and preserves the life that will eventually overthrow the entire system.
+Exodus 1 describes the moment when the **God-given faculties of the disciple come under the rule of a foreign inner government**. Their strength has not disappeared—they are fruitful, multiplying, and increasingly powerful—but that strength is now conscripted into building and sustaining the very order that enslaves them. Yet Pharaoh cannot stop the divine life from increasing, and something within already fears God more than the ruling power of bondage, preserving what God is bringing to birth.
+
 
 ## Canonical History & Context
 
