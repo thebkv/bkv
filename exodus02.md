@@ -1,12 +1,15 @@
-# Exodus 2
+---
+book: "Exodus"
+chapter: 2
+focus: "Deliverance, Separation, and Preparation"
+summary: "The delivering consciousness is born within bondage, drawn out and preserved, then separated from Egypt and prepared to return as the instrument through which the enslaved faculties will be set free."
+---
 
-## BKV Title
-
-**The Deliverer Is Drawn Out and Prepared**
+# Exodus 2 — The Deliverer Is Drawn Out
 
 ## BKV Insight
 
-Exodus 2 describes the birth of the **delivering consciousness within the disciple** while the rest of the inner faculties remain in bondage. The deliverer must first undergo the pattern of deliverance himself: he is preserved from destruction, drawn out of the waters, awakened to the bondage of his brethren, separated from Egypt, and made a stranger to the old order before he is prepared to return and lead the whole inner kingdom out.
+Exodus 2 describes the birth and formation of the **delivering consciousness within the disciple**. Moses must first undergo the pattern of deliverance himself: he is preserved from destruction, drawn out of the waters, awakened to the bondage of his brethren, separated from Egypt, and made a stranger to the old order before he can return and lead the whole inner kingdom out. **The deliverer must first embody the deliverance.**
 
 ## Canonical History & Context
 
