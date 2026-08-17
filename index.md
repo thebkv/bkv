@@ -81,6 +81,55 @@ The architecture of the Word unfolds across seven distinct movements of consciou
 [⚓️](#the-bible-key-vision-bkv)
 
 
+### EXODUS — The Book of Deliverance: The God-Given Faculties Released from Bondage
+
+Exodus follows the inner kingdom after its descent into Egypt. The faculties that became fruitful there have fallen under a foreign governing power and are compelled to serve the very order that enslaves them. The book traces their deliverance: the birth and preparation of the delivering consciousness, the breaking of Pharaoh's rule, the passage out of bondage, the reorientation of the faculties toward God in the wilderness, and finally their ordering around the divine Presence in the Tabernacle.
+
+| Chapter | BKV Structural Title |
+| :---: | :--- |
+| [01](exodus01.md) | The Disciple's Faculties Are Put in Bondage |
+| [02](exodus02.md) | The Deliverer Is Drawn Out and Prepared |
+| 03 | The Deliverer Encounters the Divine Presence |
+| 04 | The Divine Commission Is Accepted and Put in Motion |
+| 05 | The First Confrontation Intensifies the Bondage |
+| 06 | The Promise of Deliverance Is Reaffirmed |
+| 07 | Divine Authority Confronts the Ruling Power |
+| 08 | The False Order Begins to Break Under Judgment |
+| 09 | The Structures of Egypt Are Struck |
+| 10 | Darkness Falls Upon the Ruling Order |
+| 11 | The Final Separation Is Announced |
+| 12 | The Passover: Deliverance Through the Blood |
+| 13 | The Delivered Faculties Are Consecrated and Led |
+| 14 | The Waters Close Behind the Old Life |
+| 15 | The Song of Deliverance and the First Wilderness Testing |
+| 16 | Daily Bread: Learning Dependence Upon God |
+| 17 | Water from the Rock and Victory Through Upraised Hands |
+| 18 | The Inner Government Is Ordered |
+| 19 | The People Are Prepared to Meet God |
+| 20 | Divine Order Is Spoken |
+| 21 | Divine Law Enters the Relationships of Daily Life |
+| 22 | Divine Law Orders Possession, Responsibility, and Restitution |
+| 23 | Justice, Rest, and the Way Into the Promised Land |
+| 24 | The Covenant Is Confirmed |
+| 25 | The Pattern of the Divine Dwelling Is Revealed |
+| 26 | The Dwelling Place Is Given Form |
+| 27 | The Altar, Court, and Light Are Ordered |
+| 28 | The Priestly Faculties Are Clothed for Service |
+| 29 | The Priesthood Is Consecrated |
+| 30 | Prayer, Cleansing, Anointing, and Incense Prepare the Holy Service |
+| 31 | The Work Is Empowered and the Sabbath Seals the Pattern |
+| 32 | The Faculties Turn Back Toward a Visible God |
+| 33 | The Presence Becomes the Essential Question |
+| 34 | The Covenant Is Renewed and the Face Is Transformed |
+| 35 | The Willing Heart Begins to Build the Dwelling |
+| 36 | The Pattern Is Faithfully Brought Into Form |
+| 37 | The Inner Holy Place Is Furnished |
+| 38 | The Outer Court Is Completed and Accounted For |
+| 39 | The Priestly Garments Are Completed According to the Pattern |
+| 40 | The Dwelling Is Raised and Filled with the Presence |
+
+[⚓️](#the-bible-key-vision-bkv)
+
 ## 📜 Section 3: Poetry & Wisdom (The Soul Reflects)
 
 ### PSALMS - The Songs of the Ascent: The Microcosm of the Soul's Internal Realignment
