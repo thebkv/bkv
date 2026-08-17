@@ -93,8 +93,8 @@ Exodus follows the inner kingdom after its descent into Egypt. The faculties tha
 | [04](exodus04.md)  | The Divine Commission Is Embodied and Put in Motion |
 | [05](exodus05.md)  | The First Confrontation Intensifies the Bondage |
 | [06](exodus06.md)  | The Promise of Deliverance Is Reaffirmed |
-| 07 | Divine Authority Confronts the Ruling Power |
-| 08 | The False Order Begins to Break Under Judgment |
+| [07](exodus07.md) | Divine Authority Confronts the Ruling Power |
+| [08](exodus08.md) | The False Order Begins to Break Under Judgment |
 | 09 | The Structures of Egypt Are Struck |
 | 10 | Darkness Falls Upon the Ruling Order |
 | 11 | The Final Separation Is Announced |
