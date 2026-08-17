@@ -90,9 +90,9 @@ Exodus follows the inner kingdom after its descent into Egypt. The faculties tha
 | [01](exodus01.md) | The Disciple's Faculties Are Put in Bondage |
 | [02](exodus02.md) | The Deliverer Is Drawn Out and Prepared |
 | [03](exodus03.md) | The Deliverer Encounters the Divine Presence |
-| 04 | The Divine Commission Is Accepted and Put in Motion |
-| 05 | The First Confrontation Intensifies the Bondage |
-| 06 | The Promise of Deliverance Is Reaffirmed |
+| [04](exodus04.md)  | The Divine Commission Is Embodied and Put in Motion |
+| [05](exodus05.md)  | The First Confrontation Intensifies the Bondage |
+| [06](exodus06.md)  | The Promise of Deliverance Is Reaffirmed |
 | 07 | Divine Authority Confronts the Ruling Power |
 | 08 | The False Order Begins to Break Under Judgment |
 | 09 | The Structures of Egypt Are Struck |
