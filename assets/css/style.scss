@@ -3,38 +3,428 @@
 ---
 
 /* ===========================================================
-    Bible Key Version — Parchment Edition (Clean Final)
-    Works with Jekyll auto-nav and remote theme imports
-    =========================================================== */
+   THE BIBLE KEY — NAVY / PARCHMENT / RUST
+   =========================================================== */
 
 /* 1. Load Fonts */
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600&family=Montserrat:wght@500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,500;1,600&family=Montserrat:wght@500;600;700&display=swap');
 
 /* 2. Import Base Theme */
 @import "{{ site.theme }}";
 
-/* ===========================================================
-    0. Variables
-    =========================================================== */
-$bg-parchment: #d1bfa0;
-$text-color:    #222;
-$link:          #1e90ff; /* Base Blue */
-$link-hover:    darken($link, 8%);
-
-/* --- NEW / MODIFIED VARIABLES --- */
-$color-deep-green: #004d40; /* Deep, rich teal/forest green */
-$color-bold-blue:  #003366; /* Very dark, dramatic blue for maximum contrast */
-$color-bold-brightblue: #1e3ca8; /* ultramarine */
-/* -------------------------------- */
-
-$font-size-base: clamp(16px, 1.5vw, 18px);
-$line-height: 1.7;
-
-$tbl-border: 1px solid rgba(0,0,0,0.35);
-$tbl-pad:    0.4rem;
 
 /* ===========================================================
-    1. Base / Page
+   0. BRAND VARIABLES
+   =========================================================== */
+
+$navy:       #0A1628;
+$parchment:  #F4EFE4;
+$rust:       #A63A24;
+
+/* Supporting colors derived from the core palette */
+$surface:        #111D30;
+$surface-light:  #172337;
+$border:         rgba(244, 239, 228, 0.20);
+$muted-text:     rgba(244, 239, 228, 0.74);
+
+$link:           $rust;
+$link-hover:     lighten($rust, 10%);
+
+$font-size-base: clamp(17px, 1.5vw, 19px);
+$line-height: 1.72;
+
+$tbl-border: 1px solid $border;
+$tbl-pad: 0.5rem;
+
+
+/* ===========================================================
+   1. BASE / PAGE
+   =========================================================== */
+
+html,
+body {
+    height: 100%;
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+html {
+    background: $navy;
+}
+
+body {
+    background: $navy;
+    color: $parchment;
+    font-family: "EB Garamond", Georgia, serif;
+    font-size: $font-size-base;
+    font-weight: 500;
+    line-height: $line-height;
+    margin: 0;
+    text-align: left;
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+/* Theme containers */
+
+.markdown-body,
+.container-lg,
+main {
+    background: transparent;
+    color: $parchment;
+    font-family: "EB Garamond", Georgia, serif;
+    font-weight: 500;
+    line-height: $line-height;
+}
+
+
+/* ===========================================================
+   2. LINKS
+   =========================================================== */
+
+a,
+.markdown-body a {
+    color: $link;
+    text-decoration-color: rgba(166, 58, 36, 0.65);
+    text-underline-offset: 0.15em;
+}
+
+a:hover,
+.markdown-body a:hover {
+    color: $link-hover;
+}
+
+
+/* ===========================================================
+   3. BOLD / INTERPRETIVE EMPHASIS
+   =========================================================== */
+
+/*
+   Bold text is where BKV interpretive insertions naturally
+   become visually distinct from the canonical reading.
+*/
+
+.markdown-body strong,
+.markdown-body b,
+strong,
+b {
+    color: $rust;
+    font-weight: 700;
+}
+
+
+/* Italics stay parchment, slightly softened */
+
+.markdown-body em,
+.markdown-body i,
+em,
+i {
+    color: $parchment;
+}
+
+
+/* ===========================================================
+   4. HEADINGS
+   =========================================================== */
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6,
+.page-header h1,
+.page-header h2,
+.page-header h3,
+.page-header h4,
+.page-header h5,
+.page-header h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
+    font-weight: 700;
+    line-height: 1.25;
+    letter-spacing: 0.01em;
+}
+
+
+/* Major chapter architecture */
+
+.markdown-body h1,
+.page-header h1,
+h1 {
+    color: $parchment;
+}
+
+
+/* Primary section headings */
+
+.markdown-body h2,
+.page-header h2,
+h2 {
+    color: $parchment;
+    border-bottom-color: $border;
+}
+
+
+/* Interior structural headings */
+
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6,
+h3,
+h4,
+h5,
+h6 {
+    color: $rust;
+}
+
+
+/* Remove light-theme GitHub heading borders */
+
+.markdown-body h1,
+.markdown-body h2 {
+    border-bottom-color: $border;
+}
+
+
+/* ===========================================================
+   5. PARAGRAPHS / SECONDARY TEXT
+   =========================================================== */
+
+.markdown-body p,
+.markdown-body li,
+.markdown-body blockquote,
+p,
+li {
+    color: $parchment;
+}
+
+
+/* Horizontal rules */
+
+hr,
+.markdown-body hr {
+    border: 0;
+    height: 1px;
+    background: $border;
+}
+
+
+/* ===========================================================
+   6. BLOCKQUOTES
+   =========================================================== */
+
+blockquote,
+.markdown-body blockquote {
+    color: $muted-text;
+    border-left: 3px solid $rust;
+    background: rgba(244, 239, 228, 0.035);
+    margin-left: 0;
+    padding: 0.75rem 1rem;
+}
+
+
+/* ===========================================================
+   7. TABLES
+   =========================================================== */
+
+table,
+.markdown-body table {
+    width: 100%;
+    border-collapse: collapse;
+    border: $tbl-border;
+    background: $surface;
+    color: $parchment;
+}
+
+th,
+td,
+.markdown-body table th,
+.markdown-body table td {
+    border: $tbl-border;
+    padding: $tbl-pad;
+    text-align: left;
+    vertical-align: middle;
+    color: $parchment;
+}
+
+th,
+.markdown-body table th {
+    background: $surface-light;
+    color: $parchment;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+}
+
+
+/* Chapter list tables */
+
+.chapter-list {
+    width: 100%;
+    margin: 0.75rem 0;
+}
+
+.chapter-list table th,
+.chapter-list table td {
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    color: $parchment;
+    font-size: 0.95em;
+}
+
+.chapter-list table td a {
+    color: $parchment;
+    text-decoration: none;
+}
+
+.chapter-list table td a:hover {
+    color: $rust;
+}
+
+
+@media (min-width: 1200px) {
+    .chapter-list {
+        width: 33vw;
+        max-width: 720px;
+        min-width: 420px;
+    }
+}
+
+
+/* ===========================================================
+   8. BOOK / SECTION COLORS
+   =========================================================== */
+
+/*
+   Keep the classes for compatibility with existing pages,
+   but bring them into the unified Bible Key palette.
+
+   The distinction now comes through typography and context
+   instead of seven unrelated colors.
+*/
+
+.color-moses,
+.color-histories,
+.color-poetry,
+.color-prophets,
+.color-gospels,
+.color-letters,
+.color-revelation {
+    color: $rust;
+}
+
+
+/* ===========================================================
+   9. CODE BLOCKS
+   =========================================================== */
+
+pre,
+code {
+    font-family:
+        ui-monospace,
+        SFMono-Regular,
+        Menlo,
+        Monaco,
+        "Courier New",
+        monospace;
+}
+
+code {
+    color: $parchment;
+    background: $surface-light;
+}
+
+pre {
+    padding: 0.9rem;
+    border: $tbl-border;
+    background: $surface;
+    color: $parchment;
+    overflow-x: auto;
+}
+
+
+/* ===========================================================
+   10. MEDIA
+   =========================================================== */
+
+img,
+svg,
+video,
+iframe {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0.5rem 0;
+}
+
+
+/* ===========================================================
+   11. MOBILE
+   =========================================================== */
+
+@media (max-width: 600px) {
+
+    body,
+    .markdown-body,
+    .container-lg {
+        font-size: 17px;
+        line-height: 1.75;
+        color: $parchment;
+    }
+
+    .markdown-body h1,
+    h1 {
+        line-height: 1.15;
+    }
+}
+
+
+/* ===========================================================
+   12. PRINT
+   =========================================================== */
+
+@media print {
+
+    body {
+        background: white;
+        color: #111;
+    }
+
+    .markdown-body,
+    .container-lg {
+        color: #111;
+    }
+
+    a {
+        color: #111;
+        text-decoration: underline;
+    }
+}
+
+
+/* ===========================================================
+   13. ANCHOR OFFSET
+   =========================================================== */
+
+h1[id],
+h2[id],
+h3[id] {
+    scroll-margin-top: 80px;
+}    1. Base / Page
     =========================================================== */
 html, body { height: 100%; box-sizing: border-box; }
 *, *::before, *::after { box-sizing: inherit; }
