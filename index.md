@@ -95,16 +95,16 @@ Exodus follows the inner kingdom after its descent into Egypt. The faculties tha
 | [06](exodus06.md)  | The Promise of Deliverance Is Reaffirmed |
 | [07](exodus07.md) | Divine Authority Confronts the Ruling Power |
 | [08](exodus08.md) | The False Order Begins to Break Under Judgment |
-| 09 | The Structures of Egypt Are Struck |
-| 10 | Darkness Falls Upon the Ruling Order |
-| 11 | The Final Separation Is Announced |
-| 12 | The Passover: Deliverance Through the Blood |
-| 13 | The Delivered Faculties Are Consecrated and Led |
-| 14 | The Waters Close Behind the Old Life |
-| 15 | The Song of Deliverance and the First Wilderness Testing |
-| 16 | Daily Bread: Learning Dependence Upon God |
-| 17 | Water from the Rock and Victory Through Upraised Hands |
-| 18 | The Inner Government Is Ordered |
+| [09](exodus09.md) | The Structures of Egypt Are Struck |
+| [10](exodus10.md) | Darkness Falls Upon the Ruling Order |
+| [11](exodus11.md) | The Final Separation Is Announced |
+| [12](exodus12.md) | The Passover: Deliverance Through the Blood |
+| [13](exodus13.md) | The Delivered Faculties Are Consecrated and Led |
+| [14](exodus14.md) | The Waters Close Behind the Old Life |
+| [15](exodus15.md) | The Song of Deliverance and the First Wilderness Testing |
+| [16](exodus16.md) | Daily Bread: Learning Dependence Upon God |
+| [17](exodus17.md) | Water from the Rock and Victory Through Upraised Hands |
+| [18](exodus18.md) | The Inner Government Is Ordered |
 | 19 | The People Are Prepared to Meet God |
 | 20 | Divine Order Is Spoken |
 | 21 | Divine Law Enters the Relationships of Daily Life |
