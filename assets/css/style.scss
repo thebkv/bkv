@@ -7,8 +7,6 @@
 
 /* 1. Load Fonts */
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,500;1,600&family=Montserrat:wght@500;600;700&display=swap');
-/* 2. Import Base Theme */
-@import "{{ site.theme }}";
 
 
 /* ===========================================================
@@ -19,14 +17,13 @@ $navy:       #0A1628;
 $parchment:  #F4EFE4;
 $rust:       #A63A24;
 
-/* Supporting colors derived from the core palette */
 $surface:        #111D30;
 $surface-light:  #172337;
 $border:         rgba(244, 239, 228, 0.20);
 $muted-text:     rgba(244, 239, 228, 0.74);
 
-$link:           $rust;
-$link-hover:     lighten($rust, 10%);
+$link:       $rust;
+$link-hover: lighten($rust, 10%);
 
 $font-size-base: clamp(17px, 1.5vw, 19px);
 $line-height: 1.72;
@@ -69,9 +66,6 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-
-/* Theme containers */
-
 .markdown-body,
 .container-lg,
 main {
@@ -104,26 +98,18 @@ a:hover,
    3. BOLD / INTERPRETIVE EMPHASIS
    =========================================================== */
 
-/*
-   Bold text is where BKV interpretive insertions naturally
-   become visually distinct from the canonical reading.
-*/
-
-.markdown-body strong,
-.markdown-body b,
 strong,
-b {
+b,
+.markdown-body strong,
+.markdown-body b {
     color: $rust;
     font-weight: 700;
 }
 
-
-/* Italics stay parchment, slightly softened */
-
-.markdown-body em,
-.markdown-body i,
 em,
-i {
+i,
+.markdown-body em,
+.markdown-body i {
     color: $parchment;
 }
 
@@ -132,6 +118,12 @@ i {
    4. HEADINGS
    =========================================================== */
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
 .markdown-body h1,
 .markdown-body h2,
 .markdown-body h3,
@@ -143,75 +135,51 @@ i {
 .page-header h3,
 .page-header h4,
 .page-header h5,
-.page-header h6,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+.page-header h6 {
     font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
     font-weight: 700;
     line-height: 1.25;
     letter-spacing: 0.01em;
 }
 
-
-/* Major chapter architecture */
-
+/* Major page / chapter titles */
+h1,
 .markdown-body h1,
-.page-header h1,
-h1 {
+.page-header h1 {
     color: $parchment;
 }
 
-
-/* Primary section headings */
-
+/* Main section headings */
+h2,
 .markdown-body h2,
-.page-header h2,
-h2 {
+.page-header h2 {
     color: $parchment;
     border-bottom-color: $border;
 }
 
-
 /* Interior structural headings */
-
-.markdown-body h3,
-.markdown-body h4,
-.markdown-body h5,
-.markdown-body h6,
 h3,
 h4,
 h5,
-h6 {
+h6,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
     color: $rust;
 }
 
 
-/* Remove light-theme GitHub heading borders */
-
-.markdown-body h1,
-.markdown-body h2 {
-    border-bottom-color: $border;
-}
-
-
 /* ===========================================================
-   5. PARAGRAPHS / SECONDARY TEXT
+   5. BODY TEXT
    =========================================================== */
 
-.markdown-body p,
-.markdown-body li,
-.markdown-body blockquote,
 p,
-li {
+li,
+.markdown-body p,
+.markdown-body li {
     color: $parchment;
 }
-
-
-/* Horizontal rules */
 
 hr,
 .markdown-body hr {
@@ -267,8 +235,16 @@ th,
     font-weight: 700;
 }
 
+/* Override light GitHub table row backgrounds */
+.markdown-body table tr,
+.markdown-body table tr:nth-child(2n) {
+    background: $surface;
+}
 
-/* Chapter list tables */
+
+/* ===========================================================
+   8. CHAPTER LIST TABLES
+   =========================================================== */
 
 .chapter-list {
     width: 100%;
@@ -293,7 +269,6 @@ th,
     color: $rust;
 }
 
-
 @media (min-width: 1200px) {
     .chapter-list {
         width: 33vw;
@@ -304,15 +279,12 @@ th,
 
 
 /* ===========================================================
-   8. BOOK / SECTION COLORS
+   9. BOOK / SECTION COLORS
    =========================================================== */
 
 /*
-   Keep the classes for compatibility with existing pages,
-   but bring them into the unified Bible Key palette.
-
-   The distinction now comes through typography and context
-   instead of seven unrelated colors.
+   Preserve existing class names so older BKV pages
+   continue to work while using the unified brand palette.
 */
 
 .color-moses,
@@ -327,7 +299,7 @@ th,
 
 
 /* ===========================================================
-   9. CODE BLOCKS
+   10. CODE BLOCKS
    =========================================================== */
 
 pre,
@@ -341,12 +313,16 @@ code {
         monospace;
 }
 
-code {
+code,
+.markdown-body code,
+.markdown-body tt {
     color: $parchment;
     background: $surface-light;
 }
 
-pre {
+pre,
+.markdown-body pre,
+.markdown-body .highlight pre {
     padding: 0.9rem;
     border: $tbl-border;
     background: $surface;
@@ -356,7 +332,7 @@ pre {
 
 
 /* ===========================================================
-   10. MEDIA
+   11. MEDIA
    =========================================================== */
 
 img,
@@ -369,9 +345,14 @@ iframe {
     margin: 0.5rem 0;
 }
 
+/* Remove GitHub's white image background */
+.markdown-body img {
+    background: transparent;
+}
+
 
 /* ===========================================================
-   11. MOBILE
+   12. MOBILE
    =========================================================== */
 
 @media (max-width: 600px) {
@@ -384,15 +365,15 @@ iframe {
         color: $parchment;
     }
 
-    .markdown-body h1,
-    h1 {
+    h1,
+    .markdown-body h1 {
         line-height: 1.15;
     }
 }
 
 
 /* ===========================================================
-   12. PRINT
+   13. PRINT
    =========================================================== */
 
 @media print {
@@ -415,179 +396,11 @@ iframe {
 
 
 /* ===========================================================
-   13. ANCHOR OFFSET
+   14. ANCHOR OFFSET
    =========================================================== */
 
 h1[id],
 h2[id],
 h3[id] {
     scroll-margin-top: 80px;
-}    1. Base / Page
-    =========================================================== */
-html, body { height: 100%; box-sizing: border-box; }
-*, *::before, *::after { box-sizing: inherit; }
-
-body {
-    background: $bg-parchment;
-    color: $text-color;
-    font-family: "EB Garamond", "Georgia", serif;
-    font-size: $font-size-base;
-    line-height: $line-height;
-    margin: 0;
-    text-align: left;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
 }
-
-/* make normal text slightly heavier so bold still jumps clearly */
-body,
-.markdown-body,
-.container-lg {
-    font-weight: 500; /* medium */
-}
-
-/* --- BOLD STYLES (Requested: blue blue for bold, and bold should stand out more) --- */
-.markdown-body strong,
-.markdown-body b {
-    font-weight: 700; /* Using 700 to ensure a clear distinction from 500 body text */
-    color: $color-bold-brightblue; /* Ultramarine */
-    /* Add a slight text shadow for that dramatic, 'chiseled' look */
-    text-shadow: 0.5px 0.5px 1px rgba(0, 0, 0, 0.1);
-}
-/* ----------------------------------------------------------------------------------- */
-
-/* --- HEADING STYLES (Requested: deep green monterrat for headings, ALL LEVELS) --- */
-/* Headings — full coverage for all markdown and theme variants */
-.markdown-body h1,
-.markdown-body h2,
-.markdown-body h3,
-.markdown-body h4,
-.markdown-body h5,
-.markdown-body h6,
-.page-header h1,
-.page-header h2,
-.page-header h3,
-.page-header h4,
-.page-header h5,
-.page-header h6,
-h1, h2, h3, h4, h5, h6 {
-    font-family: "Montserrat", "Helvetica Neue", Arial, sans-serif;
-    color: $color-deep-green; /* Deep Green color - IMPORTANT! */
-    letter-spacing: 0.02em; /* Slightly wider spacing for a grander feel */
-    font-weight: 700;
-    line-height: 1.3;
-}
-/* --------------------------------------------------------------------- */
-
-/* ===========================================================
-    2. Tables
-    =========================================================== */
-table {
-    width: 100%;
-    border-collapse: collapse;
-    border: $tbl-border;
-    background: rgba(255,255,255,0.25);
-}
-
-/* --- TABLE CELL FIX (Requested: make sure the table cells are all same format) --- */
-th, td {
-    border: $tbl-border;
-    padding: $tbl-pad;
-    /* Explicitly setting text-align and vertical-align for uniformity */
-    text-align: center; /* Chapter numbers are typically centered */
-    vertical-align: middle;
-}
-
-/* Chapter list tables */
-.chapter-list {
-    width: 100%;
-    margin: 0.75rem 0;
-}
-/* This selector ensures the style applies to all cells within the targeted tables */
-.chapter-list table th,
-.chapter-list table td {
-    width: 25%;
-    text-align: center; /* Reinforce centering for chapter numbers */
-    font-family: "Montserrat", sans-serif; /* Montserrat for structure/numbers */
-    font-weight: 500;
-    color: $text-color;
-    /* Optional: Small font size adjustment for number clarity */
-    font-size: 0.95em;
-}
-
-@media (min-width: 1200px) {
-    .chapter-list {
-        width: 33vw;
-        max-width: 720px;
-        min-width: 420px;
-    }
-}
-/* --------------------------------------------------------------------------------- */
-
-/* ===========================================================
-    3. Heading Colors (No changes here, keeping existing color scheme)
-    =========================================================== */
-.color-moses       { color: #a87d00 ; }    /* Law / foundation other colors d1a100 98761a*/
-.color-histories   { color: #8b4513 ; }    /* action / earth */
-.color-poetry      { color: #4b0082 ; }    /* emotion / depth */
-.color-prophets    { color: #b22222 ; }    /* vision / purification */
-.color-gospels     { color: #2e8b57 ; }    /* life / incarnation */
-.color-letters     { color: #1e90ff ; }    /* teaching / expansion */
-.color-revelation  { color: #800080 ; }    /* completion / divinity */
-
-/* ===========================================================
-    4. Media & Code Blocks
-    =========================================================== */
-img, svg, video, iframe {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 0.5rem 0;
-}
-
-pre, code {
-    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, "Courier New", monospace;
-}
-pre {
-    padding: 0.75rem;
-    border: $tbl-border;
-    background: rgba(255,255,255,0.4);
-    overflow-x: auto;
-}
-
-/* ===========================================================
-    5. Mobile / Readability Enhancements (No changes)
-    =========================================================== */
-body,
-.markdown-body,
-.container-lg {
-    font-family: "EB Garamond", "Georgia", serif ;
-    font-weight: 500;
-    color: #222;
-    line-height: 1.7;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-}
-
-/* Slightly larger text on phones */
-@media (max-width: 600px) {
-    body,
-    .markdown-body,
-    .container-lg {
-        font-size: 17px;
-        line-height: 1.75;
-        color: #1b2430;
-    }
-}
-
-/* ===========================================================
-    6. Print (optional)
-    =========================================================== */
-@media print {
-    body { background: white; }
-    a { text-decoration: underline; }
-}
-
-
-
-h1[id], h2[id], h3[id] { scroll-margin-top: 80px; }
