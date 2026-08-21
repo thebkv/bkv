@@ -105,18 +105,18 @@ Exodus follows the inner kingdom after its descent into Egypt. The faculties tha
 | [16](exodus16.md) | Daily Bread: Learning Dependence Upon God |
 | [17](exodus17.md) | Water from the Rock and Victory Through Upraised Hands |
 | [18](exodus18.md) | The Inner Government Is Ordered |
-| 19 | The People Are Prepared to Meet God |
-| 20 | Divine Order Is Spoken |
-| 21 | Divine Law Enters the Relationships of Daily Life |
-| 22 | Divine Law Orders Possession, Responsibility, and Restitution |
-| 23 | Justice, Rest, and the Way Into the Promised Land |
-| 24 | The Covenant Is Confirmed |
-| 25 | The Pattern of the Divine Dwelling Is Revealed |
-| 26 | The Dwelling Place Is Given Form |
-| 27 | The Altar, Court, and Light Are Ordered |
-| 28 | The Priestly Faculties Are Clothed for Service |
-| 29 | The Priesthood Is Consecrated |
-| 30 | Prayer, Cleansing, Anointing, and Incense Prepare the Holy Service |
+| [19](exodus19.md) | The People Are Prepared to Meet God |
+| [20](exodus20.md) | Divine Order Is Spoken |
+| [21](exodus21.md) | Divine Law Enters the Relationships of Daily Life |
+| [22](exodus22.md) | Divine Law Orders Possession, Responsibility, and Restitution |
+| [23](exodus23.md) | Justice, Rest, and the Way Into the Promised Land |
+| [24](exodus24.md) | The Covenant Is Confirmed |
+| [25](exodus25.md) | The Pattern of the Divine Dwelling Is Revealed |
+| [26](exodus26.md) | The Dwelling Place Is Given Form |
+| [27](exodus27.md) | The Altar, Court, and Light Are Ordered |
+| [28](exodus28.md) | The Priestly Faculties Are Clothed for Service |
+| [29](exodus29.md) | The Priesthood Is Consecrated |
+| [30](exodus30.md) | Prayer, Cleansing, Anointing, and Incense Prepare the Holy Service |
 | 31 | The Work Is Empowered and the Sabbath Seals the Pattern |
 | 32 | The Faculties Turn Back Toward a Visible God |
 | 33 | The Presence Becomes the Essential Question |
