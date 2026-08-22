@@ -412,3 +412,17 @@ h2[id],
 h3[id] {
     scroll-margin-top: 80px;
 }
+
+
+/* ===========================================================
+   99. AMake intentional Markdown horizontal rules visible
+   =========================================================== */
+
+.markdown-body hr,
+hr {
+    display: block !important;
+    height: 1px !important;
+    border: 0 !important;
+    background: rgba(244, 239, 228, 0.40) !important;
+    margin: 2.5rem 0 !important;
+}
