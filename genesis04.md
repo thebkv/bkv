@@ -1,5 +1,3 @@
-BKV Genesis 04
-
 ---
 book: "Genesis"
 chapter: 4
