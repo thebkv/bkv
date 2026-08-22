@@ -19,53 +19,53 @@ Genesis 4 begins immediately outside Eden. Adam and Eve have been expelled from 
 
 ### v1–2 — The Birth of Acquisitive Action and Breath
 
-"And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD."
+"And **the Human** knew Eve his wife; and she conceived, and bare **Cain**, and said, I have gotten a man from the LORD."
 
-The first child born outside Eden is named through Eve's act of getting or acquiring, and she receives his birth in relation to the LORD.
+The first child born outside Eden is named through Eve's act of getting or acquiring—**the Acquisitive Impulse**—and she receives his birth in relation to the LORD.
 
-"And she again bare his brother Abel."
+"And she again bare his brother **Abel**."
 
-Abel enters the text bearing a name associated with breath or vapor—a life that will prove physically brief yet whose witness continues after death.
+Abel enters the text bearing a name associated with breath or vapor—**the Transient Breath**—a life that will prove physically brief yet whose witness continues after death.
 
-"And Abel was a keeper of sheep, but Cain was a tiller of the ground."
+"And Abel was a keeper of sheep, but Cain was a tiller of the **ground**."
 
-Abel tends living creatures; Cain works the ground. Their different fields of labor will supply the offerings through which their inward orientations are exposed.
+Abel tends living creatures; Cain works **the Ground**—the external field of labor (*'adamah*). Their different spheres supply the offerings through which their inward orientations are exposed.
 
 ### v3–5 — The Offering Reveals the Heart
 
-"And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the LORD."
+"And in process of time it came to pass, that Cain brought of the fruit of the **ground** an **offering** unto the LORD."
 
-The acting faculty brings the fruit of its labor before God. The offering becomes the place where Cain's inward orientation will be exposed.
+**The Acting Faculty** brings the fruit of its labor before God. **The Offering** (*minchah*) becomes the place where Cain's inward orientation is exposed.
 
 "And Abel, he also brought of the firstlings of his flock and of the fat thereof."
 
 Abel brings from the first and best of what has been entrusted to him; Hebrews identifies the governing difference as faith.
 
-"And the LORD had respect unto Abel and to his offering: But unto Cain and to his offering he had not respect."
+"And the LORD had respect unto Abel and to his **offering**: But unto Cain and to his **offering** he had not respect."
 
-The LORD's response reveals a difference already present in the worshippers. The text joins each man to what he brings: Abel and his offering; Cain and his offering.
+**The Divine Presence**'s response reveals a difference already present in the worshippers. The text joins each man to what he brings: Abel and his offering; Cain and his offering.
 
-"And Cain was very wroth, and his countenance fell."
+"And Cain was very wroth, and his **countenance** fell."
 
-When Cain's offering is not received, the hidden inward disorder becomes visible in his face. The countenance becomes an outward sign of the inward fracture.
+When Cain's offering is not received, the hidden inward disorder becomes visible in his face. **The Face / Countenance** (*panim*) becomes an outward sign of the inward fracture.
 
 ### v6–7 — The Threshold of Mastery
 
-"And the LORD said unto Cain, Why art thou wroth? and why is thy countenance fallen?"
+"And **the Divine Action** said unto Cain, Why art thou wroth? and why is thy **countenance** fallen?"
 
-The Divine Presence confronts the acting faculty while the disorder is still inward and before it has become violence.
+**The Divine Presence** confronts **the Acting Faculty** while the disorder is still inward and before it has become violence.
 
 "If thou doest well, shalt thou not be accepted?"
 
 Cain is called back toward right action while another course remains available to him.
 
-"And if thou doest not well, sin lieth at the door."
+"And if thou doest not well, **sin lieth at the door**."
 
-The unregenerate impulse is pictured crouching at the threshold of the human will. It is present, but it has not yet seized the acting faculty.
+**The Unregenerate Impulse** is pictured crouching at the threshold of the human will. It is present, but it has not yet seized **the Acting Faculty**.
 
-"And unto thee shall be his desire, and thou shalt rule over him."
+"And unto thee shall be his desire, and thou shalt **rule over** him."
 
-The acting faculty must exercise dominion over the impulse. The boundary must be maintained before the thing at the door becomes the action of the hand. This is one of the clearest functional statements about the disciple's hidden life in Genesis. The impulse is real. Its desire is real. Yet Cain is addressed as one who remains responsible for what happens next.
+**The Acting Faculty** must exercise dominion (**rule over** / *mashal*) over the impulse. The boundary must be maintained before the thing at the door becomes the action of the hand. This is one of the clearest functional statements about the disciple's hidden life in Genesis. The impulse is real. Its desire is real. Yet Cain is addressed as one who remains responsible for what happens next.
 
 ### v8 — The Collapse of Governance
 
@@ -75,39 +75,39 @@ The inward fracture moves into the shared field of human action.
 
 "...that Cain rose up against Abel his brother, and slew him."
 
-The impulse at the door has reached the hand. What Cain was commanded to govern within has now become violence without. The movement is direct: anger, a fallen countenance, divine warning, rising desire, failure to rule, the reaching hand, and shed blood. Genesis 3 showed a competing word altering perception until desire reached through the hand and took the fruit. Genesis 4 shows inward anger remaining unmastered until desire reaches through the hand and takes a life.
+The impulse at the door has reached the hand. What Cain was commanded to govern within has now become violence without. The movement is direct: anger, a fallen **countenance**, divine warning, rising desire, failure to rule, the reaching hand, and shed **blood**.
 
 ### v9–10 — The Denial of Guardianship
 
-"And the LORD said unto Cain, Where is Abel thy brother?"
+"And **the Divine Action** said unto Cain, Where is Abel thy brother?"
 
 The Divine Question now moves from the location of the self—"Where art thou?"—to responsibility for the brother: "Where is Abel thy brother?"
 
-"I know not: Am I my brother's keeper?"
+"I know not: Am I my brother's **keeper**?"
 
-Cain denies his responsibility as keeper. Having failed to guard the boundary within himself, he now denies responsibility for the life of his brother.
+Cain denies his responsibility as **the Keeper / Guardian** (*shamar*). Having failed to guard the boundary within himself, he now denies responsibility for the life of his brother.
 
-"And he said, What hast thou done? the voice of thy brother's blood crieth unto me from the ground."
+"And he said, What hast thou done? the voice of thy brother's **blood** crieth unto me from the **ground**."
 
-The consequence of unmastered desire cannot be concealed from God. Abel is silent in death, but his blood speaks from the very ground Cain works.
+The consequence of unmastered desire cannot be concealed from God. Abel is silent in death, but his **blood** (*damim*) speaks from the very **ground** Cain works.
 
 ### v11–16 — The Exile into Separation
 
-"And now art thou cursed from the earth, which hath opened her mouth to receive thy brother's blood from thy hand."
+"And now art thou cursed from the **earth**, which hath opened her mouth to receive thy brother's **blood** from thy hand."
 
-The hand acted, the ground received, and the field of Cain's labor now bears witness to what he has done.
+The hand acted, the **ground** received, and the field of Cain's labor now bears witness to what he has done.
 
-"When thou tillest the ground, it shall not henceforth yield unto thee her strength."
+"When thou tillest the **ground**, it shall not henceforth yield unto thee her strength."
 
-Judgment reaches Cain precisely where his vocation operates. The tiller can no longer depend upon the ground yielding its strength to him.
+Judgment reaches Cain precisely where his vocation operates. The tiller can no longer depend upon the **ground** yielding its strength to him.
 
-"A fugitive and a vagabond shalt thou be in the earth."
+"A fugitive and a vagabond shalt thou be in the **earth**."
 
-The acting faculty that refused God's government loses stability within the field it sought to govern. Cain fears that whoever finds him will kill him, and the LORD places a mark upon Cain so that he will not be slain. Judgment and restraint operate together. Cain bears the consequence of his act, while God places a boundary against the uncontrolled multiplication of vengeance.
+**The Acting Faculty** that refused God's government loses stability within the field it sought to govern. Cain fears that whoever finds him will kill him, and the LORD places a mark upon Cain so that he will not be slain. Judgment and restraint operate together. Cain bears the consequence of his act, while God places a boundary against the uncontrolled multiplication of vengeance.
 
-"And Cain went out from the presence of the LORD, and dwelt in the land of Nod, on the east of Eden."
+"And Cain went out from **the presence of the LORD**, and dwelt in the land of **Nod**, on the east of Eden."
 
-The inward fracture becomes outward geography. Cain moves farther east of Eden and goes out from the Presence of the LORD.
+The inward fracture becomes outward geography. Cain moves farther east of Eden and goes out from **the Divine Presence** into **Wandering / Instability** (*Nod*).
 
 ### v17–22 — The Architecture of the Separated Will
 
@@ -127,17 +127,17 @@ The violence Cain concealed becomes the boast of Lamech. What began as an unmast
 
 ### v25–26 — The Appointed Seed
 
-"And Adam knew his wife again; and she bare a son, and called his name Seth."
+"And **the Human** knew his wife again; and she bare a son, and called his name **Seth**."
 
-"For God, said she, hath appointed me another seed instead of Abel, whom Cain slew."
+"For God, said she, hath **appointed** me another **seed** instead of Abel, whom Cain slew."
 
-God preserves the line that violence appeared to have extinguished. The appointed seed continues where the murdered Abel could not.
+God preserves the line that violence appeared to have extinguished. **The Appointed Seed** (*zera*) continues where the murdered Abel could not.
 
-"And to Seth, to him also there was born a son; and he called his name Enos."
+"And to Seth, to him also there was born a son; and he called his name **Enos**."
 
-"Then began men to call upon the name of the LORD."
+"Then began men to **call upon the name of the LORD**."
 
-The chapter ends with a movement toward God. While Cain goes out from the Presence of the LORD, another human line begins to call upon His name. Two trajectories are now visible east of Eden: Cain goes out from the Presence and builds, while the appointed line calls upon the name of the LORD. The decisive issue is therefore deeper than civilization itself. It is the orientation governing the human life within it.
+The chapter ends with a movement toward God. While Cain goes out from **the Divine Presence**, another human line—**Mortal Humanity** (*Enosh*)—begins to **call upon the name of the LORD**. Two trajectories are now visible east of Eden: Cain goes out from the Presence and builds, while the appointed line calls upon the name of the LORD. The decisive issue is therefore deeper than civilization itself. It is the orientation governing the human life within it.
 
 ## Fractal Notes & References
 
@@ -172,6 +172,7 @@ The chapter finally separates two movements: Cain goes **out from the presence o
 | **Tubal-cain** | Etymology uncertain; narrative function explicitly identifies him with brass and iron workmanship | Development of technical and metallurgical capacity |
 | **Seth** | Hebrew *Shet*; Genesis 4:25 explicitly connects the name with God's having "appointed" another seed | The appointed continuation of the line after Abel's death |
 | **Enos / Enosh** | Hebrew *'Enosh*, "man, mortal man" | Mortal humanity turning consciously toward the LORD |
+| **Seed** | Hebrew *zera*, "seed, offspring, descendants" | The carrier of divine promise and continuity passed across generations |
 | **Call upon the name of the LORD** | Biblical expression for invoking, worshipping, or proclaiming the LORD | Reorientation toward Almighty God within the human line east of Eden |
 
 ---
