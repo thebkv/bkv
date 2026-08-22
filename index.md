@@ -87,48 +87,48 @@ The Divine pattern of the Word unfolds across seven distinct movements of consci
 
 Exodus follows the inner kingdom after its descent into Egypt. The faculties that became fruitful there have fallen under a foreign governing power and are compelled to serve the very order that enslaves them. The book traces their deliverance: the birth and preparation of the delivering consciousness, the breaking of Pharaoh's rule, the passage out of bondage, the reorientation of the faculties toward God in the wilderness, and finally their ordering around the divine Presence in the Tabernacle.
 
-| Chapter | BKV Structural Title |
-| :---: | :--- |
-| [01](exodus01.md) | The Disciple's Faculties Are Put in Bondage |
-| [02](exodus02.md) | The Deliverer Is Drawn Out and Prepared |
-| [03](exodus03.md) | The Deliverer Encounters the Divine Presence |
-| [04](exodus04.md)  | The Divine Commission Is Embodied and Put in Motion |
-| [05](exodus05.md)  | The First Confrontation Intensifies the Bondage |
-| [06](exodus06.md)  | The Promise of Deliverance Is Reaffirmed |
-| [07](exodus07.md) | Divine Authority Confronts the Ruling Power |
-| [08](exodus08.md) | The False Order Begins to Break Under Judgment |
-| [09](exodus09.md) | The Structures of Egypt Are Struck |
-| [10](exodus10.md) | Darkness Falls Upon the Ruling Order |
-| [11](exodus11.md) | The Final Separation Is Announced |
-| [12](exodus12.md) | The Passover: Deliverance Through the Blood |
-| [13](exodus13.md) | The Delivered Faculties Are Consecrated and Led |
-| [14](exodus14.md) | The Waters Close Behind the Old Life |
-| [15](exodus15.md) | The Song of Deliverance and the First Wilderness Testing |
-| [16](exodus16.md) | Daily Bread: Learning Dependence Upon God |
-| [17](exodus17.md) | Water from the Rock and Victory Through Upraised Hands |
-| [18](exodus18.md) | The Inner Government Is Ordered |
-| [19](exodus19.md) | The People Are Prepared to Meet God |
-| [20](exodus20.md) | Divine Order Is Spoken |
-| [21](exodus21.md) | Divine Law Enters the Relationships of Daily Life |
-| [22](exodus22.md) | Divine Law Orders Possession, Responsibility, and Restitution |
-| [23](exodus23.md) | Justice, Rest, and the Way Into the Promised Land |
-| [24](exodus24.md) | The Covenant Is Confirmed |
-| [25](exodus25.md) | The Pattern of the Divine Dwelling Is Revealed |
-| [26](exodus26.md) | The Dwelling Place Is Given Form |
-| [27](exodus27.md) | The Altar, Court, and Light Are Ordered |
-| [28](exodus28.md) | The Priestly Faculties Are Clothed for Service |
-| [29](exodus29.md) | The Priesthood Is Consecrated |
-| [30](exodus30.md) | Prayer, Cleansing, Anointing, and Incense Prepare the Holy Service |
-| 31 | The Work Is Empowered and the Sabbath Seals the Pattern |
-| 32 | The Faculties Turn Back Toward a Visible God |
-| 33 | The Presence Becomes the Essential Question |
-| 34 | The Covenant Is Renewed and the Face Is Transformed |
-| 35 | The Willing Heart Begins to Build the Dwelling |
-| 36 | The Pattern Is Faithfully Brought Into Form |
-| 37 | The Inner Holy Place Is Furnished |
-| 38 | The Outer Court Is Completed and Accounted For |
-| 39 | The Priestly Garments Are Completed According to the Pattern |
-| 40 | The Dwelling Is Raised and Filled with the Presence |
+| Status | Chapter | BKV Structural Title |
+| :---: | :---: | :--- |
+| ○ | [01](exodus01.md) | The Disciple's Faculties Are Put in Bondage |
+| ○ | [02](exodus02.md) | The Deliverer Is Drawn Out and Prepared |
+| ○ | [03](exodus03.md) | The Deliverer Encounters the Divine Presence |
+| ○ | [04](exodus04.md)  | The Divine Commission Is Embodied and Put in Motion |
+| ○ | [05](exodus05.md)  | The First Confrontation Intensifies the Bondage |
+| ○ | [06](exodus06.md)  | The Promise of Deliverance Is Reaffirmed |
+| ○ | [07](exodus07.md) | Divine Authority Confronts the Ruling Power |
+| ○ | [08](exodus08.md) | The False Order Begins to Break Under Judgment |
+| ○ | [09](exodus09.md) | The Structures of Egypt Are Struck |
+| ○ | [10](exodus10.md) | Darkness Falls Upon the Ruling Order |
+| ○ | [11](exodus11.md) | The Final Separation Is Announced |
+| ○ | [12](exodus12.md) | The Passover: Deliverance Through the Blood |
+| ○ | [13](exodus13.md) | The Delivered Faculties Are Consecrated and Led |
+| ○ | [14](exodus14.md) | The Waters Close Behind the Old Life |
+| ○ | [15](exodus15.md) | The Song of Deliverance and the First Wilderness Testing |
+| ○ | [16](exodus16.md) | Daily Bread: Learning Dependence Upon God |
+| ○ | [17](exodus17.md) | Water from the Rock and Victory Through Upraised Hands |
+| ○ | [18](exodus18.md) | The Inner Government Is Ordered |
+| ○ | [19](exodus19.md) | The People Are Prepared to Meet God |
+| ○ | [20](exodus20.md) | Divine Order Is Spoken |
+| ● | [21](exodus21.md) | Divine Law Enters the Relationships of Daily Life |
+| ● | [22](exodus22.md) | Divine Law Orders Possession, Responsibility, and Restitution |
+| ● | [23](exodus23.md) | Justice, Rest, and the Way Into the Promised Land |
+| ● | [24](exodus24.md) | The Covenant Is Confirmed |
+| ● | [25](exodus25.md) | The Pattern of the Divine Dwelling Is Revealed |
+| ● | [26](exodus26.md) | The Dwelling Place Is Given Form |
+| ● | [27](exodus27.md) | The Altar, Court, and Light Are Ordered |
+| ● | [28](exodus28.md) | The Priestly Faculties Are Clothed for Service |
+| ● | [29](exodus29.md) | The Priesthood Is Consecrated |
+| ○ | [30](exodus30.md) | Prayer, Cleansing, Anointing, and Incense Prepare the Holy Service |
+| ○ | 31 | The Work Is Empowered and the Sabbath Seals the Pattern |
+| ○ | 32 | The Faculties Turn Back Toward a Visible God |
+| ○ | 33 | The Presence Becomes the Essential Question |
+| ○ | 34 | The Covenant Is Renewed and the Face Is Transformed |
+| ○ | 35 | The Willing Heart Begins to Build the Dwelling |
+| ○ | 36 | The Pattern Is Faithfully Brought Into Form |
+| ○ | 37 | The Inner Holy Place Is Furnished |
+| ○ | 38 | The Outer Court Is Completed and Accounted For |
+| ○ | 39 | The Priestly Garments Are Completed According to the Pattern |
+| ○ | 40 | The Dwelling Is Raised and Filled with the Presence |
 
 [⚓️](#the-bible-key-vision-bkv)
 
@@ -173,22 +173,22 @@ Exodus follows the inner kingdom after its descent into Egypt. The faculties tha
 
 ### HEBREWS - The Epistle of Reality: The Elevation of Consciousness from Shadow to Substance
 
-| Chapter | BKV Structural Title |
-| :---: | :--- |
-| [00](hebrews00.md) | The Tectonic Shift |
-| [01](hebrews01.md) | The Direct Expression of Source Exalted Above Intermediate Forms |
-| [02](hebrews02.md) | Descent Into Limitation to Subjugate Mortality |
-| [03](hebrews03.md) | The Living House Transcending the External Architect |
-| [04](hebrews04.md) | The Ceaseless Rest Entered via Absolute Alignment |
-| [05](hebrews05.md) | The Order of Melchizedek: Authority Unbound by Temporal Descent |
-| [06](hebrews06.md) | Leaving Foundations to Anchor Deep Within the Veil |
-| [07](hebrews07.md) | The Enduring Indestructible Life Overcoming Fragmented Laws |
-| [08](hebrews08.md) | The Internal Blueprint Eclipsing the Shadow Copy |
-| [09](hebrews09.md) | Purging the Inner Sanctuary by Real Blood, Not Archetype |
-| [10](hebrews10.md) | Single Absolute Correction Replacing Perpetual Effort |
-| [11](hebrews11.md) | The Substance of the Unseen Substantiated Across Generations |
-| [12](hebrews12.md) | The Fire of Refinement and the Unshakable Kingdom |
-| [13](hebrews13.md) | Living the Unchanging Pattern Outwardly in the Temporal Camp |
+| Status | Chapter | BKV Structural Title |
+| :---: | :---: | :--- |
+| ○ | [00](hebrews00.md) | The Tectonic Shift |
+| ○ | [01](hebrews01.md) | The Direct Expression of Source Exalted Above Intermediate Forms |
+| ○ | [02](hebrews02.md) | Descent Into Limitation to Subjugate Mortality |
+| ○ | [03](hebrews03.md) | The Living House Transcending the External Architect |
+| ○ | [04](hebrews04.md) | The Ceaseless Rest Entered via Absolute Alignment |
+| ○ | [05](hebrews05.md) | The Order of Melchizedek: Authority Unbound by Temporal Descent |
+| ○ | [06](hebrews06.md) | Leaving Foundations to Anchor Deep Within the Veil |
+| ○ | [07](hebrews07.md) | The Enduring Indestructible Life Overcoming Fragmented Laws |
+| ○ | [08](hebrews08.md) | The Internal Blueprint Eclipsing the Shadow Copy |
+| ○ | [09](hebrews09.md) | Purging the Inner Sanctuary by Real Blood, Not Archetype |
+| ○ | [10](hebrews10.md) | Single Absolute Correction Replacing Perpetual Effort |
+| ○ | [11](hebrews11.md) | The Substance of the Unseen Substantiated Across Generations |
+| ○ | [12](hebrews12.md) | The Fire of Refinement and the Unshakable Kingdom |
+| ○ | [13](hebrews13.md) | Living the Unchanging Pattern Outwardly in the Temporal Camp |
 
 [⚓️](#the-bible-key-vision-bkv)
 
