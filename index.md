@@ -166,7 +166,7 @@ Exodus follows the inner kingdom after its descent into Egypt. The faculties tha
 
 [⚓️](#the-bible-key-vision-bkv)
 
-
+# Section 6
 # Section 6: Letters (Instruction for the Body)
 
 ### HEBREWS - The Epistle of Reality: The Elevation of Consciousness from Shadow to Substance
