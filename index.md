@@ -22,7 +22,8 @@ The Divine pattern of the Word unfolds across seven distinct movements of consci
 7. **Revelation: The Final Unveiling** — The kingdom revealed without distortion. The ultimate, absolute realization of divine order filling the entire field of consciousness.
 
 ---
-# Section 1: Formation of the Inner Law (The Moses Books)
+# Section 1
+## Formation of the Inner Law (The Moses Books)
 
 ### GENESIS - The Book of Beginnings: The Emergence of Divine Ideas Into Form
 
@@ -131,7 +132,8 @@ Exodus follows the inner kingdom after its descent into Egypt. The faculties tha
 
 [⚓️](#the-bible-key-vision-bkv)
 
-# Section 3: Poetry & Wisdom (The Soul Reflects)
+# Section 3
+## Poetry & Wisdom (The Soul Reflects)
 
 ### PSALMS - The Songs of the Ascent: The Microcosm of the Soul's Internal Realignment
 
@@ -167,7 +169,7 @@ Exodus follows the inner kingdom after its descent into Egypt. The faculties tha
 [⚓️](#the-bible-key-vision-bkv)
 
 # Section 6
-# Section 6: Letters (Instruction for the Body)
+# Letters (Instruction for the Body)
 
 ### HEBREWS - The Epistle of Reality: The Elevation of Consciousness from Shadow to Substance
 
