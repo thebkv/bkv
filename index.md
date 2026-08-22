@@ -1,15 +1,16 @@
 # The Bible Key Vision (BKV)
 ## Integrated Symbolics Bible Study
 
-The Bible Key Vision is a symbolic and structural reading of Scripture, where names, places, people, and events reveal the architecture of the inner life. It serves as a study tool to support the disciple’s reading of the Holy Word, recognizing its living structure without replacing the sacred text itself. For this level of study, a strong word-for-word translation like the King James Authorized Version is recommended so that names, symbols, and repeated structural patterns remain visible and consistent. 
+The Bible Key Vision is a symbolic and reflective reading of Scripture, where names, places, people, and events reveal the location of the kingdom within. It serves as a study tool to support the disciple’s reading of the Holy Word, recognizing its living structure without replacing the sacred text itself. For this level of study, a strong word-for-word translation like the King James Authorized Version is recommended so that names, symbols, and repeated structural patterns remain visible and consistent. 
 
-The disciple does not merely ask, “What happened?” He asks: *Where is this happening in me?* That is where Scripture becomes living.
+The ordinary person, reading Scripture, asks, “What happened?” and "What are the rules?" The serious Christian disciple asks to understand "what are the contents inside this container?" and "What is the Holy Spirit showing me about myself?"
+This is where Scripture becomes living.
 
 ---
 
 ## The Sevenfold Structure of Scripture
 
-The architecture of the Word unfolds across seven distinct movements of consciousness, tracking the soul's journey from initial awakening to final realization.
+The Divine pattern of the Word unfolds across seven distinct movements of consciousness, tracking the soul's journey from initial awakening to final realization. This pattern is repeated at many levels throughout Scripture.
 
 1. **Formation (Moses Books): The Inner Law** — Divine Order entering human consciousness. The awakening of divine ideas and foundational boundaries within the soul.
 2. **History: Consciousness in Motion** — How inner principles become externalized patterns. The outworking of consciousness through choices, failures, and structural developments.
