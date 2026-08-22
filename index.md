@@ -101,10 +101,10 @@ Exodus follows the inner kingdom after its descent into Egypt. The faculties tha
 | ○ | [10](exodus10.md) | Darkness Falls Upon the Ruling Order |
 | ○ | [11](exodus11.md) | The Final Separation Is Announced |
 | ○ | [12](exodus12.md) | The Passover: Deliverance Through the Blood |
-| ○ | [13](exodus13.md) | The Delivered Faculties Are Consecrated and Led |
-| ○ | [14](exodus14.md) | The Waters Close Behind the Old Life |
-| ○ | [15](exodus15.md) | The Song of Deliverance and the First Wilderness Testing |
-| ○ | [16](exodus16.md) | Daily Bread: Learning Dependence Upon God |
+| ● | [13](exodus13.md) | The Delivered Faculties Are Consecrated and Led |
+| ● | [14](exodus14.md) | The Waters Close Behind the Old Life |
+| ● | [15](exodus15.md) | The Song of Deliverance and the First Wilderness Testing |
+| ● | [16](exodus16.md) | Daily Bread: Learning Dependence Upon God |
 | ● | [17](exodus17.md) | Water from the Rock and Victory Through Upraised Hands |
 | ● | [18](exodus18.md) | The Inner Government Is Ordered |
 | ● | [19](exodus19.md) | The People Are Prepared to Meet God |
