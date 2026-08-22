@@ -12,7 +12,8 @@ This is where Scripture becomes living.
 
 The Divine pattern of the Word unfolds across seven distinct movements of consciousness, tracking the soul's journey from initial awakening to final realization. This pattern is repeated at many levels throughout Scripture.
 
-1. [**Formation (Moses Books): The Inner Law**(##section-1-formation-of-the-inner-law-the-moses-books) — Divine Order entering human consciousness. The awakening of divine ideas and foundational boundaries within the soul.
+[mosesbooks]((##section-1-formation-of-the-inner-law-the-moses-books)
+1. **Formation (Moses Books): The Inner Law** — Divine Order entering human consciousness. The awakening of divine ideas and foundational boundaries within the soul.
 2. **History: Consciousness in Motion** — How inner principles become externalized patterns. The outworking of consciousness through choices, failures, and structural developments.
 3. **Poetry & Wisdom: The Soul Reflects** — The dialogue of the soul through reflection, desire, and understanding. The inner refinement of awareness through deep emotional and mental confrontation.
 4. **Prophets: Alignment and Correction** — The vision and restoration of the inner kingdom. The urgent call back to structural order when the soul drifts into fragmentation.
