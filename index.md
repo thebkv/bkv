@@ -27,58 +27,58 @@ The Divine pattern of the Word unfolds across seven distinct movements of consci
 
 ### GENESIS - The Book of Beginnings: The Emergence of Divine Ideas Into Form
 
-| Chapter | BKV Structural Title |
-| :---: | :--- |
-| [01](genesis01.md) | Order Established from Undifferentiated Potential |
-| [02](genesis02.md) | Authority Placed Within Form |
-| [03](genesis03.md) | Boundary Crossed, Order Strained |
-| [04](genesis04.md) | Fracture Spreads Into Relationship |
-| [05](genesis05.md) | Continuity Under Mortality |
-| [06](genesis06.md) | Corruption Saturates, Preservation Prepared |
-| [07](genesis07.md) | Judgment as Containment, Not Annihilation |
-| [08](genesis08.md) | Restoration After Containment |
-| [09](genesis09.md) | Authority Re-Granted and Life Bounded |
-| [10](genesis10.md) | Ordered Diversity of Nations |
-| [11](genesis11.md) | Unified Power and Fragmented Speech |
-| [12](genesis12.md) | Call Without Full Clarity |
-| [13](genesis13.md) | Separation Without Fracture |
-| [14](genesis14.md) | Rescue Without Domination |
-| [15](genesis15.md) | Covenant Without Performance |
-| [16](genesis16.md) | Attempted Fulfillment Through Control |
-| [17](genesis17.md) | Identity Sealed by Promise |
-| [18](genesis18.md) | Intercession and Discernment |
-| [19](genesis19.md) | Judgment and the Cost of Delay |
-| [20](genesis20.md) | Preservation Without Maturity |
-| [21](genesis21.md) | Fulfillment Without Forgetting the Cost |
-| [22](genesis22.md) | Release, Trust, and Provision Revealed |
-| [23](genesis23.md) | Securing Legacy Through Proper Closure |
-| [24](genesis24.md) | Covenant Extended Through Discernment |
-| [25](genesis25.md) | Transition of Generations |
-| [26](genesis26.md) | Inherited Promise Under Pressure |
-| [27](genesis27.md) | Authority Taken Without Alignment |
-| [28](genesis28.md) | Encounter and Re-Orientation |
-| [29](genesis29.md) | Desire, Labor, and Deferred Fulfillment |
-| [30](genesis30.md) | Production Without Peace |
-| [31](genesis31.md) | Separation and Boundary Restoration |
-| [32](genesis32.md) | Identity Wrestled Into Coherence |
-| [33](genesis33.md) | Reconciliation Without Domination |
-| [34](genesis34.md) | Violation and Misapplied Justice |
-| [35](genesis35.md) | Re-Alignment and Housekeeping |
-| [36](genesis36.md) | Catalog of External Power Lines |
-| [37](genesis37.md) | Calling Revealed Before Maturity |
-| [38](genesis38.md) | Disrupted Line and Unexpected Preservation |
-| [39](genesis39.md) | Integrity Preserved Under Pressure |
-| [40](genesis40.md) | Delay Without Abandonment |
-| [41](genesis41.md) | Authority Recognized Through Wisdom |
-| [42](genesis42.md) | Guilt Confronted Before Restoration |
-| [43](genesis43.md) | Trust Tested Through Provision |
-| [44](genesis44.md) | Substitution and Revealed Character |
-| [45](genesis45.md) | Identity Revealed and Authority Reframed |
-| [46](genesis46.md) | Preservation Through Descent |
-| [47](genesis47.md) | Settlement and Sustained Provision |
-| [48](genesis48.md) | Blessing That Reorders Expectation |
-| [49](genesis49.md) | Spoken Futures and Functional Destinies |
-| [50](genesis50.md) | Closure Without Loss of Promise |
+| Status | Chapter | BKV Structural Title |
+| :---: | :---: | :--- |
+| ○ | [01](genesis01.md) | Order Established from Undifferentiated Potential |
+| ● | [02](genesis02.md) | Authority Placed Within Form |
+| ○ | [03](genesis03.md) | Boundary Crossed, Order Strained |
+| ○ | [04](genesis04.md) | Fracture Spreads Into Relationship |
+| ○ | [05](genesis05.md) | Continuity Under Mortality |
+| ○ | [06](genesis06.md) | Corruption Saturates, Preservation Prepared |
+| ○ | [07](genesis07.md) | Judgment as Containment, Not Annihilation |
+| ○ | [08](genesis08.md) | Restoration After Containment |
+| ○ | [09](genesis09.md) | Authority Re-Granted and Life Bounded |
+| ○ | [10](genesis10.md) | Ordered Diversity of Nations |
+| ○ | [11](genesis11.md) | Unified Power and Fragmented Speech |
+| ○ | [12](genesis12.md) | Call Without Full Clarity |
+| ○ | [13](genesis13.md) | Separation Without Fracture |
+| ○ | [14](genesis14.md) | Rescue Without Domination |
+| ○ | [15](genesis15.md) | Covenant Without Performance |
+| ○ | [16](genesis16.md) | Attempted Fulfillment Through Control |
+| ○ | [17](genesis17.md) | Identity Sealed by Promise |
+| ○ | [18](genesis18.md) | Intercession and Discernment |
+| ○ | [19](genesis19.md) | Judgment and the Cost of Delay |
+| ○ | [20](genesis20.md) | Preservation Without Maturity |
+| ○ | [21](genesis21.md) | Fulfillment Without Forgetting the Cost |
+| ○ | [22](genesis22.md) | Release, Trust, and Provision Revealed |
+| ○ | [23](genesis23.md) | Securing Legacy Through Proper Closure |
+| ○ | [24](genesis24.md) | Covenant Extended Through Discernment |
+| ○ | [25](genesis25.md) | Transition of Generations |
+| ○ | [26](genesis26.md) | Inherited Promise Under Pressure |
+| ○ | [27](genesis27.md) | Authority Taken Without Alignment |
+| ○ | [28](genesis28.md) | Encounter and Re-Orientation |
+| ○ | [29](genesis29.md) | Desire, Labor, and Deferred Fulfillment |
+| ○ | [30](genesis30.md) | Production Without Peace |
+| ○ | [31](genesis31.md) | Separation and Boundary Restoration |
+| ○ | [32](genesis32.md) | Identity Wrestled Into Coherence |
+| ○ | [33](genesis33.md) | Reconciliation Without Domination |
+| ○ | [34](genesis34.md) | Violation and Misapplied Justice |
+| ○ | [35](genesis35.md) | Re-Alignment and Housekeeping |
+| ○ | [36](genesis36.md) | Catalog of External Power Lines |
+| ○ | [37](genesis37.md) | Calling Revealed Before Maturity |
+| ○ | [38](genesis38.md) | Disrupted Line and Unexpected Preservation |
+| ○ | [39](genesis39.md) | Integrity Preserved Under Pressure |
+| ○ | [40](genesis40.md) | Delay Without Abandonment |
+| ○ | [41](genesis41.md) | Authority Recognized Through Wisdom |
+| ○ | [42](genesis42.md) | Guilt Confronted Before Restoration |
+| ○ | [43](genesis43.md) | Trust Tested Through Provision |
+| ○ | [44](genesis44.md) | Substitution and Revealed Character |
+| ○ | [45](genesis45.md) | Identity Revealed and Authority Reframed |
+| ○ | [46](genesis46.md) | Preservation Through Descent |
+| ○ | [47](genesis47.md) | Settlement and Sustained Provision |
+| ○ | [48](genesis48.md) | Blessing That Reorders Expectation |
+| ○ | [49](genesis49.md) | Spoken Futures and Functional Destinies |
+| ○ | [50](genesis50.md) | Closure Without Loss of Promise |
 
 [⚓️](#the-bible-key-vision-bkv)
 
