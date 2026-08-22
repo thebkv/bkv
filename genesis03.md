@@ -2,75 +2,238 @@
 book: "Genesis"
 chapter: 3
 focus: "Distrust, Transgression, Hiding, and Exile"
-summary: "Genesis 3 reveals how a competing word fractures the ordered life of Eden: subtle distrust alters perception, desire reaches across God's boundary, and the resulting shame, fear, and exile separate humanity from the tree of life while God speaks the first promise of the serpent's ultimate defeat."
+summary: "Genesis 3 reveals how a competing word fractures the ordered life of Eden: distrust alters perception, desire crosses God's boundary, and shame, fear, accusation, and exile follow while God preserves the promise of the serpent's ultimate defeat."
 ---
 
 # Genesis 3 — The Divine Boundary Is Crossed and Human Life Fractures
 
 ## BKV Insight
 
-Genesis 3 shows us precisely how separation from Almighty God gets its start. It doesn't begin with a sudden, violent explosion; it starts when the serpent slips a competing word right alongside what God had already spoken. The moment that second voice gets an audition in the human mind, the tree doesn't change, but how the woman sees it changes entirely. Altered perception turns into physical desire, desire reaches out through the hand, and the fruit is eaten. From that single act, the fracture spreads like poison through a bloodstream. Opened eyes don't bring godhood; they bring the sudden, terrifying realization of exposure. Shame builds a pathetic apron of leaves, the sound of God's voice walking in the garden brings absolute terror, and when God asks a simple question, the human heart immediately turns to accusation and blame. Yet right in the middle of this wreck, the LORD God walks into the trees searching for the hidden sinner. He speaks the first great promise of the seed who will crush the devil's head, covers their nakedness with blood-bought skins, and bars the way to the tree of life so man doesn't live forever in a broken state. Genesis 3 isn't just the story of how we lost the garden; it is the first shadow of the cross of Jesus Christ.
+Genesis 3 shows the disciple how separation from Almighty God actually gets inside the human life. The serpent introduces a subtle competing word into the order God has established. The receptive faculty entertains it, perception changes, desire reaches through the hand, and the forbidden thing is taken and incorporated. The acting faculty joins in, and the whole human order participates. From there the fracture spreads: consciousness becomes painfully aware of its exposed condition, the separated self manufactures a covering, the faculties withdraw from the Presence of God, and responsibility breaks down into accusation. The chapter follows a precise inward movement: **competing word → altered perception → consent → incorporation → exposure → self-covering → hiding → accusation → exile**. Yet the LORD God enters the garden, calls to the hidden man, speaks of the seed who will crush the serpent's head, provides a covering, and guards the way to life. The fall begins with a rival word; salvation begins with the word and action of God, reaching its fulfillment in Jesus Christ.
 
 ## Canonical History & Context
 
-Genesis 3 steps right out of the quiet, unbroken order of the second chapter. Adam has been pulled out of the dirt and filled with the breath of God. He has been placed in a garden of absolute abundance with a holy mandate to dress it and keep it, bound by only one restriction regarding the tree of the knowledge of good and evil. He and his wife stand at the end of chapter 2 naked, unashamed, and totally open before their Creator. Genesis 3 introduces the adversary, records the tragic violation of that single divine boundary, and traces the immediate fallout through shame, fear, blame, physical pain, hard labor, and death. God pronounces His righteous judgment, clothes the pair, and sets the cherubim with a flaming sword at the east of Eden. From this point forward, the entire rest of the Bible—from the altars of the patriarchs to the blood of Calvary—becomes the execution of God's plan to bring man back through that guarded gate.
+Genesis 3 follows directly from the ordered human life established in Genesis 2. Adam has been formed from the ground and filled with the breath of God. He has been placed in Eden to dress and keep the garden, surrounded by abundant provision and given one prohibition concerning the tree of the knowledge of good and evil. The man and woman stand at the end of Genesis 2 naked and unashamed before God and one another. Genesis 3 introduces the serpent, records the violation of God's command, and traces the consequences through shame, fear, accusation, pain, toil, mortality, and expulsion from Eden. The LORD God pronounces judgment, clothes the man and woman, and places cherubim and a flaming sword at the east of Eden to keep the way of the tree of life. Genesis 4 will show this fracture extending into the next generation through Cain and Abel.
 
 ## Natural Reading
 
-### v1–5 — A Competing Word Enters the Mind
+### v1–5 — A Competing Word Enters
 
-The adversary doesn't show up with a sword; he shows up with a subtle question. He approaches the woman and asks whether God really restricted them from eating of every tree. When she rehearses the boundary, the serpent directly contradicts the God of heaven with three short words: "Ye shall not surely die." He promises her opened eyes and divine status, claiming that God is simply holding back the best part of creation from them. The tree hasn't moved an inch, its bark hasn't changed color, and its fruit isn't any sweeter than it was five minutes ago. What changed was the account of God's heart in the human mind. The moment humanity decides to evaluate God's truth through the lens of a second opinion, the fall has already begun in the heart long before the hand ever reaches for the branch.
+"Now the serpent was more subtil than any beast of the field which the LORD God had made."
 
-### v6–7 — Perception Shifts and the Hand Takes
+**Now the unregenerate drive was more subtle than any obvious fault within the human field.** It approaches through suggestion rather than open rebellion.
 
-Once that second word takes root, the woman looks at the tree through brand-new eyes. Where there was once a clear holy boundary, she now sees something good for food, beautiful to look at, and capable of making her wise. The mind rationalizes, the eye desires, and the hand takes. She eats, gives the fruit to her husband who was right there with her, and he eats as well. The devil promised them that their eyes would be opened to become as gods, and their eyes certainly opened—but all they saw was their own nakedness. Instead of divine glory, they discovered sudden, humiliating exposure. Their very first instinct isn't to run to the Father for forgiveness, but to sew together fig leaves to cover themselves. Chapter 2 ended with innocence that needed no defense; chapter 3 begins the long, tragic history of human religion trying to manufacture its own aprons to hide its shame.
+"And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?"
 
-### v8–13 — Fear Drives Humanity into the Trees
+**The subtle adversarial impulse addresses the receptive faculty and places a question beside the governing word of God.**
 
-When the cool of the day comes, the sound of the LORD God walking in the garden fills the trees. In chapter 2, that voice would have brought joy; now, it brings sheer terror. The man and his wife run into the woods to hide from the presence of the Almighty. When God calls out with that timeless query, "Where art thou?", He isn't asking for geographic coordinates. He is demanding that man confront where his heart has landed. Adam steps out of the shadows and admits he was afraid because he was naked. But when God asks who told him he was naked and whether he ate from the forbidden tree, the self-justification begins. Adam points his finger at the woman—and backhandedly blames God Himself for putting her there—while the woman points her finger at the snake. Nobody wants to own the sin, yet under all the excuses, the raw confession remains: "I did eat."
+The woman answers that they may eat of the fruit of the trees of the garden, except the tree in the midst of the garden:
 
-### v14–15 — The First Gospel in the Dirt
+"God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die."
 
-God addresses the serpent first, cursing it above all cattle and sentencing it to crawl on its belly and eat dust. But right in the middle of this courtroom decree, God drops the first ray of gospel light into human history, known as the *protoevangelium*. He declares that He will put absolute hostility between the serpent and the woman, and between the devil's offspring and her offspring. God promises that this coming Seed of the woman will have His heel bruised in the conflict, but He will deliver a fatal, crushing blow to the serpent's head. The devil thought he had ruined God's creation in a single afternoon, but before God ever pronounces judgment on the human pair, He announces the ultimate execution of the devil through a coming Redeemer born of a woman.
+"And the serpent said unto the woman, Ye shall not surely die."
 
-### v16–19 — The Heavy Burden of a Broken World
+**The competing voice now directly contradicts God's word. What began as a question becomes an alternative authority.**
 
-God then outlines the physical reality of living in a fallen world. To the woman, He speaks of multiplied sorrow in conception and childbirth, along with a deep, systemic strain within the marriage relationship. To Adam, God points straight back to the root of the issue: he listened to another voice and ate what was forbidden. Because of his treason, the ground itself is cursed. The earth that once yielded effortless fruit will now fight his plow with thorns and thistles. Adam will eat his bread by the sweat of his face until his body breaks down and returns to the very dirt from which he was taken. The hands that were commissioned to dress a paradise will now spend their lives wrestling a stubborn landscape, constantly reminded that dust must eventually go back to dust.
+"For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil."
 
-### v20–21 — Life Named and Blood Shed for a Covering
+**The unregenerate drive recasts God's boundary as deprivation and presents independence from that boundary as advancement.**
 
-In the immediate wake of a death sentence, Adam does something remarkable: he turns to his wife and names her Eve, recognizing her as the mother of all living. Right in the shadow of mortality, he fixes his eyes on the promise of life through the seed. Then the LORD God performs the first act of sacrifice in the Bible. Human hands had sewn flimsy fig leaves together to cover their own shame, but God replaces those leaf aprons with coats of skins. To get skins, blood has to be shed and a life has to be given. God shows them right there at the edge of Eden that nakedness cannot be covered by human effort or green leaves; it takes an innocent substitute provided by God Himself to hide the sinner's shame.
+Nothing physical has changed. The tree remains where God placed it. The change has occurred in the field of hearing and interpretation.
 
-### v22–24 — The Mercy of the Guarded Sword
+**A rival word has entered consciousness, and the receptive faculty is beginning to see through it.**
 
-The chapter closes with a profound act of divine severity that is actually pure mercy. God observes that man has taken the knowledge of good and evil into his own hands, and if he now reaches out to the tree of life, he will eat and be locked into a fallen, sin-sick state forever. To prevent humanity from eternalizing its ruin, God drives the man out of Eden to till the stubborn ground outside. Here lies the great structural reversal of the narrative: Adam was placed in the garden to dress it and keep (*shamar*) it, but because he failed to keep God's word, God places cherubim and a flaming, turning sword at the eastern gate to keep (*shamar*) the way of the tree of life. The door is shut, the holy presence is guarded, and humanity goes out into the world waiting for the Seed who can pass through the sword and open the way back to God.
+### v6–7 — Perception Becomes Incorporation
+
+"And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise..."
+
+**The receptive faculty now perceives the forbidden pattern as desirable, useful, and capable of supplying something apparently lacking.**
+
+"...she took of the fruit thereof, and did eat..."
+
+**What was first heard, then entertained, then desired is now accepted and incorporated.**
+
+"...and gave also unto her husband with her; and he did eat."
+
+**The distortion passes from receptive perception into the acting human faculty, and the whole human order participates in it.**
+
+The sequence is exact:
+
+**hearing → seeing → desiring → taking → eating**
+
+"And the eyes of them both were opened, and they knew that they were naked."
+
+**Consciousness becomes aware of its exposed and divided condition.**
+
+"And they sewed fig leaves together, and made themselves aprons."
+
+**The separated self immediately attempts to manufacture its own covering.**
+
+Genesis 2 ended with the faculties joined, naked, and unashamed. Once the divine boundary is crossed, openness becomes something the human being feels compelled to conceal.
+
+### v8–13 — The Divided Faculties Withdraw from Presence
+
+"And they heard the voice of the LORD God walking in the garden in the cool of the day."
+
+**Divine Presence is still moving through the inner sanctuary. God has not disappeared.**
+
+"And Adam and his wife hid themselves from the presence of the LORD God amongst the trees of the garden."
+
+**The divided human faculties now withdraw from the Presence that formerly sustained their open communion.**
+
+"And the LORD God called unto Adam, and said unto him, Where art thou?"
+
+The question exposes the changed condition.
+
+Adam answers:
+
+"I heard thy voice in the garden, and I was afraid, because I was naked; and I hid myself."
+
+**The acting human faculty now experiences the Presence of God through fear and exposure and retreats into concealment.**
+
+God asks:
+
+"Who told thee that thou wast naked? Hast thou eaten of the tree, whereof I commanded thee that thou shouldest not eat?"
+
+**The LORD brings the human mind back to the governing word and the specific act by which it was violated.**
+
+Adam answers:
+
+"The woman whom thou gavest to be with me, she gave me of the tree, and I did eat."
+
+**The acting faculty refuses full ownership and transfers responsibility toward the receptive faculty—and indirectly toward God who gave her.**
+
+The woman says:
+
+"The serpent beguiled me, and I did eat."
+
+**The receptive faculty identifies the deceptive impulse that altered perception, yet the act remains incorporated: "I did eat."**
+
+The fracture has now passed through the whole human order:
+
+**competing voice → receptive faculty → acting faculty → concealment → accusation**
+
+### v14–15 — God Speaks the Serpent's Defeat
+
+The LORD God says unto the serpent:
+
+"Because thou hast done this, thou art cursed above all cattle, and above every beast of the field."
+
+**God directly addresses the adversarial principle that initiated the distortion and places it under judgment.**
+
+"And I will put enmity between thee and the woman, and between thy seed and her seed."
+
+**God establishes an enduring conflict between the adversarial line and the line through which His restorative purpose will proceed.**
+
+"It shall bruise thy head, and thou shalt bruise his heel."
+
+**The adversary will wound the coming Seed, yet the Seed will strike the adversary at the head. The distortion that entered the human field will ultimately be overcome.**
+
+This promise establishes the first great line of restoration after the fall. It runs forward through Scripture and reaches its fulfillment in Jesus Christ, the promised Seed who enters the human condition and defeats the power of sin, death, and the devil.
+
+### v16–19 — The Fracture Enters the Embodied Life
+
+Unto the woman God speaks of multiplied sorrow in conception and childbirth and of strain within the relationship between woman and man.
+
+**The fracture now enters generation and relationship. What was created for fruitful union will operate under pain and disorder.**
+
+Unto Adam God says:
+
+"Because thou hast hearkened unto the voice of thy wife, and hast eaten of the tree, of which I commanded thee..."
+
+**The LORD identifies the functional failure precisely: the acting faculty allowed another voice to govern action contrary to the word of God.**
+
+"Cursed is the ground for thy sake; in sorrow shalt thou eat of it all the days of thy life."
+
+"Thorns also and thistles shall it bring forth to thee."
+
+**The external field now reflects the broken internal order. The ground entrusted to man for cultivation becomes resistant to his labor.**
+
+"In the sweat of thy face shalt thou eat bread, till thou return unto the ground."
+
+"For dust thou art, and unto dust shalt thou return."
+
+**The earth-formed human being who received life from God's breath now lives under mortality. The body returns to the material from which it was formed.**
+
+Genesis 2 joined Adam to the ground through formation and stewardship. Genesis 3 joins him to it through toil and eventual death.
+
+### v20–21 — Life Is Named and God Provides the Covering
+
+"And Adam called his wife's name Eve; because she was the mother of all living."
+
+**Under the sentence of mortality, the acting faculty names the receptive faculty according to life. The promise of continuation is received inside the judgment.**
+
+"Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them."
+
+**The human attempt at self-covering gives way to a covering supplied by God.**
+
+The fig leaves were the work of frightened human hands. The coats are the work of the LORD.
+
+The text allows the physical action to stand first: **God covers the exposed human pair before they leave Eden.** Within the larger biblical pattern, this becomes an early shadow of the covering that humanity cannot manufacture for itself—the pattern that develops through sacrifice and atonement and reaches its fullness in Jesus Christ.
+
+### v22–24 — The Failed Keeper Stands Outside the Guarded Sanctuary
+
+The LORD God says:
+
+"Behold, the man is become as one of us, to know good and evil."
+
+The man must now be prevented from putting forth his hand, taking also of the tree of life, eating, and living forever.
+
+**The hand that reached across one divine boundary must now be prevented from reaching across another.**
+
+"Therefore the LORD God sent him forth from the garden of Eden, to till the ground from whence he was taken."
+
+**The human vocation continues outside the sanctuary. The man still works the ground, but direct garden access has been lost.**
+
+"So he drove out the man."
+
+God then places "at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life."
+
+The language completes a structural reversal begun in Genesis 2.
+
+The LORD had placed Adam in Eden "to dress it and to **keep** it."
+
+Now the LORD places cherubim at Eden "to **keep** the way of the tree of life."
+
+**The human guardian failed to keep the entrusted boundary, and divine guardianship now takes his place. The failed keeper stands outside the guarded sanctuary.**
+
+The chapter ends east of Eden.
+
+**The faculties have moved from open communion to divided consciousness, from receiving God's word to receiving a competing word, from nakedness without shame to self-covering, and from dwelling in Presence to exile from the sanctuary.**
+
+Yet the Seed has been promised, God has provided the covering, and the tree of life remains.
+
+The way back to the Presence has become the great movement of Scripture.
 
 ## Fractal Notes & References
 
-The architecture established in Genesis 3 forms the blueprint for the rest of human history across the pages of Scripture. God establishes His covenant order, a competing voice tempts God's people to doubt His goodness, the boundary is crossed, and exile inevitably follows. Israel's history reflects this exact garden pattern: they are brought into a land of milk and honey, given the holy Law, and surrounded by God's presence, only to listen to the voices of Canaan, break the covenant, and find themselves driven out into Babylonian exile. Eden is the prototype of all spiritual decline: Presence gives way to transgression, transgression leads to hiding, and hiding ends in exile.
+Genesis 3 establishes an architecture that repeats throughout Scripture: **God gives life and order → a competing word enters → the divine boundary is crossed → the inner order fractures → hiding and accusation follow → exile results → God preserves the way toward restoration.** Israel later lives this pattern on a national scale. God brings His people into a good land, gives them His covenant and His Presence, and commands them to keep His word. Israel repeatedly receives competing gods and competing voices, breaks covenant, and eventually goes into exile. Eden is therefore an early form of the larger biblical movement from Presence through transgression into exile and promised return.
 
-The language of guarding (*shamar*) links the garden directly to the tabernacle and temple. Adam failed as a priestly guardian in the garden sanctuary, so God stationed heavenly cherubim to guard His holiness. When God gave Moses the blueprints for the tabernacle, he was commanded to weave cherubim directly into the veil that separated the Holy Place from the Holy of Holies. For centuries, no man could pass those cherubim without the blood of a substitute. When Jesus Christ died on the cross, that veil was torn in two from top to bottom, demonstrating that the flaming sword guarding the way to God's presence was finally satisfied in the broken body of the Son.
+The language of guarding strengthens the sanctuary pattern. Adam is placed in Eden to *'avad* and *shamar*—to serve/cultivate and keep/guard. After he fails to keep the entrusted order, cherubim *keep* the way to the tree of life. Cherubim later appear in the tabernacle and temple, including upon the veil before the Holy of Holies, where access to the Presence of God is guarded. Israel's priesthood, sacrifice, blood, and Day of Atonement all operate within this problem of holy access. When Jesus Christ gives His life, the temple veil is torn from top to bottom, and Hebrews presents His blood as opening the way into the holiest.
 
-The promise of Genesis 3:15 echoes all the way to the end of the New Testament. Paul encourages the church in Romans 16:20 by declaring that the God of peace will crush Satan under their feet shortly, drawing his language directly from the Eden promise. In Revelation 12, John explicitly unmasks the ancient adversary as "that old serpent, called the Devil, and Satan," showing the long war that began in the garden reaching its final climax. 
+Genesis 3:15 carries the promise of restoration through the seed. The conflict between the serpent and the seed continues throughout Scripture and reaches its decisive victory in Christ. Romans 16:20 preserves the Genesis imagery: "the God of peace shall bruise Satan under your feet shortly." Revelation identifies the adversary as "that old serpent, called the Devil, and Satan," and carries the conflict through to his final defeat.
 
-Finally, the tree of life completes its long journey in the final chapter of the Bible. Genesis 3 ends with man cast out of the garden and the tree barred from human touch. Revelation 22 opens with the river of the water of life flowing from the throne of God, with the tree of life standing on either side of the river, bearing twelve manner of fruits, and yielding its leaves for the healing of the nations. What was lost in the tragedy of Genesis 3 is overwhelmingly restored and magnified through the triumphant work of Jesus Christ.
+The tree of life completes the larger movement. Genesis 3 ends with humanity outside the garden and the way to the tree guarded. Revelation 22 ends with the river of the water of life flowing from the throne of God and of the Lamb, the tree of life present again, the curse removed, and God's servants seeing His face. The movement that begins with **"I hid myself"** finally reaches **"they shall see his face."** Through Jesus Christ, the exile from the Presence is answered by restored access to Almighty God.
 
 ## Onomastics & Key Terms
 
 | Name / Term | Textual / Linguistic Meaning | BKV Meaning |
 |---|---|---|
-| **Serpent** | Hebrew *nachash*, "serpent" or "shining one"; connected to craftiness and deception | The adversarial voice that tempts humanity to question the character and truth of God |
-| **Subtil** | Hebrew *'arum*, "shrewd, crafty"; a direct wordplay on *'arummim* ("naked") in 2:25 | Crafty intelligence entering a world that was previously characterized by open innocence |
-| **Knowledge of good and evil** | The autonomous determination of moral boundaries independent of God | Humanity seizing moral self-determination rather than living under God's authority |
-| **Opened eyes** | A promised expansion of sight that results in the sudden realization of fallen exposure | The painful self-consciousness and loss of innocence that immediately follows sin |
-| **Fig leaves** | Flimsy aprons sewn together by Adam and Eve to cover their exposure | The futility of human religion trying to cover its own moral shame without blood |
-| **Hiding** | Hebrew *chaba*, to conceal oneself or draw back into the dark | The natural impulse of the fallen heart to retreat from the light of God's presence |
-| **Seed** | Hebrew *zera'*, "offspring, descendant" | The holy lineage passing down through history, culminating in Jesus Christ |
-| **Eve** | Hebrew *Chavvah*, derived from the root for "life" or "living" | Life affirmed by faith in God's promise, even while standing under the sentence of death |
-| **Coats of skins** | Garments fashioned by God from slain animals to cover human nakedness | The divine provision of atonement: innocence slain so the guilty can be clothed |
-| **Keep / Guard** | Hebrew *shamar*, meaning to watch over, protect, or guard | The shift from man's failed stewardship of the garden to God's holy guarding of His presence |
-| **Cherubim** | Mighty heavenly guardians associated with God's throne and holy space | The execution of divine holiness that prevents fallen man from approaching God uncleaned |
-| **Tree of life** | The source of eternal physical life in the presence of God | Unbroken communion with God, barred to fallen man until fully restored in Christ |
+| **Serpent** | Hebrew *nachash*, "serpent"; the narrative emphasizes its craftiness | The subtle unregenerate or adversarial drive that places a competing word beside what God has spoken |
+| **Subtil** | Hebrew *'arum*, "crafty, shrewd"; placed in close wordplay with *'arummim*, "naked," in Genesis 2:25 | The concealed subtlety of the unregenerate impulse before its consequences become obvious |
+| **Woman** | Hebrew *'ishshah*, "woman"; Genesis 2:23 explicitly plays upon *'ish*, "man" | The receptive faculty: that aspect of the human order which receives, perceives, and responds |
+| **Adam / Man** | Hebrew *'adam*, "man/human," closely associated with *'adamah*, "ground" | The acting and governing human faculty that executes what has been received into the inner order |
+| **Knowledge of good and evil** | Biblical expression concerning knowledge or discernment of good and evil; precise scope debated | Knowledge appropriated across a boundary God has established; the movement toward judgment on terms independent of received divine order |
+| **Eating** | Physical incorporation of food into the body | Acceptance and incorporation: what has been entertained and desired becomes part of the operative human life |
+| **Opened eyes** | The serpent promises opened eyes in v5; v7 records their eyes being opened | Conscious awareness of the divided and exposed condition produced by transgression |
+| **Fig leaves** | Leaves sewn together by the man and woman as aprons | Self-manufactured covering: the separated self attempting to manage its own exposure |
+| **Hide** | Hebrew *chaba*, "hide, conceal oneself" | Withdrawal of the divided faculties from the Presence of God |
+| **Seed** | Hebrew *zera'*, "seed, offspring, descendant" | God's preserved line of restoration, culminating in Jesus Christ and the defeat of the serpent |
+| **Eve** | Hebrew *Chavvah*; Genesis 3:20 explicitly associates her with being "the mother of all living" | The receptive human faculty now named according to the continuation of life |
+| **Coats of skins** | Garments made by the LORD God from skins | Covering supplied by God where human self-covering is inadequate; an early shadow of the later biblical architecture of atonement |
+| **Keep / Guard** | Hebrew *shamar*, "keep, guard, watch"; used for Adam's commission in Genesis 2:15 and the guarded way in Genesis 3:24 | The structural reversal from human guardianship of the sanctuary to divine guardianship of the way back into it |
+| **Cherubim** | Hebrew *keruvim*; precise etymology uncertain; heavenly beings associated with God's throne and sacred space | Divine guardianship of holy access after the human guardian fails |
+| **Tree of life** | The tree associated in the narrative with continuing life | Life in the divine order, now guarded from the fallen human condition and ultimately restored through God's saving work |
 
 ---
 
