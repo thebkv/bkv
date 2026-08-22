@@ -18,7 +18,7 @@ The Divine pattern of the Word unfolds across seven distinct movements of consci
 3. [**Poetry & Wisdom: The Soul Reflects**](#section-3) — The dialogue of the soul through reflection, desire, and understanding. The inner refinement of awareness through deep emotional and mental confrontation.
 4. **Prophets: Alignment and Correction** — The vision and restoration of the inner kingdom. The urgent call back to structural order when the soul drifts into fragmentation.
 5. **Gospels & Acts: The Pattern of the Son** — The Word made flesh and the divine pattern realized within human form. The living manifestation of Christ-consciousness in the individual spirit.
-6. [**Letters: Instruction for the Body**](#section-3) — The application of divine life within the inner church. Practical, tactical instruction for organizing daily life around the central pattern.
+6. [**Letters: Instruction for the Body**](#section-6) — The application of divine life within the inner church. Practical, tactical instruction for organizing daily life around the central pattern.
 7. **Revelation: The Final Unveiling** — The kingdom revealed without distortion. The ultimate, absolute realization of divine order filling the entire field of consciousness.
 
 ---
