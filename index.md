@@ -106,9 +106,9 @@ Exodus follows the inner kingdom after its descent into Egypt. The faculties tha
 | ○ | [15](exodus15.md) | The Song of Deliverance and the First Wilderness Testing |
 | ○ | [16](exodus16.md) | Daily Bread: Learning Dependence Upon God |
 | ● | [17](exodus17.md) | Water from the Rock and Victory Through Upraised Hands |
-| ○ | [18](exodus18.md) | The Inner Government Is Ordered |
-| ○ | [19](exodus19.md) | The People Are Prepared to Meet God |
-| ○ | [20](exodus20.md) | Divine Order Is Spoken |
+| ● | [18](exodus18.md) | The Inner Government Is Ordered |
+| ● | [19](exodus19.md) | The People Are Prepared to Meet God |
+| ● | [20](exodus20.md) | Divine Order Is Spoken |
 | ● | [21](exodus21.md) | Divine Law Enters the Relationships of Daily Life |
 | ● | [22](exodus22.md) | Divine Law Orders Possession, Responsibility, and Restitution |
 | ● | [23](exodus23.md) | Justice, Rest, and the Way Into the Promised Land |
