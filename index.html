@@ -1,0 +1,434 @@
+---
+layout: null
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BKV — Bible Key Version Master Index</title>
+
+  <style>
+    :root {
+      --bg-primary: #0b1120;
+      --bg-card: #151e32;
+      --bg-card-hover: #1b2740;
+      --text-main: #f8fafc;
+      --text-muted: #94a3b8;
+      --accent-gold: #f5b51b;
+      --accent-blue: #38bdf8;
+      --border-color: #26344d;
+      --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      --font-serif: Georgia, Cambria, serif;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      background: var(--bg-primary);
+      color: var(--text-main);
+      font-family: var(--font-sans);
+      line-height: 1.55;
+      padding: 3rem 1.5rem;
+    }
+
+    .container {
+      max-width: 1180px;
+      margin: 0 auto;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 3.25rem;
+      border-bottom: 1px solid var(--border-color);
+      padding-bottom: 2.5rem;
+    }
+
+    header h1 {
+      font-family: var(--font-serif);
+      font-size: clamp(2.4rem, 5vw, 3.3rem);
+      color: var(--accent-gold);
+      letter-spacing: -0.02em;
+      margin-bottom: 0.65rem;
+      font-weight: 700;
+    }
+
+    header p {
+      font-size: 1.1rem;
+      color: var(--text-muted);
+      max-width: 760px;
+      margin: 0 auto;
+    }
+
+    .section {
+      margin-bottom: 3.7rem;
+    }
+
+    .section-heading {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin-bottom: 0.4rem;
+    }
+
+    .section-heading h2 {
+      font-family: var(--font-serif);
+      font-size: clamp(1.65rem, 3vw, 2rem);
+      color: var(--accent-blue);
+      white-space: nowrap;
+    }
+
+    .section-heading::after {
+      content: "";
+      flex: 1;
+      height: 1px;
+      background: var(--border-color);
+    }
+
+    .section-summary {
+      color: var(--text-muted);
+      font-size: 0.95rem;
+      margin-bottom: 1.4rem;
+      font-style: italic;
+    }
+
+    .subsection-title {
+      font-family: var(--font-serif);
+      font-size: 1.35rem;
+      color: var(--accent-gold);
+      margin: 2rem 0 1rem;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
+      gap: 1.25rem;
+      align-items: start;
+    }
+
+    .book-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: 9px;
+      overflow: hidden;
+      transition: border-color 0.2s ease, transform 0.2s ease, background 0.2s ease;
+    }
+
+    .book-card:hover {
+      border-color: #3a4a68;
+      background: var(--bg-card-hover);
+      transform: translateY(-1px);
+    }
+
+    .book-card summary {
+      list-style: none;
+      cursor: pointer;
+      padding: 1.35rem 1.4rem 1.2rem;
+      position: relative;
+      user-select: none;
+    }
+
+    .book-card summary::-webkit-details-marker {
+      display: none;
+    }
+
+    .book-card summary::after {
+      content: "＋";
+      position: absolute;
+      right: 1.3rem;
+      top: 1.25rem;
+      color: var(--text-muted);
+      font-size: 1.15rem;
+      font-weight: 400;
+    }
+
+    .book-card[open] summary::after {
+      content: "−";
+    }
+
+    .book-title {
+      font-size: 1.28rem;
+      color: var(--text-main);
+      font-weight: 700;
+      padding-right: 2rem;
+      margin-bottom: 0.2rem;
+    }
+
+    .book-subtitle {
+      font-size: 0.87rem;
+      color: var(--accent-gold);
+      font-style: italic;
+      padding-right: 2rem;
+    }
+
+    .chapter-count {
+      margin-top: 0.55rem;
+      font-size: 0.78rem;
+      color: var(--text-muted);
+    }
+
+    .chapter-scroll {
+      border-top: 1px solid var(--border-color);
+      max-height: 420px;
+      overflow-y: auto;
+      overscroll-behavior: contain;
+      scrollbar-width: thin;
+      scrollbar-color: #41516f transparent;
+    }
+
+    .chapter-list {
+      list-style: none;
+      padding: 0.45rem 1.35rem 0.9rem;
+      font-size: 0.92rem;
+    }
+
+    .chapter-list li {
+      display: grid;
+      grid-template-columns: 2rem minmax(0, 1fr) auto;
+      align-items: start;
+      gap: 0.6rem;
+      padding: 0.55rem 0;
+      border-bottom: 1px dashed rgba(255,255,255,0.065);
+    }
+
+    .chapter-list li:last-child {
+      border-bottom: none;
+    }
+
+    .chapter-num {
+      color: var(--text-muted);
+      font-weight: 700;
+      font-variant-numeric: tabular-nums;
+    }
+
+    .chapter-title {
+      color: var(--text-muted);
+      line-height: 1.45;
+    }
+
+    a.chapter-title {
+      color: var(--accent-blue);
+      text-decoration: none;
+      font-weight: 600;
+    }
+
+    a.chapter-title:hover {
+      color: var(--accent-gold);
+      text-decoration: underline;
+    }
+
+    .badge-active {
+      font-size: 0.62rem;
+      font-weight: 700;
+      background: rgba(56, 189, 248, 0.12);
+      color: var(--accent-blue);
+      padding: 0.13rem 0.42rem;
+      border-radius: 4px;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      border: 1px solid rgba(56, 189, 248, 0.22);
+      margin-top: 0.05rem;
+    }
+
+    .toc-controls {
+      display: flex;
+      justify-content: flex-end;
+      gap: 0.6rem;
+      margin-bottom: 1.25rem;
+    }
+
+    .toc-controls button {
+      background: transparent;
+      color: var(--text-muted);
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      padding: 0.45rem 0.75rem;
+      cursor: pointer;
+      font: inherit;
+      font-size: 0.82rem;
+    }
+
+    .toc-controls button:hover {
+      color: var(--text-main);
+      border-color: #3a4a68;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 4rem;
+      padding-top: 2rem;
+      border-top: 1px solid var(--border-color);
+      color: var(--text-muted);
+      font-size: 0.86rem;
+    }
+
+    @media (max-width: 720px) {
+      body {
+        padding: 2rem 1rem;
+      }
+
+      .grid {
+        grid-template-columns: 1fr;
+      }
+
+      .section-heading {
+        align-items: flex-start;
+      }
+
+      .section-heading h2 {
+        white-space: normal;
+      }
+
+      .chapter-scroll {
+        max-height: 360px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <header>
+      <h1>Bible Key Version</h1>
+      <p>The Master Structural Index &amp; Interior Map of Sacred Text</p>
+    </header>
+
+    <div class="toc-controls">
+      <button type="button" onclick="setAllBooks(true)">Expand all</button>
+      <button type="button" onclick="setAllBooks(false)">Collapse all</button>
+    </div>
+
+    <main>
+      {% assign sections = site.data.chapters.sections %}
+
+      {% for item in sections %}
+        {% assign sec = item.section %}
+
+        <section class="section" id="section-{{ sec.number }}">
+          <div class="section-heading">
+            <h2>Section {{ sec.number }}: {{ sec.name }}</h2>
+          </div>
+
+          {% if sec.summary %}
+            <p class="section-summary">{{ sec.summary }}</p>
+          {% endif %}
+
+          {% if sec.subsections %}
+            {% for sub in sec.subsections %}
+              <h3 class="subsection-title">{{ sub.name }}</h3>
+
+              <div class="grid">
+                {% for book in sub.books %}
+                  <details class="book-card">
+                    <summary>
+                      <div class="book-title">{{ book.title }}</div>
+
+                      {% if book.subtitle %}
+                        <div class="book-subtitle">{{ book.subtitle }}</div>
+                      {% endif %}
+
+                      {% if book.chapters %}
+                        <div class="chapter-count">{{ book.chapters | size }} chapters</div>
+                      {% endif %}
+                    </summary>
+
+                    <div class="chapter-scroll">
+                      <ul class="chapter-list">
+                        {% for ch in book.chapters %}
+                          <li>
+                            <span class="chapter-num">
+                              {% if ch.chapter < 10 %}0{% endif %}{{ ch.chapter }}
+                            </span>
+
+                            {% if ch.url %}
+                              <a class="chapter-title"
+                                 href="{{ ch.url | relative_url }}">
+                                {{ ch.bkv_title }}
+                              </a>
+                            {% else %}
+                              <span class="chapter-title">{{ ch.bkv_title }}</span>
+                            {% endif %}
+
+                            {% if ch.status == "active" or ch.url %}
+                              <span class="badge-active">Active</span>
+                            {% endif %}
+                          </li>
+                        {% endfor %}
+                      </ul>
+                    </div>
+                  </details>
+                {% endfor %}
+              </div>
+            {% endfor %}
+
+          {% elsif sec.books %}
+            <div class="grid">
+              {% for book in sec.books %}
+                <details class="book-card">
+                  <summary>
+                    <div class="book-title">{{ book.title }}</div>
+
+                    {% if book.subtitle %}
+                      <div class="book-subtitle">{{ book.subtitle }}</div>
+                    {% endif %}
+
+                    {% if book.chapters %}
+                      <div class="chapter-count">{{ book.chapters | size }} chapters</div>
+                    {% endif %}
+                  </summary>
+
+                  <div class="chapter-scroll">
+                    <ul class="chapter-list">
+                      {% for ch in book.chapters %}
+                        <li>
+                          <span class="chapter-num">
+                            {% if ch.chapter < 10 %}0{% endif %}{{ ch.chapter }}
+                          </span>
+
+                          {% if ch.url %}
+                            <a class="chapter-title"
+                               href="{{ ch.url | relative_url }}">
+                              {{ ch.bkv_title }}
+                            </a>
+                          {% else %}
+                            <span class="chapter-title">{{ ch.bkv_title }}</span>
+                          {% endif %}
+
+                          {% if ch.status == "active" or ch.url %}
+                            <span class="badge-active">Active</span>
+                          {% endif %}
+                        </li>
+                      {% endfor %}
+                    </ul>
+                  </div>
+                </details>
+              {% endfor %}
+            </div>
+          {% endif %}
+        </section>
+      {% endfor %}
+    </main>
+
+    <footer>
+      <p>&copy; 2026 Bible Key Version Project</p>
+    </footer>
+  </div>
+
+  <script>
+    function setAllBooks(open) {
+      document.querySelectorAll('.book-card').forEach(card => {
+        card.open = open;
+      });
+    }
+  </script>
+</body>
+</html>
