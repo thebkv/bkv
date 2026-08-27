@@ -1,0 +1,2448 @@
+sections:
+  - number: 1
+  name: "Formation"
+  summary: "Formation of the Inner Law"
+  books:
+    - title: "Genesis"
+      subtitle: "The Book of Beginnings: The Emergence of Divine Ideas Into Form"
+      chapters:
+        - chapter: 1
+          bkv_title: "Order Established from Undifferentiated Potential"
+        - chapter: 2
+          bkv_title: "Authority Placed Within Form"
+        - chapter: 3
+          bkv_title: "Boundary Crossed, Order Strained"
+        - chapter: 4
+          bkv_title: "Fracture Spreads Into Relationship"
+        - chapter: 5
+          bkv_title: "Continuity Under Mortality"
+        - chapter: 6
+          bkv_title: "Corruption Saturates, Preservation Prepared"
+        - chapter: 7
+          bkv_title: "Judgment as Containment, Not Annihilation"
+        - chapter: 8
+          bkv_title: "Restoration After Containment"
+        - chapter: 9
+          bkv_title: "Authority Re-Granted and Life Bounded"
+        - chapter: 10
+          bkv_title: "Ordered Diversity of Nations"
+        - chapter: 11
+          bkv_title: "Unified Power and Fragmented Speech"
+        - chapter: 12
+          bkv_title: "Call Without Full Clarity"
+        - chapter: 13
+          bkv_title: "Separation Without Fracture"
+        - chapter: 14
+          bkv_title: "Rescue Without Domination"
+        - chapter: 15
+          bkv_title: "Covenant Without Performance"
+        - chapter: 16
+          bkv_title: "Attempted Fulfillment Through Control"
+        - chapter: 17
+          bkv_title: "Identity Sealed by Promise"
+        - chapter: 18
+          bkv_title: "Intercession and Discernment"
+        - chapter: 19
+          bkv_title: "Judgment and the Cost of Delay"
+        - chapter: 20
+          bkv_title: "Preservation Without Maturity"
+        - chapter: 21
+          bkv_title: "Fulfillment Without Forgetting the Cost"
+        - chapter: 22
+          bkv_title: "Release, Trust, and Provision Revealed"
+        - chapter: 23
+          bkv_title: "Securing Legacy Through Proper Closure"
+        - chapter: 24
+          bkv_title: "Covenant Extended Through Discernment"
+        - chapter: 25
+          bkv_title: "Transition of Generations"
+        - chapter: 26
+          bkv_title: "Inherited Promise Under Pressure"
+        - chapter: 27
+          bkv_title: "Authority Taken Without Alignment"
+        - chapter: 28
+          bkv_title: "Encounter and Re-Orientation"
+        - chapter: 29
+          bkv_title: "Desire, Labor, and Deferred Fulfillment"
+        - chapter: 30
+          bkv_title: "Production Without Peace"
+        - chapter: 31
+          bkv_title: "Separation and Boundary Restoration"
+        - chapter: 32
+          bkv_title: "Identity Wrestled Into Coherence"
+        - chapter: 33
+          bkv_title: "Reconciliation Without Domination"
+        - chapter: 34
+          bkv_title: "Violation and Misapplied Justice"
+        - chapter: 35
+          bkv_title: "Re-Alignment and Housekeeping"
+        - chapter: 36
+          bkv_title: "Catalog of External Power Lines"
+        - chapter: 37
+          bkv_title: "Calling Revealed Before Maturity"
+        - chapter: 38
+          bkv_title: "Disrupted Line and Unexpected Preservation"
+        - chapter: 39
+          bkv_title: "Integrity Preserved Under Pressure"
+        - chapter: 40
+          bkv_title: "Delay Without Abandonment"
+        - chapter: 41
+          bkv_title: "Authority Recognized Through Wisdom"
+        - chapter: 42
+          bkv_title: "Guilt Confronted Before Restoration"
+        - chapter: 43
+          bkv_title: "Trust Tested Through Provision"
+        - chapter: 44
+          bkv_title: "Substitution and Revealed Character"
+        - chapter: 45
+          bkv_title: "Identity Revealed and Authority Reframed"
+        - chapter: 46
+          bkv_title: "Preservation Through Descent"
+        - chapter: 47
+          bkv_title: "Settlement and Sustained Provision"
+        - chapter: 48
+          bkv_title: "Blessing That Reorders Expectation"
+        - chapter: 49
+          bkv_title: "Spoken Futures and Functional Destinies"
+        - chapter: 50
+          bkv_title: "Closure Without Loss of Promise"
+
+    - title: "Exodus"
+      subtitle: "The Book of Deliverance: The God-Given Faculties Released from Bondage"
+      chapters:
+        - chapter: 1
+          bkv_title: "The Disciple’s Faculties Are Put in Bondage"
+        - chapter: 2
+          bkv_title: "The Deliverer Is Drawn Out and Prepared"
+        - chapter: 3
+          bkv_title: "The Deliverer Encounters the Divine Presence"
+        - chapter: 4
+          bkv_title: "The Divine Commission Is Embodied and Put in Motion"
+        - chapter: 5
+          bkv_title: "The First Confrontation Intensifies the Bondage"
+        - chapter: 6
+          bkv_title: "The Promise of Deliverance Is Reaffirmed"
+        - chapter: 7
+          bkv_title: "Divine Authority Confronts the Ruling Power"
+        - chapter: 8
+          bkv_title: "The False Order Begins to Break Under Judgment"
+        - chapter: 9
+          bkv_title: "The Structures of Egypt Are Struck"
+        - chapter: 10
+          bkv_title: "Darkness Falls Upon the Ruling Order"
+        - chapter: 11
+          bkv_title: "The Final Separation Is Announced"
+        - chapter: 12
+          bkv_title: "The Passover: Deliverance Through the Blood"
+        - chapter: 13
+          bkv_title: "The Delivered Faculties Are Consecrated and Led"
+        - chapter: 14
+          bkv_title: "The Waters Close Behind the Old Life"
+        - chapter: 15
+          bkv_title: "The Song of Deliverance and the First Wilderness Testing"
+        - chapter: 16
+          bkv_title: "Daily Bread: Learning Dependence Upon God"
+        - chapter: 17
+          bkv_title: "Water from the Rock and Victory Through Upraised Hands"
+        - chapter: 18
+          bkv_title: "The Inner Government Is Ordered"
+        - chapter: 19
+          bkv_title: "The People Are Prepared to Meet God"
+        - chapter: 20
+          bkv_title: "Divine Order Is Spoken"
+        - chapter: 21
+          bkv_title: "Divine Law Enters the Relationships of Daily Life"
+        - chapter: 22
+          bkv_title: "Divine Law Orders Possession, Responsibility, and Restitution"
+        - chapter: 23
+          bkv_title: "Justice, Rest, and the Way Into the Promised Land"
+        - chapter: 24
+          bkv_title: "The Covenant Is Confirmed"
+        - chapter: 25
+          bkv_title: "The Pattern of the Divine Dwelling Is Revealed"
+        - chapter: 26
+          bkv_title: "The Dwelling Place Is Given Form"
+        - chapter: 27
+          bkv_title: "The Altar, Court, and Light Are Ordered"
+        - chapter: 28
+          bkv_title: "The Priestly Faculties Are Clothed for Service"
+        - chapter: 29
+          bkv_title: "The Priesthood Is Consecrated"
+        - chapter: 30
+          bkv_title: "Prayer, Cleansing, Anointing, and Incense Prepare the Holy Service"
+        - chapter: 31
+          bkv_title: "The Work Is Empowered and the Sabbath Seals the Pattern"
+        - chapter: 32
+          bkv_title: "The Faculties Turn Back Toward a Visible God"
+        - chapter: 33
+          bkv_title: "The Presence Becomes the Essential Question"
+        - chapter: 34
+          bkv_title: "The Covenant Is Renewed and the Face Is Transformed"
+        - chapter: 35
+          bkv_title: "The Willing Heart Begins to Build the Dwelling"
+        - chapter: 36
+          bkv_title: "The Pattern Is Faithfully Brought Into Form"
+        - chapter: 37
+          bkv_title: "The Inner Holy Place Is Furnished"
+        - chapter: 38
+          bkv_title: "The Outer Court Is Completed and Accounted For"
+        - chapter: 39
+          bkv_title: "The Priestly Garments Are Completed According to the Pattern"
+        - chapter: 40
+          bkv_title: "The Dwelling Is Raised and Filled with the Presence"
+
+    - title: "Leviticus"
+      subtitle: "The Book of Holiness: Life Ordered Around the Divine Presence"
+      chapters:
+        - chapter: 1
+          bkv_title: "The Whole Life Is Offered Upon the Altar"
+        - chapter: 2
+          bkv_title: "The Fruit of Human Labor Is Consecrated to God"
+        - chapter: 3
+          bkv_title: "Communion Is Established Through the Peace Offering"
+        - chapter: 4
+          bkv_title: "Unconscious Disorder Is Brought Into the Light"
+        - chapter: 5
+          bkv_title: "Guilt Is Acknowledged and Restitution Begins"
+        - chapter: 6
+          bkv_title: "The Fire of Consecration Is Kept Continually Burning"
+        - chapter: 7
+          bkv_title: "Sacrifice Is Ordered According to Its Divine Function"
+        - chapter: 8
+          bkv_title: "The Priestly Faculties Are Consecrated for Service"
+        - chapter: 9
+          bkv_title: "Consecrated Service Opens Into the Glory of God"
+        - chapter: 10
+          bkv_title: "Unauthorized Fire Reveals the Danger of Misdirected Spiritual Power"
+        - chapter: 11
+          bkv_title: "Discernment Separates What May Be Received from What Must Be Refused"
+        - chapter: 12
+          bkv_title: "New Life Passes Through Purification"
+        - chapter: 13
+          bkv_title: "Corruption Is Examined and Brought Under Discernment"
+        - chapter: 14
+          bkv_title: "What Has Been Cleansed Is Restored to the Community"
+        - chapter: 15
+          bkv_title: "The Outflow of Life Is Brought Under Sacred Order"
+        - chapter: 16
+          bkv_title: "The Inner Sanctuary Is Cleansed and Atonement Is Made"
+        - chapter: 17
+          bkv_title: "Life and Blood Are Reserved for God"
+        - chapter: 18
+          bkv_title: "Desire Is Bounded to Preserve Holy Order"
+        - chapter: 19
+          bkv_title: "Holiness Enters the Ordinary Relationships of Life"
+        - chapter: 20
+          bkv_title: "The Boundaries of Holiness Are Enforced"
+        - chapter: 21
+          bkv_title: "The Priestly Faculty Is Held to a Higher Order"
+        - chapter: 22
+          bkv_title: "Holy Things Are Protected from Profanation"
+        - chapter: 23
+          bkv_title: "Sacred Time Orders the Life Around God’s Redemptive Pattern"
+        - chapter: 24
+          bkv_title: "The Light, Bread, and Holy Name Are Kept Before the Presence"
+        - chapter: 25
+          bkv_title: "Sabbath and Jubilee Restore the Divine Order of Possession"
+        - chapter: 26
+          bkv_title: "Alignment Brings Fruitfulness; Persistent Disorder Brings Dissolution"
+        - chapter: 27
+          bkv_title: "What Is Devoted to God Is Properly Valued and Set Apart"
+
+    - title: "Numbers"
+      subtitle: "The Book of the Wilderness: The Ordered Faculties Tested on the Journey"
+      chapters:
+        - chapter: 1
+          bkv_title: "The Faculties Are Counted and Ordered for the Journey"
+        - chapter: 2
+          bkv_title: "The Whole Camp Is Arranged Around the Presence"
+        - chapter: 3
+          bkv_title: "The Priestly Faculty Is Set Apart for the Dwelling"
+        - chapter: 4
+          bkv_title: "Every Sacred Function Is Given Its Proper Charge"
+        - chapter: 5
+          bkv_title: "Defilement Is Removed from the Ordered Camp"
+        - chapter: 6
+          bkv_title: "Consecration Preserves Undivided Devotion"
+        - chapter: 7
+          bkv_title: "The Faculties Bring Their Offerings to the Consecrated Center"
+        - chapter: 8
+          bkv_title: "Light Is Established and the Levites Are Purified for Service"
+        - chapter: 9
+          bkv_title: "Passover Is Remembered and the Presence Directs Every Movement"
+        - chapter: 10
+          bkv_title: "The Ordered Camp Finally Sets Forward"
+        - chapter: 11
+          bkv_title: "Appetite Rebels Against Divine Provision"
+        - chapter: 12
+          bkv_title: "Familiarity Challenges the Authority God Has Established"
+        - chapter: 13
+          bkv_title: "The Promised Land Is Seen Through the Eyes of Faith and Fear"
+        - chapter: 14
+          bkv_title: "Fear Refuses the Promise and Extends the Wilderness"
+        - chapter: 15
+          bkv_title: "Divine Order Remains Certain Despite Human Failure"
+        - chapter: 16
+          bkv_title: "Rebellion Against Divine Order Is Exposed and Judged"
+        - chapter: 17
+          bkv_title: "God’s Chosen Authority Bears Living Fruit"
+        - chapter: 18
+          bkv_title: "Sacred Responsibility Is Assigned and Sustained"
+        - chapter: 19
+          bkv_title: "Contact with Death Requires Purification"
+        - chapter: 20
+          bkv_title: "The Old Generation Reaches Its Boundary"
+        - chapter: 21
+          bkv_title: "Resistance Gives Way to Healing and Forward Movement"
+        - chapter: 22
+          bkv_title: "Opposition Cannot Reverse What God Has Blessed"
+        - chapter: 23
+          bkv_title: "The Blessed Identity Is Declared from Outside the Camp"
+        - chapter: 24
+          bkv_title: "The Coming King Is Seen Beyond the Wilderness"
+        - chapter: 25
+          bkv_title: "Misaligned Desire Penetrates the Camp"
+        - chapter: 26
+          bkv_title: "A New Generation Is Counted for the Inheritance"
+        - chapter: 27
+          bkv_title: "Inheritance Is Preserved and Leadership Passes Forward"
+        - chapter: 28
+          bkv_title: "Continual Worship Orders the Days and Seasons"
+        - chapter: 29
+          bkv_title: "Sacred Time Rehearses the Pattern of Approach"
+        - chapter: 30
+          bkv_title: "The Spoken Word Is Bound to Responsibility"
+        - chapter: 31
+          bkv_title: "The Corrupting Influence of Midian Is Put Away"
+        - chapter: 32
+          bkv_title: "The Desire to Settle Short of the Promise Is Brought Under Covenant"
+        - chapter: 33
+          bkv_title: "The Wilderness Journey Is Remembered Stage by Stage"
+        - chapter: 34
+          bkv_title: "The Boundaries of the Inheritance Are Defined"
+        - chapter: 35
+          bkv_title: "Justice and Mercy Are Established Within the Land"
+        - chapter: 36
+          bkv_title: "The Inheritance Is Preserved Within Its Proper Order"
+
+    - title: "Deuteronomy"
+      subtitle: "The Book of Remembrance: The Divine Law Internalized Before Entering the Inheritance"
+      chapters:
+        - chapter: 1
+          bkv_title: "The Failed Approach to the Promise Is Remembered"
+        - chapter: 2
+          bkv_title: "The Long Wilderness Circuit Comes to Its End"
+        - chapter: 3
+          bkv_title: "Former Powers Are Defeated and the Inheritance Comes Into View"
+        - chapter: 4
+          bkv_title: "The Disciple Is Called to Remember and Keep the Revealed Order"
+        - chapter: 5
+          bkv_title: "The Covenant Words Are Spoken Again"
+        - chapter: 6
+          bkv_title: "The Whole Life Is Gathered Into the Love of God"
+        - chapter: 7
+          bkv_title: "The Inheritance Requires Separation from the Former Order"
+        - chapter: 8
+          bkv_title: "Wilderness Dependence Must Be Remembered in Prosperity"
+        - chapter: 9
+          bkv_title: "The Inheritance Is Received by Grace Rather Than Self-Righteousness"
+        - chapter: 10
+          bkv_title: "The Heart Is Circumcised for Love and Obedience"
+        - chapter: 11
+          bkv_title: "Blessing and Curse Are Set Before the Disciple"
+        - chapter: 12
+          bkv_title: "Worship Is Gathered to the Place God Chooses"
+        - chapter: 13
+          bkv_title: "False Spiritual Voices Are Tested and Refused"
+        - chapter: 14
+          bkv_title: "The Holy People Learn What They May Receive"
+        - chapter: 15
+          bkv_title: "Release and Generosity Govern the Covenant Community"
+        - chapter: 16
+          bkv_title: "Sacred Time, Justice, and Worship Order the Land"
+        - chapter: 17
+          bkv_title: "Authority Is Placed Under the Written Word"
+        - chapter: 18
+          bkv_title: "Priestly and Prophetic Authority Are Ordered Under God"
+        - chapter: 19
+          bkv_title: "Justice Distinguishes Accident, Intention, and Guilt"
+        - chapter: 20
+          bkv_title: "The Disciple Enters Conflict Without Fear"
+        - chapter: 21
+          bkv_title: "Hidden Disorder Is Brought Under Covenant Responsibility"
+        - chapter: 22
+          bkv_title: "Boundaries Preserve Life, Relationship, and Distinction"
+        - chapter: 23
+          bkv_title: "The Camp Is Kept Holy Because God Walks Within It"
+        - chapter: 24
+          bkv_title: "Mercy and Justice Govern the Vulnerable and the Stranger"
+        - chapter: 25
+          bkv_title: "Measure, Responsibility, and Remembrance Preserve Righteous Order"
+        - chapter: 26
+          bkv_title: "The Firstfruits Confess the Story of Deliverance"
+        - chapter: 27
+          bkv_title: "The Law Is Written at the Entrance to the Inheritance"
+        - chapter: 28
+          bkv_title: "Blessing and Curse Reveal the Consequences of Alignment"
+        - chapter: 29
+          bkv_title: "The Covenant Reaches the Hidden Heart"
+        - chapter: 30
+          bkv_title: "Life and Death Are Set Before the Disciple"
+        - chapter: 31
+          bkv_title: "Leadership Passes Forward and the Word Remains"
+        - chapter: 32
+          bkv_title: "The Song of Moses Bears Witness to the Whole Covenant Pattern"
+        - chapter: 33
+          bkv_title: "The Faculties Receive Their Final Blessing"
+        - chapter: 34
+          bkv_title: "Moses Sees the Inheritance and the Lawgiver’s Work Is Complete"  - number: 2
+  name: "History"
+  summary: "The Embodiment and Testing of the Inner Law"
+  books:
+    - title: "Joshua"
+      subtitle: "The Book of Conquest: The Renewal Mind Claims the Promised Inheritance"
+      chapters:
+        - chapter: 1
+          bkv_title: "The Mind Is Charged to Claim the Inheritance"
+        - chapter: 2
+          bkv_title: "Faith Discerns the True State of the Land"
+        - chapter: 3
+          bkv_title: "The Waters Separate Before the Ark of the Covenant"
+        - chapter: 4
+          bkv_title: "Memorial Stones Mark the Crossing"
+        - chapter: 5
+          bkv_title: "The Circumcised Life Meets the Captain of the Lord’s Host"
+        - chapter: 6
+          bkv_title: "The Stronghold Falls Before Spiritual Praise"
+        - chapter: 7
+          bkv_title: "Hidden Devotion to the Old Life Brings Defeat"
+        - chapter: 8
+          bkv_title: "The Defeat Is Transformed into Victory and the Law Is Written"
+        - chapter: 9
+          bkv_title: "The Unexamined Covenant Creates an Enduring Bond"
+        - chapter: 10
+          bkv_title: "The Kings of the Land Are Overcome and the Sun Stands Still"
+        - chapter: 11
+          bkv_title: "The Power of the Former Order Is Completely Broken"
+        - chapter: 12
+          bkv_title: "The Defeated Powers Are Recorded"
+        - chapter: 13
+          bkv_title: "The Unclaimed Inheritance Is Appointed"
+        - chapter: 14
+          bkv_title: "Wholehearted Faith Claims the Promised Mountain"
+        - chapter: 15
+          bkv_title: "Judah Receives Its Portion"
+        - chapter: 16
+          bkv_title: "The Portion of Ephraim Is Assigned"
+        - chapter: 17
+          bkv_title: "Manasseh Receives Its Territory"
+        - chapter: 18
+          bkv_title: "The Remaining Inheritance Is Measured and Divided"
+        - chapter: 19
+          bkv_title: "The Final Portions Are Distributed"
+        - chapter: 20
+          bkv_title: "Cities of Refuge Preserve Righteous Order"
+        - chapter: 21
+          bkv_title: "The Priestly Tribe Is Placed Throughout the Land"
+        - chapter: 22
+          bkv_title: "The Witness Altar Is Misunderstood and Cleared"
+        - chapter: 23
+          bkv_title: "The Leader Warns Against Mixture with the Former Order"
+        - chapter: 24
+          bkv_title: "The Covenant Is Renewed at Shechem"
+
+    - title: "Judges"
+      subtitle: "The Book of Cycles: The Inner Faculties Collapse and Are Rescued"
+      chapters:
+        - chapter: 1
+          bkv_title: "Incomplete Conquest Leaves Seedbed for Compromise"
+        - chapter: 2
+          bkv_title: "The Pattern of Departure, Oppression, and Deliverance Begins"
+        - chapter: 3
+          bkv_title: "Early Deliverers Are Raised Against Oppression"
+        - chapter: 4
+          bkv_title: "Prophetic Discernment Awakens Leadership"
+        - chapter: 5
+          bkv_title: "The Song of Deliverance Sings the Victory"
+        - chapter: 6
+          bkv_title: "Weakness Is Called into Courage"
+        - chapter: 7
+          bkv_title: "The Few Are Sifted for Victory"
+        - chapter: 8
+          bkv_title: "Victory Is Secured but Compromise Sows Seeds of Decay"
+        - chapter: 9
+          bkv_title: "Self-Appointed Authority Destroys Its Own House"
+        - chapter: 10
+          bkv_title: "False Gods Fail and Repentance Turns Back to God"
+        - chapter: 11
+          bkv_title: "An Outcast Is Called to Lead"
+        - chapter: 12
+          bkv_title: "Internal Strife Weakens the Tribes"
+        - chapter: 13
+          bkv_title: "A Consecrated Deliverer Is Promised"
+        - chapter: 14
+          bkv_title: "Unruled Desire Entangles Great Strength"
+        - chapter: 15
+          bkv_title: "Single-Handed Might Fights the Enemy"
+        - chapter: 16
+          bkv_title: "The Secret of Strength Is Betrayed and Restored in Death"
+        - chapter: 17
+          bkv_title: "Private Religion Creates Its Own Worship"
+        - chapter: 18
+          bkv_title: "Self-Sought Inheritance Seizes Misdirected Religion"
+        - chapter: 19
+          bkv_title: "Moral Collapse Awakes Universal Horror"
+        - chapter: 20
+          bkv_title: "Internal War Consumes the Brotherhood"
+        - chapter: 21
+          bkv_title: "Desperate Measures Seek to Repair the Fracture"
+
+    - title: "Ruth"
+      subtitle: "The Book of Redemption: Devotion and the Kinsman-Redeemer"
+      chapters:
+        - chapter: 1
+          bkv_title: "Loss in the Foreign Land Turns the Heart Back Home"
+        - chapter: 2
+          bkv_title: "Devotion Finds Grace in the Field of Provision"
+        - chapter: 3
+          bkv_title: "Faith Approaches the Redeemer at the Threshing Floor"
+        - chapter: 4
+          bkv_title: "Redemption Is Sealed and the Royal Line Is Established"
+
+    - title: "1 Samuel"
+      subtitle: "The Book of the Kingdom Promised: The Transition from Self-Will to Davidic Anointing"
+      chapters:
+        - chapter: 1
+          bkv_title: "Barrenness Prays a Prophetic Voice into Being"
+        - chapter: 2
+          bkv_title: "The Song of Exaltation and the Decay of the Old Priesthood"
+        - chapter: 3
+          bkv_title: "The Child Hears the Divine Voice in the Darkness"
+        - chapter: 4
+          bkv_title: "The Sacred Ark Is Taken When Used as a Magic Shield"
+        - chapter: 5
+          bkv_title: "The Presence Overthrows the False Gods of the Nations"
+        - chapter: 6
+          bkv_title: "The Ark Returns to Its Own People"
+        - chapter: 7
+          bkv_title: "National Repentance Brings Peace and Victory"
+        - chapter: 8
+          bkv_title: "The Desire for a Visible King Rejects Divine Rule"
+        - chapter: 9
+          bkv_title: "The Self-Willed King Is Chosen and Anointed"
+        - chapter: 10
+          bkv_title: "Saul Is Changed into Another Man and Proclaimed King"
+        - chapter: 11
+          bkv_title: "Early Victory Confirms the New King"
+        - chapter: 12
+          bkv_title: "The Prophetic Witness Reaffirms the Covenant"
+        - chapter: 13
+          bkv_title: "Impatience Presumes Upon the Sacred Function"
+        - chapter: 14
+          bkv_title: "Faith Strikes the Enemy While Self-Will Creates Confusion"
+        - chapter: 15
+          bkv_title: "Partial Obedience Is Rejection of Divine Authority"
+        - chapter: 16
+          bkv_title: "The Heart-Beloved King Is Anointed in Secret"
+        - chapter: 17
+          bkv_title: "Faith Overcomes the Opposing Giant"
+        - chapter: 18
+          bkv_title: "Covenant Friendship Awakes While Jealousy Festers"
+        - chapter: 19
+          bkv_title: "The Anointed One Escapes the Pursuit of Self-Will"
+        - chapter: 20
+          bkv_title: "Covenant Loyalty Protects the Anointed"
+        - chapter: 21
+          bkv_title: "The Outlaw King Eats the Sacred Bread"
+        - chapter: 22
+          bkv_title: "The Cave of Adullam Gathers the Distressed"
+        - chapter: 23
+          bkv_title: "Inquiry of the Divine Guides the Fugitive"
+        - chapter: 24
+          bkv_title: "Mercy Refuses to Strike the Lord’s Anointed"
+        - chapter: 25
+          bkv_title: "Wisdom Restrains Unjust Vengeance"
+        - chapter: 26
+          bkv_title: "Mercy Spares the Pursuer a Second Time"
+        - chapter: 27
+          bkv_title: "Refuge Is Sought Among the Philistines"
+        - chapter: 28
+          bkv_title: "Self-Will Turns to Forbidden Darkness in Despair"
+        - chapter: 29
+          bkv_title: "Providence Delivers the Anointed from Entanglement"
+        - chapter: 30
+          bkv_title: "Encouraged in God, the King Pursues and Restores All"
+        - chapter: 31
+          bkv_title: "The Reign of Self-Will Ends in Ruin"
+
+    - title: "2 Samuel"
+      subtitle: "The Book of the Kingdom Established: The Davidic Order and Its Consolidation"
+      chapters:
+        - chapter: 1
+          bkv_title: "The Anointed King Laments the Fall of Saul and Jonathan"
+        - chapter: 2
+          bkv_title: "David Is Anointed Over Judah While Civil War Begins"
+        - chapter: 3
+          bkv_title: "The Kingdom Strengthens as the Former House Weakens"
+        - chapter: 4
+          bkv_title: "Treacherous Violence Is Rejected by the King"
+        - chapter: 5
+          bkv_title: "All Tribes Anoint David King in Jerusalem"
+        - chapter: 6
+          bkv_title: "The Ark Enters Jerusalem with Sacred Joy"
+        - chapter: 7
+          bkv_title: "The Everlasting Covenant Is Promised to David’s House"
+        - chapter: 8
+          bkv_title: "The Kingdom Expands and Boundaries Are Secured"
+        - chapter: 9
+          bkv_title: "Covenant Mercy Is Shown to the House of Saul"
+        - chapter: 10
+          bkv_title: "Insulted Kindness Leads to Total Victory"
+        - chapter: 11
+          bkv_title: "Unwatched Desire Leads to Adultery and Murder"
+        - chapter: 12
+          bkv_title: "The Prophetic Word Exposes the Sin and Pronounces Judgment"
+        - chapter: 13
+          bkv_title: "Uncontrolled Lust and Revenge Fracture the Royal Family"
+        - chapter: 14
+          bkv_title: "The Banishment of Absalom Ends in False Reconciliation"
+        - chapter: 15
+          bkv_title: "Rebellion Steals the Hearts of the People"
+        - chapter: 16
+          bkv_title: "The King Flees Under Curses and Humiliation"
+        - chapter: 17
+          bkv_title: "Wisdom Overturns the Counsel of Treason"
+        - chapter: 18
+          bkv_title: "The Rebel Son Falls and the King Weeps"
+        - chapter: 19
+          bkv_title: "The King Returns and Restores the Kingdom"
+        - chapter: 20
+          bkv_title: "A Second Rebellion Is Quickly Put Down"
+        - chapter: 21
+          bkv_title: "Inherited Guilt Is Resolved and Giants Are Slain"
+        - chapter: 22
+          bkv_title: "The King Sings of Divine Deliverance and Strength"
+        - chapter: 23
+          bkv_title: "The Last Words of David and His Mighty Men"
+        - chapter: 24
+          bkv_title: "The Numbering of the People Brings Judgment and Ransom"
+
+    - title: "1 Kings"
+      subtitle: "The Book of Splendor and Division: From Solomon's Temple to Israel's Fracture"
+      chapters:
+        - chapter: 1
+          bkv_title: "Solomon Is Anointed Amid Succession Intrigue"
+        - chapter: 2
+          bkv_title: "David’s Final Charge and the Consolidation of the Throne"
+        - chapter: 3
+          bkv_title: "Solomon Prays for Wisdom and Discernment"
+        - chapter: 4
+          bkv_title: "The Order, Peace, and Wisdom of Solomon’s Reign"
+        - chapter: 5
+          bkv_title: "Preparations Begin for the Building of the Temple"
+        - chapter: 6
+          bkv_title: "The Sacred Temple Is Built for the Presence"
+        - chapter: 7
+          bkv_title: "The Palaces and Temple Furnishings Are Completed"
+        - chapter: 8
+          bkv_title: "The Glory Fills the Temple and Solomon Prays"
+        - chapter: 9
+          bkv_title: "The Divine Promise and Warning to Solomon"
+        - chapter: 10
+          bkv_title: "The Queen of Sheba Beholds the Splendor of Solomon"
+        - chapter: 11
+          bkv_title: "Foreign Affections Turn the King’s Heart to Idols"
+        - chapter: 12
+          bkv_title: "Harsh Counsel Fractures the Kingdom into Two"
+        - chapter: 13
+          bkv_title: "The Prophetic Word Rebukes the False Altar"
+        - chapter: 14
+          bkv_title: "Judgment Declared Upon the House of Jeroboam"
+        - chapter: 15
+          bkv_title: "Kings Reign in Judah and Israel in Perpetual Conflict"
+        - chapter: 16
+          bkv_title: "Dynasties Rise and Fall in Northern Corruption"
+        - chapter: 17
+          bkv_title: "Elijah Declares Drought and Is Sustained in Hiding"
+        - chapter: 18
+          bkv_title: "The Fire Falls on Mount Carmel to Prove God"
+        - chapter: 19
+          bkv_title: "Weariness in the Wilderness Meets the Still Small Voice"
+        - chapter: 20
+          bkv_title: "Victory Given to Unworthy Israel to Show Sovereign Grace"
+        - chapter: 21
+          bkv_title: "Greed and Murder Seize Naboth’s Vineyard"
+        - chapter: 22
+          bkv_title: "False Prophets Flatter While the True Voice Foretells Ruin"
+
+    - title: "2 Kings"
+      subtitle: "The Book of Exile and Decline: Prophetic Warning and the Fall of the Thrones"
+      chapters:
+        - chapter: 1
+          bkv_title: "Fire Falls Upon the Messengers of False Hope"
+        - chapter: 2
+          bkv_title: "Elijah Ascends and the Double Portion Rests on Elisha"
+        - chapter: 3
+          bkv_title: "Water Provided in the Wilderness and Victory Given"
+        - chapter: 4
+          bkv_title: "Prophetic Miracles Supply, Heal, and Restore Life"
+        - chapter: 5
+          bkv_title: "Naaman Cleansed of Leprosy Through Simple Obedience"
+        - chapter: 6
+          bkv_title: "Spiritual Vision Unveils the Heavenly Host"
+        - chapter: 7
+          bkv_title: "Unbelieved Abundance Arrives Unexpectedly"
+        - chapter: 8
+          bkv_title: "Restoration of Property and Succession of Foreign Kings"
+        - chapter: 9
+          bkv_title: "Jehu Anointed to Execute Judgment on Ahab’s House"
+        - chapter: 10
+          bkv_title: "The Baal Worship and Royal Line of Omri Destroyed"
+        - chapter: 11
+          bkv_title: "Athaliah Usurps the Throne but the Heir Is Hidden"
+        - chapter: 12
+          bkv_title: "Joash Restores the Temple Repair Work"
+        - chapter: 13
+          bkv_title: "The Death of Elisha and Final Prophetic Victories"
+        - chapter: 14
+          bkv_title: "War Between Israel and Judah and the Expansion Under Jeroboam II"
+        - chapter: 15
+          bkv_title: "Rapid Decline and Insecurity in the Northern Kingdom"
+        - chapter: 16
+          bkv_title: "Ahaz Introduces Pagan Worship and Foreign Alliances in Judah"
+        - chapter: 17
+          bkv_title: "Israel Falls to Assyria and Is Carried Away into Exile"
+        - chapter: 18
+          bkv_title: "Hezekiah Restores Worship and Faces Assyrian Threat"
+        - chapter: 19
+          bkv_title: "Hezekiah’s Prayer Answered with Divine Deliverance"
+        - chapter: 20
+          bkv_title: "Hezekiah’s Life Extended and the Babylonian Shadow Foretold"
+        - chapter: 21
+          bkv_title: "Manasseh’s Extreme Idolatry Seals Judah’s Judgment"
+        - chapter: 22
+          bkv_title: "Josiah Finds the Book of the Law and Repents"
+        - chapter: 23
+          bkv_title: "Josiah Restores the Covenant and Cleanses the Land"
+        - chapter: 24
+          bkv_title: "Babylon Enforces Tribute and the First Deports Fall"
+        - chapter: 25
+          bkv_title: "Jerusalem Destroyed, the Temple Burned, and the Exile Completed"  - number: 3
+  name: "Wisdom"
+  summary: "The Internal Alignment and Worship of the Mind"
+  books:
+    - title: "Job"
+      subtitle: "The Book of Suffering and Sovereignty: The Purifying of Inner Consciousness"
+      chapters:
+        - chapter: 1
+          bkv_title: "Integrity Tested Through the Loss of External Forms"
+        - chapter: 2
+          bkv_title: "The Body Afflicted and the Isolation of the Mind"
+        - chapter: 3
+          bkv_title: "The Soul Cries Out Under Unbearable Strain"
+        - chapter: 4
+          bkv_title: "Conventional Wisdom Assumes Guilt Behind Suffering"
+        - chapter: 5
+          bkv_title: "Eliphaz Urges Submission to Divine Correction"
+        - chapter: 6
+          bkv_title: "Job Defends His Anguish Against Unsympathetic Advice"
+        - chapter: 7
+          bkv_title: "The Weariness of Existence and the Cry for Relief"
+        - chapter: 8
+          bkv_title: "Bildad Defends Retributive Justice from Tradition"
+        - chapter: 9
+          bkv_title: "The Impossible Trial Between Finite Man and Infinite Power"
+        - chapter: 10
+          bkv_title: "Job Pleads Against Absolute Sovereignty"
+        - chapter: 11
+          bkv_title: "Zophar Demands Repentance for Hidden Iniquity"
+        - chapter: 12
+          bkv_title: "Job Mocks Commonplace Wisdom and Appeals to God’s Power"
+        - chapter: 13
+          bkv_title: "Faith Demands Direct Encounter Despite the Risk"
+        - chapter: 14
+          bkv_title: "The Fragility of Life and the Hope of Renewal"
+        - chapter: 15
+          bkv_title: "Eliphaz Rebukes Job’s Words as Presumptuous Rebellion"
+        - chapter: 16
+          bkv_title: "Miserable Comforters and the Inner Witness in Heaven"
+        - chapter: 17
+          bkv_title: "Hope Plunges into the Dust"
+        - chapter: 18
+          bkv_title: "Bildad Paints the Terrifying Fate of the Wicked"
+        - chapter: 19
+          bkv_title: "Abandoned by Men, Job Confesses His Redeemer Lives"
+        - chapter: 20
+          bkv_title: "Zophar Insists the Triumph of the Wicked Is Brief"
+        - chapter: 21
+          bkv_title: "Job Observes the Unpunished Prosperity of the Impious"
+        - chapter: 22
+          bkv_title: "Eliphaz Invents False Charges to Defend God"
+        - chapter: 23
+          bkv_title: "Searching for the Hidden God Who Tests the Faith"
+        - chapter: 24
+          bkv_title: "The Seeming Absence of Justice in the Earthly Realm"
+        - chapter: 25
+          bkv_title: "Bildad Asserts Man’s Absolute Insignificance"
+        - chapter: 26
+          bkv_title: "Job Extols the Unsearchable Majesty Beyond Human Sight"
+        - chapter: 27
+          bkv_title: "Job Maintains His Integrity to the End"
+        - chapter: 28
+          bkv_title: "The Search for Wisdom Beyond Created Wealth"
+        - chapter: 29
+          bkv_title: "Remembrance of Former Honor and Divine Favor"
+        - chapter: 30
+          bkv_title: "Present Contempt, Suffering, and Degradation"
+        - chapter: 31
+          bkv_title: "The Final Oath of Personal Purity and Justice"
+        - chapter: 32
+          bkv_title: "Elihu Steps Forward to Rebuke Both Sides"
+        - chapter: 33
+          bkv_title: "Suffering Reframed as Divine Instruction and Discipline"
+        - chapter: 34
+          bkv_title: "Elihu Asserts God’s Absolute Justice and Power"
+        - chapter: 35
+          bkv_title: "Self-Righteousness Rebuked and Right Motivation Exalted"
+        - chapter: 36
+          bkv_title: "Elihu Extols God’s Sovereign Purposes and Majesty"
+        - chapter: 37
+          bkv_title: "The Terrifying Glory of God Exposed in the Storm"
+        - chapter: 38
+          bkv_title: "God Answers out of the Whirlwind with Creation’s Order"
+        - chapter: 39
+          bkv_title: "The Uncontrolled Wildness of Creation Proclaims Divine Care"
+        - chapter: 40
+          bkv_title: "Man Silenced Before Supreme Power and Behemoth"
+        - chapter: 41
+          bkv_title: "Leviathan Demonstrates Human Helplessness"
+        - chapter: 42
+          bkv_title: "Repentance in Dust, Restoration, and Doubled Sight"
+
+    - title: "Psalms"
+      subtitle: "The Book of Praises: The Spiritual Movement of the Human Soul"
+      chapters:
+        - chapter: 1
+          bkv_title: "The Two Ways: The Ordered Mind and the Chaff"
+        - chapter: 2
+          bkv_title: "The Anointed King Established Over Earthly Rebellion"
+        - chapter: 3
+          bkv_title: "Peace in the Midst of Surrounding Opposition"
+        - chapter: 4
+          bkv_title: "Resting in God When Night Falls"
+        - chapter: 5
+          bkv_title: "Morning Prayer for Divine Guidance and Protection"
+        - chapter: 6
+          bkv_title: "The Cry of Exhaustion and the Assurance of Mercy"
+        - chapter: 7
+          bkv_title: "Refuge in the Just Judge Against Slander"
+        - chapter: 8
+          bkv_title: "The Excellence of the Divine Name and Man’s Appointed Dominion"
+        - chapter: 9
+          bkv_title: "Praise for Divine Justice Over Oppressive Powers"
+        - chapter: 10
+          bkv_title: "Pleading Against the Arrogance of the Ungodly"
+        - chapter: 11
+          bkv_title: "Faith Refuses to Flee When Foundations Are Shaken"
+        - chapter: 12
+          bkv_title: "The Pure Word Stand Out Against False Speech"
+        - chapter: 13
+          bkv_title: "How Long? From Despair to Joyful Trust"
+        - chapter: 14
+          bkv_title: "The Foolish Mind Denies the Presence"
+        - chapter: 15
+          bkv_title: "The Character of the Soul That Abides in the Sanctuary"
+        - chapter: 16
+          bkv_title: "The Goodly Heritage and Hope Beyond the Grave"
+        - chapter: 17
+          bkv_title: "A Prayer for Deliverance and Awakening in the Divine Image"
+        - chapter: 18
+          bkv_title: "The Great Song of Deliverance and Divine Triumph"
+        - chapter: 19
+          bkv_title: "The Witness of the Heavens and the Perfection of the Law"
+        - chapter: 20
+          bkv_title: "Prayer for Victory in the Day of Trouble"
+        - chapter: 21
+          bkv_title: "Joy in the King’s Salvation and Power"
+        - chapter: 22
+          bkv_title: "The Suffering Servant’s Agony and World-Wide Victory"
+        - chapter: 23
+          bkv_title: "The Lord Is My Shepherd: The Soul Satisfied"
+        - chapter: 24
+          bkv_title: "The Earth Is the Lord’s: The Entry of the King of Glory"
+        - chapter: 25
+          bkv_title: "Waiting for Guidance, Pardon, and Protection"
+        - chapter: 26
+          bkv_title: "Examined and Cleansed to Walk in Integrity"
+        - chapter: 27
+          bkv_title: "Light, Courage, and the One Desire for the Temple"
+        - chapter: 28
+          bkv_title: "Cry for Help Answered with Strength and Shield"
+        - chapter: 29
+          bkv_title: "The Thunderous Voice of God over the Waters"
+        - chapter: 30
+          bkv_title: "Mourning Turned into Dancing"
+        - chapter: 31
+          bkv_title: "Into Your Hand I Commit My Spirit"
+        - chapter: 32
+          bkv_title: "The Blessedness of Forgiveness and Guilt Released"
+        - chapter: 33
+          bkv_title: "Praise to the Creator and Sovereign Ruler"
+        - chapter: 34
+          bkv_title: "Taste and See That the Lord Is Good"
+        - chapter: 35
+          bkv_title: "Pleading for Vindication Against Unjust Foes"
+        - chapter: 36
+          bkv_title: "Human Wickedness and the Boundless Divine Love"
+        - chapter: 37
+          bkv_title: "Fret Not: The Meek Shall Inherit the Earth"
+        - chapter: 38
+          bkv_title: "Contrite Confession Under the Weight of Sin"
+        - chapter: 39
+          bkv_title: "The Fleeting Nature of Life and the Hope in God"
+        - chapter: 40
+          bkv_title: "Waiting Patiently and Doing the Divine Will"
+        - chapter: 41
+          bkv_title: "Blessing on the Compassionate and Hope in Betrayal"
+        - chapter: 42
+          bkv_title: "As the Deer Pants: Thirsting for the Living God"
+        - chapter: 43
+          bkv_title: "Send Out Your Light and Your Truth"
+        - chapter: 44
+          bkv_title: "Remembering Past Victories in Present Distress"
+        - chapter: 45
+          bkv_title: "The Royal Wedding Song of the King and Bride"
+        - chapter: 46
+          bkv_title: "God Is Our Refuge: Be Still and Know"
+        - chapter: 47
+          bkv_title: "Clap Your Hands: The Sovereign Ruler Exalted"
+        - chapter: 48
+          bkv_title: "Zion, the City of the Great King"
+        - chapter: 49
+          bkv_title: "The Vanity of Wealth Without Understanding"
+        - chapter: 50
+          bkv_title: "True Worship Over Empty Sacrifice"
+        - chapter: 51
+          bkv_title: "Create in Me a Clean Heart, O God"
+        - chapter: 52
+          bkv_title: "The Futility of Malice and the Flourishing Olive Tree"
+        - chapter: 53
+          bkv_title: "The Universal Depravity of Unbelieving Consciousness"
+        - chapter: 54
+          bkv_title: "Divine Help Against Ruthless Oppressors"
+        - chapter: 55
+          bkv_title: "Cast Your Burden on the Lord in Treachery"
+        - chapter: 56
+          bkv_title: "In God I Trust: Tears Preserved in a Bottle"
+        - chapter: 57
+          bkv_title: "In the Shadow of Wings Until Calamity Passes"
+        - chapter: 58
+          bkv_title: "Unjust Judges and the Certainty of Divine Justice"
+        - chapter: 59
+          bkv_title: "Defense Against Fierce Enemies in the Night"
+        - chapter: 60
+          bkv_title: "Restoration and Help After Defeat"
+        - chapter: 61
+          bkv_title: "Lead Me to the Rock That Is Higher Than I"
+        - chapter: 62
+          bkv_title: "My Soul Waits in Silence for God Alone"
+        - chapter: 63
+          bkv_title: "Thirsting for God in a Dry and Weary Land"
+        - chapter: 64
+          bkv_title: "Protected from Secret Plots and Venomous Words"
+        - chapter: 65
+          bkv_title: "The Creator Crowns the Year with Bounty"
+        - chapter: 66
+          bkv_title: "Make a Joyful Noise: Testifying to What God Has Done"
+        - chapter: 67
+          bkv_title: "Let the Peoples Praise You, O God"
+        - chapter: 68
+          bkv_title: "Let God Arise: The Triumphant Procession"
+        - chapter: 69
+          bkv_title: "Save Me, O God: Deep Waters and Zeal for Your House"
+        - chapter: 70
+          bkv_title: "Make Haste to Help Me, O Lord"
+        - chapter: 71
+          bkv_title: "Sustained from Youth to Old Age"
+        - chapter: 72
+          bkv_title: "The Righteous and Universal Reign of the King"
+        - chapter: 73
+          bkv_title: "From Doubt Over the Wicked to the Inner Sanctuary"
+        - chapter: 74
+          bkv_title: "Lament Over the Ruined Sanctuary"
+        - chapter: 75
+          bkv_title: "God Is the Judge Who Raises Up and Puts Down"
+        - chapter: 76
+          bkv_title: "The Awesome Majesty of God in Judgment"
+        - chapter: 77
+          bkv_title: "In the Day of Trouble I Seek the Lord and Remember His Wonders"
+        - chapter: 78
+          bkv_title: "Teaching the Next Generation the Lessons of History"
+        - chapter: 79
+          bkv_title: "A Plea for Mercy Over the Defiled Inheritance"
+        - chapter: 80
+          bkv_title: "Restore Us, O God: Cause Your Face to Shine"
+        - chapter: 81
+          bkv_title: "A Song of Remembrance and Warning at the Feast"
+        - chapter: 82
+          bkv_title: "God Rebukes Unjust Rulers and Demands Justice"
+        - chapter: 83
+          bkv_title: "A Cry Against the Conspiracy of Opposing Nations"
+        - chapter: 84
+          bkv_title: "How Lovely Is Your Dwelling Place, O Lord"
+        - chapter: 85
+          bkv_title: "Mercy and Truth Have Met Together"
+        - chapter: 86
+          bkv_title: "Incline Your Ear: A Prayer of the Poor and Needy"
+        - chapter: 87
+          bkv_title: "Zion, the Mother of the Nations"
+        - chapter: 88
+          bkv_title: "A Cry Out of the Lowest Pit and Deep Darkness"
+        - chapter: 89
+          bkv_title: "Singing of the Covenant and Lamenting Its Eclipse"
+        - chapter: 90
+          bkv_title: "Lord, You Have Been Our Dwelling Place: The Eternal and the Fleeting"
+        - chapter: 91
+          bkv_title: "He Who Dwells in the Secret Place of the Most High"
+        - chapter: 92
+          bkv_title: "It Is Good to Give Thanks: The Flourishing Righteous"
+        - chapter: 93
+          bkv_title: "The Lord Reigns, Clothed in Majesty"
+        - chapter: 94
+          bkv_title: "The Lord Will Not Forsake His People or His Justice"
+        - chapter: 95
+          bkv_title: "O Come, Let Us Sing—Today, If You Hear His Voice"
+        - chapter: 96
+          bkv_title: "Sing to the Lord a New Song: All Creation Rejoices"
+        - chapter: 97
+          bkv_title: "The Lord Reigns: Light Sown for the Righteous"
+        - chapter: 98
+          bkv_title: "Sing a New Song: Salvation Revealed to the Nations"
+        - chapter: 99
+          bkv_title: "The Lord Is King: Holy Is He"
+        - chapter: 100
+          bkv_title: "Make a Joyful Noise: Know That the Lord Is God"
+        - chapter: 101
+          bkv_title: "A Vow of Integrity in House and Heart"
+        - chapter: 102
+          bkv_title: "A Prayer of the Afflicted: You Remain the Same"
+        - chapter: 103
+          bkv_title: "Bless the Lord, O My Soul, and Forget Not His Benefits"
+        - chapter: 104
+          bkv_title: "The Splendor of Creation and Sustaining Power"
+        - chapter: 105
+          bkv_title: "Remembering God’s Covenant Faithfulness in History"
+        - chapter: 106
+          bkv_title: "Confessing the Nation’s Unfaithfulness and Divine Mercy"
+        - chapter: 107
+          bkv_title: "Let the Redeemed of the Lord Say So: Delivered from Many Troubles"
+        - chapter: 108
+          bkv_title: "My Heart Is Steadfast: Praise and Victory"
+        - chapter: 109
+          bkv_title: "A Plea Against the Deceitful and Accusing Voice"
+        - chapter: 110
+          bkv_title: "The King-Priest After the Order of Melchizedek"
+        - chapter: 111
+          bkv_title: "Praise for the Lord’s Wonderful Works and Covenant"
+        - chapter: 112
+          bkv_title: "The Blessedness of the Righteous Person Who Fears the Lord"
+        - chapter: 113
+          bkv_title: "Praised from the Rising of the Sun: Raising the Poor"
+        - chapter: 114
+          bkv_title: "When Israel Came Out of Egypt: Earth Trembles"
+        - chapter: 115
+          bkv_title: "Not to Us, O Lord, but to Your Name Give Glory"
+        - chapter: 116
+          bkv_title: "I Love the Lord Because He Heard My Voice"
+        - chapter: 117
+          bkv_title: "Praise the Lord, All You Nations"
+        - chapter: 118
+          bkv_title: "His Steadfast Love Endures Forever: The Cornerstone"
+        - chapter: 119
+          bkv_title: "The Delight, Meditations, and Perfection of the Divine Word"
+        - chapter: 120
+          bkv_title: "In My Distress I Cried out Against Lying Lips"
+        - chapter: 121
+          bkv_title: "I Lift Up My Eyes to the Hills: The Keeper of Israel"
+        - chapter: 122
+          bkv_title: "I Was Glad When They Said: Let Us Go to the House of the Lord"
+        - chapter: 123
+          bkv_title: "Unto You I Lift Up My Eyes: Looking for Mercy"
+        - chapter: 124
+          bkv_title: "If It Had Not Been the Lord Who Was on Our Side"
+        - chapter: 125
+          bkv_title: "Those Who Trust in the Lord Are Like Mount Zion"
+        - chapter: 126
+          bkv_title: "When the Lord Restored the Fortunes: Those Who Sow in Tears"
+        - chapter: 127
+          bkv_title: "Unless the Lord Builds the House, the Builders Labor in Vain"
+        - chapter: 128
+          bkv_title: "Blessed Is Everyone Who Fears the Lord"
+        - chapter: 129
+          bkv_title: "Afflicted from Youth, but Not Prevailed Against"
+        - chapter: 130
+          bkv_title: "Out of the Depths I Cry to You, O Lord"
+        - chapter: 131
+          bkv_title: "My Heart Is Not Proud: Stilled Like a Weaned Child"
+        - chapter: 132
+          bkv_title: "Remember David: The Chosen Resting Place of God"
+        - chapter: 133
+          bkv_title: "How Good and Pleasant for Brethren to Dwell in Unity"
+        - chapter: 134
+          bkv_title: "Bless the Lord, All You Servants Who Stand by Night"
+        - chapter: 135
+          bkv_title: "Praise the Lord: Sovereign Over All Nations and Idols"
+        - chapter: 136
+          bkv_title: "Give Thanks to the Lord, for His Mercy Endures Forever"
+        - chapter: 137
+          bkv_title: "By the Waters of Babylon We Sat Down and Wept"
+        - chapter: 138
+          bkv_title: "I Praise You with My Whole Heart for Your Truth"
+        - chapter: 139
+          bkv_title: "O Lord, You Have Searched Me and Known Me"
+        - chapter: 140
+          bkv_title: "Deliver Me, O Lord, from Evil and Violent Men"
+        - chapter: 141
+          bkv_title: "Let My Prayer Be Set Before You as Incense"
+        - chapter: 142
+          bkv_title: "I Cry Aloud to the Lord: You Are My Refuge"
+        - chapter: 143
+          bkv_title: "Hear My Prayer, O Lord: Teach Me to Do Your Will"
+        - chapter: 144
+          bkv_title: "Blessed Be the Lord My Rock Who Trains My Hands for Battle"
+        - chapter: 145
+          bkv_title: "I Will Extol You, My God, O King, Forever and Ever"
+        - chapter: 146
+          bkv_title: "Praise the Lord: Do Not Put Your Trust in Princes"
+        - chapter: 147
+          bkv_title: "Praise the Lord Who Heals the Brokenhearted and Counts the Stars"
+        - chapter: 148
+          bkv_title: "Praise the Lord from the Heavens and the Earth"
+        - chapter: 149
+          bkv_title: "Sing a New Song: Victory and Honor for His Saints"
+        - chapter: 150
+          bkv_title: "Let Everything That Has Breath Praise the Lord"
+
+    - title: "Proverbs"
+      subtitle: "The Book of Wisdom: Practical Rules for the Disciplined Consciousness"
+      chapters:
+        - chapter: 1
+          bkv_title: "The Fear of the Lord Is the Beginning of Knowledge"
+        - chapter: 2
+          bkv_title: "The Search for Wisdom Protects from the Evil Way"
+        - chapter: 3
+          bkv_title: "Trust in the Lord with All Your Heart"
+        - chapter: 4
+          bkv_title: "Get Wisdom: Guard Your Heart Above All Else"
+        - chapter: 5
+          bkv_title: "Warning Against Strange Passions and Entanglements"
+        - chapter: 6
+          bkv_title: "Warnings Against Sloth, Deceit, and Destructive Desire"
+        - chapter: 7
+          bkv_title: "The Seductions of Folly Unveiled"
+        - chapter: 8
+          bkv_title: "Wisdom’s Eternal Call and Presence in Creation"
+        - chapter: 9
+          bkv_title: "The Two Feasts: The Invitation of Wisdom and Folly"
+        - chapter: 10
+          bkv_title: "Wisdom and Folly Expressed in Speech and Labor"
+        - chapter: 11
+          bkv_title: "Integrity Guides the Upright to Safety"
+        - chapter: 12
+          bkv_title: "The Fruit of Truthful Words and Righteous Conduct"
+        - chapter: 13
+          bkv_title: "Instruction Received Brings Life and Honor"
+        - chapter: 14
+          bkv_title: "Prudence Discerns the Path in Everyday Life"
+        - chapter: 15
+          bkv_title: "A Soft Answer Turneth Away Wrath"
+        - chapter: 16
+          bkv_title: "The Plans of the Heart and the Sovereign Direction"
+        - chapter: 17
+          bkv_title: "Refining the Heart and Avoiding Strife"
+        - chapter: 18
+          bkv_title: "The Power of the Tongue and the Strong Tower"
+        - chapter: 19
+          bkv_title: "Integrity, Discernment, and Discipline in the Home"
+        - chapter: 20
+          bkv_title: "The Unwatched Life Stumbles into Deception"
+        - chapter: 21
+          bkv_title: "The King’s Heart Is in the Hand of the Lord"
+        - chapter: 22
+          bkv_title: "A Good Name Is Rather to Be Chosen Than Great Riches"
+        - chapter: 23
+          bkv_title: "Restraining Appetite and Applying the Mind to Truth"
+        - chapter: 24
+          bkv_title: "Through Wisdom a House Is Built"
+        - chapter: 25
+          bkv_title: "It Is the Glory of God to Conceal a Matter"
+        - chapter: 26
+          bkv_title: "The Portrayal of the Fool, the Sluggard, and the Meddler"
+        - chapter: 27
+          bkv_title: "Boast Not of Tomorrow: Iron Sharpeneth Iron"
+        - chapter: 28
+          bkv_title: "The Boldness of Righteousness and the Trap of Cover-Up"
+        - chapter: 29
+          bkv_title: "Where There Is No Vision, the People Perish"
+        - chapter: 30
+          bkv_title: "The Words of Agur: Humility and Creation’s Marvels"
+        - chapter: 31
+          bkv_title: "The Virtuous Life: Noble Strength and Practical Wisdom"
+
+    - title: "Ecclesiastes"
+      subtitle: "The Book of Examination: The Vanity of Earthly Pursuits Apart from God"
+      chapters:
+        - chapter: 1
+          bkv_title: "All Is Vanity: The Endless Cycles Under the Sun"
+        - chapter: 2
+          bkv_title: "Pleasure, Possessions, and Labor Tested Without Satisfaction"
+        - chapter: 3
+          bkv_title: "To Everything There Is a Season and a Time"
+        - chapter: 4
+          bkv_title: "Oppression, Envy, and the Value of Companionship"
+        - chapter: 5
+          bkv_title: "Guard Your Steps When Going to the House of God"
+        - chapter: 6
+          bkv_title: "Wealth Without the Capacity to Enjoy Is Vanity"
+        - chapter: 7
+          bkv_title: "Wisdom for Adversity and the Search for Rectitude"
+        - chapter: 8
+          bkv_title: "Obeying Authority and the Mystery of Injustice"
+        - chapter: 9
+          bkv_title: "One Event Comes to All: Live Purposefully Today"
+        - chapter: 10
+          bkv_title: "A Little Folly Spoils Wisdom’s Reputation"
+        - chapter: 11
+          bkv_title: "Cast Your Bread Upon the Waters: Action Before the Unknown"
+        - chapter: 12
+          bkv_title: "Remember Your Creator in the Days of Your Youth"
+
+    - title: "Song of Solomon"
+      subtitle: "The Book of Divine Love: The Communion of the Soul with the Beloved"
+      chapters:
+        - chapter: 1
+          bkv_title: "The Soul’s Longing for the Beloved’s Presence"
+        - chapter: 2
+          bkv_title: "The Rose of Sharon and the Voice of the Beloved"
+        - chapter: 3
+          bkv_title: "The Night Search and the Glorious Arrival"
+        - chapter: 4
+          bkv_title: "The Beauty of the Beloved and the Garden Sealed"
+        - chapter: 5
+          bkv_title: "The Slumbering Heart, the Search, and the Beloved’s Praise"
+        - chapter: 6
+          bkv_title: "Reunited in Love and the Beauty of the Choice One"
+        - chapter: 7
+          bkv_title: "The Delights of Communion and Maturing Love"
+        - chapter: 8
+          bkv_title: "Love Is Strong as Death: The Unquenchable Flame"  - number: 4
+  name: "Prophets"
+  summary: "The Prophetic Vision, Structural Correction, and Spiritual Realignment"
+  subsections:
+    - name: "Major Prophets"
+      summary: "The Prophetic Vision and Structural Correction"
+      books:
+        - title: "Isaiah"
+          subtitle: "The Book of Vision: The Holy One of Israel and the Suffering Servant"
+          chapters:
+            - chapter: 1
+              bkv_title: "The Rebellion of the Mind and the Call to Reason"
+            - chapter: 2
+              bkv_title: "The Mountain of the Lord Raised Above Human Pride"
+            - chapter: 3
+              bkv_title: "The Collapse of False Supports and Self-Indulgent Glory"
+            - chapter: 4
+              bkv_title: "The Branch of the Lord and the Cleansing Presence"
+            - chapter: 5
+              bkv_title: "The Unfruitful Vineyard and the Woes of Misaligned Desire"
+            - chapter: 6
+              bkv_title: "The Throne Room Vision and the Purifying Live Coal"
+            - chapter: 7
+              bkv_title: "The Sign of Immanuel Given to Unbelieving Fear"
+            - chapter: 8
+              bkv_title: "The Sanctuary of Faith Versus the Fear of the Nations"
+            - chapter: 9
+              bkv_title: "The Light Dawned and the Prince of Peace Foretold"
+            - chapter: 10
+              bkv_title: "The Rod of Anger Broken for Its Arrogance"
+            - chapter: 11
+              bkv_title: "The Stem of Jesse and the Peaceful Kingdom"
+            - chapter: 12
+              bkv_title: "The Song of Deliverance at the Springs of Salvation"
+            - chapter: 13
+              bkv_title: "The Fall of Babylon and the Judgment on Pride"
+            - chapter: 14
+              bkv_title: "The Ruin of the Oppressor and the Triumph of Zion"
+            - chapter: 15
+              bkv_title: "The Burden of Moab and the Lament Over Pride"
+            - chapter: 16
+              bkv_title: "The Fleeting Refuge and the Established Throne of Mercy"
+            - chapter: 17
+              bkv_title: "The Fading Power of Damascus and the Return to the Maker"
+            - chapter: 18
+              bkv_title: "The Signal Raised to the Distant Nations"
+            - chapter: 19
+              bkv_title: "The Confusion of Egypt and the Future Highway of Blessing"
+            - chapter: 20
+              bkv_title: "The Bare Sign Against Reliance on External Powers"
+            - chapter: 21
+              bkv_title: "The Night Watchman Proclaims the Fall of False Orders"
+            - chapter: 22
+              bkv_title: "The Valley of Vision and the Peg Fastened in a Sure Place"
+            - chapter: 23
+              bkv_title: "The Silencing of Tyre’s Commercial Pride"
+            - chapter: 24
+              bkv_title: "The Earth Shaken and Empty Under Judgment"
+            - chapter: 25
+              bkv_title: "The Feast on the Mountain and the Destruction of Death"
+            - chapter: 26
+              bkv_title: "Perfect Peace for the Mind Stayed on God"
+            - chapter: 27
+              bkv_title: "The Vineyard Kept and Leviathan Punished"
+            - chapter: 28
+              bkv_title: "The Drunkards of Ephraim and the Precious Corner Stone"
+            - chapter: 29
+              bkv_title: "Formality Exposed and the Book Unsealed to the Humble"
+            - chapter: 30
+              bkv_title: "In Quietness and Confidence Shall Be Your Strength"
+            - chapter: 31
+              bkv_title: "Woe to Those Who Go Down to Egypt for Help"
+            - chapter: 32
+              bkv_title: "A King Reining in Righteousness and the Pouring Out of the Spirit"
+            - chapter: 33
+              bkv_title: "The Lord Is Our Judge, Lawgiver, and King"
+            - chapter: 34
+              bkv_title: "Judgment Upon the Edomite Spirit of Hostility"
+            - chapter: 35
+              bkv_title: "The Desert Blooms and the Highway of Holiness Opened"
+            - chapter: 36
+              bkv_title: "Rabshakeh's Taunts Challenge the Faith of Zion"
+            - chapter: 37
+              bkv_title: "Hezekiah’s Prayer and the Destruction of Assyria"
+            - chapter: 38
+              bkv_title: "Sickness Healed and Years Added to Life"
+            - chapter: 39
+              bkv_title: "The Treasures Displayed to Babylon and Exile Foretold"
+            - chapter: 40
+              bkv_title: "Comfort My People: The Voice Crying in the Wilderness"
+            - chapter: 41
+              bkv_title: "Fear Not, I Am with You: The Idols Challenged"
+            - chapter: 42
+              bkv_title: "The Chosen Servant and the Light to the Gentiles"
+            - chapter: 43
+              bkv_title: "Redeemed and Called by Name: A New Thing Done"
+            - chapter: 44
+              bkv_title: "The Folly of Idolatry and the Anointing of Cyrus"
+            - chapter: 45
+              bkv_title: "The Sovereign God Shapes Darkness and Light"
+            - chapter: 46
+              bkv_title: "Idols Carried as Burdens Versus God Who Carries His Own"
+            - chapter: 47
+              bkv_title: "The Humiliation of Babylon’s Sorceries and Pride"
+            - chapter: 48
+              bkv_title: "Refined in the Furnace of Affliction: Come Out of Babylon"
+            - chapter: 49
+              bkv_title: "The Servant Called from the Womb to Restore Israel and Nations"
+            - chapter: 50
+              bkv_title: "The Obedient Servant Who Gives His Back to the Smiters"
+            - chapter: 51
+              bkv_title: "Look to the Rock Whence You Were Hewn"
+            - chapter: 52
+              bkv_title: "Awake, Put On Your Strength, O Zion"
+            - chapter: 53
+              bkv_title: "The Suffering Servant Wounded for Our Transgressions"
+            - chapter: 54
+              bkv_title: "Enlarge the Place of Your Tent: The Unshakable Covenant"
+            - chapter: 55
+              bkv_title: "Ho, Everyone Who Thirsts: The Word That Yields Its Fruit"
+            - chapter: 56
+              bkv_title: "A House of Prayer for All Peoples"
+            - chapter: 57
+              bkv_title: "Healing for the Contrite Heart, No Peace for the Wicked"
+            - chapter: 58
+              bkv_title: "The True Fast That Loosens Heavy Burdens"
+            - chapter: 59
+              bkv_title: "Iniquity Separates, but the Redeemer Comes to Zion"
+            - chapter: 60
+              bkv_title: "Arise, Shine, for Your Light Is Come"
+            - chapter: 61
+              bkv_title: "The Spirit of the Lord God Is Upon Me"
+            - chapter: 62
+              bkv_title: "A New Name Given and Watchmen Placed on the Walls"
+            - chapter: 63
+              bkv_title: "The Treader of the Winepress and the Remembrance of Mercy"
+            - chapter: 64
+              bkv_title: "Oh That You Would Rend the Heavens: We Are the Clay"
+            - chapter: 65
+              bkv_title: "The New Heavens and New Earth Promised"
+            - chapter: 66
+              bkv_title: "The Lord Looks to the Poor and Contrite Spirit"
+
+        - title: "Jeremiah"
+          subtitle: "The Book of Warning: The Shattered Vessel and the Internal Law"
+          chapters:
+            - chapter: 1
+              bkv_title: "Called Before Formation to Uproot and to Build"
+            - chapter: 2
+              bkv_title: "Forsaking the Fountain of Living Waters for Broken Cisterns"
+            - chapter: 3
+              bkv_title: "Faithless Israel and Treacherous Judah Called to Return"
+            - chapter: 4
+              bkv_title: "Break Up Your Fallow Ground: Circumcise the Heart"
+            - chapter: 5
+              bkv_title: "Searching for One Just Person in a Corrupted City"
+            - chapter: 6
+              bkv_title: "Standing in the Old Paths: Refusing the Peace Warning"
+            - chapter: 7
+              bkv_title: "The Temple Discourse: Presumption Exposed"
+            - chapter: 8
+              bkv_title: "The Harvest Is Past and the Balm in Gilead Sought"
+            - chapter: 9
+              bkv_title: "Let Not the Wise Man Glory in His Wisdom"
+            - chapter: 10
+              bkv_title: "The Custom of the Idols Versus the Living God"
+            - chapter: 11
+              bkv_title: "The Broken Covenant and Plots Against the Prophetic Voice"
+            - chapter: 12
+              bkv_title: "Pleading the Cause and Running with the Footmen"
+            - chapter: 13
+              bkv_title: "The Ruined Linen Belt and the Can the Ethiopian Change His Skin"
+            - chapter: 14
+              bkv_title: "The Great Drought and Pleading for the Depraved Land"
+            - chapter: 15
+              bkv_title: "Standing Approved in Solitude: Thy Words Were Found and Eaten"
+            - chapter: 16
+              bkv_title: "The Solitary Sign and the Returning Hunters and Fishermen"
+            - chapter: 17
+              bkv_title: "The Heart Is Deceitful Above All Things"
+            - chapter: 18
+              bkv_title: "The Potter's Clay Reshaped by the Master Hand"
+            - chapter: 19
+              bkv_title: "The Shattered Jar in the Valley of Hinnom"
+            - chapter: 20
+              bkv_title: "Pashhur's Stocks and the Burning Fire Shut Up in the Bones"
+            - chapter: 21
+              bkv_title: "The Way of Life and the Way of Death Set Before Zedekiah"
+            - chapter: 22
+              bkv_title: "Judgment on Unrighteous Kings and Coniah Written Childless"
+            - chapter: 23
+              bkv_title: "False Shepherds Condemned and the Righteous Branch Promised"
+            - chapter: 24
+              bkv_title: "The Vision of the Good and Bad Figs"
+            - chapter: 25
+              bkv_title: "Seventy Years of Exile and the Cup of Wrath to Nations"
+            - chapter: 26
+              bkv_title: "Jeremiah Tried for His Life and Saved by Precedent"
+            - chapter: 27
+              bkv_title: "The Wooden Yokes of Submission to Nebuchadnezzar"
+            - chapter: 28
+              bkv_title: "Hananiah’s False Prophecy Broken by the Iron Yoke"
+            - chapter: 29
+              bkv_title: "The Letter to Exiles: Build Houses and Seek Peace"
+            - chapter: 30
+              bkv_title: "The Book of Consolation: Jacob’s Trouble and Restoration"
+            - chapter: 31
+              bkv_title: "The New Covenant Written Upon the Heart"
+            - chapter: 32
+              bkv_title: "Buying a Field in Anathoth as a Promise of Return"
+            - chapter: 33
+              bkv_title: "Call Unto Me and I Will Answer Thee: Unshakable Davidic Promise"
+            - chapter: 34
+              bkv_title: "The Broken Vow Regarding Freed Servants Brought Judgment"
+            - chapter: 35
+              bkv_title: "The Faithful Example of the Rechabites"
+            - chapter: 36
+              bkv_title: "King Jehoiakim Burns the Prophetic Scroll"
+            - chapter: 37
+              bkv_title: "Jeremiah Arrested as a Deserter and Cast Into Prison"
+            - chapter: 38
+              bkv_title: "Rescued from the Cistern Mud by Ebed-Melech"
+            - chapter: 39
+              bkv_title: "The Fall of Jerusalem and Jeremiah Released"
+            - chapter: 40
+              bkv_title: "Gedaliah Appointed Governor and the Remnant Gathers"
+            - chapter: 41
+              bkv_title: "Gedaliah Assassinated and Panic Seizes the Remnant"
+            - chapter: 42
+              bkv_title: "The Remnant Asks for Counsel and Ignores the Warning"
+            - chapter: 43
+              bkv_title: "The Flight to Egypt and Prophecy of Nebuchadnezzar’s Reach"
+            - chapter: 44
+              bkv_title: "Persistent Idolatry in Egypt and Defiance Exposed"
+            - chapter: 45
+              bkv_title: "A Message to Baruch: Seek Not Great Things for Yourself"
+            - chapter: 46
+              bkv_title: "Judgment Upon Egypt at Carchemish"
+            - chapter: 47
+              bkv_title: "Judgment Upon the Philistines and the Coastal Powers"
+            - chapter: 48
+              bkv_title: "Judgment Upon Moab's Ease and Pride"
+            - chapter: 49
+              bkv_title: "Judgment Upon Ammon, Edom, Damascus, Kedar, and Elam"
+            - chapter: 50
+              bkv_title: "Babylon's Ruin and Israel’s Everlasting Return"
+            - chapter: 51
+              bkv_title: "The Final Utter Destruction of Babylon Cast Into the Euphrates"
+            - chapter: 52
+              bkv_title: "Historical Postscript: The Fall of Jerusalem and Evil-Merodach's Favor"
+
+        - title: "Lamentations"
+          subtitle: "The Book of Sorrow: Mourning the Ruin and Rebuilding Hope"
+          chapters:
+            - chapter: 1
+              bkv_title: "How Lonely Sits the City Once Full of People"
+            - chapter: 2
+              bkv_title: "The Lord Has Clouded Zion in His Anger"
+            - chapter: 3
+              bkv_title: "Great Is Your Faithfulness: New Mercies Every Morning"
+            - chapter: 4
+              bkv_title: "The Gold Has Grown Dim and the Precious Stones Scattered"
+            - chapter: 5
+              bkv_title: "Restore Us to Yourself, O Lord, and We Shall Be Restored"
+
+        - title: "Ezekiel"
+          subtitle: "The Book of Glory: The Vision of Living Structures and the Departure of the Presence"
+          chapters:
+            - chapter: 1
+              bkv_title: "The Vision of the Wheels, Living Creatures, and Heavenly Throne"
+            - chapter: 2
+              bkv_title: "The Prophet Commissioned and Given the Scroll to Eat"
+            - chapter: 3
+              bkv_title: "Made a Watchman to Warn the House of Israel"
+            - chapter: 4
+              bkv_title: "The Encircled Brick and the Symbolic Siege of Jerusalem"
+            - chapter: 5
+              bkv_title: "The Prophet's Hair Divided and Judgment Pronounced"
+            - chapter: 6
+              bkv_title: "Prophecy Against the Mountains and High Places of Idolatry"
+            - chapter: 7
+              bkv_title: "The End Has Come Upon the Land"
+            - chapter: 8
+              bkv_title: "The Secret Abominations Revealed Inside the Temple Chambers"
+            - chapter: 9
+              bkv_title: "The Mark Placed on the Foreheads of the Mourners"
+            - chapter: 10
+              bkv_title: "Coals of Fire Taken from the Cherubim over the City"
+            - chapter: 11
+              bkv_title: "The Glory of God Leaves the Temple Threshold"
+            - chapter: 12
+              bkv_title: "Packing the Exile's Baggage: Prophecy Executed Without Delay"
+            - chapter: 13
+              bkv_title: "Woe to the False Prophets Who Plaster Unseasoned Walls"
+            - chapter: 14
+              bkv_title: "Idols Set Up in the Heart: Noah, Daniel, and Job Cannot Save It"
+            - chapter: 15
+              bkv_title: "The Unfruitful Vine Useful Only for the Fire"
+            - chapter: 16
+              bkv_title: "The Abandoned Outcast Loved, Adorned, and Playing the Harlot"
+            - chapter: 17
+              bkv_title: "The Parable of Two Eagles, the Vine, and the Highest Branch"
+            - chapter: 18
+              bkv_title: "The Soul Who Sins Shall Die: Individual Responsibility"
+            - chapter: 19
+              bkv_title: "A Lament for the Princes of Israel and the Uprooted Vine"
+            - chapter: 20
+              bkv_title: "Rebellious History Remembered and Purified in the Wilderness"
+            - chapter: 21
+              bkv_title: "The Drawn Sword Bared for Execution"
+            - chapter: 22
+              bkv_title: "The Bloody City Examined: Seeking a Man to Stand in the Gap"
+            - chapter: 23
+              bkv_title: "Oholah and Oholibah: The Unfaithful Sisters"
+            - chapter: 24
+              bkv_title: "The Boiling Pot and the Death of Ezekiel's Wife"
+            - chapter: 25
+              bkv_title: "Judgment Pronounced on Ammon, Moab, Edom, and Philistia"
+            - chapter: 26
+              bkv_title: "The Destruction and Scraping of Tyre Foretold"
+            - chapter: 27
+              bkv_title: "The Lament Over the Sunken Trading Ship of Tyre"
+            - chapter: 28
+              bkv_title: "The Fall of the Prince of Tyre and the Covering Cherub"
+            - chapter: 29
+              bkv_title: "The Pride of the Egyptian Dragon Brought Low"
+            - chapter: 30
+              bkv_title: "The Day of the Lord Against Egypt and Her Allies"
+            - chapter: 31
+              bkv_title: "The Great Cedar Fallen into the Nether World"
+            - chapter: 32
+              bkv_title: "A Lamentation Over Pharaoh Laid Among the Uncircumcised"
+            - chapter: 33
+              bkv_title: "The Watchman Re-Commissioned as Jerusalem Falls"
+            - chapter: 34
+              bkv_title: "Self-Feeding Shepherds Replaced by the Good Shepherd"
+            - chapter: 35
+              bkv_title: "Judgment on Mount Seir for Enduring Enmity"
+            - chapter: 36
+              bkv_title: "A New Heart and Spirit Replaces the Heart of Stone"
+            - chapter: 37
+              bkv_title: "The Valley of Dry Bones Raised and the Two Sticks Joined"
+            - chapter: 38
+              bkv_title: "The Gathering of Gog and Magog Against the Restored Land"
+            - chapter: 39
+              bkv_title: "The Defeat of Gog and the Pouring Out of the Spirit"
+            - chapter: 40
+              bkv_title: "The Measuring of the New Temple Structures Begins"
+            - chapter: 41
+              bkv_title: "The Dimensions of the Holy Place and Inner Sanctuary"
+            - chapter: 42
+              bkv_title: "The Holy Chambers and Outer Boundaries Measured"
+            - chapter: 43
+              bkv_title: "The Glory of the Lord Returns to Fill the House"
+            - chapter: 44
+              bkv_title: "The Closed Gate and Priestly Qualifications Established"
+            - chapter: 45
+              bkv_title: "The Sacred Allotment of Land and Just Measures"
+            - chapter: 46
+              bkv_title: "The Prince's Offerings and Rules for Temple Entry"
+            - chapter: 47
+              bkv_title: "The Life-Giving River Flows from the Temple Threshold"
+            - chapter: 48
+              bkv_title: "The Tribal Portions Assigned and The Lord Is There"
+
+        - title: "Daniel"
+          subtitle: "The Book of Destiny: The Sovereignty of God Over Kings and Kingdoms"
+          chapters:
+            - chapter: 1
+              bkv_title: "Faithfulness in Babylon: The Test of the Royal Food"
+            - chapter: 2
+              bkv_title: "The Dream of the Great Image and the Everlasting Stone"
+            - chapter: 3
+              bkv_title: "Unshakable Faith in the Fiery Furnace"
+            - chapter: 4
+              bkv_title: "Nebuchadnezzar's Tree Vision and Humiliation in Madness"
+            - chapter: 5
+              bkv_title: "The Writing on the Wall at Belshazzar's Feast"
+            - chapter: 6
+              bkv_title: "Daniel Delivered from the Lions’ Den"
+            - chapter: 7
+              bkv_title: "The Four Great Beasts and the Ancient of Days"
+            - chapter: 8
+              bkv_title: "The Vision of the Ram, the Goat, and the Little Horn"
+            - chapter: 9
+              bkv_title: "Daniel's Prayer of Repentance and the Seventy Weeks"
+            - chapter: 10
+              bkv_title: "The Heavenly Messenger and Spiritual Conflict"
+            - chapter: 11
+              bkv_title: "The Prophetic Kings of North and South"
+            - chapter: 12
+              bkv_title: "The Time of the End, Resurrection, and the Sealed Scroll"
+
+    - name: "Minor Prophets"
+      summary: "The Twelve Voices of Spiritual Realignment"
+      books:
+        - title: "Hosea"
+          subtitle: "The Book of Unfailing Love: Redeeming the Unfaithful Consciousness"
+          chapters:
+            - chapter: 1
+              bkv_title: "The Unfaithful Marriage as a Picture of Broken Faith"
+            - chapter: 2
+              bkv_title: "Stripped of False Loves and Allured Back to the Wilderness"
+            - chapter: 3
+              bkv_title: "Love Restores and Redeems the Fallen Soul"
+            - chapter: 4
+              bkv_title: "No Knowledge of God in the Land: Priest and People Stumble"
+            - chapter: 5
+              bkv_title: "Judgment Declared Upon Unspiritual Leadership"
+            - chapter: 6
+              bkv_title: "Come, Let Us Return: Loyalty Over Mere Sacrifice"
+            - chapter: 7
+              bkv_title: "The Half-Baked Cake and Unturned Heart"
+            - chapter: 8
+              bkv_title: "Sowing the Wind and Reaping the Whirlwind"
+            - chapter: 9
+              bkv_title: "The Days of Punishment and the Loss of Joy"
+            - chapter: 10
+              bkv_title: "An Empty Vine: Sow for Yourselves Righteousness"
+            - chapter: 11
+              bkv_title: "Out of Egypt I Called My Son: Compassion Stirred"
+            - chapter: 12
+              bkv_title: "Jacob Wrestled and Returned: Turn Back to Your God"
+            - chapter: 13
+              bkv_title: "Self-Destruction in Pride and the Promise of Ransom"
+            - chapter: 14
+              bkv_title: "Healed from Backsliding and Blooming Like the Lily"
+
+        - title: "Joel"
+          subtitle: "The Book of Awakening: The Day of the Lord and the Outpouring Spirit"
+          chapters:
+            - chapter: 1
+              bkv_title: "The Devastating Swarm Awakens the Stupor of the Land"
+            - chapter: 2
+              bkv_title: "Rend Your Heart: The Spirit Poured Out Upon All Flesh"
+            - chapter: 3
+              bkv_title: "The Multitudes in the Valley of Decision"
+
+        - title: "Amos"
+          subtitle: "The Book of Justice: Righteousness Flowing Like an Ever-Living Stream"
+          chapters:
+            - chapter: 1
+              bkv_title: "Judgment Surrounds the Bordering Powers"
+            - chapter: 2
+              bkv_title: "The Transgressions of Judah and Israel Laid Bare"
+            - chapter: 3
+              bkv_title: "Can Two Walk Together Unless They Are Agreed?"
+            - chapter: 4
+              bkv_title: "Prepare to Meet Your God: Failure to Heed Warning"
+            - chapter: 5
+              bkv_title: "Let Justice Roll Down Like Waters"
+            - chapter: 6
+              bkv_title: "Woe to Those Who Are at Ease in Zion"
+            - chapter: 7
+              bkv_title: "Visions of Plumb Lines and Prophetic Confrontation"
+            - chapter: 8
+              bkv_title: "The Basket of Summer Fruit and Famine of the Word"
+            - chapter: 9
+              bkv_title: "The Unavoidable Judgment and the Fallen Tabernacle Raised"
+
+        - title: "Obadiah"
+          subtitle: "The Book of Vindication: Overcoming the Pride of Edom"
+          chapters:
+            - chapter: 1
+              bkv_title: "The Pride of the Rock-Dwellers Brought Low and Mount Zion Possessed"
+
+        - title: "Jonah"
+          subtitle: "The Book of Mission: The Resisting Prophet and Boundless Mercy"
+          chapters:
+            - chapter: 1
+              bkv_title: "Fleeing from the Presence into the Depths"
+            - chapter: 2
+              bkv_title: "The Prayer from the Belly of Sheol"
+            - chapter: 3
+              bkv_title: "The Second Call and Nineveh’s Repentance"
+            - chapter: 4
+              bkv_title: "Resentful Anger Rebuked by the Plant and Mercy"
+
+        - title: "Micah"
+          subtitle: "The Book of Alignment: What the Lord Requires of Man"
+          chapters:
+            - chapter: 1
+              bkv_title: "The Lord Comes Forth: Lament for Samaria and Judah"
+            - chapter: 2
+              bkv_title: "Woe to Scheme-Makers; The Breaker Goes Up Before Them"
+            - chapter: 3
+              bkv_title: "Oppressive Leaders Rebuked and Prophetic Integrity Affirmed"
+            - chapter: 4
+              bkv_title: "Swords Beat into Plowshares in the Latter Days"
+            - chapter: 5
+              bkv_title: "Out of Bethlehem Comes the Ancient Ruler"
+            - chapter: 6
+              bkv_title: "Do Justly, Love Mercy, and Walk Humbly"
+            - chapter: 7
+              bkv_title: "Looking to the Lord Who Pardons Iniquity and Casts Sins Away"
+
+        - title: "Nahum"
+          subtitle: "The Book of Execution: The Fall of the Violent City"
+          chapters:
+            - chapter: 1
+              bkv_title: "The Jealous God: A Stronghold in the Day of Trouble"
+            - chapter: 2
+              bkv_title: "The Shielded Mighty Men and Nineveh Shattered"
+            - chapter: 3
+              bkv_title: "Woe to the Bloody City: Unclean Power Undone"
+
+        - title: "Habakkuk"
+          subtitle: "The Book of Faith: The Just Shall Live by His Faith"
+          chapters:
+            - chapter: 1
+              bkv_title: "The Prophet Questions Injustice and the Chaldean Scourge"
+            - chapter: 2
+              bkv_title: "Standing Watch on the Rampart: The Just Shall Live by Faith"
+            - chapter: 3
+              bkv_title: "The Prayer of Shigionoth: Rejoicing in God in Every Circumstance"
+
+        - title: "Zephaniah"
+          subtitle: "The Book of Refining: The Burning Day and the Restored Remnant"
+          chapters:
+            - chapter: 1
+              bkv_title: "The Great Day of the Lord Sweeps Away Complacency"
+            - chapter: 2
+              bkv_title: "Seek Righteousness Before the Day of Wrath"
+            - chapter: 3
+              bkv_title: "The Lord Sings Over the Humble and Afflicted Remnant"
+
+        - title: "Haggai"
+          subtitle: "The Book of Priorities: Rebuilding the House of Presence"
+          chapters:
+            - chapter: 1
+              bkv_title: "Consider Your Ways: Build the House First"
+            - chapter: 2
+              bkv_title: "The Desire of All Nations Comes and the Latter Glory Greater"
+
+        - title: "Zechariah"
+          subtitle: "The Book of Visionary Restoration: The Branch and the Pierced One"
+          chapters:
+            - chapter: 1
+              bkv_title: "Visions of Horsemen and Horns: Comfort for Zion"
+            - chapter: 2
+              bkv_title: "The Measuring Line and the Wall of Fire Around Her"
+            - chapter: 3
+              bkv_title: "Filthy Garments Removed from the High Priest"
+            - chapter: 4
+              bkv_title: "Not by Might, nor by Power, but by My Spirit"
+            - chapter: 5
+              bkv_title: "The Flying Scroll and Wickedness Removed in a Basket"
+            - chapter: 6
+              bkv_title: "The Four Chariots and the Crowning of the Branch"
+            - chapter: 7
+              bkv_title: "True Fasting Requires Justice and Mercy"
+            - chapter: 8
+              bkv_title: "Jealous for Zion: City of Truth Restored"
+            - chapter: 9
+              bkv_title: "The Humble King Riding on a Colt"
+            - chapter: 10
+              bkv_title: "Rain in the Time of the Latter Rain: The Flock Gathered"
+            - chapter: 11
+              bkv_title: "The Broken Staves and Thirty Pieces of Silver"
+            - chapter: 12
+              bkv_title: "Looking on Him Whom They Have Pierced"
+            - chapter: 13
+              bkv_title: "The Fountain Opened and the Shepherd Smitten"
+            - chapter: 14
+              bkv_title: "The Feet Stand on Mount Olivet: Holy Unto the Lord"
+
+        - title: "Malachi"
+          subtitle: "The Book of Remembrance: The Sun of Righteousness and Final Realignment"
+          chapters:
+            - chapter: 1
+              bkv_title: "Love Affirmed, Polluted Offerings Rebuked"
+            - chapter: 2
+              bkv_title: "Priestly Covenant Corrupted and Unfaithfulness Exposed"
+            - chapter: 3
+              bkv_title: "The Messenger Prepares the Way: The Refiner’s Fire"
+            - chapter: 4
+              bkv_title: "The Sun of Righteousness Arises and Elijah Sent First"  - number: 5
+  name: "Gospels 5 Acts"
+  summary: "The Manifestation of the Living Word and Spirit"
+  books:
+    - title: "Matthew"
+      subtitle: "The Book of the Kingdom: The Manifested King and the Promised Law Fulfilled"
+      chapters:
+        - chapter: 1
+          bkv_title: "The Genealogy of Promise and the Virgin Conception"
+        - chapter: 2
+          bkv_title: "The Seeking Magi, the Tyrant's Rage, and the Flight to Egypt"
+        - chapter: 3
+          bkv_title: "The Voice in the Wilderness and the Baptism of Fire"
+        - chapter: 4
+          bkv_title: "The Wilderness Temptation and the Call of the First Disciples"
+        - chapter: 5
+          bkv_title: "The Sermon on the Mount: The Internal Law Revealed"
+        - chapter: 6
+          bkv_title: "Secret Devotion, the Pattern Prayer, and Undivided Trust"
+        - chapter: 7
+          bkv_title: "Discernment, the Narrow Gate, and the Foundation on the Rock"
+        - chapter: 8
+          bkv_title: "Authority Over Sickness, Storms, and Unclean Powers"
+        - chapter: 9
+          bkv_title: "Forgiveness Spoken, the Harvest Plentiful, and New Wine"
+        - chapter: 10
+          bkv_title: "The Twelve Commissioned and Sent Among Wolves"
+        - chapter: 11
+          bkv_title: "John’s Inquiry and the Easy Yoke for the Weary"
+        - chapter: 12
+          bkv_title: "Lord of the Sabbath and the Unpardonable Sin Exposed"
+        - chapter: 13
+          bkv_title: "The Parables of the Kingdom and the Hidden Treasure"
+        - chapter: 14
+          bkv_title: "The Martyrdom of John, Feeding Five Thousand, and Walking on Water"
+        - chapter: 15
+          bkv_title: "Heart Pollution, Faith of the Canaanite Woman, and Four Thousand Fed"
+        - chapter: 16
+          bkv_title: "The Great Confession, the Rock, and the Price of Discipleship"
+        - chapter: 17
+          bkv_title: "The Transfiguration, the Demonic Stronghold, and the Temple Tax"
+        - chapter: 18
+          bkv_title: "Childlike Humility, Offenses Removed, and Endless Forgiveness"
+        - chapter: 19
+          bkv_title: "The Sacredness of Union, Little Children, and the Rich Young Ruler"
+        - chapter: 20
+          bkv_title: "Laborers in the Vineyard and Servant Leadership"
+        - chapter: 21
+          bkv_title: "The Triumphal Entry, Cleansing the Temple, and the Withered Fig Tree"
+        - chapter: 22
+          bkv_title: "The Wedding Feast, Tribute to Caesar, and the Great Commandment"
+        - chapter: 23
+          bkv_title: "Religious Hypocrisy Rebuked and the Lament Over Jerusalem"
+        - chapter: 24
+          bkv_title: "The Olivet Discourse: Signs of the End and Watchfulness"
+        - chapter: 25
+          bkv_title: "The Ten Virgins, the Talents, and the Judgment of Nations"
+        - chapter: 26
+          bkv_title: "The Anointing, the Upper Room, Gethsemane, and Betrayal"
+        - chapter: 27
+          bkv_title: "The Trial, Crucifixion, Death, and Burial of the King"
+        - chapter: 28
+          bkv_title: "The Resurrection, Angelic Witness, and Great Commission"
+
+    - title: "Mark"
+      subtitle: "The Book of Action: The Servant Mind Moving in Power"
+      chapters:
+        - chapter: 1
+          bkv_title: "Immediate Obedience, Wilderness Victory, and Early Healings"
+        - chapter: 2
+          bkv_title: "The Paralytic Forgiven, the Bridegroom, and Sabbath Lordship"
+        - chapter: 3
+          bkv_title: "The Withered Hand Healed, the Twelve Chosen, and A House Divided"
+        - chapter: 4
+          bkv_title: "The Sower, the Growing Seed, and Stillness on the Sea"
+        - chapter: 5
+          bkv_title: "The Gadarene Demoniac Restored, Jairus’ Daughter, and Touch of Faith"
+        - chapter: 6
+          bkv_title: "Rejected at Nazareth, Mission of the Twelve, and Five Thousand Fed"
+        - chapter: 7
+          bkv_title: "Traditions of Men Exposed and Healing the Deaf-Mute"
+        - chapter: 8
+          bkv_title: "Four Thousand Fed, the Leaven Warned, and Taking Up the Cross"
+        - chapter: 9
+          bkv_title: "Glory Unveiled, All Things Possible to Faith, and Servant Greatness"
+        - chapter: 10
+          bkv_title: "Marriage Bounded, Wealth Surrendered, and Bartimaeus Restored"
+        - chapter: 11
+          bkv_title: "Entry into Jerusalem, Temple Cleansed, and Faith Moving Mountains"
+        - chapter: 12
+          bkv_title: "Wicked Vinedressers, Question of Authority, and Widow’s Mite"
+        - chapter: 13
+          bkv_title: "Signs of the Age and the Command to Watch"
+        - chapter: 14
+          bkv_title: "Anointed for Burial, the Passover institued, Gethsemane Anguish"
+        - chapter: 15
+          bkv_title: "Before Pilate, Mocked, Crucified, and Laid in the Tomb"
+        - chapter: 16
+          bkv_title: "The Empty Tomb, Unbelief Overcome, and Signs Following"
+
+    - title: "Luke"
+      subtitle: "The Book of Humanity Redeemed: The Son of Man Seeking and Saving"
+      chapters:
+        - chapter: 1
+          bkv_title: "Promised Births, the Annunciation, and the Magnificat"
+        - chapter: 2
+          bkv_title: "The Manger in Bethlehem, Angelic Praises, and Boyhood Wisdom"
+        - chapter: 3
+          bkv_title: "John’s Preaching, the Baptism, and Lineage of the Son of Man"
+        - chapter: 4
+          bkv_title: "Wilderness Victory, Nazareth Manifesto, and Early Authority"
+        - chapter: 5
+          bkv_title: "The Miraculous Catch, Leper Cleansed, and Call of Levi"
+        - chapter: 6
+          bkv_title: "Sabbath Healing, Twelve Apostles, and Beatitudes of Mercy"
+        - chapter: 7
+          bkv_title: "Centurion’s Faith, Widow’s Son Raised, and Sinner Forgiven"
+        - chapter: 8
+          bkv_title: "Women Who Ministered, Parable of Soils, and Storm Calmed"
+        - chapter: 9
+          bkv_title: "Twelve Sent, Mount Transfiguration, and Cost of Following"
+        - chapter: 10
+          bkv_title: "Seventy Sent, Good Samaritan, and Choice of Mary"
+        - chapter: 11
+          bkv_title: "Model Prayer, Persistent Request, and Eye as the Lamp"
+        - chapter: 12
+          bkv_title: "Hypocrisy Unmasked, Rich Fool Warning, and Readiness"
+        - chapter: 13
+          bkv_title: "Call to Repentance, Barren Fig Tree, and Strait Gate"
+        - chapter: 14
+          bkv_title: "Sabbath Dining, Great Banquet, and Counting the Cost"
+        - chapter: 15
+          bkv_title: "Lost Sheep, Lost Coin, and Restored Prodigal Son"
+        - chapter: 16
+          bkv_title: "Unjust Steward and The Rich Man and Lazarus"
+        - chapter: 17
+          bkv_title: "Unprofitable Servants, Ten Lepers Cleansed, and Coming Kingdom"
+        - chapter: 18
+          bkv_title: "Persistent Widow, Pharisee and Publican, and Blind Beggar"
+        - chapter: 19
+          bkv_title: "Zacchaeus Restored, Parable of Minas, and Jerusalem Wept Over"
+        - chapter: 20
+          bkv_title: "Authority Challenged, Cornerstone Revealed, and Resurrection Taught"
+        - chapter: 21
+          bkv_title: "Widow’s Offering, Destruction Foretold, and Redemption Drawing Near"
+        - chapter: 22
+          bkv_title: "Last Supper, Agony in Gethsemane, Betrayal, and Peter’s Denial"
+        - chapter: 23
+          bkv_title: "Trial Before Pilate and Herod, Golgotha, and Penitent Thief"
+        - chapter: 24
+          bkv_title: "The Road to Emmaus, Upper Room Revelation, and Ascension"
+
+    - title: "John"
+      subtitle: "The Book of Eternal Life: The Divine Mind Made Flesh"
+      chapters:
+        - chapter: 1
+          bkv_title: "The Word Made Flesh, Light in Darkness, and First Disciples"
+        - chapter: 2
+          bkv_title: "Water to Wine at Cana and Cleansing the Father's House"
+        - chapter: 3
+          bkv_title: "Born of the Spirit, Lifted Up Serpent, and Unmeasured Spirit"
+        - chapter: 4
+          bkv_title: "Living Water at Sychar's Well and Worship in Spirit and Truth"
+        - chapter: 5
+          bkv_title: "Pool of Bethesda, Equal with the Father, and Fourfold Witness"
+        - chapter: 6
+          bkv_title: "Bread of Life, Walking on Sea, and Words of Eternal Life"
+        - chapter: 7
+          bkv_title: "Living Water Promised at Feast of Tabernacles"
+        - chapter: 8
+          bkv_title: "Light of the World, Truth That Makes Free, and I AM"
+        - chapter: 9
+          bkv_title: "Man Born Blind Healed and Spiritual Sight Tested"
+        - chapter: 10
+          bkv_title: "The Good Shepherd, Door of the Sheep, and One with the Father"
+        - chapter: 11
+          bkv_title: "I Am the Resurrection and the Life: Raising of Lazarus"
+        - chapter: 12
+          bkv_title: "Anointed at Bethany, Triumphal Entry, and Grain of Wheat"
+        - chapter: 13
+          bkv_title: "Feet Washing Humility, Betrayer Revealed, and New Commandment"
+        - chapter: 14
+          bkv_title: "Way, Truth, and Life; Promise of the Comforter"
+        - chapter: 15
+          bkv_title: "The True Vine, Abiding in Love, and World Hatred"
+        - chapter: 16
+          bkv_title: "Work of the Holy Spirit and Sorrow Turned to Joy"
+        - chapter: 17
+          bkv_title: "High Priestly Prayer: Oneness with the Father and Son"
+        - chapter: 18
+          bkv_title: "Arrest in Gethsemane, Trial Before High Priest and Pilate"
+        - chapter: 19
+          bkv_title: "Crown of Thorns, Crucifixion, Finished Work, and Pierced Side"
+        - chapter: 20
+          bkv_title: "Empty Tomb, Appearance to Mary and Thomas, Purpose of Book"
+        - chapter: 21
+          bkv_title: "Miraculous Catch, Peter Restored, and Follow Me"
+
+    - title: "Acts"
+      subtitle: "The Book of Expansion: The Holy Spirit Outpoured and Established"
+      chapters:
+        - chapter: 1
+          bkv_title: "Ascension, Promise of Power, and Choice of Matthias"
+        - chapter: 2
+          bkv_title: "Pentecost Fire, Tongues of Flame, and First Believers"
+        - chapter: 3
+          bkv_title: "Lame Man Healed at Beautiful Gate and Peter’s Message"
+        - chapter: 4
+          bkv_title: "Arrest, Boldness in Prayer, and All Things Common"
+        - chapter: 5
+          bkv_title: "Ananias and Sapphira, Apostles Imprisoned and Delivered"
+        - chapter: 6
+          bkv_title: "Seven Deacons Chosen and Stephen’s Arrest"
+        - chapter: 7
+          bkv_title: "Stephen’s Historical Defense and First Christian Martyrdom"
+        - chapter: 8
+          bkv_title: "Persecution Scatters Church, Philip in Samaria, and Ethiopian Eunuch"
+        - chapter: 9
+          bkv_title: "Conversion of Saul on Damascus Road and Aeneas/Dorcas Healed"
+        - chapter: 10
+          bkv_title: "Cornelius’ Vision, Peter’s Sheet Vision, and Gentles Receive Spirit"
+        - chapter: 11
+          bkv_title: "Peter Defends Gentile Mission and Antioch Church Established"
+        - chapter: 12
+          bkv_title: "James Martyred, Peter Escapes Prison, and Herod’s Death"
+        - chapter: 13
+          bkv_title: "Saul and Barnabas Sent Out: First Missionary Journey Begins"
+        - chapter: 14
+          bkv_title: "Iconium, Lystra Stoning, and Establishing Elders in Churches"
+        - chapter: 15
+          bkv_title: "Jerusalem Council: Gentile Freedom from Law Confirmed"
+        - chapter: 16
+          bkv_title: "Timothy Joins, Macedonian Call, Philippian Jailer Saved"
+        - chapter: 17
+          bkv_title: "Thessalonica, Berean Nobility, and Areopagus Address in Athens"
+        - chapter: 18
+          bkv_title: "Corinth Ministry, Priscilla/Aquila, and Apollos Instructed"
+        - chapter: 19
+          bkv_title: "Ephesus Revival, Seven Sons of Sceva, and Riot of Silversmiths"
+        - chapter: 20
+          bkv_title: "Eutychus Raised and Farewell Charge to Ephesian Elders"
+        - chapter: 21
+          bkv_title: "Warning at Caesarea, Arrival in Jerusalem, and Arrest in Temple"
+        - chapter: 22
+          bkv_title: "Paul’s Defense Before Jerusalem Mob and Roman Citizenship Claimed"
+        - chapter: 23
+          bkv_title: "Sanhedrin Division, Plot Revealed, and Escort to Caesarea"
+        - chapter: 24
+          bkv_title: "Trial Before Felix and Paul Imprisoned Two Years"
+        - chapter: 25
+          bkv_title: "Appeal to Caesar Made Before Festus"
+        - chapter: 26
+          bkv_title: "Defense Before King Agrippa: Almost Persuaded"
+        - chapter: 27
+          bkv_title: "Voyage to Rome, Terrifying Shipwreck, and Malta Survival"
+        - chapter: 28
+          bkv_title: "Viper Bite Harmless, Ministry on Malta, and Two Years in Rome"  - number: 6
+  name: "Epistles"
+  summary: "The Application of the Living Word and Assembly Doctrine"
+  books:
+    - title: "Romans"
+      subtitle: "The Book of Realignment: Righteousness by Faith and the Reconstructed Life"
+      chapters:
+        - chapter: 1
+          bkv_title: "The Power of the Gospel and the Decline of the Natural Mind"
+        - chapter: 2
+          bkv_title: "The Impartiality of Judgment and Circumcision of the Heart"
+        - chapter: 3
+          bkv_title: "All Under Sin and Justification Provided Without the Law"
+        - chapter: 4
+          bkv_title: "Abraham’s Faith Counted for Righteousness Before Works"
+        - chapter: 5
+          bkv_title: "Peace Through Faith, Grace Abounding Over Adam’s Fall"
+        - chapter: 6
+          bkv_title: "Dead to Sin, Alive to God: Slaves of Righteousness"
+        - chapter: 7
+          bkv_title: "Freed from the Law's Bondage: The Internal Conflict Revealed"
+        - chapter: 8
+          bkv_title: "Life in the Spirit, Sonship, and Unshakable Eternal Love"
+        - chapter: 9
+          bkv_title: "Sovereign Purpose, Divine Choice, and the Remnant Saved"
+        - chapter: 10
+          bkv_title: "The Righteousness of Faith Cried Out and Proclaimed"
+        - chapter: 11
+          bkv_title: "The Wild Olive Grafted In and All Israel Saved"
+        - chapter: 12
+          bkv_title: "Living Sacrifices, Mind Renewed, and Spiritual Gifts"
+        - chapter: 13
+          bkv_title: "Submission to Authority and Putting On the Armor of Light"
+        - chapter: 14
+          bkv_title: "The Law of Liberty: Liberty Without Stumbling Others"
+        - chapter: 15
+          bkv_title: "Bearing the Infirmities of the Weak and Gentiles Praising God"
+        - chapter: 16
+          bkv_title: "Personal Greetings, Warning Against Divisions, and Final Doxology"
+
+    - title: "1 Corinthians"
+      subtitle: "The Book of Correction: Order, Gifts, and Unity in the Assembly"
+      chapters:
+        - chapter: 1
+          bkv_title: "Wisdom of God Versus Wisdom of the World"
+        - chapter: 2
+          bkv_title: "The Preached Cross and Deep Things Revealed by the Spirit"
+        - chapter: 3
+          bkv_title: "Carnal Mindsets Exposed: God Gives the Increase"
+        - chapter: 4
+          bkv_title: "Stewards of Mysteries and Spectacles to the World"
+        - chapter: 5
+          bkv_title: "Immorality Confronted and the Old Leaven Purged"
+        - chapter: 6
+          bkv_title: "Lawsuits Among Believers and Bodies as Temples of the Spirit"
+        - chapter: 7
+          bkv_title: "Principles of Marriage, Singleness, and Devotion"
+        - chapter: 8
+          bkv_title: "Knowledge Puffs Up, Love Builds Up: Food Offered to Idols"
+        - chapter: 9
+          bkv_title: "Apostolic Rights Surrendered for the Gospel’s Sake"
+        - chapter: 10
+          bkv_title: "Israel's Wilderness Warnings and Escaping Temptation"
+        - chapter: 11
+          bkv_title: "Divine Order, Headship, and the Lord’s Supper Observed"
+        - chapter: 12
+          bkv_title: "Spiritual Gifts Distributed as One Body Has Many Members"
+        - chapter: 13
+          bkv_title: "The Excellent Way: Love That Never Fails"
+        - chapter: 14
+          bkv_title: "Prophecy, Tongues, and Decent Order in Assembly Gatherings"
+        - chapter: 15
+          bkv_title: "The Resurrection Gospel, Defeat of Death, and Incorruptible Body"
+        - chapter: 16
+          bkv_title: "Collection for the Poor, Final Exhortations, and Grace Spoken"
+
+    - title: "2 Corinthians"
+      subtitle: "The Book of Authentic Ministry: Power Manifested Through Clay Vessels"
+      chapters:
+        - chapter: 1
+          bkv_title: "Comfort in Tribulation and God’s Promises Sealed in Yes"
+        - chapter: 2
+          bkv_title: "Forgiveness Restored and the Sweet Aroma of Christ"
+        - chapter: 3
+          bkv_title: "Ministers of the New Covenant Written Not with Ink"
+        - chapter: 4
+          bkv_title: "Treasure in Earthen Vessels and Eternal Glory Beyond Affliction"
+        - chapter: 5
+          bkv_title: "The Heavenly Dwelling, New Creation, and Ministry of Reconciliation"
+        - chapter: 6
+          bkv_title: "Commended Through Hardship and Separation from Unbelief"
+        - chapter: 7
+          bkv_title: "Cleansing from Defilement and Godly Sorrow That Brings Repentance"
+        - chapter: 8
+          bkv_title: "The Grace of Giving: Exemplified by the Poor Macedonians"
+        - chapter: 9
+          bkv_title: "Sowing Generously and the Cheerful Giver Blessed"
+        - chapter: 10
+          bkv_title: "Weapons Not Carnal: Pulling Down Strongholds"
+        - chapter: 11
+          bkv_title: "Jealousy for Pure Devotion and Apostolic Sufferings Listed"
+        - chapter: 12
+          bkv_title: "Caught Up to the Third Heaven and Grace Sufficient for the Thorn"
+        - chapter: 13
+          bkv_title: "Examine Yourselves Whether You Be in the Faith"
+
+    - title: "Galatians"
+      subtitle: "The Book of Liberty: Standing Fast in Freedom from Legal Bondage"
+      chapters:
+        - chapter: 1
+          bkv_title: "No Other Gospel: Apostolic Authority Uncompromised"
+        - chapter: 2
+          bkv_title: "Crucified with Christ: No Justification by the Law"
+        - chapter: 3
+          bkv_title: "Bewitched Galatians: Faith Before the Law"
+        - chapter: 4
+          bkv_title: "Sons and Heirs: The Parable of Hagar and Sarah"
+        - chapter: 5
+          bkv_title: "Stand Fast in Liberty: Fruit of the Spirit Versus Flesh"
+        - chapter: 6
+          bkv_title: "Bearing Burdens, Sowing to the Spirit, and New Creation Glory"
+
+    - title: "Ephesians"
+      subtitle: "The Book of Heavenly Places: The Mystery of the Body and Armor of God"
+      chapters:
+        - chapter: 1
+          bkv_title: "Chosen Before the Foundation of the World and Eyes Enlightened"
+        - chapter: 2
+          bkv_title: "Made Alive in Grace and the Middle Wall of Partition Broken"
+        - chapter: 3
+          bkv_title: "The Unsearchable Riches of Christ and Mystery Revealed"
+        - chapter: 4
+          bkv_title: "Unity of the Spirit, Ascension Gifts, and the New Man Put On"
+        - chapter: 5
+          bkv_title: "Walk as Children of Light: Sacred Pattern of Husband and Wife"
+        - chapter: 6
+          bkv_title: "Parent and Child Relationships and Putting On the Whole Armor of God"
+
+    - title: "Philippians"
+      subtitle: "The Book of Joy: The Mind of Christ and Unshakable Rejoicing"
+      chapters:
+        - chapter: 1
+          bkv_title: "To Live Is Christ, to Die Is Gain"
+        - chapter: 2
+          bkv_title: "The Self-Emptying Mind of Christ and Shining as Lights"
+        - chapter: 3
+          bkv_title: "Counting All Loss for the Excellency of Knowing Him"
+        - chapter: 4
+          bkv_title: "Rejoice Always, Peace That Surpasses Understanding, and Secret of Contentment"
+
+    - title: "Colossians"
+      subtitle: "The Book of Preeminence: The Fullness of the Godhead Expressed"
+      chapters:
+        - chapter: 1
+          bkv_title: "The Preeminent Creator, Head of the Body, and Hope of Glory"
+        - chapter: 2
+          bkv_title: "Complete in Him: Shadow Versus the Substance"
+        - chapter: 3
+          bkv_title: "Set Your Affection Above: Putting Off the Old, Putting On Christ"
+        - chapter: 4
+          bkv_title: "Prayer and Speech Seasoned with Salt"
+
+    - title: "1 Thessalonians"
+      subtitle: "The Book of Hope: Walking Worthily and the Blessed Hope"
+      chapters:
+        - chapter: 1
+          bkv_title: "Work of Faith, Labor of Love, and Waiting for His Son"
+        - chapter: 2
+          bkv_title: "Gentle Ministry Like a Nursing Mother"
+        - chapter: 3
+          bkv_title: "Established in Tribulation and Abounding in Love"
+        - chapter: 4
+          bkv_title: "Sanctification of the Body and the Comfort of the Lord’s Coming"
+        - chapter: 5
+          bkv_title: "Sons of Light, Watching, Praying Without Ceasing"
+
+    - title: "2 Thessalonians"
+      subtitle: "The Book of Steadfastness: The Revealing of Iniquity and Unshakable Faith"
+      chapters:
+        - chapter: 1
+          bkv_title: "Patience in Affliction and the Manifestation of Righteous Judgment"
+        - chapter: 2
+          bkv_title: "The Man of Lawlessness Restrained and Truth Received"
+        - chapter: 3
+          bkv_title: "Command Against Idleness and Quiet Work Urged"
+
+    - title: "1 Timothy"
+      subtitle: "The Book of Assembly Order: Sound Doctrine and Pastoral Care"
+      chapters:
+        - chapter: 1
+          bkv_title: "The Right Use of the Law and Chief of Sinners Saved"
+        - chapter: 2
+          bkv_title: "Prayer for All Men and Order in Worship"
+        - chapter: 3
+          bkv_title: "Qualifications for Overseers and Deacons: Pillar of Truth"
+        - chapter: 4
+          bkv_title: "Departure from the Faith and Training in Godliness"
+        - chapter: 5
+          bkv_title: "Honor Due Widows and Elders Who Rule Well"
+        - chapter: 6
+          bkv_title: "Godliness with Contentment and Fighting the Good Fight"
+
+    - title: "2 Timothy"
+      subtitle: "The Book of Remembrance: Stirring Up the Gift and Finishing the Course"
+      chapters:
+        - chapter: 1
+          bkv_title: "Unfeigned Faith, Not a Spirit of Fear, and Unashamed Testimony"
+        - chapter: 2
+          bkv_title: "Good Soldier, Workman Unashamed, Vessel Reserved for Honor"
+        - chapter: 3
+          bkv_title: "Perilous Times in the Last Days and All Scripture God-Breathed"
+        - chapter: 4
+          bkv_title: "Preach the Word, The Course Finished, The Crown Prepared"
+
+    - title: "Titus"
+      subtitle: "The Book of Integrity: Setting in Order What Remains"
+      chapters:
+        - chapter: 1
+          bkv_title: "Appointing Elders and Silencing False Teachers"
+        - chapter: 2
+          bkv_title: "Sound Doctrine Demonstrated Across Every Generation"
+        - chapter: 3
+          bkv_title: "Saved by His Mercy and Avoiding Foolish Controversies"
+
+    - title: "Philemon"
+      subtitle: "The Book of Reconciliation: From Slave to Beloved Brother"
+      chapters:
+        - chapter: 1
+          bkv_title: "Onesimus Restored: Charge That to My Account"
+
+    - title: "Hebrews"
+      subtitle: "The Book of the Superior Covenant: The Living Great High Priest"
+      chapters:
+        - chapter: 1
+          bkv_title: "The Superior Son Exalted Above the Angels"
+        - chapter: 2
+          bkv_title: "The Spoken Word Verified and Captain of Salvation Made Perfect"
+        - chapter: 3
+          bkv_title: "Greater Than Moses: The Danger of Hardening the Heart"
+        - chapter: 4
+          bkv_title: "The Sabbath Rest Remaining and Word Piercing to the Joints"
+        - chapter: 5
+          bkv_title: "High Priest After the Order of Melchizedek"
+        - chapter: 6
+          bkv_title: "Pressing On to Maturity: The Unshakable Anchor of Hope"
+        - chapter: 7
+          bkv_title: "Melchizedek’s Eternal Priesthood Replacing the Levitical Order"
+        - chapter: 8
+          bkv_title: "The Mediator of a Better Covenant Built on Better Promises"
+        - chapter: 9
+          bkv_title: "The Earthly Tabernacle Outshone by the Eternal Blood Cleansing"
+        - chapter: 10
+          bkv_title: "Sacrifices Ended, Boldness to Enter, and Living by Faith"
+        - chapter: 11
+          bkv_title: "The Hall of Faith: Substance of Things Hoped For"
+        - chapter: 12
+          bkv_title: "Running the Race, Fatherly Discipline, and Mount Zion Approached"
+        - chapter: 13
+          bkv_title: "Brotherly Love, Unchanging Christ, and Sacrifices of Praise"
+
+    - title: "James"
+      subtitle: "The Book of Practical Faith: Living Demonstration Over Merely Hearing"
+      chapters:
+        - chapter: 1
+          bkv_title: "Testing of Faith, Ask in Faith, Doers of the Word"
+        - chapter: 2
+          bkv_title: "No Partiality and Faith Without Works Is Dead"
+        - chapter: 3
+          bkv_title: "Taming the Untamed Tongue and Heavenly Wisdom"
+        - chapter: 4
+          bkv_title: "Submit to God, Resist the Devil, and Humility Exalted"
+        - chapter: 5
+          bkv_title: "Warning to the Oppressive Rich, Patience, and Prayer of Faith"
+
+    - title: "1 Peter"
+      subtitle: "The Book of Hope in Suffering: The Living Stone and Holy Priesthood"
+      chapters:
+        - chapter: 1
+          bkv_title: "Living Hope Tested by Fire and Redeemed by Precious Blood"
+        - chapter: 2
+          bkv_title: "The Chief Cornerstone, Royal Priesthood, and Patient Sufferers"
+        - chapter: 3
+          bkv_title: "Inner Beauty, Harmony in Home, and Ready Answer of Hope"
+        - chapter: 4
+          bkv_title: "Arm Yourself with the Same Mind and Stewards of Grace"
+        - chapter: 5
+          bkv_title: "Shepherd the Flock, Humble Under His Hand, and Roaring Lion Resisted"
+
+    - title: "2 Peter"
+      subtitle: "The Book of Knowledge and Warning: Partakers of the Divine Nature"
+      chapters:
+        - chapter: 1
+          bkv_title: "Partakers of Divine Nature and Prophecy Moved by Holy Spirit"
+        - chapter: 2
+          bkv_title: "False Teachers Exposed and Judgment Sure"
+        - chapter: 3
+          bkv_title: "Scoffers Scorn the Coming, Day of the Lord, and New Heavens"
+
+    - title: "1 John"
+      subtitle: "The Book of Fellowship: Light, Love, and Certainty of Assurance"
+      chapters:
+        - chapter: 1
+          bkv_title: "Word of Life Handled, Walking in Light, Cleansing from Sin"
+        - chapter: 2
+          bkv_title: "Advocate with the Father, New Commandment, Overcoming Evil One"
+        - chapter: 3
+          bkv_title: "Behold What Manner of Love: Living as Children of God"
+        - chapter: 4
+          bkv_title: "Testing the Spirits: God Is Love and Casts Out Fear"
+        - chapter: 5
+          bkv_title: "Overcoming the World: The Three Witnesses and Assurance of Life"
+
+    - title: "2 John"
+      subtitle: "The Book of Truth and Love: Abiding in Sound Doctrine"
+      chapters:
+        - chapter: 1
+          bkv_title: "Walking in Truth and Beware of Deceivers"
+
+    - title: "3 John"
+      subtitle: "The Book of Hospitality: Supporting Truth and Rejecting Ambition"
+      chapters:
+        - chapter: 1
+          bkv_title: "Gaius Commended, Diotrephes Warned, Demetrius Approved"
+
+    - title: "Jude"
+      subtitle: "The Book of Contending: Contending Earnestly for the Faith Once Delivered"
+      chapters:
+        - chapter: 1
+          bkv_title: "Contending for the Faith, Ungodly Men Exposed, Kept from Falling"  - number: 7
+  name: "Revelation"
+  summary: "The Unveiling of the Ascended Christ and the Ultimate Consummation"
+  books:
+    - title: "Revelation"
+      subtitle: "The Book of Unveiling: The Ultimate Consummation and the Eternal City"
+      chapters:
+        - chapter: 1
+          bkv_title: "The Unveiling of Jesus Christ and Vision of the Son of Man"
+        - chapter: 2
+          bkv_title: "Messages to Ephesus, Smyrna, Pergamum, and Thyatira"
+        - chapter: 3
+          bkv_title: "Messages to Sardis, Philadelphia, and Laodicea"
+        - chapter: 4
+          bkv_title: "The Throne Open in Heaven and the Living Creatures"
+        - chapter: 5
+          bkv_title: "The Seven-Sealed Scroll and the Worthy Lamb Slain"
+        - chapter: 6
+          bkv_title: "The Opening of the Six Seals: Riders and Shaken Heavens"
+        - chapter: 7
+          bkv_title: "The 144,000 Sealed and the Innumerable Multitude in White"
+        - chapter: 8
+          bkv_title: "The Seventh Seal and the First Four Trumpets Blown"
+        - chapter: 9
+          bkv_title: "The Fifth and Sixth Trumpets: Locusts and Army of Horsemen"
+        - chapter: 10
+          bkv_title: "The Mighty Angel, the Little Book Eaten, and Prophecy Renewed"
+        - chapter: 11
+          bkv_title: "The Two Witnesses, the Seventh Trumpet, and Heaven's Temple"
+        - chapter: 12
+          bkv_title: "The Woman Clothed with the Sun, the Dragon, and War in Heaven"
+        - chapter: 13
+          bkv_title: "The Beast from the Sea and the False Prophet"
+        - chapter: 14
+          bkv_title: "The Lamb on Mount Zion, Three Angels' Messages, and Earth’s Harvest"
+        - chapter: 15
+          bkv_title: "The Sea of Glass, Song of Moses, and Seven Golden Bowls"
+        - chapter: 16
+          bkv_title: "The Pouring Out of the Seven Bowls of Wrath"
+        - chapter: 17
+          bkv_title: "Mystery Babylon sitting on the Scarlet Beast Unmasked"
+        - chapter: 18
+          bkv_title: "The Complete Fall and Destruction of Commercial Babylon"
+        - chapter: 19
+          bkv_title: "The Marriage Supper of the Lamb and Return of the King of Kings"
+        - chapter: 20
+          bkv_title: "The Dragon Bound, the Thousand Years, and Great White Throne"
+        - chapter: 21
+          bkv_title: "The New Heavens, New Earth, and the Holy City New Jerusalem"
+        - chapter: 22
+          bkv_title: "The River of Life, Tree of Healing, and Final Invitation"
