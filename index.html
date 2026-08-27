@@ -212,9 +212,9 @@
     async function loadTOC() {
       const app = document.getElementById('app');
       try {
-        // Fetch raw chapters.yaml directly from _data directory
-        const response = await fetch('_data/chapters.yaml');
-        if (!response.ok) throw new Error('Failed to load _data/chapters.yaml');
+        // Fetch raw chapters.yaml directly from root directory
+        const response = await fetch('chapters.yaml');
+        if (!response.ok) throw new Error('Failed to load chapters.yaml from the root folder');
         
         const yamlText = await response.text();
         const data = jsyaml.load(yamlText);
