@@ -3,6 +3,7 @@ book: "Exodus"
 chapter: 1
 focus: "Fruitfulness, Foreign Rule, and Bondage"
 summary: "The God-given faculties of the disciple become fruitful and powerful, but fall under a foreign inner government that conscripts their strength and attempts to destroy the new life God is bringing forth."
+permalink: /exodus01/
 ---
 
 # Exodus 1 — The Faculties Enter Bondage
