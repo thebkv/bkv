@@ -1,7 +1,7 @@
-# remote_theme: pages-themes/hacker@v0.2.0
-# plugins:
-# - jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Bible Key Version
+description: Master Structural Index & Interior Map
 
+# Asset & Processing Config
 sass:
   sass_dir: _sass
   style: compressed
