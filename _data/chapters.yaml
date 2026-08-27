@@ -116,10 +116,13 @@ sections:
         url: /exodus01/
       - chapter: 2
         bkv_title: The Deliverer Is Drawn Out and Prepared
+        url: /exodus02/
       - chapter: 3
         bkv_title: The Deliverer Encounters the Divine Presence
+        url: /exodus03/
       - chapter: 4
         bkv_title: The Divine Commission Is Embodied and Put in Motion
+        url: /exodus04/
       - chapter: 5
         bkv_title: The First Confrontation Intensifies the Bondage
       - chapter: 6
