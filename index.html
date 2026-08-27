@@ -1,0 +1,235 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BKV — Bible Key Version Master Index</title>
+  <style>
+    :root {
+      --bg-primary: #0f172a;
+      --bg-card: #1e293b;
+      --bg-card-hover: #334155;
+      --text-main: #f8fafc;
+      --text-muted: #94a3b8;
+      --accent-gold: #fbbf24;
+      --accent-blue: #38bdf8;
+      --border-color: #334155;
+      --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+      --font-serif: Georgia, Cambria, "Times New Roman", Times, serif;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background-color: var(--bg-primary);
+      color: var(--text-main);
+      font-family: var(--font-sans);
+      line-height: 1.6;
+      padding: 2rem 1rem;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 3rem;
+      border-bottom: 1px solid var(--border-color);
+      padding-bottom: 2rem;
+    }
+
+    header h1 {
+      font-family: var(--font-serif);
+      font-size: 2.75rem;
+      color: var(--accent-gold);
+      letter-spacing: -0.02em;
+      margin-bottom: 0.5rem;
+    }
+
+    header p {
+      font-size: 1.125rem;
+      color: var(--text-muted);
+      max-width: 700px;
+      margin: 0 auto;
+    }
+
+    .section-title {
+      font-family: var(--font-serif);
+      font-size: 1.75rem;
+      color: var(--accent-blue);
+      margin: 3rem 0 0.5rem 0;
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+
+    .section-title::after {
+      content: "";
+      flex: 1;
+      height: 1px;
+      background: var(--border-color);
+    }
+
+    .section-summary {
+      color: var(--text-muted);
+      font-size: 0.95rem;
+      margin-bottom: 1.5rem;
+      font-style: italic;
+    }
+
+    .subsection-title {
+      font-family: var(--font-serif);
+      font-size: 1.35rem;
+      color: var(--accent-gold);
+      margin: 2rem 0 0.25rem 0;
+    }
+
+    .subsection-summary {
+      color: var(--text-muted);
+      font-size: 0.875rem;
+      margin-bottom: 1.25rem;
+      font-style: italic;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 1.25rem;
+    }
+
+    .card {
+      background-color: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: 8px;
+      padding: 1.25rem;
+      transition: transform 0.2s ease, border-color 0.2s ease;
+    }
+
+    .card:hover {
+      border-color: var(--accent-gold);
+      transform: translateY(-2px);
+    }
+
+    .card h3 {
+      font-size: 1.25rem;
+      margin-bottom: 0.25rem;
+      color: var(--text-main);
+    }
+
+    .card .subtitle {
+      font-size: 0.875rem;
+      color: var(--accent-gold);
+      margin-bottom: 0.75rem;
+      font-style: italic;
+    }
+
+    .chapter-list {
+      list-style: none;
+      font-size: 0.9rem;
+    }
+
+    .chapter-list li {
+      padding: 0.35rem 0;
+      border-bottom: 1px dashed rgba(255, 255, 255, 0.05);
+      display: flex;
+      justify-content: space-between;
+      gap: 0.5rem;
+    }
+
+    .chapter-list li:last-child {
+      border-bottom: none;
+    }
+
+    .chapter-num {
+      color: var(--text-muted);
+      font-weight: bold;
+      min-width: 2rem;
+    }
+
+    .chapter-title {
+      flex: 1;
+      color: var(--text-muted);
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 4rem;
+      padding-top: 2rem;
+      border-top: 1px solid var(--border-color);
+      color: var(--text-muted);
+      font-size: 0.875rem;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <header>
+      <h1>Bible Key Version</h1>
+      <p>The Master Structural Index & Interior Map of Sacred Text</p>
+    </header>
+
+    <!-- Jekyll Liquid Template Loop -->
+    {% for sec in site.data.chapters.sections %}
+      <h2 class="section-title">Section {{ sec.number }}: {{ sec.name }}</h2>
+      {% if sec.summary %}
+        <p class="section-summary">{{ sec.summary }}</p>
+      {% endif %}
+
+      {% if sec.subsections %}
+        {% for sub in sec.subsections %}
+          <h3 class="subsection-title">{{ sub.name }}</h3>
+          {% if sub.summary %}
+            <p class="subsection-summary">{{ sub.summary }}</p>
+          {% endif %}
+          
+          <div class="grid">
+            {% for book in sub.books %}
+              <div class="card">
+                <h3>{{ book.title }}</h3>
+                {% if book.subtitle %}<div class="subtitle">{{ book.subtitle }}</div>{% endif %}
+                <ul class="chapter-list">
+                  {% for ch in book.chapters %}
+                    <li>
+                      <span class="chapter-num">{{ ch.chapter | prepend: '00' | slice: -2, 2 }}</span>
+                      <span class="chapter-title">{{ ch.bkv_title }}</span>
+                    </li>
+                  {% endfor %}
+                </ul>
+              </div>
+            {% endfor %}
+          </div>
+        {% endfor %}
+
+      {% elsif sec.books %}
+        <div class="grid">
+          {% for book in sec.books %}
+            <div class="card">
+              <h3>{{ book.title }}</h3>
+              {% if book.subtitle %}<div class="subtitle">{{ book.subtitle }}</div>{% endif %}
+              <ul class="chapter-list">
+                {% for ch in book.chapters %}
+                  <li>
+                    <span class="chapter-num">{{ ch.chapter | prepend: '00' | slice: -2, 2 }}</span>
+                    <span class="chapter-title">{{ ch.bkv_title }}</span>
+                  </li>
+                {% endfor %}
+              </ul>
+            </div>
+          {% endfor %}
+        </div>
+      {% endif %}
+    {% endfor %}
+
+    <footer>
+      <p>&copy; 2026 Bible Key Version Project — Designed for GitHub Pages</p>
+    </footer>
+  </div>
+
+</body>
+</html>
