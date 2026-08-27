@@ -113,7 +113,7 @@ sections:
       chapters:
       - chapter: 1
         bkv_title: The Disciple’s Faculties Are Put in Bondage
-        url: bkv/exodus01.md
+        url: /bkv/exodus01.md
       - chapter: 2
         bkv_title: The Deliverer Is Drawn Out and Prepared
       - chapter: 3
