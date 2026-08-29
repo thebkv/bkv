@@ -2,31 +2,38 @@
 book: "Exodus"
 chapter: 20
 focus: "Divine Government, Covenant Order, Freedom, and Desire"
-summary: "Exodus 20 establishes the divine order by which the people God has brought out of bondage are to remain free, beginning with exclusive allegiance to the LORD and extending His government through worship, time, relationships, conduct, speech, and desire."
+summary: "Exodus 20 brings the people God has delivered under His order, beginning with exclusive allegiance to the LORD and extending through worship, speech, time, relationships, conduct, truth, and even desire."
+permalink: /exodus20/
 ---
 
 # Exodus 20 — The Delivered Life Is Brought Under Divine Order
 
 ## BKV Insight
 
-Exodus 20 gives the delivered life its governing order. The LORD begins with the fact of salvation—**“I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage”**—and then orders the whole person around Himself. Worship, images, speech, time, family, life, marriage, possessions, testimony, and finally desire all come under His government. For the serious disciple, the commandments show how freedom is established within: **the faculties that once served Pharaoh are now taught to serve God, so that the house of bondage is not rebuilt inside the life that God has delivered.**
+Exodus 20 begins with deliverance:
+
+> **“I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage.”**
+
+God speaks His commandments to a people He has already brought out. The Law therefore begins with what the LORD has done and then shows Israel how a delivered people are to live.
+
+The movement reaches through the whole life. Israel's worship belongs to God. His Name is to be honored. Their time is ordered by Sabbath. Parents are honored. Life, marriage, property, and truth are protected. Finally the command reaches inward to desire itself: **“Thou shalt not covet.”**
+
+For the disciple, the pattern is direct. **The faculties that once served Pharaoh are now brought under God, so that the house of bondage is not rebuilt within the life He has delivered.** Deliverance changes the ruler; obedience teaches the delivered life how to live under its rightful Lord.
 
 ## Canonical History & Context
 
-Exodus 20 follows Israel's consecration at Sinai in chapter 19. The people have been brought out of Egypt, gathered before the mountain, and prepared to hear the LORD's voice. God now speaks the Ten Commandments directly to Israel, establishing the foundational terms of covenant life: exclusive worship of the LORD, reverence for His name, Sabbath rest, honor of parents, and protection of life, marriage, property, truth, and rightly ordered desire. The people tremble before the thunder, lightning, trumpet, and smoking mountain and ask Moses to mediate. The chapter closes with instructions for worship, including the prohibition of manufactured gods and the command to build simple altars of earth or unhewn stone. These commandments establish the foundation for the more detailed covenant judgments that follow in chapters 21–23.
+Exodus 20 follows Israel's consecration at Sinai in chapter 19. The people have been brought out of Egypt, gathered before the mountain, and prepared to hear the LORD's voice. God now speaks the Ten Commandments directly to Israel, giving the foundational terms of covenant life: exclusive worship of the LORD, reverence for His Name, Sabbath rest, honor of parents, and protection of life, marriage, property, truth, and rightly ordered desire.
+
+The people tremble before the thunder, lightning, trumpet, and smoking mountain and ask Moses to speak with them in God's place. Moses draws near to the thick darkness where God is. The chapter closes with instructions for worship, including the prohibition of manufactured gods and directions for altars of earth or unhewn stone. Chapters 21–23 will develop the covenant judgments in greater detail.
 
 ## Natural Reading
 
 ### v1–2 — The Law Begins With Deliverance
 
-> “And God spake all these words, saying,  
+> “And God spake all these words, saying,
 > I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage.”
 
-Everything that follows rests upon this declaration.
-
-The LORD speaks to a people **He has already brought out**.
-
-Israel's obedience begins inside an accomplished deliverance:
+Before God gives Israel a command, He reminds them who He is and what He has done:
 
 > **“I am the LORD thy God.”**
 
@@ -36,133 +43,132 @@ Egypt is named according to what it had become for Israel:
 
 > **“the house of bondage.”**
 
-The commandments now give the delivered people the order of another house: life under the government of God.
+The commandments are spoken to people the LORD has already rescued from that house. They now have to learn how to live as His people.
+
+For the disciple, this order is essential. God delivers, and then the delivered life learns obedience. **The powers of the person that once served bondage must now learn to live under God.**
 
 ### v3–6 — The LORD Alone at the Center
 
-The first command establishes the governing center:
+The first command is:
 
 > **“Thou shalt have no other gods before me.”**
 
-The delivered faculties are to be gathered around one Lord.
+Israel has left a land filled with other gods. The LORD now claims their exclusive allegiance.
 
-Israel is also forbidden to make a graven image or bow down to one. God is not to be reduced to a form made by human hands and then placed before the very person who made it.
+They are also forbidden to make a graven image, bow down to it, or serve it. Israel is not to make something with human hands and then give that thing the place that belongs to God.
 
-The LORD declares Himself:
+The LORD calls Himself:
 
 > “a jealous God”
 
-and speaks of mercy:
+and promises mercy:
 
 > “unto thousands of them that love me, and keep my commandments.”
 
-The inner order begins here: **God occupies the place of God.**
+The order begins with **God in the place of God**.
 
-Every other faculty, desire, possession, relationship, and activity must take its proper place beneath Him.
+For the disciple, everything else—desire, possession, relationship, work, speech, and action—must find its proper place beneath Him. Whatever takes God's governing place begins to act as another god within the life.
 
 ### v7 — The Name of the LORD
 
 > **“Thou shalt not take the name of the LORD thy God in vain.”**
 
-The divine Name is not to be carried emptily or falsely.
+The divine Name is not to be taken up emptily, falsely, or without reverence.
 
-Israel has learned the Name of the LORD through Moses and has seen that Name vindicated against Pharaoh. To bear it now carries responsibility.
+Israel has learned the Name of the LORD through Moses and has watched the LORD act against Pharaoh in accordance with that Name. Now the people who bear His covenant must honor Him in the way they use it.
 
-For the disciple, the mouth itself comes under divine order. **Speech about God must agree with reverence for God.** His Name cannot rightly be invoked while the life is being governed by another master.
+For the disciple, speech about God comes under God's order too. **The mouth cannot rightly invoke His Name while treating the One named as empty or unimportant.**
 
-### v8–11 — Time Is Returned to God's Order
+### v8–11 — Pharaoh No Longer Owns Their Time
 
 > **“Remember the sabbath day, to keep it holy.”**
 
-Six days are given for work.
-
-The seventh is:
+Israel may work for six days. The seventh is:
 
 > **“the sabbath of the LORD thy God.”**
 
-Israel has already practiced this rhythm through the manna. Now the Sabbath is placed within the covenant itself.
+The command reaches the whole household—sons, daughters, servants, cattle, and strangers within the gates. Everyone is to cease from ordinary labor.
 
-The command reaches the whole household:
-
-> “thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger”
-
-because rest is built into God's government.
-
-The reason reaches back to creation:
+Israel has already learned this rhythm through the manna in Exodus 16. At Sinai, Sabbath becomes part of the covenant order, and the reason reaches back to creation:
 
 > “in six days the LORD made heaven and earth... and rested the seventh day.”
 
-The former slaves are being aligned with **God's own pattern of work and rest**.
+This command has particular force for former slaves.
 
-This is one of the strongest structural reversals in Exodus. Pharaoh demanded labor and increased the quota when Israel sought freedom to worship. The LORD gives His people a day on which work must cease.
+Pharaoh demanded production. When Israel asked to worship God, Pharaoh increased their work and withheld the straw needed to do it. The LORD now commands the people to stop working on the seventh day.
 
 **Pharaoh no longer owns their time.**
 
-### v12 — Honor the Human Source of Life
+For the disciple, even work and rest must come out from under the old master. Life under God is not another version of Pharaoh's endless demand.
+
+### v12 — Honor Father and Mother
 
 > **“Honour thy father and thy mother.”**
 
-The commandments now move directly into human relationships.
+The commandments now move into the household.
 
-The first command here concerns the father and mother through whom life and inheritance have been received.
-
-And it carries a promise:
+Father and mother are to be honored, and the command carries a promise:
 
 > “that thy days may be long upon the land which the LORD thy God giveth thee.”
 
-Honor helps preserve the continuity of the covenant people from one generation to the next.
+The covenant people are not a collection of isolated individuals. Life is received and carried from one generation to another, and the LORD's order reaches into those relationships.
 
-The delivered life must learn to carry God's order through its relationships as well as its worship.
+For the disciple, belonging to God does not end with worship. It changes the way we live with the people God has placed in our lives.
 
-### v13–16 — Life, Covenant, Possession, and Truth
+### v13–16 — Life, Marriage, Property, and Truth
 
-The commands become brief and physical:
+The next commands are brief and concrete:
 
 > **“Thou shalt not kill.”**
 
-Life is placed under divine protection.
+The Hebrew verb *ratsach* is used for unlawful killing or murder. Human life is not at Israel's disposal.
 
-Pharaoh had ordered Israel's sons to be killed. Under the LORD, the taking of innocent human life is forbidden.
+This is a sharp reversal from Egypt, where Pharaoh ordered Hebrew sons to be killed. The people who lived under a ruler who used death to preserve his power are forbidden to become such a people themselves.
 
 > **“Thou shalt not commit adultery.”**
 
-Marriage and covenant faithfulness receive a boundary. Desire must respect the relationship God has ordered.
+Marriage is given a boundary. Desire does not give a person the right to violate another's marriage covenant.
 
 > **“Thou shalt not steal.”**
 
-Possession receives a boundary. The hand cannot simply take what belongs to another.
+Property is given a boundary. The hand may not simply take what belongs to another.
 
 > **“Thou shalt not bear false witness against thy neighbour.”**
 
-Speech receives a boundary. The tongue cannot distort truth in a way that harms another person.
+Truth is given a boundary. Speech may not be used falsely against another person.
 
-The commandments are moving through the actual faculties of life:
+The commands now reach ordinary human conduct:
 
-**the hand,  
-the body,  
-the household,  
-the possessions,  
-the mouth.**
+**life  
+→ marriage  
+→ property  
+→ testimony.**
 
-The people who once lived under Pharaoh's will are learning to govern their own actions under the will of God.
+Israel has left Pharaoh's rule. Now their own actions must come under the rule of God.
 
-### v17 — Divine Order Reaches the Desire Itself
+For the disciple, this is where inward allegiance becomes visible. The body, the hand, and the mouth begin to show which ruler the person actually serves.
+
+### v17 — The Command Reaches Desire
 
 > **“Thou shalt not covet thy neighbour's house.”**
 
-Then the command reaches wife, servants, animals:
+The command continues through the neighbor's wife, servants, animals, and:
 
-> “nor any thing that is thy neighbour's.”
+> “any thing that is thy neighbour's.”
 
-Here the Law moves behind the visible act and reaches **desire**.
+Here God's command reaches something that may exist before any outward act occurs:
 
-Murder, adultery, theft, and false dealing can be seen in outward behavior.
+**desire for what belongs to another.**
 
-Coveting begins within.
+The earlier commands regulate things people can do—murder, adultery, theft, false witness. Coveting reaches into the inward movement from which sinful action can grow.
 
-The LORD therefore claims authority over the inner movement from which outward disorder can grow.
+God's order therefore reaches farther than public behavior.
 
-This completes the movement of the commandments:
+It reaches the heart.
+
+For the disciple, this is especially important. A life can appear orderly on the outside while desire is still pulling toward what God has forbidden. **The LORD who brought Israel out of bondage claims the inner life as well as the outward act.**
+
+The movement of the commandments has now reached from the governing center to the hidden desire:
 
 **God  
 → worship  
@@ -171,15 +177,13 @@ This completes the movement of the commandments:
 → family  
 → life  
 → marriage  
-→ possessions  
-→ testimony  
+→ property  
+→ truth  
 → desire.**
 
-The whole field is being brought into order.
+### v18–21 — The People Stand Afar Off and Moses Draws Near
 
-### v18–21 — The People Tremble and Moses Draws Near
-
-The people witness:
+The people see:
 
 > “the thunderings, and the lightnings, and the noise of the trumpet, and the mountain smoking.”
 
@@ -189,33 +193,35 @@ They say to Moses:
 
 > **“Speak thou with us, and we will hear: but let not God speak with us, lest we die.”**
 
-Moses tells them:
+Moses answers:
 
 > “Fear not: for God is come to prove you”
 
-so that:
+and says that God's fear is to remain before them:
 
-> “his fear may be before your faces, that ye sin not.”
+> “that ye sin not.”
 
-The encounter is meant to establish a lasting awareness of God's holiness and authority within the people.
-
-Then comes a striking physical image:
+Then the scene divides:
 
 > **“the people stood afar off, and Moses drew near unto the thick darkness where God was.”**
 
-Moses enters the darkness as mediator.
+The people remain at a distance.
 
-The people have heard God's voice, but they now recognize their need for someone who can draw near and carry the Word back to them.
+Moses draws near.
 
-This mediating structure will continue through Moses, the priesthood, the covenant, and the sanctuary, and ultimately finds its fulfillment in Jesus Christ, the mediator who brings His people to God.
+He will receive God's words and carry them to Israel.
 
-### v22–23 — Do Not Manufacture What God Has Revealed
+This mediating role continues through the covenant story. The New Testament later names Jesus Christ **“the mediator of the new covenant”** (Hebrews 12:24). In Christ, the movement announced in Exodus 19—God bringing a people unto Himself—reaches its fullest expression.
+
+### v22–23 — Do Not Replace the God Who Has Spoken
 
 The LORD reminds Israel:
 
 > **“Ye have seen that I have talked with you from heaven.”**
 
-Because God has spoken and revealed Himself, Israel is forbidden to make:
+They have heard the living God speak.
+
+They are therefore forbidden to make:
 
 > “gods of silver”
 
@@ -223,15 +229,15 @@ or:
 
 > “gods of gold.”
 
-The people are to receive God as He reveals Himself.
+Israel must receive God as He reveals Himself rather than manufacture a god they can make and possess.
 
-This command will soon become painfully relevant when Israel makes the golden calf.
+The warning will become painfully concrete in Exodus 32 when Israel makes the golden calf.
 
-The faculty that has heard the living God must not replace Him with something it can manufacture, possess, and control.
+For the disciple, the same danger remains. We can replace the living God with an idea of God shaped to our own desires. **What we manufacture must never take the place of the One who speaks.**
 
-### v24–26 — An Altar Without Human Display
+### v24–26 — God Sets the Way of Worship
 
-God commands:
+The LORD commands:
 
 > **“An altar of earth thou shalt make unto me.”**
 
@@ -239,74 +245,97 @@ And promises:
 
 > “in all places where I record my name I will come unto thee, and I will bless thee.”
 
-The altar can be made from the earth itself.
+If Israel builds an altar of stone, the stones are not to be shaped with tools:
 
-If stone is used:
+> “for if thou lift up thy tool upon it, thou hast polluted it.”
 
-> “thou shalt not build it of hewn stone”
+The text itself gives the reason: the tool would profane the stones appointed for the altar. Israel is to worship according to the form God gives rather than altering that form according to its own preference.
 
-because the human tool is not to turn the altar into a monument to human craftsmanship.
+Steps are also forbidden so that nakedness is not exposed upon the altar.
 
-Even the approach by steps is regulated so that the worshipper's body is not exposed.
+The chapter began with God saying:
 
-The chapter closes with worship kept simple and properly oriented.
+> **“I... brought thee out of the land of Egypt.”**
 
-God has spoken.
+It ends with God telling the delivered people how they are to approach Him.
 
-God establishes the terms of approach.
+**God delivers.  
+God speaks.  
+God orders.  
+God appoints the way of worship.  
+God promises to come and bless.**
 
-God records His Name.
-
-God comes.
-
-God blesses.
-
-The human being responds within the order He has given.
+The people who once lived according to Pharaoh's commands are learning to live according to the Word of the LORD.
 
 ## Fractal Notes & References
 
-Exodus 20 completes the movement begun in Exodus 1. Pharaoh had established a government over Israel based upon fear, forced production, possession, and death. The LORD brings Israel out of that house and establishes His own order over the delivered people. The Exodus therefore moves from **foreign government, through salvation, into divine government**. Israel has changed masters, and now its actual habits, relationships, speech, work, and desires must come into agreement with the God who saved them.
+Exodus 20 continues the movement that began in Exodus 1. Pharaoh established his rule over Israel through fear, forced labor, possession, and death. The LORD broke that rule and brought Israel out. Now He teaches the delivered people how to live under His government.
 
-The Sabbath makes this especially visible. In Exodus 5 Pharaoh demands continued production and refuses Israel's request to go and worship the LORD. In Exodus 16 God supplies enough manna for His people to cease gathering on the seventh day. Exodus 20 now establishes that rest within covenant law. **The people who could not stop working under Pharaoh are commanded to stop under God.** Their time itself bears witness that they have been delivered.
+The movement is:
 
-Jesus Christ carries the commandments to their full inward depth. In Matthew 5, murder reaches into anger and adultery into lust; in Matthew 22:37–40, Jesus gathers the Law around love of God with the whole heart, soul, and mind and love of one's neighbor. The movement already visible in Exodus 20 reaches from outward action into the heart. The final command against coveting shows that God's government has always been concerned with the condition from which the action proceeds.
+**Pharaoh's rule  
+→ deliverance  
+→ God's rule.**
 
-The mediation at Sinai also points forward. Israel asks for a mediator because direct encounter with the divine voice overwhelms them. Moses draws near while the people stand afar off. The pattern develops through the covenant and priesthood and reaches its fulfillment in Jesus Christ, who is called “the mediator of the new covenant” in Hebrews 12:24. Through Him, the purpose stated in Exodus 19—**“I brought you unto myself”**—reaches its fullest expression.
+The Sabbath makes the reversal especially visible. In Exodus 5, Pharaoh refuses Israel's request to worship and increases their labor. In Exodus 16, God provides enough manna for the people to cease gathering on the seventh day. In Exodus 20, He commands Sabbath rest.
+
+**The people who could not stop working under Pharaoh are commanded to stop under God.**
+
+Their use of time now bears witness to which ruler they serve.
+
+The tenth command also keeps the chapter from being reduced to outward morality. The LORD forbids coveting. His government reaches into desire before desire becomes action.
+
+Jesus develops this inward reach in the Sermon on the Mount. In Matthew 5, He addresses anger beneath murder and lust beneath adultery. In Matthew 22:37–40, He gathers the Law around love of God with the whole heart, soul, and mind and love of one's neighbor. The commandments concern the kind of person from whom the action comes.
+
+The mediation at Sinai also develops canonically. The people stand afar off while Moses draws near. Hebrews 12 returns explicitly to Sinai and then names Jesus:
+
+> **“the mediator of the new covenant.”**
+
+The connection is therefore stronger than a loose symbolic resemblance. The New Testament itself places Sinai and the mediation of Christ within the same canonical movement.
+
+For the disciple, Exodus 20 gives a demanding but coherent picture of freedom. **God does not merely remove Pharaoh. He teaches the person who has been delivered how not to live as Pharaoh lived.**
+
+The old ruler used false gods, relentless production, violence, possession, and human lives for his own ends.
+
+Under God, worship is purified, time receives rest, life is protected, marriage is honored, property is respected, truth is guarded, and desire itself comes under examination.
+
+The faculties have been brought out.
+
+Now they must learn whom they serve.
 
 ## Onomastics & Key Terms
 
-| Name / Term | Textual / Linguistic Meaning | BKV Meaning |
+| Name / Term | Textual / Linguistic Meaning | Minimum Functional Role / BKV Meaning |
 |---|---|---|
-| **LORD — YHWH** | The covenant Name revealed to Moses and associated in Exodus 3 with God's declaration “I AM” | The one true governing center of the delivered life |
-| **Moses — Mosheh** | Exodus 2:10 connects the name with *mashah*, “to draw out” | The drawn-out mediator who now draws near to God and carries divine instruction to the people |
-| **Israel — Yisrael** | Genesis 32:28 connects the name with striving with God and prevailing | The delivered faculties now being brought collectively under the government of God |
-| **Egypt — Mitsrayim** | Historical name of Egypt; the precise Egyptian/Hebrew etymological history is complex | In this chapter Scripture itself supplies the controlling description: **“the house of bondage”** |
-| **Sabbath — Shabbat** | From the Hebrew root *shavat*, to cease or stop | God-ordered cessation from labor; a physical sign that Pharaoh's endless production no longer governs the people |
-| **Covet — Chamod** | To desire, delight in, or strongly desire | The inward movement of desire toward what belongs to another; the point where the commandment reaches into the heart |
-| **Altar — Mizbeach** | Altar, from a root associated with sacrifice or slaughter | The appointed physical place of offering and approach to God |
-| **Name — Shem** | Name, designation, reputation | Here, the revealed Name and authority of the LORD, which must be carried with reverence |
-| **Fear — Yirah** | Fear, reverence, awe | The abiding awareness of God's holiness and authority that restrains the faculties from sin |
+| **LORD — YHWH** | The covenant Name revealed to Moses and associated in Exodus 3 with God's declaration “I AM” | The God who brought Israel out of bondage and now speaks the order by which His delivered people are to live |
+| **Moses — Mosheh** | Exodus 2:10 connects the name with *mashah*, “to draw out” | The drawn-out deliverer who now draws near to God and serves as mediator for the people |
+| **Israel — Yisrael** | Genesis 32:28 connects the name with striving with God and prevailing | The delivered covenant people now being brought under the government of God; in BKV, the faculties gathered under their rightful Lord |
+| **Egypt — Mitsrayim** | Historical name of Egypt; its precise etymological history is complex | Exodus 20 supplies the controlling description for this chapter: **“the house of bondage”** |
+| **Sabbath — Shabbat** | Related to the Hebrew verb *shavat*, “to cease” or “stop” | The commanded cessation from labor that places Israel's time under God's order rather than Pharaoh's demand |
+| **Kill / Murder — Ratsach** | To murder or unlawfully kill; its range is narrower than the broad English verb “kill” | The prohibition places human life beyond personal violence and arbitrary taking |
+| **Covet — Chamod** | To desire, take pleasure in, or strongly desire; context determines whether the desire is wrongful | Here, desire directed toward what belongs to one's neighbor; the command reaches inward before an outward act occurs |
+| **Altar — Mizbeach** | Altar; related to a root associated with sacrifice or slaughter | The appointed place of sacrifice and worship, constructed according to God's instruction |
+| **Name — Shem** | Name, designation, reputation | The revealed Name of the LORD, which Israel is commanded to treat with reverence |
+| **Fear — Yirah** | Fear, reverence, awe | In vv18–20, an awareness of God's holiness and authority that is meant to restrain the people from sin |
 
-The chapter's governing sentence is already written into its opening:
+The chapter opens with the sentence that governs everything after it:
 
 > **“I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage.”**
 
-Everything follows from that.
-
 The LORD has brought the people out.
 
-Now He orders the life He has delivered.
+Now He teaches them how a free people live under Him.
 
-And the order reaches all the way from:
+The movement begins with:
 
-> **“Thou shalt have no other gods before me”**
+> **“Thou shalt have no other gods before me.”**
 
-to:
+and reaches all the way to:
 
 > **“Thou shalt not covet.”**
 
-From the governing center to the hidden desire, **the whole person is being brought under God.**
+**From the God we worship to the desires no one else can see, the whole person is being brought under God.**
 
-08/21/2026  
-© 2026 Luke Stewart | The Bible Key  
+08/29/2026
+© 2026 Luke Stewart | The Bible Key
 ⚓️
