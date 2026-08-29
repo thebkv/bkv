@@ -79,6 +79,12 @@ Israel has learned the Name of the LORD through Moses and has watched the LORD a
 
 For the disciple, speech about God comes under God's order too. **The mouth cannot rightly invoke His Name while treating the One named as empty or unimportant.**
 
+There is a deeper meaning here as well. The disciple must not attempt to invoke God on behalf of the natural governing mind—as though the Name of the LORD were a power we could call upon to carry out our own will. **Let God be God.** To take His Name rightly is to place ourselves under the One whose Name we invoke.
+
+And at an even deeper level, the disciple discovers that we cannot finally make the Name of the LORD empty. **God's Name is never without effect.** Calling upon God may not produce the result the natural mind wanted or imagined, but our encounter with Him is never vain. His answer remains according to His own nature, wisdom, and will.
+
+So the command contains something greater than a warning against careless speech. **Do not take up the Name of God as though it were an empty instrument of your own will. His Name belongs to Him, and the disciple who invokes it must be prepared for God to be God.**
+
 ### v8–11 — Pharaoh No Longer Owns Their Time
 
 > **“Remember the sabbath day, to keep it holy.”**
