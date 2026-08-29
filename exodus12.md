@@ -427,3 +427,6 @@ The chapter's decisive statement is:
 > **“When I see the blood, I will pass over you.”**
 
 The faculties do not finally escape Egypt because they overpower Pharaoh. They come out because **God acts, the lamb is given, the blood marks the household, and the preserved people obey the command to rise and go.**
+8/27/2026
+© 2026 Luke Stewart | The Bible Key
+⚓️
