@@ -85,6 +85,7 @@ His name carries **happiness or blessedness**.
 His name carries **addition**, while his larger Genesis story develops the themes of fruitfulness, preservation, and provision.
 
 Other names are less certain in their exact force, and we will not attempt to create precise meanings where Scripture does not give it. But enough of the names are explicitly explained in Genesis to make the opening of Exodus remarkable.
+The larger pattern is clear enough: **the whole household of Israel has entered Egypt.**
 
 Israel enters Egypt carrying names associated with:
 
