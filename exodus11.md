@@ -225,3 +225,6 @@ The structural movement is therefore:
 Exodus 11 brings the old government to the edge of termination.
 
 Exodus 12 will reveal **the means by which Israel passes through that final judgment and departs from Egypt**.
+
+© 2026 Luke Stewart | The Bible Key
+⚓️
