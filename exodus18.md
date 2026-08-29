@@ -112,7 +112,7 @@ The work itself is good.
 
 The problem is that **Moses is trying to carry all of it himself**.
 
-That distinction matters. The answer is not to stop seeking God's judgment. The answer is to put the work into a form that can actually bear its weight.
+The answer is not to stop seeking God's judgment. The answer is to put the work into a form that can actually bear its weight.
 
 ### v17–18 — “The Thing That Thou Doest Is Not Good”
 
