@@ -6,6 +6,9 @@ summary: "Exodus 1 shows Israel's God-given life becoming fruitful under a forei
 permalink: /exodus01/
 ---
 
+> **“Now these are the names of the children of Israel, which came into Egypt.”**
+> _and so begins the story of the escape from bondage._
+
 # Exodus 1 — The Faculties Enter Bondage
 
 ## BKV Insight
