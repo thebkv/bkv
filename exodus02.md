@@ -10,7 +10,7 @@ permalink: /exodus02/
 
 ## BKV Insight
 
-Exodus 2 begins with Pharaoh still ruling Egypt and Israel still in bondage. Yet within that bondage, the child through whom God will bring deliverance has already been born.
+Exodus 2 begins with Pharaoh still ruling Egypt and Israel still in bondage. Yet among the very people Pharaoh is trying to suppress, the child God will use to set them free is born.
 
 Moses first lives the pattern he will later lead Israel through. Pharaoh has commanded the Hebrew sons to be cast into the river, but Moses passes through those waters alive. He is **drawn out**, raised within Pharaoh's own house, awakens to the suffering of his brethren, leaves Egypt, becomes a stranger in Midian, and is prepared for a calling he has not yet received.
 
