@@ -1,13 +1,13 @@
 # bkv
 Draft text and chapters of the Bible Key Version.
 
-THE BIBLE KEY
+THE BIBLE KEY VISION
 
 Mission
-Reveal the inner architecture of scripture.
+Reveal the map of scripture as the map of the Kingdom Within.
 
 FOUNDATION
-BKV (Bible Key Version)
+BKV (The Bible Key Vision)
 MSR translation system
 Symbolic lexicon
 
@@ -35,8 +35,8 @@ ARC
 Biblical theory of attention
 New symbolic discoveries
 
-All content is intentionally ideated and curated. I believe it is essential and urgent to get this message out; voice, style, and formatting are secondary. This is a massive project.
-Gloria en Excelcis Deo!
+All content is intentionally ideated and curated. I believe it is essential and urgent to get this message out; voice, style, and formatting are secondary. The message is all that matters. This is a massive project.
+All Glory to God.
 ⚓️
 
 © 2014 - 2026 Luke Stewart / The Bible Key All rights reserved. 
