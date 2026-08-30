@@ -10,7 +10,7 @@ permalink: /exodus01/
 
 ## BKV Insight
 
-Exodus begins with life, not weakness. **The children of Israel are fruitful, multiplying, and becoming exceedingly mighty.** The problem begins when a new king rises over Egypt and turns that growing strength toward his own purposes.
+Exodus begins with a statement of life. **The children of Israel are fruitful, multiplying, and becoming exceedingly mighty.** The problem begins when a new king rises over Egypt and turns that growing strength toward his own purposes.
 
 Pharaoh fears Israel because the people are becoming powerful. He puts taskmasters over them, makes them build his store cities, and forces them into bitter service. When hard labor fails to stop their growth, he attacks the birth of their sons.
 
