@@ -2,7 +2,7 @@
 book: "Exodus"
 chapter: 2
 focus: "Preservation, Separation, and Preparation"
-summary: "Exodus 2 shows the deliverer being preserved within the very order that sought to destroy him, drawn out of the waters, separated from Egypt, and prepared for the divine commission that will follow."
+summary: "Exodus 2 shows Moses being preserved from Pharaoh's command, drawn out of the water, separated from Egypt, and prepared for the work God will eventually give him."
 permalink: /exodus02/
 ---
 
@@ -10,15 +10,15 @@ permalink: /exodus02/
 
 ## BKV Insight
 
-Exodus 2 begins with Pharaoh still ruling Egypt and Israel still in bondage. Yet among the very people Pharaoh is trying to suppress, the child God will use to set them free is born.
+Exodus 2 begins with Pharaoh still ruling Egypt and Israel still in bondage. Yet among the very people Pharaoh is trying to suppress, **the child God will use to set them free is born.**
 
-Moses first lives the pattern he will later lead Israel through. Pharaoh has commanded the Hebrew sons to be cast into the river, but Moses passes through those waters alive. He is **drawn out**, raised within Pharaoh's own house, awakens to the suffering of his brethren, leaves Egypt, becomes a stranger in Midian, and is prepared for a calling he has not yet received.
+Pharaoh has commanded the Hebrew sons to be cast into the river, but Moses passes through those waters alive. He is drawn out, raised in Pharaoh's own house, sees the suffering of his brethren, leaves Egypt, becomes a stranger in Midian, and is prepared for the work God will eventually give him. **Much of what happens to Moses here will later happen to Israel itself.**
 
-For the disciple, this gives us a concrete picture of how deliverance begins. **Something can be born within a life still under bondage that no longer truly belongs to that bondage.** At first it may be small, hidden, and surrounded by the old order. Yet God can preserve it until it is ready to become the means through which the rest of the life is brought out.
+For the disciple, this gives us a concrete picture of how deliverance can begin. **Something new can be born within a life that is still under bondage.** At first it may be small, hidden, and surrounded by the old order. Yet God can preserve it and prepare it until it is ready to challenge what has been ruling the life.
 
-Moses cannot free Israel simply because he recognizes the oppression. His first attempt ends in bloodshed and exile. He must be drawn out of Egypt not only physically but from the authority, identity, and methods Egypt has given him.
+Moses sees Israel's suffering, but seeing the problem does not yet make him ready to solve it. His first attempt ends in bloodshed and exile. Before he can return to Egypt as God's servant, he must leave Pharaoh's house and learn that deliverance will not come by his own strength.
 
-**The deliverer must first undergo the deliverance.**
+**The man God will use to lead Israel out must first be drawn out himself.**
 
 ## Canonical History & Context
 
@@ -126,11 +126,11 @@ Before Moses draws Israel out of Egypt, Moses himself is drawn out.
 
 Before Israel passes safely through the waters, Moses passes safely through the waters.
 
-Before Pharaoh loses Israel, Pharaoh's own household unknowingly raises the man through whom Israel will be delivered.
+Before Pharaoh loses Israel, Pharaoh's own household unknowingly raises the man God will use to deliver Israel.
 
 The Exodus has begun in miniature.
 
-For the disciple, the pattern is powerful. **The part of the life through which God will eventually challenge bondage may first have to be preserved while surrounded by that bondage.** It can even grow for a time inside structures belonging to the old life without finally belonging to them.
+For the disciple, the pattern is powerful. **The part of the life God will eventually use to challenge bondage may first have to be preserved while surrounded by that bondage.** It can even grow for a time inside structures belonging to the old life without finally belonging to them.
 
 Moses grows in Pharaoh's house.
 
