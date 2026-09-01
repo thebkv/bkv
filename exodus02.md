@@ -370,7 +370,7 @@ Exodus 2 develops a pattern that appears repeatedly in Scripture:
 → he passes through separation and preparation  
 → he returns under divine authority.**
 
-The connection between Noah and Moses is especially strong because Scripture uses **tevah — ark** only for their two vessels. Noah is preserved through the floodwaters. Moses is preserved through the waters Pharaoh had appointed for death.
+The connection between Noah and Moses is especially strong because Scripture uses **tevah — ark** only for their two vessels. This is not the Hebrew word used for the Ark of the Covenant, which is aron. Noah is preserved through the floodwaters. Moses is preserved through the waters Pharaoh had appointed for death.
 
 Moses also begins to embody Israel's coming Exodus.
 
