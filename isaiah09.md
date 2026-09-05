@@ -98,7 +98,7 @@ Zebulun and Naphtali tell us where this happens.
 
 They are the afflicted northern territory.
 
-That is enough to establish their minimum role in the passage. We do not need to turn each tribe into a separate inner faculty before hearing what Isaiah is doing with them.
+That is enough to establish their minimum role in the passage. We do not need to turn each tribe into a separate inner faculty before seeing how Isaiah is them.
 
 These are places that have been hit.
 
