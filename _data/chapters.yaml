@@ -1281,143 +1281,142 @@ sections:
     - name: Major Prophets
       summary: The Prophetic Vision and Structural Correction
       books:
-      - title: Isaiah
-        subtitle: 'The Book of Vision: The Holy One of Israel and the Suffering Servant'
+  - title: Isaiah
+        subtitle: 'The Mystery of the Exalted King'
         chapters:
         - chapter: 1
-          bkv_title: The Rebellion of the Mind and the Call to Reason
+          bkv_title: The Great Summons
         - chapter: 2
-          bkv_title: The Mountain of the Lord Raised Above Human Pride
+          bkv_title: The Exalted Mountain
         - chapter: 3
-          bkv_title: The Collapse of False Supports and Self-Indulgent Glory
+          bkv_title: The Crumbling City
         - chapter: 4
-          bkv_title: The Branch of the Lord and the Cleansing Presence
+          bkv_title: The Branch of Beauty
         - chapter: 5
-          bkv_title: The Unfruitful Vineyard and the Woes of Misaligned Desire
+          bkv_title: The Song of the Vineyard
         - chapter: 6
-          bkv_title: The Throne Room Vision and the Purifying Live Coal
+          bkv_title: The Throne Room Vision
         - chapter: 7
-          bkv_title: The Sign of Immanuel Given to Unbelieving Fear
+          bkv_title: The Sign of Immanuel
         - chapter: 8
-          bkv_title: The Sanctuary of Faith Versus the Fear of the Nations
+          bkv_title: The Sanctuary and the Snare
         - chapter: 9
-          bkv_title: The Light Dawned and the Prince of Peace Foretold
-          url: /isaiah09/
+          bkv_title: Light in the Dark Land
         - chapter: 10
-          bkv_title: The Rod of Anger Broken for Its Arrogance
+          bkv_title: The Axe Against the Forest
         - chapter: 11
-          bkv_title: The Stem of Jesse and the Peaceful Kingdom
+          bkv_title: The Rod from the Stem
         - chapter: 12
-          bkv_title: The Song of Deliverance at the Springs of Salvation
+          bkv_title: The Wells of Salvation
         - chapter: 13
-          bkv_title: The Fall of Babylon and the Judgment on Pride
+          bkv_title: The Burden of Babylon
         - chapter: 14
-          bkv_title: The Ruin of the Oppressor and the Triumph of Zion
+          bkv_title: The Fall of the Morning Star
         - chapter: 15
-          bkv_title: The Burden of Moab and the Lament Over Pride
+          bkv_title: The Cry of Moab
         - chapter: 16
-          bkv_title: The Fleeting Refuge and the Established Throne of Mercy
+          bkv_title: The Hidden Outcasts
         - chapter: 17
-          bkv_title: The Fading Power of Damascus and the Return to the Maker
+          bkv_title: The Forgotten Fortress
         - chapter: 18
-          bkv_title: The Signal Raised to the Distant Nations
+          bkv_title: The Land Beyond the Rivers
         - chapter: 19
-          bkv_title: The Confusion of Egypt and the Future Highway of Blessing
+          bkv_title: The Idol's Trembling
         - chapter: 20
-          bkv_title: The Bare Sign Against Reliance on External Powers
+          bkv_title: The Barefoot Prophet
         - chapter: 21
-          bkv_title: The Night Watchman Proclaims the Fall of False Orders
+          bkv_title: The Watchman in the Night
         - chapter: 22
-          bkv_title: The Valley of Vision and the Peg Fastened in a Sure Place
+          bkv_title: The Key of David
         - chapter: 23
-          bkv_title: The Silencing of Tyre’s Commercial Pride
+          bkv_title: The Silence of the Merchant
         - chapter: 24
-          bkv_title: The Earth Shaken and Empty Under Judgment
+          bkv_title: The Wasted Earth
         - chapter: 25
-          bkv_title: The Feast on the Mountain and the Destruction of Death
+          bkv_title: The Feast on the Mountain
         - chapter: 26
-          bkv_title: Perfect Peace for the Mind Stayed on God
+          bkv_title: The Steadfast Mind
         - chapter: 27
-          bkv_title: The Vineyard Kept and Leviathan Punished
+          bkv_title: The Slaying of Leviathan
         - chapter: 28
-          bkv_title: The Drunkards of Ephraim and the Precious Corner Stone
+          bkv_title: The Tried Stone
         - chapter: 29
-          bkv_title: Formality Exposed and the Book Unsealed to the Humble
+          bkv_title: The Sealed Book
         - chapter: 30
-          bkv_title: In Quietness and Confidence Shall Be Your Strength
+          bkv_title: The Shadow of Egypt
         - chapter: 31
-          bkv_title: Woe to Those Who Go Down to Egypt for Help
+          bkv_title: The Flying Birds
         - chapter: 32
-          bkv_title: A King Reining in Righteousness and the Pouring Out of the Spirit
+          bkv_title: The Hiding Place
         - chapter: 33
-          bkv_title: The Lord Is Our Judge, Lawgiver, and King
+          bkv_title: The King in His Beauty
         - chapter: 34
-          bkv_title: Judgment Upon the Edomite Spirit of Hostility
+          bkv_title: The Sword in the Wilderness
         - chapter: 35
-          bkv_title: The Desert Blooms and the Highway of Holiness Opened
+          bkv_title: The Highway of Holiness
         - chapter: 36
-          bkv_title: Rabshakeh's Taunts Challenge the Faith of Zion
+          bkv_title: The Defiance at the Wall
         - chapter: 37
-          bkv_title: Hezekiah’s Prayer and the Destruction of Assyria
+          bkv_title: The Angel in the Camp
         - chapter: 38
-          bkv_title: Sickness Healed and Years Added to Life
+          bkv_title: The Shadow Moved Back
         - chapter: 39
-          bkv_title: The Treasures Displayed to Babylon and Exile Foretold
+          bkv_title: The Treasury Revealed
         - chapter: 40
-          bkv_title: 'Comfort My People: The Voice Crying in the Wilderness'
+          bkv_title: The Voice in the Desert
         - chapter: 41
-          bkv_title: 'Fear Not, I Am with You: The Idols Challenged'
+          bkv_title: The Worm That Threshes
         - chapter: 42
-          bkv_title: The Chosen Servant and the Light to the Gentiles
+          bkv_title: The Bruised Reed
         - chapter: 43
-          bkv_title: 'Redeemed and Called by Name: A New Thing Done'
+          bkv_title: The River in the Desert
         - chapter: 44
-          bkv_title: The Folly of Idolatry and the Anointing of Cyrus
+          bkv_title: The Anointed Shepherd
         - chapter: 45
-          bkv_title: The Sovereign God Shapes Darkness and Light
+          bkv_title: The Hidden God
         - chapter: 46
-          bkv_title: Idols Carried as Burdens Versus God Who Carries His Own
+          bkv_title: The Fallen Idols
         - chapter: 47
-          bkv_title: The Humiliation of Babylon’s Sorceries and Pride
+          bkv_title: The Virgin Daughter Down
         - chapter: 48
-          bkv_title: 'Refined in the Furnace of Affliction: Come Out of Babylon'
+          bkv_title: The Furnace of Affliction
         - chapter: 49
-          bkv_title: The Servant Called from the Womb to Restore Israel and Nations
+          bkv_title: The Polished Shaft
         - chapter: 50
-          bkv_title: The Obedient Servant Who Gives His Back to the Smiters
+          bkv_title: The Tongue of the Learned
         - chapter: 51
-          bkv_title: Look to the Rock Whence You Were Hewn
+          bkv_title: The Rock Whence Ye Hewn
         - chapter: 52
-          bkv_title: Awake, Put On Your Strength, O Zion
+          bkv_title: The Beautiful Feet
         - chapter: 53
-          bkv_title: The Suffering Servant Wounded for Our Transgressions
+          bkv_title: The Suffering Servant
         - chapter: 54
-          bkv_title: 'Enlarge the Place of Your Tent: The Unshakable Covenant'
+          bkv_title: The Enlarged Tent
         - chapter: 55
-          bkv_title: 'Ho, Everyone Who Thirsts: The Word That Yields Its Fruit'
+          bkv_title: The Thirsty Invited
         - chapter: 56
-          bkv_title: A House of Prayer for All Peoples
+          bkv_title: The House for All Nations
         - chapter: 57
-          bkv_title: Healing for the Contrite Heart, No Peace for the Wicked
+          bkv_title: The High and Holy Place
         - chapter: 58
-          bkv_title: The True Fast That Loosens Heavy Burdens
+          bkv_title: The True Fast
         - chapter: 59
-          bkv_title: Iniquity Separates, but the Redeemer Comes to Zion
+          bkv_title: The Armor of Vengeance
         - chapter: 60
-          bkv_title: Arise, Shine, for Your Light Is Come
+          bkv_title: The Arising Light
         - chapter: 61
-          bkv_title: The Spirit of the Lord God Is Upon Me
+          bkv_title: The Oil of Joy
         - chapter: 62
-          bkv_title: A New Name Given and Watchmen Placed on the Walls
+          bkv_title: The New Name Given
         - chapter: 63
-          bkv_title: The Treader of the Winepress and the Remembrance of Mercy
+          bkv_title: The Garments Stained Red
         - chapter: 64
-          bkv_title: 'Oh That You Would Rend the Heavens: We Are the Clay'
+          bkv_title: The Heavens Rent
         - chapter: 65
-          bkv_title: The New Heavens and New Earth Promised
+          bkv_title: The New Heavens
         - chapter: 66
-          bkv_title: The Lord Looks to the Poor and Contrite Spirit
-      - title: Jeremiah
+          bkv_title: The Nation Born in a Day
+    - title: Jeremiah
         subtitle: 'The Book of Warning: The Shattered Vessel and the Internal Law'
         chapters:
         - chapter: 1
