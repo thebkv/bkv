@@ -11,7 +11,7 @@ permalink: /lamentations01/
 ---
 
 # LAMENTATIONS 1
-## THE DESOLATE CITY
+## THE LONELY CITY WEEPS
 *A BKV Narrative Rendering & Onomastic Text Analysis*
 
 ---
