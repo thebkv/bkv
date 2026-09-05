@@ -1281,7 +1281,7 @@ sections:
     - name: Major Prophets
       summary: The Prophetic Vision and Structural Correction
       books:
-- title: Isaiah
+    - title: Isaiah
       subtitle: 'The Book of Vision: Mystery of the Exhalted King'
       chapters:
       - chapter: 1
