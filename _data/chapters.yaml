@@ -1529,7 +1529,8 @@ sections:
         subtitle: 'The Book of Sorrow: Mourning the Ruin and Rebuilding Hope'
         chapters:
         - chapter: 1
-          bkv_title: How Lonely Sits the City Once Full of People
+          bkv_title: The Desolate City
+          url: /lamentations01/
         - chapter: 2
           bkv_title: The Lord Has Clouded Zion in His Anger
         - chapter: 3
