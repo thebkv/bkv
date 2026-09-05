@@ -1281,142 +1281,143 @@ sections:
     - name: Major Prophets
       summary: The Prophetic Vision and Structural Correction
       books:
-  - title: Isaiah
-        subtitle: 'The Mystery of the Exalted King'
-        chapters:
-        - chapter: 1
-          bkv_title: The Great Summons
-        - chapter: 2
-          bkv_title: The Exalted Mountain
-        - chapter: 3
-          bkv_title: The Crumbling City
-        - chapter: 4
-          bkv_title: The Branch of Beauty
-        - chapter: 5
-          bkv_title: The Song of the Vineyard
-        - chapter: 6
-          bkv_title: The Throne Room Vision
-        - chapter: 7
-          bkv_title: The Sign of Immanuel
-        - chapter: 8
-          bkv_title: The Sanctuary and the Snare
-        - chapter: 9
-          bkv_title: Light in the Dark Land
-          url: /isaiah09/
-        - chapter: 10
-          bkv_title: The Axe Against the Forest
-        - chapter: 11
-          bkv_title: The Rod from the Stem
-        - chapter: 12
-          bkv_title: The Wells of Salvation
-        - chapter: 13
-          bkv_title: The Burden of Babylon
-        - chapter: 14
-          bkv_title: The Fall of the Morning Star
-        - chapter: 15
-          bkv_title: The Cry of Moab
-        - chapter: 16
-          bkv_title: The Hidden Outcasts
-        - chapter: 17
-          bkv_title: The Forgotten Fortress
-        - chapter: 18
-          bkv_title: The Land Beyond the Rivers
-        - chapter: 19
-          bkv_title: The Idol's Trembling
-        - chapter: 20
-          bkv_title: The Barefoot Prophet
-        - chapter: 21
-          bkv_title: The Watchman in the Night
-        - chapter: 22
-          bkv_title: The Key of David
-        - chapter: 23
-          bkv_title: The Silence of the Merchant
-        - chapter: 24
-          bkv_title: The Wasted Earth
-        - chapter: 25
-          bkv_title: The Feast on the Mountain
-        - chapter: 26
-          bkv_title: The Steadfast Mind
-        - chapter: 27
-          bkv_title: The Slaying of Leviathan
-        - chapter: 28
-          bkv_title: The Tried Stone
-        - chapter: 29
-          bkv_title: The Sealed Book
-        - chapter: 30
-          bkv_title: The Shadow of Egypt
-        - chapter: 31
-          bkv_title: The Flying Birds
-        - chapter: 32
-          bkv_title: The Hiding Place
-        - chapter: 33
-          bkv_title: The King in His Beauty
-        - chapter: 34
-          bkv_title: The Sword in the Wilderness
-        - chapter: 35
-          bkv_title: The Highway of Holiness
-        - chapter: 36
-          bkv_title: The Defiance at the Wall
-        - chapter: 37
-          bkv_title: The Angel in the Camp
-        - chapter: 38
-          bkv_title: The Shadow Moved Back
-        - chapter: 39
-          bkv_title: The Treasury Revealed
-        - chapter: 40
-          bkv_title: The Voice in the Desert
-        - chapter: 41
-          bkv_title: The Worm That Threshes
-        - chapter: 42
-          bkv_title: The Bruised Reed
-        - chapter: 43
-          bkv_title: The River in the Desert
-        - chapter: 44
-          bkv_title: The Anointed Shepherd
-        - chapter: 45
-          bkv_title: The Hidden God
-        - chapter: 46
-          bkv_title: The Fallen Idols
-        - chapter: 47
-          bkv_title: The Virgin Daughter Down
-        - chapter: 48
-          bkv_title: The Furnace of Affliction
-        - chapter: 49
-          bkv_title: The Polished Shaft
-        - chapter: 50
-          bkv_title: The Tongue of the Learned
-        - chapter: 51
-          bkv_title: The Rock Whence Ye Hewn
-        - chapter: 52
-          bkv_title: The Beautiful Feet
-        - chapter: 53
-          bkv_title: The Suffering Servant
-        - chapter: 54
-          bkv_title: The Enlarged Tent
-        - chapter: 55
-          bkv_title: The Thirsty Invited
-        - chapter: 56
-          bkv_title: The House for All Nations
-        - chapter: 57
-          bkv_title: The High and Holy Place
-        - chapter: 58
-          bkv_title: The True Fast
-        - chapter: 59
-          bkv_title: The Armor of Vengeance
-        - chapter: 60
-          bkv_title: The Arising Light
-        - chapter: 61
-          bkv_title: The Oil of Joy
-        - chapter: 62
-          bkv_title: The New Name Given
-        - chapter: 63
-          bkv_title: The Garments Stained Red
-        - chapter: 64
-          bkv_title: The Heavens Rent
-        - chapter: 65
-          bkv_title: The New Heavens
-        - chapter: 66
-          bkv_title: The Nation Born in a Day
+- title: Isaiah
+      subtitle: 'The Mystery of the Exhalted King'
+      chapters:
+      - chapter: 1
+        bkv_title: The Great Summons
+      - chapter: 2
+        bkv_title: The Exalted Mountain
+      - chapter: 3
+        bkv_title: The Crumbling City
+      - chapter: 4
+        bkv_title: The Branch of Beauty
+      - chapter: 5
+        bkv_title: The Song of the Vineyard
+      - chapter: 6
+        bkv_title: The Throne Room Vision
+      - chapter: 7
+        bkv_title: The Sign of Immanuel
+      - chapter: 8
+        bkv_title: The Sanctuary and the Snare
+      - chapter: 9
+        bkv_title: Light in the Dark Land
+      - chapter: 10
+        bkv_title: The Axe Against the Forest
+      - chapter: 11
+        bkv_title: The Rod from the Stem
+      - chapter: 12
+        bkv_title: The Wells of Salvation
+      - chapter: 13
+        bkv_title: The Burden of Babylon
+      - chapter: 14
+        bkv_title: The Fall of the Morning Star
+      - chapter: 15
+        bkv_title: The Cry of Moab
+      - chapter: 16
+        bkv_title: The Hidden Outcasts
+      - chapter: 17
+        bkv_title: The Forgotten Fortress
+      - chapter: 18
+        bkv_title: The Land Beyond the Rivers
+      - chapter: 19
+        bkv_title: The Idol's Trembling
+      - chapter: 20
+        bkv_title: The Barefoot Prophet
+      - chapter: 21
+        bkv_title: The Watchman in the Night
+      - chapter: 22
+        bkv_title: The Key of David
+      - chapter: 23
+        bkv_title: The Silence of the Merchant
+      - chapter: 24
+        bkv_title: The Wasted Earth
+      - chapter: 25
+        bkv_title: The Feast on the Mountain
+      - chapter: 26
+        bkv_title: The Steadfast Mind
+      - chapter: 27
+        bkv_title: The Slaying of Leviathan
+      - chapter: 28
+        bkv_title: The Tried Stone
+      - chapter: 29
+        bkv_title: The Sealed Book
+      - chapter: 30
+        bkv_title: The Shadow of Egypt
+      - chapter: 31
+        bkv_title: The Flying Birds
+      - chapter: 32
+        bkv_title: The Hiding Place
+      - chapter: 33
+        bkv_title: The King in His Beauty
+      - chapter: 34
+        bkv_title: The Sword in the Wilderness
+      - chapter: 35
+        bkv_title: The Highway of Holiness
+      - chapter: 36
+        bkv_title: The Defiance at the Wall
+      - chapter: 37
+        bkv_title: The Angel in the Camp
+      - chapter: 38
+        bkv_title: The Shadow Moved Back
+      - chapter: 39
+        bkv_title: The Treasury Revealed
+      - chapter: 40
+        bkv_title: The Voice in the Desert
+      - chapter: 41
+        bkv_title: The Worm That Threshes
+      - chapter: 42
+        bkv_title: The Bruised Reed
+      - chapter: 43
+        bkv_title: The River in the Desert
+      - chapter: 44
+        bkv_title: The Anointed Shepherd
+      - chapter: 45
+        bkv_title: The Hidden God
+      - chapter: 46
+        bkv_title: The Fallen Idols
+      - chapter: 47
+        bkv_title: The Virgin Daughter Down
+      - chapter: 48
+        bkv_title: The Furnace of Affliction
+      - chapter: 49
+        bkv_title: The Polished Shaft
+      - chapter: 50
+        bkv_title: The Tongue of the Learned
+      - chapter: 51
+        bkv_title: The Rock Whence Ye Hewn
+      - chapter: 52
+        bkv_title: The Beautiful Feet
+      - chapter: 53
+        bkv_title: The Suffering Servant
+      - chapter: 54
+        bkv_title: The Enlarged Tent
+      - chapter: 55
+        bkv_title: The Thirsty Invited
+      - chapter: 56
+        bkv_title: The House for All Nations
+      - chapter: 57
+        bkv_title: The High and Holy Place
+      - chapter: 58
+        bkv_title: The True Fast
+      - chapter: 59
+        bkv_title: The Armor of Vengeance
+      - chapter: 60
+        bkv_title: The Arising Light
+      - chapter: 61
+        bkv_title: The Oil of Joy
+      - chapter: 62
+        bkv_title: The New Name Given
+      - chapter: 63
+        bkv_title: The Garments Stained Red
+      - chapter: 64
+        bkv_title: The Heavens Rent
+      - chapter: 65
+        bkv_title: The New Heavens
+      - chapter: 66
+        bkv_title: The Nation Born in a Day
+    
+    
     - title: Jeremiah
         subtitle: 'The Book of Warning: The Shattered Vessel and the Internal Law'
         chapters:
