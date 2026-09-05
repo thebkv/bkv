@@ -1524,21 +1524,20 @@ sections:
           bkv_title: The Final Utter Destruction of Babylon Cast Into the Euphrates
         - chapter: 52
           bkv_title: 'Historical Postscript: The Fall of Jerusalem and Evil-Merodach''s
-            Favor'
+            Favor'     
       - title: Lamentations
-        subtitle: 'The Book of Sorrow: Mourning the Ruin and Rebuilding Hope'
+        subtitle: 'The Mystery of the Ruined City'
         chapters:
         - chapter: 1
-          bkv_title: The Desolate City
-          url: /lamentations01/
+          bkv_title: The Lonely City Weeps
         - chapter: 2
-          bkv_title: The Lord Has Clouded Zion in His Anger
+          bkv_title: The Cloud of Divine Wrath
         - chapter: 3
-          bkv_title: 'Great Is Your Faithfulness: New Mercies Every Morning'
+          bkv_title: The Hope in the Ashes
         - chapter: 4
-          bkv_title: The Gold Has Grown Dim and the Precious Stones Scattered
+          bkv_title: The Tarnished Gold
         - chapter: 5
-          bkv_title: Restore Us to Yourself, O Lord, and We Shall Be Restored
+          bkv_title: The Cry for Restoration              
       - title: Ezekiel
         subtitle: 'The Book of Glory: The Vision of Living Structures and the Departure
           of the Presence'
