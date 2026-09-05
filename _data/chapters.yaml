@@ -1530,6 +1530,7 @@ sections:
         chapters:
         - chapter: 1
           bkv_title: The Lonely City Weeps
+          url: /lamentations01/
         - chapter: 2
           bkv_title: The Cloud of Divine Wrath
         - chapter: 3
