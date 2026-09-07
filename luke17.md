@@ -10,9 +10,9 @@ permalink: /luke17/
 
 ## BKV Insight
 
-Luke 17 brings several teachings together that can seem unrelated at first. Jesus speaks about offenses, forgiveness, faith, service, cleansing, the coming of the Kingdom, Noah, Lot, and the person who tries to save his own life.
+Luke 17 brings several messages together that can seem unrelated at first. Jesus speaks about offenses, forgiveness, faith, service, cleansing, the coming of the Kingdom, Noah, Lot, and the person who tries to save his own life.
 
-Then, near the center of the chapter, Jesus tells us where to look:
+Then, near the middle of the chapter, Jesus tells us where to look:
 
 > “Neither shall they say, Lo here! or, lo there! for, behold, **the kingdom of God is within you.**”
 
