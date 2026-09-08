@@ -3,10 +3,10 @@ book: Isaiah
 chapter: 13
 focus:
   - God summons the forces that will bring Babylon down
-  - Babylon represents a powerful human order that has reached its appointed end
-  - the darkened heavens show the collapse of the world ordered beneath that power
-  - the great city finally becomes empty and desolate
-summary: "God summons the fall of Babylon, bringing down the proud city and the world it had gathered under its rule."
+  - Babylon as the fully developed separated self
+  - the darkened heavens as the collapse of Babylon's governing world
+  - the great city losing its power to gather and hold life
+summary: "God summons the fall of Babylon, the fully developed separated self, bringing down the inner world that had gathered its powers under a human-centered government."
 permalink: /isaiah13/
 ---
 
@@ -20,39 +20,49 @@ permalink: /isaiah13/
 
 ## BKV Insight
 
-**Isaiah 13 shows Babylon coming down. The great city that gathered power, wealth, and nations under its government cannot stand when God calls its time to an end. Within the disciple, Babylon is the constructed order of the separated self, and its fall releases territory for the kingdom of God.**
+**Isaiah 13 shows the fall of Babylon, the fully developed separated self: an entire inner world built around human-centered government. What once gathered the faculties, defined reality, and held the holy city captive is brought down when God calls its appointed time.**
 
-Isaiah sees a banner raised on a mountain. God is gathering forces from far away, and their destination is Babylon.
+Babylon is more developed than a single wrong thought or desire. It is a city and a kingdom. Many powers have gathered there and learned to live under the same government.
 
-Then the world begins to shake.
+This pattern begins much earlier in Scripture.
 
-The stars go dark. The sun and moon stop giving their light. The proud are brought low. People scatter, and the wealth of Babylon can no longer protect it.
+In Genesis 11, **Babel** is still being built. The people gather together and say:
 
-Finally the city itself becomes empty.
+> "Go to, let us build us a city and a tower..."
 
-This is a remarkable destination for Babylon. It had been "the glory of kingdoms." People had gathered there. Wealth had gathered there. Political power had gathered there. An entire world had been organized around the city.
+Then:
 
-Now the houses are empty and wild creatures live among the ruins.
+> "let us make us a name."
 
-The Bible will return to Babylon again and again because this pattern is larger than one ancient empire. Babel appears in Genesis. Babylon carries Judah into captivity. Isaiah and Jeremiah announce its fall. Revelation eventually sees Babylon again as the great city whose influence reaches across the nations.
+Human powers gather around a human center.
 
-The historical city gives the symbol its shape.
+By the time we reach the historical Babylon, the city has become an empire. It gathers wealth, peoples, military power, religion, culture, and political authority into an enormous governing world. Eventually Babylon becomes powerful enough to capture **Jerusalem** and carry its people into captivity.
 
-**Babylon is a world built under human government that becomes powerful enough to hold others inside it.**
+The biblical development gives us the BKV function.
 
-Isaiah 13 shows what happens when God brings that government to an end.
+**Babel is the separated self organizing itself.**
+
+**Babylon is that separated order fully developed into a governing world.**
+
+Isaiah 13 sees the world coming down.
+
+A banner is raised on a mountain. God summons forces from far away. Babylon's familiar lights go dark. Its wealth cannot save it. Its people scatter. Finally its houses stand empty and creatures of the wilderness inhabit its palaces.
+
+The city that gathered everything under its government loses its power to gather.
+
+Babylon falls.
 
 ---
 
 ## Canonical History & Context
 
-Isaiah introduces the prophecy simply:
+Isaiah introduces the prophecy plainly:
 
 > "The burden of Babylon, which Isaiah the son of Amoz did see."
 
-This is striking because **Assyria** was the dominant imperial power during much of Isaiah's lifetime.
+This is striking because **Assyria** was the dominant imperial threat during much of Isaiah's lifetime.
 
-Babylon's great moment was still ahead.
+Babylon's great imperial moment was still ahead.
 
 The Neo-Babylonian Empire would eventually conquer Judah. Jerusalem fell to the forces of Nebuchadnezzar in 586 BC, and many of its people were carried into Babylonian captivity.
 
@@ -62,15 +72,17 @@ Isaiah looks beyond that coming disaster and sees something Judah itself would e
 
 In 539 BC, Babylon passed into the hands of Cyrus and the Persian Empire. Isaiah 13 specifically names the **Medes** among the forces raised against Babylon.
 
-This gives the chapter an important place in Isaiah's larger vision.
+The historical sequence is important for the BKV pattern.
 
-Judah can fall.
+Babylon becomes powerful enough to take Jerusalem captive.
 
-Jerusalem can be captured.
+Yet Babylon remains beneath the government of God.
 
-Babylon can become enormously powerful.
+Its strength has a limit.
 
-Yet Babylon never becomes the highest government in the story.
+Its captivity has a limit.
+
+Its world has a limit.
 
 Isaiah sees beyond the empire to the God who can summon its end.
 
@@ -88,11 +100,11 @@ Then the commands begin:
 
 > "Lift ye up a banner upon the high mountain, exalt the voice unto them..."
 
-A signal is raised where people can see it.
+A signal is raised where it can be seen.
 
-A multitude begins gathering.
+People begin gathering.
 
-Isaiah hears kingdoms and nations assembling from far away.
+Isaiah hears the noise of a multitude in the mountains, "like as of a great people." Kingdoms and nations are assembling from far away.
 
 Then he tells us who is directing the movement:
 
@@ -102,33 +114,39 @@ An army is gathering against Babylon.
 
 ### The Key
 
-Babylon may be the great city, but Isaiah begins his vision **above the city**, on a high mountain.
+Babylon is the great city below.
 
-From there a banner is raised.
+Isaiah's vision begins **above it**, with a banner raised on a high mountain.
 
-The LORD is mustering the forces that will bring Babylon down.
+The LORD is mustering the forces that will bring the city down.
 
-The soldiers themselves do not need to represent righteous or spiritually awakened people. Their role in this chapter is straightforward: they are the forces through which Babylon's rule will be broken.
+The soldiers themselves do not need to represent righteous or spiritually awakened people. Their minimum sufficient functional role is straightforward: they are the historical forces through which Babylon's government will be broken.
+
+The important thing is who summons them.
+
+Babylon governs an empire.
+
+God still governs the world in which Babylon exists.
 
 ### BKV
 
-Babylon feels enormous when you live inside it.
+An inner Babylon can feel enormous because we have lived inside it.
 
-An inner order can become like that.
-
-A fear begins as a thought. Other thoughts gather around it. Habits develop around those thoughts. Decisions begin serving the fear. Eventually a considerable part of life can be organized beneath one governing assumption.
+A fear begins as a thought. Other thoughts gather around it. Habits develop around those thoughts. Decisions begin serving them. Memories are interpreted through them. Eventually a considerable part of life can become organized around one governing assumption.
 
 Now there is a city.
 
+The separated self has developed a world in which its own conclusions feel like reality.
+
 Isaiah takes us above it.
 
-The banner on the mountain tells us that the city is still inside a greater kingdom.
+The banner on the mountain reveals that Babylon is still contained within a greater kingdom.
 
 God can summon its end.
 
 ---
 
-## Isaiah 13:6–8 — The Day Arrives
+## Isaiah 13:6–8 — Babylon Reaches Its Day
 
 ### What Happens
 
@@ -142,37 +160,39 @@ Hands become weak.
 
 Hearts melt.
 
-Isaiah compares the anguish to a woman in labor.
+People look at one another in amazement.
 
-The city that seemed secure now knows that something is coming which it cannot stop.
+Isaiah compares their anguish to a woman in labor.
+
+The city that seemed secure now knows that something has begun which it cannot stop.
 
 ### The Key
 
-The **day of the LORD** is the moment when God's judgment becomes active against the order being addressed.
+The **day of the LORD** is the arrival of God's decisive action against the order being addressed.
 
-Here, that order is Babylon.
+Here that order is Babylon.
 
-The labor image gives the moment a sense of inevitability. Once labor has begun, the process is moving toward an arrival.
+The labor image gives the moment a sense of inevitability. Once labor has begun, events are moving toward an arrival.
 
 Babylon has reached its appointed time.
 
 ### BKV
 
-Old inner structures can survive for years because we keep feeding them.
+A fully developed inner order can continue for years because so much of life has learned to support it.
 
-Then something changes.
-
-A truth is finally seen.
+Then truth reaches something foundational.
 
 A fear loses credibility.
 
-A false identity can no longer explain who we are.
+An identity no longer explains who we are.
 
-The old world begins to loosen.
+A governing assumption is finally seen for what it is.
 
-Isaiah calls this a day because there comes a point when what has been hidden becomes present and unavoidable.
+Once that happens, everything built around it becomes vulnerable.
 
-Babylon discovers that its time has come.
+Isaiah describes that moment as a day.
+
+Babylon has reached the point when its old world can no longer remain unchanged.
 
 ---
 
@@ -182,13 +202,13 @@ Babylon discovers that its time has come.
 
 The vision expands into the heavens:
 
-> "The stars of heaven and the constellations thereof shall not give their light."
+> "For the stars of heaven and the constellations thereof shall not give their light."
 
 The sun is darkened.
 
 The moon stops shining.
 
-Then God identifies something being judged:
+Then God identifies something at the center of the judgment:
 
 > "I will cause the arrogancy of the proud to cease, and will lay low the haughtiness of the terrible."
 
@@ -196,25 +216,29 @@ The heavens shake.
 
 The earth moves out of its place.
 
-Babylon's whole world is coming apart.
+Babylon's whole world is being overturned.
 
 ### The Key
 
 Sun, moon, and stars belong to the ordinary order of the world. They give light, mark times, and make the world recognizable.
 
-Isaiah uses their darkening to describe the scale of Babylon's overthrow.
+Isaiah uses their darkening to describe the scale of Babylon's fall.
 
-This is important for reading later prophecy because similar language appears in Joel, Ezekiel, the Gospels, and Revelation.
+This becomes important for reading later prophecy because similar language appears in Joel, Ezekiel, the Gospels, and Revelation.
 
-Isaiah gives us a clear biblical precedent:
+Isaiah gives us an important biblical precedent:
 
-**the fall of a kingdom can be described as the shaking and darkening of its world.**
+**the fall of a governing kingdom can be described as the shaking and darkening of its world.**
+
+The language is larger than the collapse of a building.
+
+An entire order is passing away.
 
 ### BKV
 
-An inner Babylon has its own lights.
+Babylon has its own sky.
 
-A person may spend years navigating by ideas such as:
+A fully developed separated self has accumulated beliefs that seem as fixed as the lights above us:
 
 *I have to control this.*
 
@@ -222,15 +246,21 @@ A person may spend years navigating by ideas such as:
 
 *This is who I am.*
 
-*This can never change.*
+*This always happens to me.*
 
-Those beliefs help organize the world built beneath them.
+*Nothing can change until the outside world changes first.*
 
-When God begins dismantling that world, its old lights stop working.
+These become the lights by which the old world is navigated.
 
-Something that once seemed unquestionably true suddenly loses its authority.
+Then God begins shaking the government beneath them.
 
-The sky over Babylon goes dark because the world beneath it is ending.
+A belief that once seemed unquestionably true loses its authority.
+
+A fear that once predicted the future can no longer do so.
+
+An old identity stops giving light.
+
+Babylon's sky goes dark because Babylon's world is ending.
 
 ---
 
@@ -238,71 +268,83 @@ The sky over Babylon goes dark because the world beneath it is ending.
 
 ### What Happens
 
-People begin scattering like frightened sheep.
+People begin scattering.
 
-Then Isaiah names the coming force:
+Isaiah compares them to a hunted gazelle and sheep without a shepherd.
+
+Then he names the coming force:
 
 > "Behold, I will stir up the Medes against them..."
 
-Isaiah adds an interesting detail.
+Isaiah adds an important detail.
 
-The Medes do not care about Babylon's silver or gold.
+The Medes do not value Babylon's silver or gold.
 
-Babylon possesses great wealth, but its wealth cannot purchase safety from what is coming.
+Babylon possesses enormous wealth, but its wealth cannot purchase safety from what is coming.
 
 ### The Key
 
-The **Medes** have a simple and important function here.
+The **Medes** have a simple function in this chapter.
 
-They are the historical force God raises against Babylon.
+They are the historical force raised against Babylon.
 
-Isaiah does not require us to turn "Mede" into an inner faculty. Their action supplies the pattern.
+Their narrative role is more important here than any attempt to derive a symbolic meaning from their name.
 
-Babylon has accumulated the normal instruments of worldly power, including wealth.
+Babylon has accumulated the normal instruments of worldly power.
 
-Now it meets a force that cannot be controlled by those instruments.
+Now it encounters a force those instruments cannot control.
+
+Its currency has stopped working.
 
 ### BKV
 
-Every inner government develops ways of keeping itself alive.
+Every developed inner government has ways of securing our continued cooperation.
 
-Fear makes threats.
+Fear threatens.
 
-Pride offers rewards.
+Pride rewards.
 
-Old habits promise comfort.
+Habit promises comfort.
 
-The separated self knows which currencies have worked before.
+Old identities tell us that leaving them would mean losing ourselves.
 
-Then transformation reaches a point where the old currency loses its value.
+These currencies work until they do not.
 
-The approval that once controlled us cannot buy the same obedience.
+Transformation reaches a point where the old offer loses its value.
 
-The fear that once decided everything makes its threat, and we discover that we can keep walking.
+The approval that once controlled us cannot purchase the same obedience.
 
-Babylon is losing its ability to purchase our allegiance.
+The fear that once determined our choices makes its familiar threat, and we discover that we can keep walking.
+
+Babylon is losing the mechanisms by which it held the inner life together.
+
+Its currency no longer buys allegiance.
 
 ---
 
-## Isaiah 13:19–22 — The City Becomes Empty
+## Isaiah 13:19–22 — The Great City Becomes Empty
 
 ### What Happens
 
-Now Isaiah gives Babylon its full title:
+Isaiah now gives Babylon its full title:
 
 > "Babylon, the glory of kingdoms, the beauty of the Chaldees' excellency..."
 
-Then he sees its future.
+This was a magnificent city.
 
-The city becomes like Sodom and Gomorrah after their overthrow.
+Then Isaiah sees what it becomes.
+
+Babylon is compared with Sodom and Gomorrah after their overthrow.
 
 People no longer settle there.
+
+Travelers do not make camp there.
 
 Shepherds do not rest their flocks there.
 
 Wild creatures inhabit the abandoned houses.
 
-The palaces become the territory of the wilderness.
+The palaces become part of the wilderness.
 
 Isaiah closes with:
 
@@ -310,39 +352,39 @@ Isaiah closes with:
 
 ### The Key
 
-The change is enormous.
+At the beginning of the chapter, Babylon gathers.
 
-At the beginning, Babylon is a center of gathering.
+By the end, Babylon is empty.
 
-By the end, it is empty.
-
-That gives us the simplest picture of what has happened.
+That movement tells us exactly what has happened.
 
 **Babylon has lost its power to gather and govern life.**
 
-The buildings may remain, but the city no longer performs the function that made it Babylon.
+The buildings may remain as ruins, but the city no longer performs the function that made it Babylon.
 
-This is also why the comparison with **Sodom and Gomorrah** works. Isaiah reaches back to an earlier biblical example of a human order that reached judgment and could no longer continue.
+The comparison with **Sodom and Gomorrah** reaches back to an earlier biblical example of an established human order that reached judgment and could no longer continue.
 
 ### BKV
 
-There is a point in transformation when an old inner city simply stops being home.
+There comes a point when an old inner city simply stops being home.
 
 You can remember the fear.
 
 You can remember the resentment.
 
-You can remember the person you thought you had to be.
+You can remember the identity you once defended.
 
-The old structures may still exist in memory, but life is no longer gathering around them.
+You may even recognize the old streets when you pass through them in memory.
+
+But life no longer gathers there.
+
+The faculties have stopped reporting to the old capital.
 
 That is Babylon becoming wilderness.
 
-The old city does not have to be maintained.
+The structures that once governed enormous portions of the interior life become empty.
 
-Its streets can become empty.
-
-The life that once lived there can move under another government.
+The life that had been gathered inside Babylon is now free to come under another government.
 
 ---
 
@@ -352,29 +394,67 @@ The life that once lived there can move under another government.
 
 The Hebrew name translated **Babylon** is **Babel**.
 
-That immediately connects the later imperial city with the city and tower of Genesis 11.
+Genesis 11 gives us the first great biblical development of that name.
 
-At Babel, humanity gathers:
+The people say:
 
 > "Go to, let us build us a city and a tower..."
 
-They also say:
+Then:
 
 > "let us make us a name."
 
-The project gathers people, construction, ambition, and identity into one human center.
+People gather.
 
-God interrupts the project, and the people are scattered.
+Materials gather.
 
-Centuries later, Babylon becomes an actual imperial city capable of gathering nations under its power.
+Labor gathers.
 
-The scale has changed.
+Ambition gathers.
 
-The function is recognizable.
+Identity gathers.
 
-**Human power gathers itself into a world centered upon itself.**
+Everything is being organized around a human center.
 
-That is the biblical root beneath the later symbol of Babylon.
+God interrupts the project, and the people scatter.
+
+Later, historical Babylon becomes something much larger.
+
+The city has become an empire.
+
+It gathers nations, wealth, military power, culture, religion, and political authority.
+
+Eventually it becomes powerful enough to capture Jerusalem itself.
+
+The pattern has matured.
+
+**Babel is the separated self organizing itself.**
+
+**Babylon is the fully developed separated self: the inner order that has gathered thoughts, desires, identities, fears, and faculties into a world governed from a human-centered capital.**
+
+The city of Genesis has become an empire.
+
+---
+
+## Babylon Takes Jerusalem Captive
+
+This gives Babylon an especially important BKV function.
+
+Babylon eventually conquers **Jerusalem**.
+
+Jerusalem is the city of David, the location of the temple, and the center associated with God's dwelling and government among His people.
+
+When Babylon captures Jerusalem, the separated order has gained control over territory that belongs under divine government.
+
+The people of Jerusalem are then carried into Babylon.
+
+That historical event gives us one of Scripture's strongest interior pictures of captivity.
+
+The faculties that belong to the holy city are now living inside another kingdom.
+
+Isaiah 13 announces that this captivity does not define the end of the story.
+
+Babylon itself can fall.
 
 ---
 
@@ -384,13 +464,15 @@ Isaiah begins with:
 
 > "Lift ye up a banner upon the high mountain."
 
-Babylon is impressive from inside Babylon.
+Babylon looks enormous from inside Babylon.
 
 Isaiah's vision begins above it.
 
-The mountain gives the reader another vantage point.
+From the mountain, the great city can be seen within its actual limits.
 
-From there the great city can be seen as one kingdom among kingdoms, still beneath the government of God.
+The interior significance follows naturally.
+
+The disciple begins to become free from an old governing world when he can see it from somewhere higher than the assumptions that created it.
 
 ---
 
@@ -398,15 +480,13 @@ From there the great city can be seen as one kingdom among kingdoms, still benea
 
 Isaiah 13 gives us an important control for later uses of **the day of the LORD**.
 
-Here the day is connected with Babylon's judgment.
+Here the day is connected directly with Babylon's judgment.
 
 The expression describes the time when God decisively deals with an order that has reached its appointed end.
 
-Later prophets will use the expression in other settings.
+Later prophets use the expression in other settings, while the basic movement remains recognizable:
 
-The function remains recognizable:
-
-**God acts, the existing order is exposed, and judgment changes what had seemed permanent.**
+**God acts → the existing order is exposed → judgment changes what had seemed permanent.**
 
 ---
 
@@ -416,11 +496,11 @@ Isaiah describes Babylon's fall with darkened stars, sun, and moon.
 
 That same family of images appears repeatedly later in Scripture.
 
-This chapter therefore gives us an important interpretive anchor.
+Isaiah 13 therefore gives us an important interpretive anchor.
 
 Cosmic language can describe the collapse of a governing world.
 
-When a kingdom falls, the people living beneath it experience the end of an entire order.
+For the people living beneath that government, everything by which the world had been ordered seems to move.
 
 Their sky has changed.
 
@@ -428,80 +508,92 @@ Their sky has changed.
 
 ## Babylon and Jerusalem
 
-Isaiah gives us two great cities moving in different directions.
+Isaiah gives us two great cities moving toward different destinations.
 
-**Babylon** gathers human glory and eventually falls.
+**Babylon** gathers power, reaches glory, takes others captive, and eventually becomes empty.
 
 **Jerusalem** becomes corrupted, passes through judgment, and is restored.
 
-The pattern becomes important for the kingdom within.
+This becomes a major interior geography for the BKV.
 
-Babylon is the interior city built around separated human government.
+**Babylon is the fully developed separated self.**
 
-Jerusalem is the interior city brought back under divine government.
+It is the constructed inner world in which human-centered government has gathered the faculties beneath itself.
 
-One city loses its inhabitants.
+**Jerusalem is the inner city of divine government.**
 
-The other becomes the faithful city again.
+It is the place associated with the King, the sanctuary, judgment, counsel, righteousness, and peace.
+
+The movement of redemption therefore includes a change of cities.
+
+The faculties leave captivity.
+
+Babylon empties.
+
+Jerusalem is restored.
 
 ---
 
 ## Babylon Across Scripture
 
-Babylon's biblical pattern grows over many books:
+Babylon's function develops over many books.
 
-**Genesis 11 — Babel is built.**
+### Genesis 11 — Babel Is Built
 
 Humanity gathers around a city, a tower, and a name.
 
-**2 Kings 24–25 — Babylon captures Jerusalem.**
+The separated order begins organizing itself.
 
-The great city becomes the place of Judah's captivity.
+### 2 Kings 24–25 — Babylon Captures Jerusalem
 
-**Isaiah and Jeremiah — Babylon is judged.**
+The city has become an empire.
 
-The captor itself reaches its appointed end.
+It is now strong enough to take the holy city captive and carry its people away.
 
-**Revelation 17–18 — Babylon appears again.**
+### Isaiah and Jeremiah — Babylon Is Judged
 
-Now the great city has become an enormous picture of worldly power, luxury, corruption, and influence over nations.
+The kingdom that held others captive reaches its own appointed end.
 
-Then comes the ancient pattern once more:
+### Revelation 17–18 — Babylon Appears Again
+
+Babylon has become the great city whose wealth, corruption, luxury, and influence reach across nations.
+
+Then the old announcement returns:
 
 > "Babylon the great is fallen, is fallen."
 
-The historical events build the symbol.
+The historical events have built the symbol for us.
 
-By Revelation, the reader already knows what Babylon does.
+Babylon gathers.
 
-It gathers.
+Babylon organizes.
 
-It governs.
+Babylon governs.
 
-It captivates.
+Babylon captivates.
 
-It glorifies itself.
+Babylon glorifies itself.
 
-And eventually it falls.
+Babylon falls.
 
 ---
 
 # Onomastics
 
-The definitions in Isaiah 13 become most useful when they are read together with what each name actually does in the story.
+Isaiah 13 becomes easier to read when each definition leads directly into its biblical role and then into its BKV function.
 
-| Name / Place | Meaning | What It Does in Isaiah 13 | BKV Function |
+| Name / Place | Meaning | Biblical Function | BKV Function |
 |---|---|---|---|
-| **Isaiah — Yeshayahu** | **YHWH saves** | Sees Babylon's fall before the great city reaches the height of its later power | The prophetic sight that sees the old order from God's higher government |
-| **Babylon / Babel — Bavel** | Genesis connects the name with **confusion / mixing** | The glorious imperial city gathers power and nations, then falls and becomes empty | **The constructed order of the separated self: thoughts, desires, fears, and powers gathered under a human-centered government** |
-| **LORD of hosts — YHWH Tseva'ot** | **LORD of armies / hosts** | Musters the forces that bring Babylon down | **The divine government above every lesser power** |
-| **Day of the LORD** | The appointed time of divine action | Marks the arrival of Babylon's judgment | **The point when an old inner order has reached its end and God's judgment becomes active within it** |
-| **Medes — Madai** | Historical people of the Median realm | Rise against Babylon and cannot be bought with its wealth | **The force through which the old government loses its power; their narrative function matters more here than the name's etymology** |
-| **Chaldeans — Kasdim** | People associated with the Babylonian Empire | Their excellence and glory are identified with Babylon | **The people and powers gathered into Babylon's larger system** |
-| **Sodom** | Ancient city of Genesis 19 | Supplies an earlier biblical example of a city brought to final judgment | **A remembered pattern of an established corrupt order reaching its end** |
-| **Gomorrah** | City paired with Sodom | Strengthens Isaiah's comparison with earlier divine judgment | **A second witness to the same pattern of complete overthrow** |
+| **Isaiah — יְשַׁעְיָהוּ / Yeshayahu** | **YHWH saves** | Sees Babylon's fall before the great city reaches the height of its later power | **Prophetic sight that sees the separated order from the higher government of God** |
+| **Babylon / Babel — בָּבֶל / Bavel** | Genesis 11 connects the name with **confusion / mixing** | Begins as Babel, becomes the great imperial city, takes Jerusalem captive, and eventually falls | **The fully developed separated self: thoughts, desires, identities, fears, and faculties gathered into an organized inner world under human-centered government** |
+| **LORD of hosts — YHWH Tseva'ot** | **LORD of armies / hosts** | Musters the forces that bring Babylon down | **The divine government above every power operating within the inner world** |
+| **Day of the LORD** | The appointed time of divine action | Marks the arrival of Babylon's judgment | **The point when the separated order reaches its end and divine judgment actively dismantles its government** |
+| **Medes — Madai** | Historical people of the Median realm | Rise against Babylon and cannot be bought with its wealth | **The force through which Babylon loses its control; their narrative role is stronger here than any proposed symbolic etymology** |
+| **Chaldeans — Kasdim** | People associated with the Babylonian Empire | Their glory and excellence are gathered into Babylon | **The powers and inhabitants participating in the developed Babylonian order** |
+| **Sodom** | Ancient city destroyed in Genesis 19 | Supplies an earlier biblical pattern of a city reaching final judgment | **A remembered example of an established corrupt order reaching its end** |
+| **Gomorrah** | City paired with Sodom | Strengthens Isaiah's comparison with earlier judgment | **A second witness to the same pattern of complete overthrow** |
 | **High Mountain** | Elevated place | Holds the banner from which the summons is given | **The higher vantage of divine government from which Babylon can be seen within its true limits** |
-| **Banner — Nes** | **Signal / standard** | Calls and gathers the forces against Babylon | **The divine summons around which the movement away from the old government gathers** |
+| **Banner — נֵס / Nes** | **Signal / standard** | Calls and gathers the forces against Babylon | **The divine summons around which the dismantling of the old government begins** |
 
 ---
 
@@ -509,59 +601,95 @@ The definitions in Isaiah 13 become most useful when they are read together with
 
 Isaiah begins with Babylon still standing.
 
-It is wealthy, beautiful, powerful, and filled with people.
+It is wealthy.
+
+It is beautiful.
+
+It is powerful.
+
+It is full.
 
 An entire world has gathered around it.
 
-Then a banner rises above the city.
+That is what makes Babylon different from a passing thought or an isolated mistake.
+
+**Babylon is developed.**
+
+A governing idea has gathered other powers around itself until an entire world exists beneath it.
+
+This begins in Genesis with Babel:
+
+> "let us build us a city"
+
+and:
+
+> "let us make us a name."
+
+The separated self begins organizing its own world.
+
+Eventually the city becomes an empire.
+
+Babylon becomes powerful enough to capture Jerusalem and carry its people into captivity.
+
+The separated government now holds faculties that belong to the holy city.
+
+Isaiah sees what happens next.
+
+A banner rises above Babylon.
 
 God summons the forces.
 
-Fear moves through Babylon.
+Fear moves through the city.
 
 Its stars go dark.
 
 Its sun stops shining.
 
-Its wealth loses the power to save it.
+Its wealth loses its power.
 
-People scatter.
+Its people scatter.
 
-Finally the houses themselves become empty.
+Its houses become empty.
 
-Now we can see the pattern.
+The fully developed separated self is being dismantled.
 
-Babylon is built whenever life gathers around a governing idea that has separated itself from God.
+A fear that became a city can fall.
 
-A fear can become Babylon.
+An identity that became a city can fall.
 
-So can pride.
+A system of approval, control, resentment, pride, or appearances that gathered years of thought and desire around itself can fall.
 
-So can an identity built entirely from appearances.
+And when Babylon falls, the faculties it held do not disappear.
 
-Thoughts gather around it. Desires begin serving it. Habits reinforce it. Decisions protect it. Eventually the person can live inside an entire world built around something that was never meant to be king.
+They are released from captivity.
 
-Isaiah shows that world from a higher place.
+That is where the larger biblical movement becomes visible.
 
-The banner is already on the mountain.
+**Babel is built.**
+
+**Babylon develops.**
+
+**Jerusalem is taken captive.**
+
+**Babylon falls.**
+
+**The captives return.**
+
+**Jerusalem is restored.**
+
+The disciple is watching the geography of the kingdom within.
+
+The great city of the separated self can look permanent while we are living inside it.
+
+Isaiah sees it from the mountain.
 
 Babylon has boundaries.
 
 Babylon has an appointed time.
 
-Babylon can fall.
+Babylon can become empty.
 
-And when it does, the powers that once gathered around it become available for another kingdom.
-
-This is where Isaiah's two-city pattern becomes powerful for the disciple.
-
-**Babylon is emptied.**
-
-**Jerusalem is restored.**
-
-The interior life does not remain without a city.
-
-It comes home to the city of the King.
+The powers of the life can come home.
 
 ---
 
