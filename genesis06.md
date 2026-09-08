@@ -10,7 +10,7 @@ summary: As corruption fills the earth, God calls Noah to build the place in whi
 permalink: /genesis06/
 ---
 
-# Genesis 6 — The Secret of the Ark
+# Genesis 6 — The Gathering Storm
 
 ## THE COMING FLOOD
 
