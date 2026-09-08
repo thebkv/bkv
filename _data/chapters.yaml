@@ -10,16 +10,22 @@ sections:
       chapters:
       - chapter: 1
         bkv_title: The Mystery of Creation
+        url: /genesis01/
       - chapter: 2
         bkv_title: The Breath in the Clay
+        url: /genesis02/
       - chapter: 3
         bkv_title: The Forbidden Tree
+        url: /genesis03/
       - chapter: 4
         bkv_title: The Mark of Cain
+        url: /genesis04/
       - chapter: 5
         bkv_title: The Secret Lineage
+        url: /genesis05/
       - chapter: 6
         bkv_title: The Gathering Storm
+        url: /genesis06/
       - chapter: 7
         bkv_title: The Deluge Unleashed
       - chapter: 8
