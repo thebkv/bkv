@@ -421,7 +421,11 @@ Genesis 1 gives us the pattern at the scale of the world.
 
 ### The Ancient Pattern and the Modern Picture
 
-There is something else amazing here. The difference in time between Moses's account and modern science appears to be vast - 6 days vs. 6 to 13 billion years. But even this is not the difference we might assume. Advanced science has determined that during the big bang, "time" moved much much faster than it does to us today. It is not inconceivable that the first phase of the universe did indeed appear in what might look to us like a day.
+We often hear of a collision between the six days of Genesis and the billions of years spoken of by modern cosmology. Yet even here, the apparent wall between ancient text and modern physics is not quite what it seems.
+
+Modern astrophysics demonstrates that time itself is not an absolute, flat clock ticking uniformly across eternity. Under general relativity, time is bound to space, gravity, and cosmic expansion. In the hyper-dense, high-gravity origin of the cosmos, the frame of time would be calculated under conditions wildly different from the calm, expanded universe we inhabit today. What measures as billions of years from our late, expanded vantage point could compress into a brief sequence of periods from the frame of the early universe itself.
+
+Genesis does not present a scientific manual on cosmic physics, nor does modern science possess the final word on the nature of time. But it is worth noting that the deeper science peers into the morning of creation, the more it uncovers a cosmos that erupted out of nothing, bounded by light, and unfolded through a deep, expanding order that matches the very rhythm spoken by Moses long ago.
 
 ---
 
