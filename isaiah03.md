@@ -12,7 +12,7 @@ permalink: /isaiah03/
 
 # ISAIAH 3
 
-## WHEN THE PILLARS FALL
+## THE CRUMBLING CITY
 
 *The Old Order Begins to Come Down*
 
