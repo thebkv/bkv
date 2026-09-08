@@ -524,13 +524,9 @@ The correspondence rests on function rather than on assigning an arbitrary facul
 
 ## Sword → Plowshare
 
-Isaiah does not discard the metal.
+Isaiah changes the purpose of the metal.
 
-He changes its purpose.
-
-The sword becomes a plowshare.
-
-The spear becomes a pruninghook.
+The sword becomes a plowshare and the spear becomes a pruninghook.
 
 The strength once used to cut an enemy now opens soil. The strength once used to pierce now tends a living vine.
 
