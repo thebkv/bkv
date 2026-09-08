@@ -4,110 +4,110 @@ sections:
     number: 1
     name: Formation
     summary: Formation of the Inner Law
-    books:
+        books:
     - title: Genesis
-      subtitle: 'The Book of Beginnings: The Emergence of Divine Ideas Into Form'
+      subtitle: 'The Mystery of the Seed and the Primordial Order'
       chapters:
       - chapter: 1
-        bkv_title: Order Established from Undifferentiated Potential
+        bkv_title: The Mystery of Creation
       - chapter: 2
-        bkv_title: Authority Placed Within Form
+        bkv_title: The Breath in the Clay
       - chapter: 3
-        bkv_title: Boundary Crossed, Order Strained
+        bkv_title: The Forbidden Tree
       - chapter: 4
-        bkv_title: Fracture Spreads Into Relationship
+        bkv_title: The Mark of Cain
       - chapter: 5
-        bkv_title: Continuity Under Mortality
+        bkv_title: The Secret Lineage
       - chapter: 6
-        bkv_title: Corruption Saturates, Preservation Prepared
+        bkv_title: The Gathering Storm
       - chapter: 7
-        bkv_title: Judgment as Containment, Not Annihilation
+        bkv_title: The Deluge Unleashed
       - chapter: 8
-        bkv_title: Restoration After Containment
+        bkv_title: The Raven and the Dove
       - chapter: 9
-        bkv_title: Authority Re-Granted and Life Bounded
+        bkv_title: The Sign in the Cloud
       - chapter: 10
-        bkv_title: Ordered Diversity of Nations
+        bkv_title: The Table of Nations
       - chapter: 11
-        bkv_title: Unified Power and Fragmented Speech
+        bkv_title: The Tower of Confusion
       - chapter: 12
-        bkv_title: Call Without Full Clarity
+        bkv_title: The Call to the Unknown
       - chapter: 13
-        bkv_title: Separation Without Fracture
+        bkv_title: The Parting of Paths
       - chapter: 14
-        bkv_title: Rescue Without Domination
+        bkv_title: The Secret of Melchizedek
       - chapter: 15
-        bkv_title: Covenant Without Performance
+        bkv_title: The Burning Torch
       - chapter: 16
-        bkv_title: Attempted Fulfillment Through Control
+        bkv_title: The Well of the Living One
       - chapter: 17
-        bkv_title: Identity Sealed by Promise
+        bkv_title: The Sign of the Covenant
       - chapter: 18
-        bkv_title: Intercession and Discernment
+        bkv_title: The Three Visitors
       - chapter: 19
-        bkv_title: Judgment and the Cost of Delay
+        bkv_title: The Fire Over Sodom
       - chapter: 20
-        bkv_title: Preservation Without Maturity
+        bkv_title: The King's Warning
       - chapter: 21
-        bkv_title: Fulfillment Without Forgetting the Cost
+        bkv_title: The Laughing Child
       - chapter: 22
-        bkv_title: Release, Trust, and Provision Revealed
+        bkv_title: The Binding on the Mount
       - chapter: 23
-        bkv_title: Securing Legacy Through Proper Closure
+        bkv_title: The Cave of Machpelah
       - chapter: 24
-        bkv_title: Covenant Extended Through Discernment
+        bkv_title: The Bride at the Well
       - chapter: 25
-        bkv_title: Transition of Generations
+        bkv_title: The Birthright Sold
       - chapter: 26
-        bkv_title: Inherited Promise Under Pressure
+        bkv_title: The Battle for the Wells
       - chapter: 27
-        bkv_title: Authority Taken Without Alignment
+        bkv_title: The Stolen Blessing
       - chapter: 28
-        bkv_title: Encounter and Re-Orientation
+        bkv_title: The Ladder to Heaven
       - chapter: 29
-        bkv_title: Desire, Labor, and Deferred Fulfillment
+        bkv_title: The Seven-Year Labor
       - chapter: 30
-        bkv_title: Production Without Peace
+        bkv_title: The Speckled Flock
       - chapter: 31
-        bkv_title: Separation and Boundary Restoration
+        bkv_title: The Flight from Laban
       - chapter: 32
-        bkv_title: Identity Wrestled Into Coherence
+        bkv_title: The Midnight Wrestler
       - chapter: 33
-        bkv_title: Reconciliation Without Domination
+        bkv_title: The Four Hundred Men
       - chapter: 34
-        bkv_title: Violation and Misapplied Justice
+        bkv_title: The Breach at Shechem
       - chapter: 35
-        bkv_title: Re-Alignment and Housekeeping
+        bkv_title: The Return to Bethel
       - chapter: 36
-        bkv_title: Catalog of External Power Lines
+        bkv_title: The Dukes of Edom
       - chapter: 37
-        bkv_title: Calling Revealed Before Maturity
+        bkv_title: The Coat of Many Colors
       - chapter: 38
-        bkv_title: Disrupted Line and Unexpected Preservation
+        bkv_title: The Signet and the Staff
       - chapter: 39
-        bkv_title: Integrity Preserved Under Pressure
+        bkv_title: The Prisoner in Egypt
       - chapter: 40
-        bkv_title: Delay Without Abandonment
+        bkv_title: The Dreams in the Dungeon
       - chapter: 41
-        bkv_title: Authority Recognized Through Wisdom
+        bkv_title: The Ring of Pharaoh
       - chapter: 42
-        bkv_title: Guilt Confronted Before Restoration
+        bkv_title: The Money in the Sacks
       - chapter: 43
-        bkv_title: Trust Tested Through Provision
+        bkv_title: The Banquet of Secrets
       - chapter: 44
-        bkv_title: Substitution and Revealed Character
+        bkv_title: The Silver Goblet
       - chapter: 45
-        bkv_title: Identity Revealed and Authority Reframed
+        bkv_title: The Brother Revealed
       - chapter: 46
-        bkv_title: Preservation Through Descent
+        bkv_title: The Descent to Goshen
       - chapter: 47
-        bkv_title: Settlement and Sustained Provision
+        bkv_title: The Land of Goshen
       - chapter: 48
-        bkv_title: Blessing That Reorders Expectation
+        bkv_title: The Crossed Hands
       - chapter: 49
-        bkv_title: Spoken Futures and Functional Destinies
+        bkv_title: The Lion of Judah
       - chapter: 50
-        bkv_title: Closure Without Loss of Promise
+        bkv_title: The Bones of Joseph
     - title: Exodus
       subtitle: 'The Book of Deliverance: The God-Given Faculties Released from Bondage'
       chapters:
