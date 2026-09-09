@@ -1290,6 +1290,9 @@ sections:
       - title: Isaiah
         subtitle: 'The Book of Vision: Mystery of the Exhalted King'
         chapters:
+        - chapter: 0
+          bkv_title: The Vision of Isaiah
+          url: /isaiah00/
         - chapter: 1
           bkv_title: The Great Summons
           url: /isaiah01/
