@@ -1546,12 +1546,16 @@ sections:
           url: /lamentations01/
         - chapter: 2
           bkv_title: The Cloud of Divine Wrath
+          url: /lamentations02/
         - chapter: 3
           bkv_title: The Hope in the Ashes
+          url: /lamentations03/
         - chapter: 4
           bkv_title: The Tarnished Gold
+          url: /lamentations04/
         - chapter: 5
-          bkv_title: The Cry for Restoration              
+          bkv_title: The Cry for Restoration    
+          url: /lamentations05/
       - title: Ezekiel
         subtitle: 'The Book of Glory: The Vision of Living Structures and the Departure
           of the Presence'
