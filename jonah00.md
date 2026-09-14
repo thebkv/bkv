@@ -1,17 +1,14 @@
 ---
-
 book: Jonah
 chapter: 0
 focus:
-
-* the prophetic call, contrary movement, descent, deliverance, and restored commission
-* the difference between outward obedience and inward agreement with divine mercy
-* the recurring biblical architecture of descent through death-like confinement into restored life
-* Nineveh, the nations, repentance, judgment, and the mercy of God
-* Jonah's final exposure beneath the plant and the unresolved question of Chapter 4
-  summary: "Jonah follows a prophet who receives the word of the LORD, moves in the opposite direction, descends through the sea into death-like confinement, is restored to his commission, and then discovers that outward obedience has not yet brought his inner government into agreement with the mercy of God."
-  permalink: /jonah00/
-
+  - the prophetic call, contrary movement, descent, deliverance, and restored commission
+  - the difference between outward obedience and inward agreement with divine mercy
+  - the recurring biblical architecture of descent through death-like confinement into restored life
+  - Nineveh, the nations, repentance, judgment, and the mercy of God
+  - Jonah's final exposure beneath the plant and the unresolved question of Chapter 4
+summary: "Jonah follows a prophet who receives the word of the LORD, moves in the opposite direction, descends..."
+permalink: /jonah00/
 ---
 
 # JONAH 00
