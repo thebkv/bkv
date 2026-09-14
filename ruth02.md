@@ -3,11 +3,11 @@ book: Ruth
 chapter: 2
 focus:
   - Ruth entering the field as a poor widow and stranger under the provision of Torah
-  - Boaz recognizing Ruth and establishing protection, water, food, and abundant provision around her
-  - Ruth's movement from unknown gleaner to recognized and favored stranger
+  - Boaz recognizing Ruth and establishing protection, food, water, and abundant provision around her
+  - the movement from lawful gleaning into personal favor and recognition
   - refuge beneath the wings of the LORD
   - Naomi recognizing Boaz as near kin and the first appearance of redemption
-summary: "Ruth 2 follows Ruth into the harvest field, where the Moabite stranger enters through the provision already established in God's law, is seen and protected by Boaz, receives abundance beyond ordinary gleaning, and returns to Naomi carrying the first visible evidence that their emptiness is beginning to be answered."
+summary: "Ruth 2 follows Ruth into the harvest field, where the Moabite stranger discovers that God's law has already made provision for her condition. Boaz then enlarges that provision through protection, food, and deliberate generosity, and Naomi recognizes that the man behind the abundance is one of their near kinsmen."
 permalink: /ruth02/
 ---
 
@@ -20,139 +20,61 @@ permalink: /ruth02/
 
 ## BKV Insight
 
-Ruth 1 ends with two widows arriving in Bethlehem:
+Ruth 2 is about **entering an order that already has provision built into it**.
 
-> “in the beginning of barley harvest.”
+Ruth arrives in Bethlehem with no land, no husband, no inheritance, and no standing of her own. She is still repeatedly identified as a Moabite, and when Boaz notices her she calls herself a stranger. Yet when she goes into the fields looking for food, she discovers that Israel's law has already made a place for someone in exactly her condition.
 
-Naomi has just described herself as empty.
+Torah required landowners to leave part of the harvest for the poor, the widow, and the stranger. Ruth qualifies from every direction. She enters Bethlehem with almost nothing, but she has entered a covenant order in which the vulnerable are not supposed to be forgotten.
 
-Ruth 2 begins answering that emptiness.
+That is the first movement of the chapter.
 
-But the answer does not arrive as a finished inheritance.
+Ruth does not begin by receiving a miracle that removes her need to work. She enters the field and gleans. She gathers what the law has deliberately left available to her.
 
-It begins with gleaning.
+Then Boaz notices her.
 
-Ruth goes into a field to gather what the reapers leave behind.
+From that point, the chapter moves beyond the minimum provision guaranteed by law. Boaz tells Ruth to remain in his field, commands the young men not to touch her, gives her access to water, invites her to eat with the workers, and instructs the reapers to pull grain deliberately from the bundles and leave it where she can gather it.
 
-She owns nothing there.
+Ruth is still gleaning, but her experience of the field has changed. She entered under the general provision of Torah and now receives personal favor within that order.
 
-She has no position there.
+Boaz explains why.
 
-She is still identified as:
-
-> “Ruth the Moabitess.”
-
-And when Boaz notices her, Ruth describes herself with another important word:
-
-> “a stranger.”
-
-Yet Ruth has entered a land whose law has already made provision for someone in exactly her condition.
-
-She is poor.
-
-She is widowed.
-
-She is foreign.
-
-Torah commanded Israel's landowners to leave part of the harvest available for precisely such people.
-
-So Ruth enters the field at the lowest level of possession.
-
-She does not own.
-
-She gathers.
-
-Then something changes.
-
-Boaz sees her.
-
-He has heard what she did for Naomi.
-
-He tells Ruth to remain in his field.
-
-He commands the young men not to touch her.
-
-He gives her access to water.
-
-He invites her to eat.
-
-He gives her parched grain until she is satisfied.
-
-Then he tells his workers to let grain fall deliberately where she can gather it.
-
-The gleaner is still gleaning.
-
-But the field is no longer operating around her as an indifferent place.
-
-Provision has become intentional.
-
-Then Boaz explains why he has received her this way.
-
-He tells Ruth that he knows she left her father, mother, and native land and came among a people she had not known before.
-
-Then he says:
+He has heard what Ruth did for Naomi. He knows that she left her father, mother, and native land and came among a people she had not known. Then he interprets her journey in one sentence:
 
 > “The LORD recompense thy work, and a full reward be given thee of the LORD God of Israel, under whose wings thou art come to trust.”
 
-That sentence reaches backward into Ruth 1.
+That statement reaches directly back to Ruth 1.
 
 Ruth had said:
 
 > “thy people shall be my people, and thy God my God.”
 
-Now Boaz describes what that decision has done.
+Boaz now describes that choice as coming under the wings of the LORD.
 
-Ruth has come under the wings of the LORD.
+The important point is that God's refuge is already becoming concrete in Ruth's life. It appears through a law that makes room for the stranger, a field where she can gather food, a landowner who establishes protection, workers who are told how to treat her, water she did not draw, bread she is invited to eat, and grain deliberately placed within her reach.
 
-She has entered refuge.
+The chapter therefore does not separate divine refuge from ordinary life. The refuge Ruth sought under God begins to appear through the right ordering of actual relationships and resources.
 
-She does not yet know that Boaz's words will return in Chapter 3.
+Then Ruth carries the barley home.
 
-There Ruth will ask Boaz:
-
-> “spread therefore thy skirt over thine handmaid.”
-
-The Hebrew word translated **wings** in Ruth 2:12 and **skirt** in Ruth 3:9 is the same word:
-
-**כָּנָף — kanaph.**
-
-Chapter 2 therefore establishes something Chapter 3 will make concrete.
-
-Ruth has sought refuge under God's wing.
-
-Later she will ask the redeemer to spread his wing over her.
-
-But Ruth does not know any of this when she enters the field.
-
-She is looking for food.
-
-That is important.
-
-The architecture grows from the ordinary need.
-
-Ruth gathers barley.
-
-She carries it home.
-
-Naomi sees what Ruth has brought.
-
-And suddenly Naomi asks:
-
-> “Where hast thou gleaned to day?”
-
-Ruth gives her one name:
+Naomi immediately realizes that this is more than an ordinary day of gleaning. She asks where Ruth worked, and Ruth gives her the name:
 
 **Boaz.**
 
-Naomi recognizes what Ruth cannot yet see.
+Naomi knows what Ruth does not yet know.
 
-The man whose field supplied the grain is connected to the family.
+The generous owner of the field belongs to Elimelech's family.
 
 > “The man is near of kin unto us, one of our next kinsmen.”
 
-The field has done more than feed them.
+That discovery changes the meaning of the chapter.
 
-The field has revealed the redeemer.
+Ruth went into the field looking for food.
+
+She found provision.
+
+Inside that provision she found favor.
+
+And hidden inside the favor was the first appearance of redemption.
 
 ---
 
@@ -160,201 +82,129 @@ The field has revealed the redeemer.
 
 ### Gleaning Was Built Into Israel's Law
 
-Ruth's plan is simple:
+Ruth tells Naomi:
 
 > “Let me now go to the field, and glean ears of corn after him in whose sight I shall find grace.”
 
-She is not inventing an unusual method of survival.
+She is not inventing an unusual means of survival. Torah had deliberately prevented Israelite landowners from harvesting every last portion of their fields.
 
-Torah had deliberately prevented Israelite landowners from harvesting every last portion of their fields.
-
-Leviticus 19:9–10 commands:
-
-> “thou shalt not wholly reap the corners of thy field…”
-
-The remainder was to be left:
+Leviticus 19:9–10 commands Israel not to reap the corners of the field completely and not to gather every remaining piece of the harvest. What remained was to be left:
 
 > “for the poor and stranger.”
 
-Deuteronomy 24 expands the same structure around the stranger, fatherless, and widow.
+Deuteronomy 24 expands the same principle. A forgotten sheaf was not to be retrieved by the landowner but left for the stranger, the fatherless, and the widow.
 
-If a sheaf was accidentally forgotten in the field, the owner was not to go back for it.
+Ruth stands at the intersection of these protections. She is poor, widowed, and foreign.
 
-It belonged to the vulnerable.
+Her access to the field therefore begins with something larger than Boaz's personal generosity. God's law has already made space for her before Boaz even knows who she is.
 
-Ruth qualifies from several directions.
+That distinction matters because Ruth 2 develops provision in stages.
 
-She is a widow.
+First comes **covenant provision**.
 
-She is a stranger.
+Then comes **personal favor**.
 
-She is poor enough to glean.
+Boaz does not create the right of the vulnerable to survive. He faithfully enlarges the mercy already embedded in the law.
 
-The field therefore reveals something important about the covenant order of Israel.
+### The Harvest
 
-Before Boaz personally knows Ruth, the law of God has already made room for her.
+Ruth and Naomi arrived in Bethlehem:
 
-### The Barley Harvest
+> “in the beginning of barley harvest.”
 
-Ruth and Naomi arrived at the beginning of barley harvest.
+Ruth 2 carries that setting forward. Ruth initially gleans barley, and the final verse tells us that she remains with Boaz's women through both barley and wheat harvest.
 
-Barley was among the earlier grain harvests in Israel, followed by wheat.
-
-Ruth 2 later tells us that Ruth continues gleaning:
-
-> “unto the end of barley harvest and of wheat harvest.”
-
-This means her encounter with Boaz develops into sustained provision.
-
-She does not receive one extraordinary afternoon and then disappear.
-
-She remains in his fields through the harvest season.
+Her relationship with Boaz therefore develops within a sustained season of provision. This is not one fortunate afternoon. Ruth remains in the field long enough for safety, trust, reputation, and expectation to grow.
 
 ### Boaz
 
-Chapter 2 introduces Boaz immediately:
+The chapter introduces Boaz before Ruth meets him:
 
 > “a mighty man of wealth, of the family of Elimelech.”
 
-The Hebrew expression can indicate a man of wealth, standing, ability, or substance.
+The expression presents Boaz as a man of substance and standing. He owns fields, employs workers, and possesses the resources to protect and provide.
 
-The essential narrative facts are clear.
+The narrator also tells us something Ruth does not yet know: Boaz belongs to Elimelech's extended family.
 
-Boaz has resources.
+That information will become crucial later, but Ruth first encounters Boaz simply as the owner of the field where she happens to glean.
 
-He owns fields.
+This preserves the natural progression of the story.
 
-He has servants.
+She does not enter the field looking for a redeemer.
 
-He belongs to Elimelech's extended family.
-
-These features will eventually make him capable of doing much more than giving Ruth food.
-
-But Chapter 2 lets us meet him first as a landowner.
-
-His role as redeemer is recognized only later.
-
-That order matters.
-
-Ruth first encounters the man through his character before she understands his legal relationship to the family.
+She enters looking for food.
 
 ---
 
 ## Natural Reading
 
-### Ruth 2:1 — Boaz Is Introduced Before Ruth Knows Him
+### Ruth 2:1 — Boaz Is Already There
 
 > “And Naomi had a kinsman of her husband's, a mighty man of wealth, of the family of Elimelech; and his name was Boaz.”
 
 ### What Happens
 
-The narrator introduces Boaz.
-
-He is related to Naomi through Elimelech's family and is a man of substantial standing.
-
-Ruth has not met him.
+Before Ruth leaves to glean, the narrator introduces Boaz. He is a man of standing and belongs to Elimelech's family.
 
 ### The Key
 
-The reader is given information Ruth does not yet possess.
+The reader is allowed to know something Ruth does not.
 
-This creates an important narrative difference.
+A man capable of helping this household already exists within the structure of Bethlehem, even though neither Ruth nor Naomi has yet acted upon that relationship.
 
-Ruth is about to enter a field looking for food.
-
-The reader already knows that somewhere in Bethlehem there is a man connected to the family who has the resources to help.
-
-The provision exists before Ruth recognizes it.
+Ruth is about to walk into the field looking for enough grain to eat. The reader already knows that the owner of one particular field is connected to the family she is trying to sustain.
 
 ### BKV
 
-This is a recurring feature of Ruth.
+Provision can exist before it is recognized.
 
-The characters often discover something that has already been prepared within the structure around them.
+Ruth does not create Boaz by going into the field. The relationship, the resources, and the harvest are already there.
 
-Ruth does not create Boaz by entering the field.
+Her next responsibility is much smaller than the outcome ahead of her.
 
-Boaz is already there.
-
-The family relationship already exists.
-
-The field already exists.
-
-The harvest has already begun.
-
-Ruth's task is much smaller.
-
-She goes to glean.
+She simply goes to glean.
 
 ---
 
-### Ruth 2:2–3 — Ruth Enters the Field
+### Ruth 2:2–3 — Ruth Goes to Work
 
 > “Let me now go to the field, and glean ears of corn after him in whose sight I shall find grace.”
 
 ### What Happens
 
-Ruth asks Naomi for permission to go glean.
+Ruth asks Naomi to let her go into the fields and glean behind the reapers. Naomi agrees.
 
-Naomi agrees.
-
-Ruth enters the fields and gathers behind the reapers.
-
-Then the narrator says:
+Ruth enters the fields, and the narrator says:
 
 > “her hap was to light on a part of the field belonging unto Boaz.”
 
 ### The Key
 
-Ruth's immediate purpose is food.
+Ruth's purpose is practical. She needs food for herself and Naomi.
 
-She does not set out looking for a husband.
+She does not know that the field belongs to one of Elimelech's relatives. From her perspective, she simply arrives there.
 
-She does not know she is entering the field of Elimelech's relative.
-
-From her perspective, she happens upon it.
-
-The narrative lets that ordinary uncertainty stand beside what the reader knows.
-
-This field belongs to Boaz.
+This gives the scene much of its power. Ruth is acting faithfully within the need she can see while the larger architecture remains hidden from her.
 
 ### BKV
 
-Ruth 2 gives us a useful distinction between **direction** and **knowledge of outcome**.
+Ruth 1 contained a great declaration:
 
-Ruth has already made the large decision:
+> “thy God my God.”
 
-**thy people  
-→ my people**
+Ruth 2 shows what that declaration looks like the next morning.
 
-**thy God  
-→ my God**
+She goes to work.
 
-Now she makes a much smaller decision:
-
-**I will go glean.**
-
-The larger allegiance is worked out through an ordinary act.
-
-That is often how transformation actually proceeds.
-
-A great interior decision is followed by very practical movement.
-
-Go to the field.
-
-Gather what is available.
-
-The next part of the architecture appears there.
+Large commitments usually become real through ordinary acts. Ruth has chosen a people and a God; now she learns how to live within that choice by entering the field and gathering what has been made available.
 
 ---
 
-### Ruth 2:4 — The Lord of the Field Arrives
+### Ruth 2:4 — Boaz Arrives
 
 > “And, behold, Boaz came from Bethlehem…”
 
-### What Happens
-
-Boaz arrives and greets his reapers:
+Boaz greets the reapers:
 
 > “The LORD be with you.”
 
@@ -362,377 +212,255 @@ They answer:
 
 > “The LORD bless thee.”
 
+### What Happens
+
+Boaz arrives and exchanges a blessing with his workers.
+
 ### The Key
 
-Before Boaz speaks to Ruth, the text gives us a glimpse of the environment he governs.
+Before Boaz interacts with Ruth, the text gives us a brief picture of the environment he governs.
 
-His first recorded words are blessing.
+His authority in the field is real, but his first recorded interaction with the workers is one of blessing.
 
-The workers answer him with blessing.
-
-This does not prove that every aspect of the workplace is ideal, but it establishes the tone of Boaz's relationship with those working his field.
+This prepares us for the way he will use that authority when he notices Ruth.
 
 ### BKV
 
-The field is beginning to acquire a character.
+Boaz's strength will be expressed through the order he establishes around people with less power than himself.
 
-Ruth has entered a place with an owner.
-
-That owner has authority.
-
-And the way authority operates will matter greatly.
-
-Boaz's strength will not appear through domination of the vulnerable stranger.
-
-It appears through his ability to create safety and provision around her.
+That becomes important when Ruth enters his attention.
 
 ---
 
-### Ruth 2:5–7 — “Whose Damsel Is This?”
+### Ruth 2:5–7 — Boaz Notices Ruth
 
-> “Then said Boaz unto his servant that was set over the reapers, Whose damsel is this?”
+> “Whose damsel is this?”
 
 ### What Happens
 
-Boaz notices Ruth.
+Boaz asks the servant overseeing the reapers about Ruth.
 
-The servant identifies her:
+The servant identifies her as:
 
-> “It is the Moabitish damsel that came back with Naomi out of the country of Moab.”
+> “the Moabitish damsel that came back with Naomi out of the country of Moab.”
 
-He reports that Ruth asked permission to glean and has been working diligently.
+He explains that she asked to glean and has been working steadily.
 
 ### The Key
 
-Ruth is already known by her story.
+Ruth is already known by both her origin and her conduct.
 
-She is:
+She is the Moabite woman who returned with Naomi, and she is the woman who has been working in the field.
 
-**the Moabite woman who came back with Naomi.**
-
-Her foreign identity has not disappeared.
-
-Neither has her loyalty.
-
-Both are visible.
-
-Boaz sees her first in the field, but he soon makes clear that he has already heard about her.
+The story does not erase her foreignness, but neither does it reduce her to it.
 
 ### BKV
 
-Ruth's faithfulness in Chapter 1 has entered Chapter 2 ahead of her.
+The faithfulness of Ruth 1 has reached Ruth 2 ahead of her.
 
-What she did when no reward was visible has become known.
+Her decision on the road has become visible in Bethlehem.
 
-This gives the chapter a grounded principle:
-
-**character can arrive before introduction.**
-
-Ruth is recognized in the field because of a decision made on the road.
+Character begins creating a new reputation before Ruth has any position of her own.
 
 ---
 
-### Ruth 2:8–9 — Protection Is Established
+### Ruth 2:8–9 — Boaz Establishes Protection
 
 Boaz tells Ruth:
 
 > “Go not to glean in another field…”
 
-He instructs her to stay close to his women.
-
-He says:
+He instructs her to remain near his women and says:
 
 > “have I not charged the young men that they shall not touch thee?”
 
-Then he gives her access to the water drawn by his servants.
+He also gives her access to the water drawn by his servants.
 
 ### What Happens
 
-Boaz establishes boundaries around Ruth.
-
-Remain here.
-
-Stay with these women.
-
-The young men are commanded not to harm or harass you.
-
-Drink from the water already drawn.
+Boaz tells Ruth to remain in his field and establishes clear protection around her.
 
 ### The Key
 
-Boaz's favor becomes concrete.
+The law already permits Ruth to glean.
 
-He does not merely tell Ruth:
+Boaz now gives her something more personal: a safe place to continue gleaning.
 
-**I wish you well.**
+He uses his authority to shape the environment around her. The young men are given boundaries, Ruth is told where she can remain, and she receives access to water she did not have to draw herself.
 
-He changes the conditions under which she works.
-
-She receives:
-
-**place  
-→ protection  
-→ companionship  
-→ water**
-
-This is organized mercy.
+His favor has structure.
 
 ### BKV
 
-Refuge in Scripture is not always an escape from the field.
+God's provision does not always remove a person from the field. Sometimes it creates conditions in which the field becomes safe enough to remain.
 
-Sometimes refuge changes the conditions inside the field.
-
-Ruth still works.
-
-But she now works inside established protection.
-
-For the disciple, this is an important movement.
-
-Divine provision may first appear as an ordered space in which faithful work can continue without the old threat governing it.
+Ruth continues working, but she is no longer navigating the harvest alone.
 
 ---
 
-### Ruth 2:10 — “Seeing I Am a Stranger”
+### Ruth 2:10 — The Stranger Is Seen
 
-> “Then she fell on her face, and bowed herself to the ground…”
-
-Ruth asks:
+Ruth falls before Boaz and asks:
 
 > “Why have I found grace in thine eyes, that thou shouldest take knowledge of me, seeing I am a stranger?”
 
 ### What Happens
 
-Ruth is astonished by Boaz's treatment.
-
-She understands her own position.
-
-She is foreign.
-
-She expects no special recognition.
+Ruth is surprised by Boaz's treatment and asks why he has taken notice of her.
 
 ### The Key
 
-Ruth uses the word **grace/favor**.
+Ruth understands the difference between the right to glean and the favor Boaz is showing her.
 
-She knows she has received something beyond entitlement.
+The law permits her to gather.
 
-Torah gave her access to glean.
+Boaz has personally taken knowledge of her.
 
-Boaz is giving her more.
-
-He has personally taken knowledge of her.
-
-He has established protection around her.
-
-He has invited her into the water supply of his household workers.
+That is why she asks about grace.
 
 ### BKV
 
-This is the movement from **provision** toward **recognition**.
+The movement of the chapter has become more personal.
 
-The law makes space for Ruth as a category:
+At first, Ruth discovers that there is provision for **someone in her condition**.
 
-poor,
+Now she discovers that **she herself has been seen**.
 
-widow,
-
-stranger.
-
-Boaz sees Ruth as a person.
-
-The disciple may first experience divine order impersonally:
-
-**there is provision for someone in my condition.**
-
-Then comes something more intimate:
-
-**I have been seen.**
+Divine order makes room for the stranger. Grace takes knowledge of the person standing there.
 
 ---
 
-### Ruth 2:11–12 — Under His Wings
+### Ruth 2:11–12 — Under the Wings of the LORD
 
-Boaz answers:
+Boaz tells Ruth:
 
-> “It hath fully been shewed me, all that thou hast done unto thy mother in law since the death of thine husband…”
+> “It hath fully been shewed me, all that thou hast done unto thy mother in law…”
 
-He recounts Ruth's departure from her father, mother, and native land.
+He recalls how she left her father, mother, and native land and came among a people she had not previously known.
 
-Then:
+Then he says:
 
 > “The LORD recompense thy work, and a full reward be given thee of the LORD God of Israel, under whose wings thou art come to trust.”
 
 ### What Happens
 
-Boaz explains why Ruth has received his attention.
-
-He knows what she did.
-
-He knows what she left.
-
-He knows where she came.
-
-And he interprets Ruth's journey spiritually.
-
-She has come to trust under the wings of the LORD.
+Boaz explains that Ruth's loyalty to Naomi is already known and describes her arrival in Israel as coming under the wings of the LORD.
 
 ### The Key
 
-Boaz understands Ruth 1.
+This interprets Ruth's decision in Chapter 1.
 
-Ruth's words were:
+Ruth had said:
 
-> “thy God my God.”
+> “thy people shall be my people, and thy God my God.”
 
-Boaz describes the same movement as:
+Boaz now describes that same movement as seeking refuge under God's wings.
 
-> “under whose wings thou art come to trust.”
+The Hebrew word translated **wings** is **כָּנָף — kanaph**. It can refer to a wing, edge, or the corner of a garment.
 
-The Hebrew word for **wings** is **כָּנָף — kanaph**.
+That word will return in Ruth 3 when Ruth asks Boaz:
 
-It can mean wing, edge, extremity, or the corner of a garment.
+> “spread therefore thy skirt over thine handmaid.”
 
-That range will become important in Chapter 3.
-
-For now, the function is refuge.
-
-Ruth has left one world and placed herself under the protection of the God of Israel.
+The connection begins here.
 
 ### BKV
 
-The chapter has moved through a remarkable sequence:
+Ruth has come beneath the refuge of God, and the chapter shows what that refuge begins to look like on the ground.
 
-**cleaving  
-→ entering  
-→ gleaning  
-→ being seen  
-→ protection  
-→ refuge**
+She has access to glean because of God's law.
 
-Ruth's faith begins as allegiance.
+She is protected because Boaz uses his authority rightly.
 
-Now it is being experienced as shelter.
+She receives water, food, safety, and abundance.
 
-And the shelter is arriving through concrete structures:
+The spiritual statement and the physical circumstances belong together.
 
-God's law,
-
-Boaz's field,
-
-Boaz's commands,
-
-food,
-
-water,
-
-protection.
-
-The wings of the LORD are not abstract in Ruth.
-
-They are beginning to have consequences around Ruth's actual life.
+God's wing is becoming visible through ordered human faithfulness.
 
 ---
 
-### Ruth 2:13 — Ruth Receives Comfort
+### Ruth 2:13 — Comfort Before Belonging
 
-Ruth answers:
+Ruth tells Boaz:
 
-> “Let me find favour in thy sight, my lord; for that thou hast comforted me…”
+> “thou hast comforted me…”
+
+Yet she also says:
+
+> “though I be not like unto one of thine handmaidens.”
 
 ### What Happens
 
-Ruth acknowledges that Boaz's words have comforted her.
-
-She says he has spoken:
-
-> “friendly unto thine handmaid”
-
-even though she does not hold the status of one of his handmaids.
+Ruth receives Boaz's words with gratitude while acknowledging that she does not yet belong to his household.
 
 ### The Key
 
-Ruth remains aware of the distance between herself and Boaz's household.
+This preserves an important stage in Ruth's movement.
 
-She has received favor.
+She has been welcomed and protected, but she has not yet entered the house.
 
-She has not yet entered the house.
-
-That distinction will matter later.
+The book does not hurry past the middle.
 
 ### BKV
 
-The stranger has been received without pretending she has already reached the end of the journey.
+There is real grace in being received before full establishment has arrived.
 
-This gives Ruth's transformation stages.
+Ruth does not need to pretend she has already reached the end of her journey in order to value what has been given now.
 
-She is welcome in the field.
+She has a field.
 
-She is not yet wife.
+She has safety.
 
-She is protected.
+She has provision.
 
-She is not yet redeemed.
-
-She is receiving.
-
-She has not yet entered the household.
-
-The intermediate stages are real and valuable.
+That is enough for this stage.
 
 ---
 
-### Ruth 2:14 — The Gleaner Is Invited to the Table
+### Ruth 2:14 — The Gleaner Eats with the Reapers
 
-> “And Boaz said unto her, At mealtime come thou hither, and eat of the bread…”
+Boaz tells Ruth:
+
+> “At mealtime come thou hither, and eat of the bread…”
+
+He gives her parched grain.
+
+The text says:
+
+> “she did eat, and was sufficed, and left.”
 
 ### What Happens
 
-Boaz invites Ruth to eat with the reapers.
-
-She dips her morsel in vinegar.
-
-Boaz gives her parched grain.
-
-She eats:
-
-> “and was sufficed, and left.”
+Ruth is invited to eat with the workers. She eats until she is satisfied and has food remaining.
 
 ### The Key
 
-The woman who entered the field gathering leftover grain is now invited to sit and eat.
+The woman who entered the field to gather leftover grain is now invited to the meal.
 
-And the text emphasizes abundance:
+The movement is subtle but important.
 
-she is satisfied,
+She began behind the reapers.
 
-and she has food left over.
+Now she sits among them.
 
-The opening famine is continuing to reverse.
+And the text emphasizes that she receives enough.
 
 ### BKV
 
-This is a small but beautiful movement in the chapter:
+The famine architecture is reversing.
 
-**gleaning behind  
-→ sitting among  
-→ eating until satisfied**
+Ruth came looking for what she could gather from the ground and finds herself eating until satisfied.
 
-Ruth has not yet left the position of gleaner.
+The provision also exceeds her own need, because she later carries what remains home to Naomi.
 
-But her relationship to the field is changing.
-
-The place she entered seeking scraps has become a place where she is fed at the table.
-
-And what remains after she is satisfied will later be carried to Naomi.
-
-Provision begins overflowing beyond the person who first receives it.
+What fills Ruth begins to feed another person.
 
 ---
 
-### Ruth 2:15–16 — Handfuls Are Left on Purpose
+### Ruth 2:15–16 — Grain Is Left Deliberately
 
-When Ruth returns to gleaning, Boaz commands his men:
+After Ruth returns to work, Boaz tells his servants:
 
 > “Let her glean even among the sheaves, and reproach her not.”
 
@@ -742,95 +470,73 @@ Then:
 
 ### What Happens
 
-Boaz expands Ruth's access.
-
-His workers are instructed to pull grain intentionally from the bundles and leave it where Ruth can gather it.
-
-They are not to rebuke her.
+Boaz instructs his workers to increase Ruth's access and deliberately leave grain where she can gather it.
 
 ### The Key
 
-This is no longer accidental gleaning.
+The outward activity does not change.
 
-The grain Ruth gathers still requires her to bend down and collect it.
+Ruth still gleans.
 
-But someone has intentionally placed abundance within her reach.
+What changes is the generosity operating around her.
 
-This distinction is important.
-
-Ruth continues doing the same visible activity.
-
-She gleans.
-
-What has changed is what is happening behind the scenes.
+Some of what she gathers is now there because someone intentionally placed it within reach.
 
 ### BKV
 
-There are seasons when provision still looks like gathering.
+Grace and labor are working together.
 
-The disciple may not realize how much has been deliberately placed within reach.
+Ruth bends down and gathers the grain herself, while Boaz quietly makes sure there is more to gather.
 
-Ruth's labor is genuine.
+The chapter does not force us to choose between provision and participation.
 
-Boaz's generosity is also genuine.
-
-The two operate together.
-
-She gathers what grace has placed before her.
+Both are present.
 
 ---
 
-### Ruth 2:17–18 — Ruth Carries the Harvest Home
+### Ruth 2:17–18 — Ruth Brings the Grain Home
 
 > “So she gleaned in the field until even…”
 
 ### What Happens
 
-Ruth works until evening.
+Ruth works until evening, processes the barley she gathered, and carries it home.
 
-She beats out the barley she has gathered.
-
-The result is about an ephah of barley, a substantial amount for one day's gleaning.
-
-She carries it into the city.
-
-Then she gives Naomi the food she had saved from her meal.
+She also gives Naomi the food left from her meal.
 
 ### The Key
 
-Ruth does not consume the blessing alone.
+Ruth's loyalty to Naomi remains active.
 
-She entered the field partly because Naomi needed food.
+The great declaration of Chapter 1 has become practical care.
 
-Now she returns carrying abundance.
+She did not enter the field merely to secure her own survival.
 
-The one who cleaved to Naomi in Chapter 1 continues expressing that loyalty through practical provision.
+The provision comes home with her.
 
 ### BKV
 
-Ruth's faithfulness keeps taking material form.
+Ruth shows how interior allegiance becomes visible.
 
-Chapter 1:
+> “Whither thou goest, I will go”
 
-**I will go with you.**
+has become:
 
-Chapter 2:
+**I will work so that we can eat.**
 
-**I will gather food for us.**
+The strongest symbolic readings of Ruth remain grounded in acts like this.
 
-The interior life becomes credible when allegiance enters ordinary action.
-
-Ruth's great declaration on the road has become barley carried home at night.
+Her love becomes grain in Naomi's hands.
 
 ---
 
-### Ruth 2:19 — Naomi Sees the Evidence
+### Ruth 2:19 — Naomi Recognizes That Something Happened
 
 Naomi asks:
 
 > “Where hast thou gleaned to day? and where wroughtest thou?”
 
-Then she blesses:
+Then:
 
 > “blessed be he that did take knowledge of thee.”
 
@@ -840,145 +546,109 @@ Ruth answers:
 
 ### What Happens
 
-Naomi sees the amount Ruth has brought home and realizes something unusual has occurred.
+Naomi sees the amount of grain Ruth has brought home and realizes she received unusual favor.
 
-She wants to know where Ruth worked.
+Ruth tells her where she worked.
 
-Then Ruth gives her the name.
-
-**Boaz.**
+The name is Boaz.
 
 ### The Key
 
-Naomi knows something Ruth does not.
+Ruth and Naomi hear the same name differently.
 
-The name changes Naomi's understanding of the day's events.
+For Ruth, Boaz is the generous owner of the field.
 
-Ruth sees a generous landowner.
+For Naomi, Boaz is family.
 
-Naomi recognizes family.
-
-This is the moment where provision begins revealing redemption.
+The grain makes Naomi ask the question, and the answer opens a new possibility.
 
 ### BKV
 
-Sometimes another person can recognize the significance of what has entered our life before we understand it ourselves.
+Provision becomes evidence.
 
-Ruth knows what happened.
+Naomi can see that something larger than ordinary gleaning has occurred.
 
-Naomi knows what it may mean.
+Then she learns who stands behind it.
 
-The grain becomes evidence.
-
-The field becomes connected to a larger architecture.
-
-And the name of the man who owns it changes the horizon of the story.
+The physical abundance points toward a relationship neither woman had yet been using.
 
 ---
 
-### Ruth 2:20 — Naomi Recognizes the Kinsman
+### Ruth 2:20 — The Redeemer Appears
+
+Naomi says:
 
 > “Blessed be he of the LORD, who hath not left off his kindness to the living and to the dead.”
 
-Then Naomi says:
+Then:
 
 > “The man is near of kin unto us, one of our next kinsmen.”
 
 ### What Happens
 
-Naomi blesses the LORD and identifies Boaz as one of the family's near relatives.
-
-The language begins introducing the **go'el** or redeemer structure that will dominate Chapters 3 and 4.
+Naomi identifies Boaz as one of their near relatives, introducing the family-redemption structure that will govern the remainder of the book.
 
 ### The Key
 
-Something important has changed in Naomi's speech.
+Naomi's language has begun to change.
 
 In Chapter 1 she said:
 
 > “the hand of the LORD is gone out against me.”
 
-And:
+She said:
 
 > “the Almighty hath afflicted me.”
 
-Now:
+Now she speaks of blessing and kindness.
 
-> “Blessed be he of the LORD…”
-
-and:
-
-> “who hath not left off his kindness…”
-
-Naomi's circumstances are beginning to alter her interpretation.
-
-She sees kindness again.
-
-The bitterness of Chapter 1 is not erased in one moment.
-
-But hope has entered her vocabulary.
+Nothing has erased the losses in Moab. But new evidence has entered the story, and Naomi is beginning to interpret her life through that evidence as well.
 
 ### BKV
 
-This is one of the most important transformations in Ruth 2.
+The field feeds two forms of hunger.
 
-Ruth receives grain.
+Ruth brings home grain.
 
-Naomi receives **evidence**.
+Naomi begins recovering hope.
 
-And evidence begins restoring perception.
-
-The person who believed herself empty now recognizes that divine kindness may still be operating toward:
-
-> “the living and…the dead.”
-
-The field is feeding Naomi's body.
-
-The meaning of the field is beginning to feed hope.
+The body receives provision, and the mind begins recognizing that the story may still contain redemption.
 
 ---
 
-### Ruth 2:21–22 — Remain in This Field
+### Ruth 2:21–22 — Stay in This Field
 
-Ruth tells Naomi that Boaz instructed her to remain near his workers until harvest is finished.
+Ruth explains that Boaz told her to remain with his workers until the harvest is complete.
 
-Naomi agrees:
+Naomi answers:
 
 > “It is good, my daughter, that thou go out with his maidens…”
 
 ### What Happens
 
-Naomi encourages Ruth to remain in Boaz's field rather than move among unfamiliar fields where she could encounter danger.
+Naomi encourages Ruth to remain in Boaz's field, where she is protected.
 
 ### The Key
 
-The next instruction is simple:
+The instruction is now to stay.
 
-**stay here.**
+Ruth's journey began with movement: leave Moab, return with Naomi, go into the fields.
 
-Ruth does not need to keep searching now that she has found a field characterized by protection and provision.
+Now she has found a place where continued wandering would offer no advantage.
 
-This prepares for sustained relationship.
+The right response is to remain where provision and protection have been established.
 
 ### BKV
 
-Discernment sometimes takes the form of remaining.
+Discernment includes recognizing when movement should become stability.
 
-The first movement was:
+There is a time to leave and a time to remain.
 
-**go.**
-
-Now it is:
-
-**stay.**
-
-Once a place of genuine provision and right order has been recognized, continual wandering can become unnecessary.
-
-Ruth will learn Boaz's field by remaining within it.
+Ruth has found a field where the conditions are right for the next stage of the story to develop.
 
 ---
 
-### Ruth 2:23 — Through Barley and Wheat Harvest
+### Ruth 2:23 — Through the Harvest
 
 > “So she kept fast by the maidens of Boaz to glean unto the end of barley harvest and of wheat harvest…”
 
@@ -988,247 +658,186 @@ Then:
 
 ### What Happens
 
-Ruth follows the instruction.
-
-She remains close to Boaz's women.
-
-She gleans through the barley and wheat harvests.
-
-She continues living with Naomi.
+Ruth remains in Boaz's fields through the barley and wheat harvests while continuing to live with Naomi.
 
 ### The Key
 
-The chapter ends with sustained provision.
+The chapter ends with sustained provision rather than final redemption.
 
-Ruth has not yet married Boaz.
+Ruth is still a gleaner.
 
-No legal redemption has occurred.
+She is still living with Naomi.
 
-Naomi's family inheritance has not yet been restored.
+Boaz has not married her.
 
-Yet the immediate famine has been answered.
+The family inheritance has not been restored.
 
-The women have food.
+Yet the condition of Chapter 1 has changed substantially.
 
-Ruth has a safe field.
+There is food.
 
-Boaz is known.
+There is safety.
 
-And Naomi knows he is family.
+There is relationship.
 
-Chapter 1 ended at:
-
-**the beginning of harvest.**
-
-Chapter 2 carries Ruth through:
-
-**barley harvest and wheat harvest.**
-
-The architecture is advancing.
+And now Naomi knows that Boaz belongs to the family circle capable of redemption.
 
 ### BKV
 
-Ruth 2 teaches the value of the middle stage.
+Ruth 2 is the chapter between return and redemption.
 
-The disciple has returned.
+That middle stage has its own purpose.
 
-The harvest has begun.
+The disciple may have returned to the right place without yet possessing the final inheritance. There may be a season of learning how to live within the provision already present there.
 
-Provision is real.
+Ruth does exactly that.
 
-The redeemer has been recognized.
-
-Yet full redemption has not happened.
-
-There is a season of remaining in the field.
-
-Glean.
-
-Receive.
-
-Learn.
-
-Stay near.
-
-Let provision become stable.
-
-Chapter 3 will move beyond the field.
-
-But Ruth is ready for that movement because Chapter 2 taught her where to remain.
+She stays in the field.
 
 ---
 
 ## Fractal Notes & References
 
-### 1. Stranger → Provision → Belonging
+### 1. Stranger → Provision → Recognition
 
-Ruth enters as a foreign widow with no property.
+Ruth enters Bethlehem without property or standing.
 
-Torah has already created space for her.
+Torah already makes provision for her condition, and Boaz then takes personal knowledge of her.
 
-Boaz enlarges that space through generosity.
-
-The progression begins:
+The progression is:
 
 **STRANGER  
 → GLEANER  
+→ SEEN  
 → PROTECTED  
-→ FED  
-→ RECOGNIZED**
+→ FED**
 
-Later chapters continue:
-
-**COVERED  
-→ REDEEMED  
-→ WIFE  
-→ MOTHER  
-→ ROYAL LINE**
-
-Ruth 2 is the middle passage between stranger and household.
+Later chapters continue the movement toward covering, redemption, and household.
 
 **Confidence: ESTABLISHED**
 
 ---
 
-### 2. Gleaning → Abundance
+### 2. Law → Favor
 
-Torah guarantees gleaning.
+Ruth's right to glean comes from Torah.
 
-Boaz intentionally increases what Ruth can gather.
+Boaz's generosity goes beyond the minimum requirement by giving her protection, water, food, access among the sheaves, and grain deliberately left for her.
 
-The chapter therefore moves from provision under law into provision enlarged by personal kindness.
-
-The field does not disappear.
-
-The gleaner keeps working.
-
-But scarcity no longer governs the experience.
+The chapter therefore distinguishes lawful provision from personal favor while allowing them to work together.
 
 **Confidence: ESTABLISHED**
 
 ---
 
-### 3. Refuge Beneath the Wing
+### 3. Cleaving → Refuge
 
-Boaz says Ruth has come under the LORD's **kanaph**.
+Ruth 1 says:
 
-Ruth 3 will use the same word when Ruth asks Boaz to spread his **kanaph** over her.
+> “Ruth clave unto her.”
 
-That lexical repetition establishes the architecture:
+Then:
 
-**divine refuge pronounced  
-→ human covering requested**
+> “thy people shall be my people, and thy God my God.”
 
-The second does not replace the first.
+Ruth 2 interprets that movement as coming:
 
-It becomes one way the first takes concrete form within the story.
+> “under whose wings thou art come to trust.”
+
+Her commitment has become refuge.
+
+**Confidence: STRONG RECONSTRUCTION**
+
+---
+
+### 4. The Wing → The Coming Covering
+
+Ruth 2:12 uses **kanaph** for the LORD's wings.
+
+Ruth 3:9 will use the same word when Ruth asks Boaz to spread his **kanaph** over her.
+
+This is an explicit lexical connection within the book:
+
+**divine refuge  
+→ human covering within the redemption structure**
+
+Boaz does not replace God. His later action becomes one concrete way the refuge pronounced in Chapter 2 enters Ruth's actual circumstances.
 
 **Confidence: ESTABLISHED**
 
 ---
 
-### 4. Bread → Satisfaction → Overflow
+### 5. Hunger → Satisfaction → Overflow
 
-Ruth enters because she needs food.
+Ruth enters the field because she needs food.
 
-Boaz invites her to eat.
+At Boaz's table:
 
-She is:
+> “she did eat, and was sufficed, and left.”
 
-> “sufficed”
+She later carries the remainder home to Naomi.
 
-and has some left.
-
-That remainder is carried to Naomi.
-
-This participates naturally in Scripture's recurring abundance architecture:
+The movement is:
 
 **need  
 → provision  
 → satisfaction  
-→ remainder for another**
-
-The immediate function in Ruth is concrete food.
-
-The interior correspondence is therefore strongest when kept equally concrete: received provision can become provision carried back to another.
-
-**Confidence: STRONG RECONSTRUCTION**
-
----
-
-### 5. Field → Encounter
-
-Biblical fields frequently become places where future family lines take shape, though the circumstances vary greatly.
-
-Ruth enters Boaz's field to glean.
-
-There she is seen by the man who will eventually redeem the inheritance and become her husband.
-
-The field's MSFR remains:
-
-**the place of harvest and provision where Ruth and Boaz meet.**
-
-Its larger BKV significance grows from that function rather than from assigning “field” a universal symbolic meaning.
-
-**Confidence: STRONG RECONSTRUCTION**
-
----
-
-### 6. Faithfulness → Recognition
-
-Boaz's treatment of Ruth is partly grounded in what he has heard about her conduct toward Naomi.
-
-The decision made on the road in Chapter 1 produces recognition in the field in Chapter 2.
-
-**CLEAVING  
-→ FAITHFUL ACTION  
-→ REPUTATION  
-→ RECOGNITION**
+→ provision carried to another**
 
 **Confidence: ESTABLISHED**
 
 ---
 
-### 7. Naomi: Bitterness → Evidence → Renewed Hope
+### 6. Field → Encounter → Redemption Revealed
 
-Naomi's Chapter 1 language emphasizes divine affliction and emptiness.
+The field first functions as the place where Ruth can survive through gleaning.
 
-Ruth 2 gives her concrete evidence of provision.
+Within that same place she meets Boaz.
 
-Then Naomi begins speaking of:
+Only after she carries the harvest home does Naomi identify him as near kin.
 
-**blessing, kindness, kinship, redemption.**
-
-The transformation is incomplete, but the direction is visible.
-
-This is a particularly strong interior architecture because the book lets Naomi's perception change through actual events.
+The field therefore becomes the place where immediate provision reveals a deeper possibility.
 
 **Confidence: STRONG RECONSTRUCTION**
+
+---
+
+### 7. Bitterness → Evidence → Hope
+
+Naomi's Chapter 1 interpretation is dominated by loss and divine affliction.
+
+In Chapter 2 she receives visible evidence of unusual provision and discovers that Boaz is involved.
+
+Her speech begins to change:
+
+> “Blessed be he of the LORD…”
+
+and:
+
+> “who hath not left off his kindness…”
+
+The restoration of Naomi's perception has begun.
+
+**Confidence: ESTABLISHED**
 
 ---
 
 ### 8. Gleaner → Household
 
-Ruth currently stands outside Boaz's household.
+Ruth currently receives provision from outside Boaz's household.
 
-She tells him:
+By Chapter 4 she will enter that house as his wife.
 
-> “I am not like unto one of thine handmaidens.”
-
-Yet by Ruth 4 she will enter his house as wife.
-
-The full book therefore contains a remarkable movement:
+The full book therefore contains a gradual movement:
 
 **stranger  
-→ gleaner in the field  
-→ protected under Boaz  
-→ request for covering  
-→ lawful redemption  
-→ woman entering the house**
+→ gleaner  
+→ protected worker  
+→ woman seeking covering  
+→ redeemed wife  
+→ mother**
 
-Interiorly, this can describe movement from receiving the available provision of divine order toward becoming established within it.
-
-Because every stage is supplied by Ruth itself, the correspondence is strong.
+The disciple enters the order first through the provision available there before eventually becoming established within the household.
 
 **Confidence: STRONG RECONSTRUCTION**
 
@@ -1240,9 +849,9 @@ Because every stage is supplied by Ruth itself, the correspondence is strong.
 
 **Meaning:** Traditionally associated with friendship or companionship; exact derivation uncertain.
 
-**MSFR:** Moabite widow who enters the field to provide for herself and Naomi, receives Boaz's favor, and remains through the harvest.
+**MSFR:** Moabite widow who enters the field to provide for Naomi and herself, receives Boaz's favor, and remains through the harvest.
 
-**BKV:** Ruth is now living out the cleaving of Chapter 1 through ordinary faithfulness. Her commitment becomes work, provision, and sustained presence.
+**BKV:** Ruth's importance here lies in what she does. Her cleaving in Chapter 1 becomes steady faithfulness in Chapter 2.
 
 ---
 
@@ -1250,30 +859,19 @@ Because every stage is supplied by Ruth itself, the correspondence is strong.
 
 **Meaning:** Pleasantness, pleasant, or my pleasantness.
 
-**MSFR:** Ruth's mother-in-law who recognizes the significance of Boaz and begins directing Ruth toward the possibility of redemption.
+**MSFR:** Ruth's mother-in-law, who recognizes the significance of Boaz and begins to see the possibility of family restoration.
 
-**BKV:** Chapter 2 begins the restoration of Naomi's perception. She moves from interpreting herself primarily through emptiness toward recognizing continuing divine kindness.
+**BKV:** Naomi's interpretation is beginning to change. The woman who called herself empty now recognizes that the LORD's kindness may still be active toward her household.
 
 ---
 
 ### Boaz — בֹּעַז / Bo'az
 
-**Meaning:** The precise etymology is uncertain. Traditional interpretations connecting the name with strength should remain secondary.
+**Meaning:** Exact etymology uncertain. Traditional connections with strength should remain secondary.
 
-**MSFR:** A man of standing from Elimelech's family, owner of the field, protector and provider for Ruth, and a relative capable of participating in redemption.
+**MSFR:** A man of standing from Elimelech's family, owner of the field, protector and provider for Ruth, and one of the family's potential redeemers.
 
-**BKV:** His actual functions provide a much stronger interpretation than speculative etymology.
-
-Boaz has:
-
-**standing  
-resources  
-authority  
-relationship  
-generosity  
-and boundaries.**
-
-His strength appears in what he can establish around the vulnerable.
+**BKV:** Boaz is best understood through function. He has authority and resources, and he uses both to establish protection and provision around someone vulnerable.
 
 ---
 
@@ -1281,11 +879,9 @@ His strength appears in what he can establish around the vulnerable.
 
 **Meaning:** House/place of bread or food.
 
-**MSFR:** The town to which Naomi and Ruth returned and the location of the harvest and Boaz's field.
+**MSFR:** The town to which Naomi and Ruth have returned and the location of the harvest and Boaz's field.
 
-**BKV:** Chapter 2 develops the reversal begun at the end of Chapter 1.
-
-The Bethlehem that could not feed Naomi's household is now producing enough grain for Ruth to return home carrying abundance.
+**BKV:** The famine of Ruth 1 is being reversed. Bethlehem is again producing food, and Naomi's household is beginning to receive it.
 
 ---
 
@@ -1293,146 +889,87 @@ The Bethlehem that could not feed Naomi's household is now producing enough grai
 
 **Meaning:** A person from Moab.
 
-**MSFR:** Ruth's national identity, repeatedly emphasized by the narrator and characters.
+**MSFR:** Ruth's national identity, repeatedly emphasized throughout the narrative.
 
-**BKV:** Ruth's foreignness is not erased in order for her to receive favor.
-
-The story keeps naming where she came from while showing where she is entering.
-
-That makes the transformation stronger.
-
-She is not received because the past has been hidden.
-
-She is received while it is known.
+**BKV:** Ruth's foreignness remains visible while her belonging grows. The text does not erase where she came from in order to show where she is going.
 
 ---
 
 ### Kanaph — כָּנָף
 
-This is not a personal name, but it belongs in the chapter's word ledger because it becomes structurally important.
-
 **Meaning:** Wing, edge, extremity, or corner of a garment.
 
-**Ruth 2:** Boaz says Ruth has come under the LORD's **wings**.
+**Ruth 2:** Boaz describes Ruth as having come beneath the LORD's wings.
 
-**Ruth 3:** Ruth asks Boaz to spread his **skirt/wing** over her.
+**Ruth 3:** Ruth will ask Boaz to spread his skirt or wing over her.
 
-**BKV:** The lexical connection allows the book itself to develop refuge into covering without inventing a symbol from outside the narrative.
+**BKV:** This repeated word forms one of the book's clearest internal connections between divine refuge and concrete covering.
 
 ---
 
 ### Go'el — גֹּאֵל
 
-Again, this is a functional word rather than a name.
-
-**Meaning:** Redeemer; one acting as a near relative in recovery or restoration of family rights and property.
+**Meaning:** Redeemer; a near relative who may act to recover family rights, property, or continuity.
 
 **MSFR in Ruth 2:** Naomi identifies Boaz as belonging to the family circle associated with redemption.
 
-**BKV:** The word changes the reader's understanding of the field.
-
-Boaz is not only the man who gave Ruth grain.
-
-He may have the relationship and capacity to participate in restoring what Naomi's household lost.
-
-The possibility of redemption has entered the story.
+**BKV:** The word enlarges the meaning of what happened in the field. Boaz may be capable of addressing more than the immediate need for food.
 
 ---
 
 ## The Chapter in One Movement
 
-Ruth 1 ended at the beginning of harvest.
+Ruth arrives in Bethlehem with no land of her own.
 
-Ruth 2 enters the field.
+So she goes into the field and gleans.
 
-Ruth goes because she needs food.
+That first step already places her inside an order that has made room for the poor, the widow, and the stranger. God's law has left grain available for someone exactly like her.
 
-She is a widow.
+Then Boaz sees her.
 
-A foreigner.
+He knows what she has done for Naomi, and he uses his authority to make the field safer and more generous around her. Ruth receives protection, water, bread, and grain deliberately placed within reach.
 
-A stranger.
+Boaz tells her that she has come under the wings of the LORD.
 
-She owns nothing.
+The refuge Ruth chose in Chapter 1 is beginning to take visible form.
 
-So she gleans.
+By evening Ruth has gathered far more than she expected and carries the provision home.
 
-Then Boaz arrives.
+Naomi sees the barley and knows that someone has taken unusual care of Ruth.
 
-He sees her.
-
-He already knows her story.
-
-He tells her to remain.
-
-He places protection around her.
-
-He gives her water.
-
-He invites her to eat bread.
-
-She eats until she is satisfied.
-
-Then she returns to the field.
-
-And Boaz tells his workers to pull grain from their own bundles and leave it where she can gather it.
-
-Ruth keeps gleaning.
-
-But now abundance is being placed in her path.
-
-Boaz looks at the woman who said:
-
-> “thy God my God”
-
-and tells her what her journey means:
-
-> “under whose wings thou art come to trust.”
-
-The stranger has entered refuge.
-
-Then Ruth carries the grain home.
-
-Naomi sees it.
-
-She asks where Ruth has been.
-
-Ruth gives her the name:
+Then Ruth says the name:
 
 **Boaz.**
 
-And Naomi suddenly sees beyond the barley.
+Naomi recognizes the connection immediately.
 
-This man is family.
+The man behind the abundance is near kin.
 
-This man belongs to the circle of redemption.
-
-The field has revealed something larger than food.
+For the first time, the possibility of redemption enters the story.
 
 That is Ruth 2:
 
-**HUNGER  
+**STRANGER  
 → FIELD  
 → GLEANING  
+→ PROVISION  
 → RECOGNITION  
 → PROTECTION  
-→ WATER  
-→ BREAD  
 → REFUGE  
 → ABUNDANCE  
 → RETURN TO NAOMI  
-→ THE NAME BOAZ  
-→ THE KINSMAN REVEALED**
+→ BOAZ NAMED  
+→ REDEEMER RECOGNIZED**
 
-Ruth entered the field looking for enough grain to live.
+Ruth went into the field because she needed food.
 
-She leaves carrying evidence that the story of Naomi's dead household may not be finished.
+By the end of the chapter, she has discovered something larger.
 
-Chapter 1 brought them home.
+The order she entered has provision for her.
 
-Chapter 2 gives them provision.
+The man who showed her favor belongs to the family.
 
-And hidden inside that provision is the first appearance of redemption.
+And Naomi, who returned to Bethlehem calling herself empty, can finally see that the story is beginning to open again.
 
 09/13/2026  
 © 2026 Luke Stewart | The Bible Key  
