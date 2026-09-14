@@ -8,7 +8,7 @@ focus:
   - waiting
   - self-examination
   - return
-summary: From the deepest affliction in Lamentations comes the book's great turning point: the sufferer remembers the character of the LORD, learns to wait beneath His hand, searches his ways, and calls the people to return.  
+summary: "From the deepest affliction in Lamentations comes the book's great turning point: the sufferer remembers the character of the LORD, learns to wait beneath His hand, searches his ways, and calls the people to return."
 permalink: /lamentations03/
 ---
 
