@@ -779,6 +779,330 @@ sections:
         bkv_title: Babylon Enforces Tribute and the First Deports Fall
       - chapter: 25
         bkv_title: Jerusalem Destroyed, the Temple Burned, and the Exile Completed
+    - title: 1 Chronicles
+      subtitle: 'The Book of Sacred Memory: The Kingdom Remembered Through David and the House of God'
+      chapters:
+      - chapter: 0
+        bkv_title: The Kingdom Remembered
+        url: /1chronicles00/
+      - chapter: 1
+        bkv_title: The Generations Remembered
+        url: /1chronicles01/
+      - chapter: 2
+        bkv_title: The Line of Judah
+        url: /1chronicles02/
+      - chapter: 3
+        bkv_title: The House of David
+        url: /1chronicles03/
+      - chapter: 4
+        bkv_title: The Families of Judah
+        url: /1chronicles04/
+      - chapter: 5
+        bkv_title: The Tribes Beyond Jordan
+        url: /1chronicles05/
+      - chapter: 6
+        bkv_title: The Priestly Line
+        url: /1chronicles06/
+      - chapter: 7
+        bkv_title: The Northern Tribes
+        url: /1chronicles07/
+      - chapter: 8
+        bkv_title: The House of Benjamin
+        url: /1chronicles08/
+      - chapter: 9
+        bkv_title: The Return to Jerusalem
+        url: /1chronicles09/
+      - chapter: 10
+        bkv_title: The Fall of Saul
+        url: /1chronicles10/
+      - chapter: 11
+        bkv_title: David Takes the Stronghold
+        url: /1chronicles11/
+      - chapter: 12
+        bkv_title: The Warriors Gather
+        url: /1chronicles12/
+      - chapter: 13
+        bkv_title: The Ark on the Cart
+        url: /1chronicles13/
+      - chapter: 14
+        bkv_title: The King Is Established
+        url: /1chronicles14/
+      - chapter: 15
+        bkv_title: The Ark Comes Up
+        url: /1chronicles15/
+      - chapter: 16
+        bkv_title: The Song Before the Ark
+        url: /1chronicles16/
+      - chapter: 17
+        bkv_title: The House God Will Build
+        url: /1chronicles17/
+      - chapter: 18
+        bkv_title: The Kingdom Expands
+        url: /1chronicles18/
+      - chapter: 19
+        bkv_title: The Rejected Messengers
+        url: /1chronicles19/
+      - chapter: 20
+        bkv_title: The Giants Fall
+        url: /1chronicles20/
+      - chapter: 21
+        bkv_title: The Forbidden Census
+        url: /1chronicles21/
+      - chapter: 22
+        bkv_title: The Temple Is Prepared
+        url: /1chronicles22/
+      - chapter: 23
+        bkv_title: The Levites Are Ordered
+        url: /1chronicles23/
+      - chapter: 24
+        bkv_title: The Priestly Courses
+        url: /1chronicles24/
+      - chapter: 25
+        bkv_title: The Singers Are Appointed
+        url: /1chronicles25/
+      - chapter: 26
+        bkv_title: The Gates and Treasures
+        url: /1chronicles26/
+      - chapter: 27
+        bkv_title: The Kingdom Is Ordered
+        url: /1chronicles27/
+      - chapter: 28
+        bkv_title: The Pattern of the Temple
+        url: /1chronicles28/
+      - chapter: 29
+        bkv_title: David Gives the Kingdom
+        url: /1chronicles29/
+    - title: 2 Chronicles
+      subtitle: 'The Book of the Temple Kingdom: Glory, Division, Judgment, and the Road Home'
+      chapters:
+      - chapter: 0
+        bkv_title: The Glory and the Ruin
+        url: /2chronicles00/
+      - chapter: 1
+        bkv_title: Solomon Asks for Wisdom
+        url: /2chronicles01/
+      - chapter: 2
+        bkv_title: The House Is Prepared
+        url: /2chronicles02/
+      - chapter: 3
+        bkv_title: The Temple Rises
+        url: /2chronicles03/
+      - chapter: 4
+        bkv_title: The Temple Is Furnished
+        url: /2chronicles04/
+      - chapter: 5
+        bkv_title: The Ark Enters the Temple
+        url: /2chronicles05/
+      - chapter: 6
+        bkv_title: Solomon's Great Prayer
+        url: /2chronicles06/
+      - chapter: 7
+        bkv_title: Fire Falls from Heaven
+        url: /2chronicles07/
+      - chapter: 8
+        bkv_title: The Kingdom Is Built
+        url: /2chronicles08/
+      - chapter: 9
+        bkv_title: The Queen Comes to See
+        url: /2chronicles09/
+      - chapter: 10
+        bkv_title: The Kingdom Breaks Apart
+        url: /2chronicles10/
+      - chapter: 11
+        bkv_title: Rehoboam Fortifies Judah
+        url: /2chronicles11/
+      - chapter: 12
+        bkv_title: Egypt Enters Jerusalem
+        url: /2chronicles12/
+      - chapter: 13
+        bkv_title: The Battle of Abijah
+        url: /2chronicles13/
+      - chapter: 14
+        bkv_title: Asa Seeks the Lord
+        url: /2chronicles14/
+      - chapter: 15
+        bkv_title: The Covenant Is Renewed
+        url: /2chronicles15/
+      - chapter: 16
+        bkv_title: Asa Trusts Another Power
+        url: /2chronicles16/
+      - chapter: 17
+        bkv_title: Jehoshaphat Strengthens Judah
+        url: /2chronicles17/
+      - chapter: 18
+        bkv_title: The Prophet Stands Alone
+        url: /2chronicles18/
+      - chapter: 19
+        bkv_title: The Judges Are Restored
+        url: /2chronicles19/
+      - chapter: 20
+        bkv_title: The Battle Belongs to God
+        url: /2chronicles20/
+      - chapter: 21
+        bkv_title: The House Turns Away
+        url: /2chronicles21/
+      - chapter: 22
+        bkv_title: The Royal Seed Is Hidden
+        url: /2chronicles22/
+      - chapter: 23
+        bkv_title: The Hidden King Appears
+        url: /2chronicles23/
+      - chapter: 24
+        bkv_title: The Temple Is Repaired
+        url: /2chronicles24/
+      - chapter: 25
+        bkv_title: The Divided Heart of Amaziah
+        url: /2chronicles25/
+      - chapter: 26
+        bkv_title: The King Enters the Sanctuary
+        url: /2chronicles26/
+      - chapter: 27
+        bkv_title: Jotham Builds and Prevails
+        url: /2chronicles27/
+      - chapter: 28
+        bkv_title: Judah Falls into Darkness
+        url: /2chronicles28/
+      - chapter: 29
+        bkv_title: The Temple Doors Reopen
+        url: /2chronicles29/
+      - chapter: 30
+        bkv_title: The Great Passover
+        url: /2chronicles30/
+      - chapter: 31
+        bkv_title: The Storehouses Are Filled
+        url: /2chronicles31/
+      - chapter: 32
+        bkv_title: The Assyrian at the Gate
+        url: /2chronicles32/
+      - chapter: 33
+        bkv_title: The King Returns from Captivity
+        url: /2chronicles33/
+      - chapter: 34
+        bkv_title: The Lost Book Is Found
+        url: /2chronicles34/
+      - chapter: 35
+        bkv_title: Josiah Keeps the Passover
+        url: /2chronicles35/
+      - chapter: 36
+        bkv_title: The Temple Goes Up in Flames
+        url: /2chronicles36/
+    - title: Ezra
+      subtitle: 'The Book of Return: The House of God Is Raised Again'
+      chapters:
+      - chapter: 0
+        bkv_title: The Road Back to Jerusalem
+        url: /ezra00/
+      - chapter: 1
+        bkv_title: The Call to Return
+        url: /ezra01/
+      - chapter: 2
+        bkv_title: The Returning Remnant
+        url: /ezra02/
+      - chapter: 3
+        bkv_title: The Altar in the Ruins
+        url: /ezra03/
+      - chapter: 4
+        bkv_title: The Work Is Stopped
+        url: /ezra04/
+      - chapter: 5
+        bkv_title: The Prophets Awaken the Work
+        url: /ezra05/
+      - chapter: 6
+        bkv_title: The Temple Is Finished
+        url: /ezra06/
+      - chapter: 7
+        bkv_title: Ezra Comes to Jerusalem
+        url: /ezra07/
+      - chapter: 8
+        bkv_title: The Journey Without an Army
+        url: /ezra08/
+      - chapter: 9
+        bkv_title: The Holy Seed Is Mixed
+        url: /ezra09/
+      - chapter: 10
+        bkv_title: The Great Separation
+        url: /ezra10/
+    - title: Nehemiah
+      subtitle: 'The Book of Restoration: The Broken City Is Rebuilt and Reordered'
+      chapters:
+      - chapter: 0
+        bkv_title: The Broken City
+        url: /nehemiah00/
+      - chapter: 1
+        bkv_title: The News from Jerusalem
+        url: /nehemiah01/
+      - chapter: 2
+        bkv_title: The Midnight Inspection
+        url: /nehemiah02/
+      - chapter: 3
+        bkv_title: The Builders on the Wall
+        url: /nehemiah03/
+      - chapter: 4
+        bkv_title: The Sword and the Trowel
+        url: /nehemiah04/
+      - chapter: 5
+        bkv_title: The Enemy Within the Walls
+        url: /nehemiah05/
+      - chapter: 6
+        bkv_title: The Trap at Ono
+        url: /nehemiah06/
+      - chapter: 7
+        bkv_title: The Gates Are Guarded
+        url: /nehemiah07/
+      - chapter: 8
+        bkv_title: The Book Is Opened
+        url: /nehemiah08/
+      - chapter: 9
+        bkv_title: The Great Confession
+        url: /nehemiah09/
+      - chapter: 10
+        bkv_title: The Covenant Is Sealed
+        url: /nehemiah10/
+      - chapter: 11
+        bkv_title: The City Is Refilled
+        url: /nehemiah11/
+      - chapter: 12
+        bkv_title: The Walk Upon the Wall
+        url: /nehemiah12/
+      - chapter: 13
+        bkv_title: The House Is Cleansed
+        url: /nehemiah13/
+    - title: Esther
+      subtitle: 'The Book of Hidden Providence: Belonging Becomes Action'
+      chapters:
+      - chapter: 0
+        bkv_title: The Queen with a Secret
+        url: /esther00/
+      - chapter: 1
+        bkv_title: The Queen Refuses
+        url: /esther01/
+      - chapter: 2
+        bkv_title: The Hidden Queen
+        url: /esther02/
+      - chapter: 3
+        bkv_title: The Lot Is Cast
+        url: /esther03/
+      - chapter: 4
+        bkv_title: If I Perish
+        url: /esther04/
+      - chapter: 5
+        bkv_title: The Golden Sceptre
+        url: /esther05/
+      - chapter: 6
+        bkv_title: The Sleepless King
+        url: /esther06/
+      - chapter: 7
+        bkv_title: The Second Banquet
+        url: /esther07/
+      - chapter: 8
+        bkv_title: The Second Decree
+        url: /esther08/
+      - chapter: 9
+        bkv_title: The Day Turned Around
+        url: /esther09/
+      - chapter: 10
+        bkv_title: Next to the King
+        url: /esther10/
 - section:
     number: 3
     name: Wisdom
