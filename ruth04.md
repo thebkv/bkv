@@ -19,11 +19,13 @@ permalink: /ruth04/
 ---
 ## BKV Insight
 
-**Redemption becomes real when the whole matter is surrendered to the Redeemer and brought into right order.**
+Ruth 4 is about redemption becoming real when the whole matter is surrendered to the Redeemer and brought into right order.
 
-Ruth has already returned. She has found provision in Boaz's field, come under his protection, and asked him to spread his wing over her.
+Ruth has already returned, found provision, and asked Boaz for covering. But one claim still stands between the promise and its completion. Before Boaz can redeem the household, that claim has to be faced and settled at the gate.
 
-But she is not yet redeemed.
+That is what this chapter means for the disciple. There are places where we may already have turned toward God, received His provision, and even asked for His covering, while parts of the old nature still remain unresolved. Redemption reaches those places too. The whole matter has to come into the light and be brought under the right order.
+
+Ruth is not yet redeemed.
 
 One claim still stands between the promise and its completion.
 
