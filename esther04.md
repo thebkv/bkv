@@ -95,50 +95,127 @@ The hidden queen has made her decision.
 
 ## Canonical History & Context
 
-### Esther 4:1–3 — Mourning reaches the empire
+### God's People in a Foreign Empire
 
-> “When Mordecai perceived all that was done, Mordecai rent his clothes, and put on sackcloth with ashes”
+Esther takes place after Jerusalem has fallen and many of the people of Israel have been carried away from their land.
 
-The decree issued in Chapter 3 now becomes lived reality.
+The Babylonian Empire has already given way to Persia, but large numbers of Jews still live scattered throughout the territories of the empire. Esther is one of them.
 
-Mordecai tears his clothes, puts on sackcloth and ashes, and cries publicly in Shushan. Similar mourning appears throughout the provinces as the decree reaches the Jewish population.
+This explains the unusual setting of the book. God's people are present, but they do not govern the kingdom in which they live. A Persian king sits on the throne. Persian law governs the court. Esther herself has become queen inside that foreign government while her Jewish identity remains unknown.
 
-> “there was great mourning among the Jews, and fasting, and weeping, and wailing”
+Chapter 4 brings those two worlds together.
 
-The chapter therefore opens with a people responding together to a shared threat.
+Haman's decree has gone throughout the empire ordering the destruction of the Jews. Esther is therefore living inside the royal house of the very empire whose law has now condemned her people.
 
-Fasting will become especially important at the end of the chapter when Esther asks the Jews of Shushan to fast with her before she approaches the king.
+### Jew and Benjamite
 
-### Esther and the law of approach
+Mordecai is introduced in Esther 2:5 as both:
 
-Persian royal access is central to Esther's dilemma.
+> “a certain Jew”
 
-Esther explains that anyone who enters the king's inner court without being called faces a known law:
+and:
 
-> “there is one law of his to put him to death”
+> “a Benjamite.”
 
-There is one exception:
+This is important historically.
 
-> “except such to whom the king shall hold out the golden sceptre, that he may live”
+The Hebrew word translated **Jew** is *Yehudi*, a word connected with Judah. By the Persian period, however, it could identify someone as belonging to the Jewish people without meaning that the person was literally from the tribe of Judah.
 
-Esther therefore has privileged position without unrestricted access.
+Mordecai is the clearest example inside Esther itself. His tribal identification is Benjamin, while his people are the Jews.
 
-She is queen, but she cannot simply walk into the king's presence whenever she chooses.
+Esther is the daughter of Mordecai's uncle and belongs to this same family. Her Jewish identity therefore names a larger belonging than a simple tribal designation.
 
-The golden sceptre will become the central object in Chapter 5 because it determines whether Esther's costly decision is received.
+This becomes one of the central facts of Chapter 4.
 
-### God remains unnamed
+Esther has lived in the Persian palace without revealing the people to whom she belongs. Haman's decree now makes that hidden belonging impossible to treat as irrelevant.
 
-Esther 4 contains fasting but does not explicitly mention prayer or God.
+### Benjamin, Kish, and Agag
 
-That silence is consistent with the rest of the book, where God is never directly named.
+Esther also places the conflict inside a much older biblical history.
 
-BKV should preserve that feature rather than inserting words the narrator does not use.
+Mordecai is introduced as:
 
-At the same time, Mordecai's confidence that “enlargement and deliverance” can arise for the Jews from another place shows that he does not regard Haman's decree as the final word over the people.
+> “the son of Jair, the son of Shimei, the son of Kish, a Benjamite.”
 
-The narrative continues to show providence through events rather than through explicit divine speech.
+Then Haman is introduced as:
 
+> “Haman the son of Hammedatha the Agagite.”
+
+Those names recall one of Benjamin's most important earlier conflicts.
+
+Israel's first king, Saul, was a Benjamite and the son of a man named Kish. In 1 Samuel 15, Saul was commanded to strike Amalek and confronted **Agag**, king of the Amalekites.
+
+Saul defeated Amalek but did not complete what he had been commanded to do. He spared Agag and kept the best of the spoil.
+
+Esther now places a family identified with **Benjamin and Kish** opposite a man identified as **the Agagite**.
+
+The book does not explicitly tell the reader that Mordecai is descended from King Saul or that Haman is biologically descended from the Agag of 1 Samuel 15. Those conclusions go beyond what Esther states.
+
+The canonical correspondence itself, however, is difficult to miss:
+
+**BENJAMIN / KISH → AGAG**
+
+That connection becomes even stronger in Esther 9, where the Jews defeat those seeking their destruction but repeatedly refuse to take the spoil—the very point at which Saul failed in 1 Samuel 15.
+
+Esther's conflict is therefore occurring against the background of an older unfinished conflict in Israel's history.
+
+### Amalek and the Threat to God's People
+
+The conflict with Amalek reaches farther back than Saul.
+
+In Exodus 17, Amalek attacks Israel after the people have come out of Egypt.
+
+Deuteronomy 25 remembers that attack and commands Israel not to forget what Amalek did:
+
+> “Remember what Amalek did unto thee by the way, when ye were come forth out of Egypt.”
+
+Amalek becomes associated in Israel's history with an enemy seeking to destroy the covenant people.
+
+Haman's decree now carries that same kind of threat on an imperial scale. He does not seek Mordecai's death alone. He obtains authority to destroy Mordecai's entire people.
+
+The conflict that began with one man's refusal to bow has become a threat against the continued life of the Jews throughout Persia.
+
+### Preservation in Exile
+
+This gives Mordecai's words to Esther their larger canonical weight.
+
+He tells her:
+
+> “then shall there enlargement and deliverance arise to the Jews from another place”
+
+God is not named in the sentence, just as He is not directly named anywhere in Esther.
+
+Yet Mordecai speaks as though the survival of the Jews does not finally depend upon Esther, Haman, or the Persian king.
+
+That confidence belongs to the larger biblical story.
+
+Israel has survived Egypt, the wilderness, hostile nations, division, conquest, the destruction of Jerusalem, and exile. Now the people face another attempt at destruction while scattered under foreign rule.
+
+Esther may have been placed where she can participate in their deliverance.
+
+She is not being asked to guarantee it.
+
+### Sackcloth, Fasting, and the King's Court
+
+Against that larger history, the immediate details of Chapter 4 become clearer.
+
+Mordecai tears his clothes and puts on sackcloth and ashes, familiar biblical expressions of severe mourning and distress. Jews throughout the provinces respond to the decree with mourning and fasting.
+
+Esther, meanwhile, remains inside the palace.
+
+Although she is queen, she does not have unrestricted access to Ahasuerus. Entering the inner court without being summoned can result in death unless the king receives the person by extending the golden sceptre.
+
+Esther has not been summoned for thirty days.
+
+Before she enters that court, she asks the Jews of Shushan to fast with her for three days. She and her maidens will fast as well.
+
+The book does not explicitly call this prayer, and it continues its unusual refusal to name God directly.
+
+Everything is now in place for the decision at the center of the chapter.
+
+Esther belongs to a scattered people with a long history of both threat and preservation. An old enemy has appeared again in a new imperial form. She has somehow been placed inside the royal house before the crisis arrived.
+
+Now she must decide what she will do with that position.
 ---
 
 ## Natural Reading
