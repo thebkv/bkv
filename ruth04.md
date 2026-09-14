@@ -17,74 +17,93 @@ permalink: /ruth04/
 *Redemption Completed in the Light*
 
 ---
-
 ## BKV Insight
 
-Ruth 4 is about **finishing the work of redemption**.
+Ruth 4 is about **letting redemption take possession of the whole life**.
 
-Boaz made his promise to Ruth privately at the threshing floor. Now he goes to the city gate and brings the whole matter into the open.
+Ruth has already returned. She has found provision in Boaz's field, come under his protection, and asked him to spread his wing over her.
 
-There is still something standing between the promise and its completion. Another man is a nearer kinsman, and Boaz cannot simply ignore his right. So Boaz gathers the man and ten elders and gives him the first opportunity to redeem.
+But she is not yet redeemed.
 
-At first, the nearer kinsman agrees.
+One claim still stands between the promise and its completion.
 
-The matter appears to concern a parcel of land that belonged to Elimelech, and the man says:
+Another man is nearer than Boaz, and that claim has to be settled before Ruth can enter the new household. So Boaz goes to the gate and brings the matter into the light.
+
+At first the nearer kinsman is willing to redeem.
+
+When he hears about Elimelech's land, he says:
 
 > “I will redeem it.”
 
-Then Boaz tells him what the redemption actually requires.
+Then Boaz tells him that the inheritance cannot be separated from Ruth and from the responsibility of raising up the dead man's name.
 
-Ruth comes with it.
-
-The land belongs to a family whose men have died, and Ruth is the widow of Mahlon. Whoever takes responsibility for the inheritance must also take responsibility for preserving the dead man's name upon it.
-
-When the nearer kinsman hears the full obligation, he withdraws:
+Now the man refuses:
 
 > “I cannot redeem it for myself, lest I mar mine own inheritance.”
 
-This is the turning point of the chapter.
+That is the turning point.
 
-The nearer man is willing to receive the property, but he is unwilling to carry the entire responsibility attached to it. Boaz is willing to take the whole matter: the land, Ruth, the dead man's name, and the future of the household.
+He is willing to add the land to what he already possesses. He is unwilling to accept the whole responsibility when doing so may disturb his existing inheritance.
 
-The nearer kinsman removes his sandal and gives it to Boaz. Before the elders and the people at the gate, the private promise becomes a witnessed reality.
+For the disciple, this reaches deeper than the legal transaction.
 
-Boaz declares:
+There is a stage in the journey where the old governing life is willing to receive what God gives as long as it can remain essentially its own. It will accept help, provision, blessing, knowledge, even spiritual experience, while still preserving its own claim over the inheritance.
 
-> “Ye are witnesses this day.”
+Full redemption goes farther.
 
-He takes responsibility for what death had broken apart.
+It brings the whole life under a new claim.
 
-The story then moves quickly from the gate to the house. Boaz marries Ruth, and the LORD gives her conception. A son is born.
+The question at the gate is therefore not simply whether Ruth will receive something from Boaz. It is who will finally take responsibility for the inheritance.
 
-Now the book turns back to Naomi.
+The nearer claim withdraws.
 
-In Chapter 1 she entered Bethlehem saying:
+Boaz accepts the whole matter.
 
-> “I went out full, and the LORD hath brought me home again empty.”
+The sandal changes hands.
 
-In Chapter 4 the women of Bethlehem gather around her and praise the LORD because she has not been left without a redeemer. They tell her that the child will be:
+And only then can what was promised at the threshing floor become established.
 
-> “a restorer of thy life.”
+This is why Ruth 4 belongs after Chapters 1–3.
 
-Naomi takes the child and lays him in her bosom.
+In Chapter 1, the disciple returns.
 
-Then the women say:
+In Chapter 2, provision appears.
 
-> “There is a son born to Naomi.”
+In Chapter 3, the disciple asks for covering.
 
-The emptiness announced at the beginning of the book has been answered.
+In Chapter 4, the competing claim is settled and redemption becomes established.
 
-But Ruth does not end with Naomi holding a child.
+That sequence matters.
 
-The child's name is Obed.
+A person can return toward God and still carry the old order of life with them. They can experience provision and protection while deeper questions of ownership and government remain unresolved. They can even desire redemption before the whole life has actually come under it.
 
-Obed becomes the father of Jesse.
+Ruth 4 brings that question to the gate.
 
-Jesse becomes the father of David.
+**Who has the claim now?**
 
-What looked like the collapse of one small household during the days of the judges becomes part of the line of Israel's king.
+Boaz does not redeem part of the situation. He accepts responsibility for everything attached to it: land, name, household, widow, and future.
 
-That is the movement of Ruth 4: **redemption is brought into the light, the full responsibility is accepted, and the household that seemed to have ended in death becomes fruitful again.**
+Once that happens, the story becomes fruitful.
+
+Ruth enters the house.
+
+The LORD gives conception.
+
+A son is born.
+
+Naomi's emptiness is answered.
+
+And the restored household becomes part of the line leading to David.
+
+For the disciple, that is the message of Ruth 4:
+
+**Redemption is completed when the old claim gives way, the whole life comes under the Redeemer, and what has been restored begins to bear fruit.**
+
+The goal was never simply to survive the famine.
+
+It was not even merely to find grain in the field.
+
+The journey was leading toward a new household, a restored inheritance, and a life capable of bringing forth something that did not exist before.
 
 ---
 
