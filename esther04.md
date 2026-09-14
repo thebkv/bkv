@@ -22,8 +22,6 @@ permalink: /esther04/
 
 ## BKV Insight
 
-## BKV Insight
-
 Esther 4 is about the moment when staying faithful becomes more important than staying safe.
 
 Esther has been Jewish all along. That is to say, she is a person who knows she belongs to God, although others are not aware of this. Becoming queen does not change this, but until now her identity could remain hidden inside the palace. Haman's decree changes the situation.
