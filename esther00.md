@@ -22,9 +22,9 @@ permalink: /esther00/
 
 ## BKV Insight
 
-Esther is about what happens when **who you are in God** begins to determine how you live.
+Esther is about what happens when **who you are in God** begins to determine how you live. For the disciple, the Jew is the person who knows he belongs to God and lives from that belonging.
 
-Esther was raised by Mordecai, she has been taken into the king's house, and she has become queen. Her Jewish identity remains hidden.
+Esther was raised by Mordecai, she has been taken into the king's house, and she has become queen. Her Jewish identity remains hidden. 
 
 Then Haman receives authority to destroy her people.
 
