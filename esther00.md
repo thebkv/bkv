@@ -24,7 +24,7 @@ permalink: /esther00/
 
 Esther is about what happens when belonging to God becomes more important than protecting yourself.
 
-Esther belongs to the Jewish people long before anyone in the palace knows it. Mordecai has raised her, she has been taken into the king's house, and she has become queen. Her Jewish identity remains hidden.
+Esther belongs to the tribe of Judah long before anyone in the palace knows it. Mordecai has raised her, she has been taken into the king's house, and she has become queen. Her Jewish identity remains hidden.
 
 Then Haman receives authority to destroy her people.
 
