@@ -7,7 +7,7 @@ focus:
   - failed government
   - enduring throne
   - restoration
-summary: The ruined people bring their entire condition before the LORD and ask Him to look upon what has become of them. After exile, famine, humiliation, and the loss of Zion's former order, the book reaches its final governing truth: the LORD still reigns. From that foundation comes the closing prayer—turn us unto thee, O LORD, and we shall be turned.
+summary: "The ruined people bring their entire condition before the LORD and ask Him to look upon what has become of them. After exile, famine, humiliation, and the loss of Zion's former order, the book reaches its final governing truth: the LORD still reigns. From that foundation comes the closing prayer—turn us unto thee, O LORD, and we shall be turned."
 permalink: /lamentations05/
 ---
 
