@@ -545,14 +545,21 @@ sections:
     - title: Ruth
       subtitle: 'The Book of Redemption: Devotion and the Kinsman-Redeemer'
       chapters:
+      - chapter: 0
+        bkv_title: The Moabite in Bethlehem
+        url: /ruth00/
       - chapter: 1
         bkv_title: Loss in the Foreign Land Turns the Heart Back Home
+        url: /ruth01/
       - chapter: 2
         bkv_title: Devotion Finds Grace in the Field of Provision
+        url: /ruth02/
       - chapter: 3
         bkv_title: Faith Approaches the Redeemer at the Threshing Floor
+        url: /ruth03/
       - chapter: 4
         bkv_title: Redemption Is Sealed and the Royal Line Is Established
+        url: /ruth04/
     - title: 1 Samuel
       subtitle: 'The Book of the Kingdom Promised: The Transition from Self-Will to
         Davidic Anointing'
