@@ -23,91 +23,25 @@ permalink: /esther02/
 
 Esther 2 shows how your life can be prepared for a responsibility you cannot yet see.
 
-Nothing in this chapter looks like the beginning of a great deliverance.
+Esther is an orphan being raised by Mordecai when she is taken into the king's house. She eventually becomes queen of Persia, although no one in the palace knows that she is Jewish. Nothing has happened yet that would explain why a Jewish woman being queen might matter.
 
-Esther is an orphan being raised by Mordecai among Jews living under Persian rule. Then she is taken into the king's house with other young women after Vashti has been removed.
+Then Mordecai discovers a plot to kill the king. He reports it through Esther, the plot is stopped, and Mordecai's service is written in the royal chronicles. He receives no reward. The story simply moves on.
 
-Mordecai cannot control what happens to her there. He walks every day before the court of the women's house:
+Both of these things will matter later.
 
-> “to know how Esther did, and what should become of her.”
+Years after Esther receives the crown, Haman will obtain authority to destroy the Jews. Suddenly Esther's position near the king will matter because she belongs to the people marked for death. And on the night before Haman intends to ask for Mordecai's execution, the king will open those old chronicles and discover that Mordecai was never rewarded.
 
-Esther receives favor. She listens to Hegai's counsel, goes through the preparations required by the court, and eventually comes before Ahasuerus.
+Esther 2 therefore gives the disciple a very ordinary kind of encouragement. **You do not always know what today's faithfulness is preparing you for.**
 
-The king chooses her.
+Mordecai does not save the king because he knows it will eventually save his own life. Esther does not yet know what becoming queen will require of her. They simply live faithfully inside the part of the story they can see.
 
-The orphaned Jewish girl becomes queen of Persia.
+This does not mean every difficulty is secretly preparing us for promotion or that every good deed will eventually receive public recognition. Esther gives us something more useful than that. There are times when the purpose of a season, a relationship, a responsibility, or an act of faithfulness becomes visible only later.
 
-Yet the most important thing about Esther remains unknown inside the palace.
+Esther 2 ends before that later moment arrives.
 
-> “Esther had not shewed her people nor her kindred”
+There is now a Jewish queen in the palace whose identity is hidden, and there is a faithful act in the king's records that has apparently been forgotten.
 
-She has a crown.
-
-She has access to the king.
-
-She has a position from which she may eventually be able to act.
-
-But no one yet knows why any of this will matter.
-
-Then the chapter seems to change subjects.
-
-Mordecai is sitting at the king's gate when he discovers that two royal officials, Bigthan and Teresh, are planning to kill Ahasuerus. Mordecai tells Esther. Esther tells the king in Mordecai's name. The matter is investigated, the plot is confirmed, and the event is written in the royal chronicles.
-
-Then nothing happens.
-
-Mordecai is not elevated.
-
-He is not publicly honored.
-
-The chapter simply records his faithfulness and moves on.
-
-These two unfinished events belong together.
-
-Esther has been placed near the king.
-
-Mordecai's service has been placed in the king's records.
-
-Neither has yet reached its purpose.
-
-Several years later, Haman will receive authority to destroy the Jews. Esther's position will suddenly matter because she belongs to the people marked for death.
-
-And on the night before Haman intends to ask for Mordecai's execution, the king will be unable to sleep. The chronicles will be opened, and this forgotten act will be read aloud.
-
-Esther 2 therefore teaches the disciple something that can be difficult to recognize while it is happening.
-
-You may not understand the purpose of what God is forming in your life while it is being formed.
-
-A responsibility may seem unrelated to anything important.
-
-A faithful act may appear to accomplish very little.
-
-Something you did rightly may receive no recognition at all.
-
-Esther does not yet know what being queen will require of her.
-
-Mordecai does not know when the record bearing his name will be opened again.
-
-The purpose becomes visible later.
-
-That is different from saying that every hardship is secretly preparing us for promotion, or that every forgotten good deed will eventually receive public recognition. Esther makes no such promise.
-
-Its pattern is more grounded.
-
-**Be faithful in the part of the story you can see.**
-
-Esther receives the help available to her.
-
-Mordecai continues watching over Esther.
-
-Mordecai protects the king when he learns of the plot.
-
-Esther makes sure the truth is reported in Mordecai's name.
-
-They do what the present moment requires without knowing how those actions will connect to what comes later.
-
-The disciple often discovers God's preparation the same way Esther reveals it:
-
-afterward.
+Chapter 3 brings the crisis that will eventually reveal why both matter.
 
 ---
 
