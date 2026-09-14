@@ -1,17 +1,14 @@
 ---
-
 book: Ruth
 chapter: 0
 focus:
-
-* famine, departure, loss, return, harvest, redemption, and restored lineage
-* Naomi's movement from fullness through emptiness and bitterness into restored life
-* Ruth's movement from Moabite widow and stranger to covenant belonging and the house of Boaz
-* gleaning, refuge, covering, kinship, inheritance, and lawful redemption
-* the restoration of a threatened family line that ultimately opens into David
-  summary: "Ruth begins with famine, departure, and the collapse of a family line, then follows Naomi and Ruth back to Bethlehem where gleaning becomes provision, refuge becomes covering, lawful redemption restores inheritance, and the birth of Obed carries an emptied household forward into the line of David."
-  permalink: /ruth00/
-
+  - famine, departure, loss, return, harvest, redemption, and restored lineage
+  - Naomi's movement from fullness through emptiness and bitterness into restored life
+  - Ruth's movement from Moabite widow and stranger to covenant belonging and the house of Boaz
+  - gleaning, refuge, covering, kinship, inheritance, and lawful redemption
+  - the restoration of a threatened family line that ultimately opens into David
+summary: "Ruth begins with famine, departure, and the collapse of a family line, then follows Naomi and Ruth back to Bethlehem where gleaning becomes provision, refuge becomes covering, lawful redemption restores inheritance, and the birth of Obed carries an emptied household forward into the line of David."
+permalink: /ruth00/
 ---
 
 # RUTH 00
