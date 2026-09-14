@@ -21,61 +21,31 @@ permalink: /esther06/
 
 ## BKV Insight
 
-Esther 6 is about the moment when something faithful that seemed forgotten suddenly matters.
+Esther 6 is about what happens when pride is forced to honor the very person it tried to destroy.
 
-Mordecai saved the king's life back in Chapter 2. His service was written in the royal chronicles, but nothing came of it. He received no reward, and years passed.
+The whole reversal begins during a sleepless night in the palace. Years earlier, Mordecai had uncovered a plot against the king and received nothing for it. His service was simply written in the royal chronicles and apparently forgotten. Now, on the night before Haman intends to ask for Mordecai's death, the king cannot sleep. The chronicles are brought out, Mordecai's service is read, and the king discovers that he was never rewarded.
 
-Then one night the king cannot sleep.
+Haman arrives early the next morning with one thing on his mind: getting permission to hang Mordecai. Before he can make his request, the king asks him what should be done for the man the king delights to honor.
 
-He asks for the chronicles to be read, and the record concerning Mordecai is found. The king discovers that nothing was ever done for the man who saved him.
+Haman assumes the king means him.
 
-At that exact time, Haman enters the outer court.
+So he describes the greatest public honor he can imagine: royal clothing, the king's horse, and a procession through the city led by one of the king's highest officials.
 
-He has come early because he wants permission to hang Mordecai on the gallows he built during the night.
+Then the king tells him to do all of it for **Mordecai the Jew**.
 
-Instead, before Haman can make his request, the king asks him:
+Haman's pride has just designed Mordecai's honor.
 
-> “What shall be done unto the man whom the king delighteth to honour?”
+This is where Esther 6 becomes especially useful for the disciple. Pride has a way of making everything about itself. Haman hears an unnamed man described as someone the king wants to honor and immediately thinks, *Who else could he mean but me?* His answer exposes what he wants, and then he is forced to give that very honor to the man he hates.
 
-Haman immediately assumes the king means him.
+At the same time, Mordecai's forgotten faithfulness has returned at exactly the moment it is needed. What looked finished and unrewarded in Chapter 2 was still sitting in the record.
 
-So Haman designs the greatest public honor he can imagine. The man should wear the king's clothing, ride the king's horse, wear the royal crown, and be led through the city by one of the king's highest officials while everyone hears that the king delights to honor him.
+Esther has not arranged any of this. Mordecai has not arranged it. Haman certainly has not arranged it. Yet while Esther prepares to speak at the second banquet, the situation is already turning.
 
-The king approves the plan.
+Haman came to the palace expecting to destroy Mordecai. He leaves leading Mordecai through the city and proclaiming his honor.
 
-Then he tells Haman to do all of it for Mordecai the Jew.
+By the time he gets home, even his own wife and advisers can see it:
 
-The man Haman came to kill is publicly honored, and Haman himself has to lead the procession.
-
-This is the first great visible reversal in Esther.
-
-And Esther has not made her request yet.
-
-She does not know that the king could not sleep. She did not choose the passage from the chronicles. She did not arrange for Haman to arrive at that moment. She did not tell Haman to design Mordecai's reward.
-
-She prepared the banquet.
-
-Something else is happening between the banquets.
-
-For the disciple, this is one of the strongest pictures of hidden providence in Esther. Faithfulness can appear to disappear. Mordecai did the right thing in Chapter 2 and received nothing for it. Yet the act was preserved in the record, and when it returned, it returned at exactly the moment when Haman was preparing to destroy him.
-
-That does not mean every forgotten good deed will eventually receive public recognition. Mordecai's experience is much more specific than that.
-
-It means that something can be out of your sight without being outside God's ability to use it.
-
-Esther is moving toward Haman from one direction.
-
-The forgotten record is moving toward him from another.
-
-Haman himself walks into the middle of both.
-
-By the end of the chapter, the gallows still stands. Haman still has his title. The decree against the Jews still exists. Esther still has not named her enemy.
-
-Yet Haman's wife and advisers can already see where the movement is going:
-
-> “If Mordecai be of the seed of the Jews, before whom thou hast begun to fall, thou shalt not prevail against him, but shalt surely fall before him.”
-
-The reversal has begun.
+> “thou hast begun to fall.”
 
 ---
 
