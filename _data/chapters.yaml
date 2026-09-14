@@ -1755,19 +1755,23 @@ sections:
         - chapter: 1
           bkv_title: The Pride of the Rock-Dwellers Brought Low and Mount Zion Possessed
       - title: Jonah
-        subtitle: 'The Book of Mission: The Resisting Prophet and Boundless Mercy'
+        subtitle: 'The Book of Mission: The Resisting Prophet and the Mercy of God'
         chapters:
         - chapter: 0
           bkv_title: The Unfinished Prophet
           url: /jonah00/
         - chapter: 1
-          bkv_title: Fleeing from the Presence into the Depths
+          bkv_title: The Prophet Runs
+          url: /jonah01/
         - chapter: 2
           bkv_title: The Prayer from the Belly of Sheol
+          url: /jonah02/
         - chapter: 3
           bkv_title: The Second Call and Nineveh’s Repentance
+          url: /jonah03/
         - chapter: 4
-          bkv_title: Resentful Anger Rebuked by the Plant and Mercy
+          bkv_title: The Prophet Under the Plant
+          url: /jonah04/
       - title: Micah
         subtitle: 'The Book of Alignment: What the Lord Requires of Man'
         chapters:
