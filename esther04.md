@@ -26,7 +26,7 @@ permalink: /esther04/
 
 Esther 4 is about the moment when staying faithful becomes more important than staying safe.
 
-Esther has been Jewish all along. Becoming queen did not change that, but until now her identity could remain hidden inside the palace. Haman's decree changes the situation.
+Esther has been Jewish all along. That is to say, she is a person who knows she belongs to God, although others are not aware of this. Becoming queen does not change this, but until now her identity could remain hidden inside the palace. Haman's decree changes the situation.
 At first, she does not even know why Mordecai is mourning.
 
 When she hears that he is outside the palace dressed in sackcloth, she sends him clothing. Mordecai refuses it. Esther then sends Hatach to find out what is wrong, and for the first time the full danger reaches her.
