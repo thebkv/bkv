@@ -19,7 +19,7 @@ permalink: /ruth04/
 ---
 ## BKV Insight
 
-Ruth 4 is about **letting redemption take possession of the whole life**.
+**Redemption becomes real when the whole matter is surrendered to the Redeemer and brought into right order.**
 
 Ruth has already returned. She has found provision in Boaz's field, come under his protection, and asked him to spread his wing over her.
 
