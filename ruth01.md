@@ -2,257 +2,179 @@
 book: Ruth
 chapter: 1
 focus:
-  - famine, departure, bereavement, and the beginning of return
-  - Ruth's cleaving to Naomi and her entrance toward Israel
-  - Naomi's movement from loss toward home while still interpreting herself as empty
-  - the contrast between Naomi's declared emptiness and the beginning of barley harvest
-  - return as a real movement that begins before restoration is complete
-summary: "Ruth 1 begins with famine in Bethlehem and a family leaving for Moab, then follows death, widowhood, Naomi's decision to return, Ruth's extraordinary act of cleaving, and the two women arriving in Bethlehem at the beginning of barley harvest while Naomi still understands herself as empty."
+  - famine, departure, loss, and the beginning of return
+  - Ruth's cleaving to Naomi and choosing Naomi's people and God
+  - Naomi returning home while still understanding herself through bitterness and emptiness
+  - the difference between returning and being fully restored
+  - arrival in Bethlehem at the beginning of barley harvest
+summary: "Ruth 1 follows a household from famine into Moab and devastating loss, then turns toward Bethlehem when Naomi hears that bread has returned. On the road Ruth chooses covenant belonging over the familiar, while Naomi comes home still calling herself empty, unaware that she has arrived at the beginning of harvest."
 permalink: /ruth01/
 ---
 
 # RUTH 01
 ## THE ROAD BACK TO BETHLEHEM
 
-*Famine, Loss, Cleaving, and the Beginning of Return*
+*The Choice to Return Empty*
 
 ---
 
 ## BKV Insight
 
-Ruth begins with a strange condition:
+Ruth 1 is about **return beginning before restoration is visible**.
 
-There is famine in Bethlehem.
+The chapter opens with famine in Bethlehem. Elimelech takes Naomi and their two sons into Moab looking for relief, but the household that leaves Bethlehem together does not remain together. Elimelech dies. Mahlon and Chilion marry Ruth and Orpah, and eventually both sons die as well. Naomi is left in Moab with two widowed daughters-in-law and no visible continuation of the family she brought there.
 
-**Bethlehem — Beth-lehem — carries the ordinary Hebrew words for “house” and “bread.”**
+Then she hears that something has changed in Bethlehem:
 
-Yet the house of bread has no bread.
+> “the LORD had visited his people in giving them bread.”
 
-So a man leaves.
+That news turns the chapter around.
 
-Elimelech takes Naomi and their two sons out of Bethlehem-Judah and crosses into Moab looking for somewhere his family can live.
+Naomi does not return because her losses have been repaired. Her husband is still dead. Her sons are still dead. She has no new household waiting for her in Bethlehem. She simply hears that bread has returned and begins moving toward it.
 
-Then the story gets worse.
+This makes Ruth 1 a chapter about direction before resolution. **Naomi starts home while she is still empty.**
 
-Elimelech dies.
-
-The sons marry Moabite women, Orpah and Ruth.
-
-About ten years pass.
-
-Then both sons die.
-
-The family that left Bethlehem because of famine has now been reduced to three widows in a foreign land.
-
-And that is where the return begins.
-
-Naomi hears:
-
-> “that the LORD had visited his people in giving them bread.”
-
-Bread has returned to Bethlehem.
-
-Naomi rises to go home.
-
-But Ruth 1 is not simply a journey from Moab back to Judah. Two different movements are happening on the same road.
-
-**Naomi is returning.**
-
-**Ruth is leaving.**
-
-Naomi is going back to a land, people, and God she already knows.
-
-Ruth is walking away from the land, people, and gods she has known.
-
-For Naomi, the road leads home.
-
-For Ruth, the same road leads into the unknown.
-
-And Ruth chooses it before she knows anything about Boaz, his field, the coming harvest, redemption, marriage, Obed, Jesse, or David.
-
-She has no visible guarantee of where the road will lead.
-
-She cleaves to Naomi.
+Ruth's movement is different. Naomi is returning to something she once knew, while Ruth is leaving everything familiar. Naomi even gives Ruth a reasonable opportunity to turn back. Orpah accepts it, but Ruth cleaves to Naomi and makes the decision that governs the rest of the book:
 
 > “thy people shall be my people, and thy God my God.”
 
-That decision establishes Ruth's direction for the rest of the book.
+Ruth chooses the direction before she knows what it will provide.
 
-Yet when the two women finally reach Bethlehem, Naomi does not announce restoration.
+She knows nothing about Boaz.
 
-She announces bitterness.
+She knows nothing about the field.
+
+She knows nothing about the kinsman-redeemer.
+
+She has no promise of marriage, inheritance, or children.
+
+She chooses Naomi's people and Naomi's God without seeing any of those things ahead of her.
+
+That is why the road back to Bethlehem carries two transformations at once. **Naomi returns because she has heard that provision has returned at the source. Ruth goes because she has chosen where she belongs.**
+
+When they finally arrive, Naomi is physically home but has not yet experienced herself as restored. She tells the women of Bethlehem:
 
 > “Call me not Naomi, call me Mara.”
 
-Then she gives her interpretation of everything that has happened:
+Then:
 
 > “I went out full, and the LORD hath brought me home again empty.”
 
-Naomi has returned geographically.
+Her grief is real. Ruth does not ask us to deny it. Naomi has lost her husband and both sons, and returning to the right place does not instantly change the way she understands what has happened.
 
-Her interior world is still standing among the graves of Moab.
+But the narrator sees more than Naomi can see.
 
-Then the narrator quietly tells us something Naomi does not include in her description:
+Immediately after Naomi calls herself empty, the chapter closes:
 
 > “they came to Bethlehem in the beginning of barley harvest.”
 
-Naomi says:
+That is the governing tension of Ruth 1.
 
-**empty.**
+**Naomi sees emptiness while the story has already entered harvest.**
 
-The narrator says:
+Restoration has not happened yet. The chapter does not pretend that it has. What has changed is the direction. Naomi has returned to the place where provision is beginning, and Ruth has bound herself to the people and God through whom the rest of the story will unfold.
 
-**harvest is beginning.**
+Ruth 1 therefore establishes an important distinction for the whole book:
 
-That tension opens the rest of Ruth.
+**return is not the same thing as restoration.**
 
-Restoration has not yet filled Naomi's hands.
-
-But she has returned to the place where filling can begin.
+Return places the person where restoration can begin.
 
 ---
 
 ## Canonical History & Context
 
+### In the Days When the Judges Ruled
+
 Ruth opens:
 
 > “Now it came to pass in the days when the judges ruled…”
 
-This places the story during the period of the Judges, before Israel's monarchy.
+This places the story during the period of Judges, before Israel's monarchy.
 
-The canonical setting matters.
+That setting becomes especially important when we reach the end of the book. Judges closes with Israel having no king and repeatedly describes a society struggling with covenant disorder. Ruth begins inside that same period, but instead of following armies, judges, and national crises, it follows the decisions of one household.
 
-Judges repeatedly shows Israel fragmented by cycles of departure, oppression, crying out, and deliverance. Its final chapters descend into severe social and covenant disorder.
+Its scale is small:
 
-Ruth takes place inside that same era, but at household scale.
+a famine,
 
-Its opening crisis is famine rather than invading armies.
+a family,
 
-Its central characters are widows, farmers, relatives, and townspeople rather than judges and warriors.
+three widows,
 
-Its decisive acts involve loyalty, gleaning, protection, kinship, legal responsibility, marriage, and birth.
+a field,
 
-Yet the final genealogy will lead directly to David.
+a landowner,
 
-The book therefore begins:
+a marriage,
 
-**“in the days when the judges ruled”**
+a child.
 
-and ends with:
+Yet Ruth ends by naming David.
 
-**“David.”**
-
-The small household story belongs inside the transition toward Israel's kingdom.
+The household story taking place “in the days when the judges ruled” eventually becomes part of the line of Israel's king.
 
 ### Bethlehem-Judah
 
-Bethlehem was a town in the territory of Judah.
+Bethlehem lies within Judah.
 
-Its Hebrew name, **בֵּית לֶחֶם — Beth-lehem**, naturally reads as **house/place of bread or food**.
+Its Hebrew name, **בֵּית לֶחֶם — Beth-lehem**, naturally contains the ordinary words for **house** and **bread/food**. The ancient origin of the place-name should not be pressed beyond what can be established, but the resonance within Ruth is difficult to miss because the narrative itself repeatedly develops the problem of food.
 
-That gives the opening famine a genuine literary resonance without requiring us to turn the place-name into a fixed symbol.
+The story begins with famine in Bethlehem.
 
-The story itself develops the tension.
+Naomi later hears that the LORD has visited His people:
 
-Ruth 1 begins with famine in Bethlehem.
+> “in giving them bread.”
 
-Naomi later hears that the LORD has again given His people bread.
+She returns to Bethlehem.
 
-She returns.
+Then the chapter ends at barley harvest.
 
-And she arrives at the beginning of barley harvest.
+The movement is built into the narrative:
 
-The movement is concrete:
-
-**famine in Bethlehem  
+**famine  
 → departure  
-→ renewed bread in Bethlehem  
+→ bread restored  
 → return  
-→ beginning of harvest**
+→ harvest beginning**
 
 ### Moab
 
-Moab lay east of the Dead Sea.
+Moab lay east of the Dead Sea and had a complicated relationship with Israel.
 
-Its history with Israel was complicated.
+Genesis traces Moab to Lot. Numbers records Balak king of Moab seeking Balaam's help against Israel, and Deuteronomy remembers the Moabites as people who did not meet Israel with bread and water during the wilderness journey.
 
-Genesis connects the Moabites with Lot.
+That history gives weight to the narrator's repeated identification of Ruth as a Moabite.
 
-Numbers records Balak king of Moab attempting to use Balaam against Israel.
+Yet Ruth moves against the old national pattern. She leaves Moab, binds herself to an Israelite widow, chooses Israel as her people, and names Israel's God as her God.
 
-Deuteronomy remembers Moab's failure to meet Israel with bread and water during Israel's journey.
-
-Ruth's identity therefore carries real weight when the narrator repeatedly calls her:
-
-> “the Moabitess.”
-
-Yet Ruth herself will move in a very different direction from the older national hostility.
-
-She leaves Moab.
-
-She cleaves to Naomi.
-
-She chooses Naomi's people.
-
-She chooses Naomi's God.
-
-And eventually this Moabite woman becomes part of the line leading to David.
-
-Chapter 1 begins that movement.
+The rest of the book will show how far that decision carries her.
 
 ---
 
 ## Natural Reading
 
-### Ruth 1:1–2 — Famine in the House of Bread
+### Ruth 1:1–2 — Famine Produces Departure
 
 > “Now it came to pass in the days when the judges ruled, that there was a famine in the land.”
 
 ### What Happens
 
-A famine strikes the land during the period of the Judges.
-
-Elimelech, his wife Naomi, and their sons Mahlon and Chilion leave Bethlehem-Judah and go to the country of Moab.
-
-They intend to sojourn there.
+Elimelech leaves Bethlehem-Judah with Naomi and their sons, Mahlon and Chilion. They go into Moab intending to sojourn there.
 
 ### The Key
 
-The book begins with a failure of provision.
+The family moves because of a real problem: famine.
 
-A family living in Bethlehem can no longer sustain itself there.
+Ruth does not explicitly condemn Elimelech for leaving, so the interpretation should not depend upon turning the departure into an act of rebellion. The functional movement is enough.
 
-So Elimelech moves the household.
-
-The text gives a practical reason: famine.
-
-It does not explicitly condemn Elimelech for leaving, and we do not need to create that judgment in order for the architecture to work.
-
-What matters first is the movement:
-
-**lack produces departure.**
-
-The family leaves the land it knows because it is seeking life somewhere else.
+The expected place of provision can no longer sustain the household, and pressure produces relocation.
 
 ### BKV
 
-There are times when the place associated with nourishment is experienced as famine.
+The chapter begins when scarcity changes direction.
 
-The expected source seems empty.
-
-The old structure no longer appears capable of sustaining life.
-
-That creates pressure to move.
-
-Ruth begins inside that pressure.
-
-The Bible Key should resist making every departure automatically rebellious. Ruth gives us something subtler.
-
-A person can move because of a real need and still discover that the journey becomes part of a much larger stripping away.
-
-The chapter will eventually reverse this direction.
-
-But first it follows the family out.
+A person may leave familiar ground because what once sustained life appears unable to do so anymore. The important question in Ruth is what happens after that departure and what eventually causes the direction to reverse.
 
 ---
 
@@ -262,63 +184,27 @@ But first it follows the family out.
 
 ### What Happens
 
-Elimelech dies in Moab.
-
-Mahlon and Chilion marry Moabite women named Orpah and Ruth.
-
-After about ten years, both sons also die.
+Elimelech dies in Moab. Mahlon and Chilion marry Ruth and Orpah, women of Moab. About ten years later, both sons die.
 
 Naomi, Ruth, and Orpah are left widowed.
 
 ### The Key
 
-The famine threatened the family's food.
+The problem has grown far beyond famine.
 
-Now death threatens the family itself.
+The family left Bethlehem trying to preserve life, but Naomi now loses the structure of the household itself. Her husband is gone, both sons are gone, and the visible continuation of Elimelech's family has been cut off.
 
-The progression is severe:
+This establishes the deeper problem that Ruth 4 must eventually answer.
 
-**famine  
-→ departure  
-→ death of husband  
-→ death of sons  
-→ three widows**
-
-The narrator summarizes Naomi's condition:
-
-> “the woman was left of her two sons and her husband.”
-
-The household has lost the men through whom its existing family line and inheritance would normally continue.
-
-This is why the later redemption of Chapter 4 concerns far more than Ruth finding another husband.
-
-The family line itself appears to have reached an ending.
+The book is concerned with food, but food alone cannot restore what has been lost.
 
 ### BKV
 
-The movement from famine into emptiness is one of Ruth's governing architectures.
+Naomi's later word **empty** is built here.
 
-Something begins by losing nourishment.
+She went out with a husband and sons, with a household and a visible future. She returns without them.
 
-Then it loses structure.
-
-Then it appears to lose its future.
-
-Naomi will later say:
-
-> “I went out full.”
-
-That fullness included more than material provision.
-
-She went out with a husband.
-
-She went out with two sons.
-
-She went out as part of a household whose future was still visible.
-
-She returns without them.
-
-The emptiness she later names has been built here.
+The story has moved from lack of provision to apparent loss of continuity.
 
 ---
 
@@ -326,498 +212,284 @@ The emptiness she later names has been built here.
 
 > “Then she arose with her daughters in law, that she might return from the country of Moab…”
 
-### What Happens
-
-Naomi hears in Moab:
+Naomi has heard:
 
 > “how that the LORD had visited his people in giving them bread.”
 
-She rises with Ruth and Orpah and begins the journey back toward Judah.
+### What Happens
+
+Naomi learns that the famine has ended and begins the journey toward Judah.
 
 ### The Key
 
-This is the first reversal in the book.
+This is the first reversal in Ruth.
 
-Naomi does not begin returning because her grief has ended.
-
-Nothing in her immediate household has been restored.
-
-She still has no husband.
-
-Her sons are still dead.
-
-She has not yet met Boaz.
-
-She has no grandson.
-
-What changes first is what she **hears**.
-
-The LORD has visited His people.
+Nothing in Naomi's own household has changed. What changes is the news she receives from home.
 
 There is bread again.
 
-That report creates a new direction.
-
-**hearing  
-→ arising  
-→ returning**
+She hears, rises, and begins to return.
 
 ### BKV
 
-Return can begin before restoration is visible.
+Return begins before Naomi feels restored.
 
-That matters.
+She does not wait until grief is resolved or a new future becomes visible. She hears that provision has returned at the source and changes direction.
 
-Naomi does not wait in Moab until she feels whole enough to go home.
-
-She hears that provision has returned, and she moves toward it while still carrying grief.
-
-For the disciple, this is a recognizable architecture.
-
-Sometimes the first evidence of restoration is simply that the direction changes.
-
-The heart may still hurt.
-
-The losses may still be real.
-
-The future may still be invisible.
-
-Yet the person has heard that there is bread and has begun walking home.
+That is enough to begin the journey.
 
 ---
 
-### Ruth 1:8–13 — Naomi Releases Ruth and Orpah
+### Ruth 1:8–13 — Naomi Offers Release
+
+Naomi tells Ruth and Orpah:
 
 > “Go, return each to her mother's house…”
 
+She blesses them and hopes that each will find:
+
+> “rest… in the house of her husband.”
+
 ### What Happens
 
-Naomi tells Ruth and Orpah to return to their own families.
+Ruth and Orpah initially want to continue with Naomi, but Naomi urges them to return to their own people.
 
-She blesses them:
-
-> “the LORD deal kindly with you, as ye have dealt with the dead, and with me.”
-
-She hopes they will find rest in new marriages.
-
-The women weep and initially insist that they will return with Naomi.
-
-Naomi argues against it.
-
-She has no sons for them.
-
-She sees no realistic family future through herself.
+She explains the practical reality. She has no sons to give them and no reasonable expectation of producing sons for them in the future.
 
 ### The Key
 
-Naomi is not testing the women with a secret expectation that they should refuse her.
+Naomi is not offering Ruth and Orpah a false test.
 
-She gives them a reasonable path.
+She releases them.
 
-Go home.
+From her perspective, remaining with her offers no visible advantage. She cannot promise them husbands, security, or children.
 
-Find rest.
+That makes the choice that follows meaningful.
 
-Build another life.
-
-Naomi sees herself as unable to provide a future for either woman.
-
-Her reasoning is grounded in the reality of her condition.
-
-She has no husband.
-
-She has no sons.
-
-She cannot promise more sons.
-
-From Naomi's perspective, following her means choosing uncertainty.
+Ruth is free to leave.
 
 ### BKV
 
-This makes Ruth's coming decision much stronger.
+True attachment becomes visible when possession is released.
 
-Ruth is not following Naomi because Naomi can promise her something.
+Naomi does not secure Ruth's loyalty by promising a reward. She removes the reward from view.
 
-Naomi is explicitly telling Ruth:
-
-**I have nothing to give you.**
-
-This removes transaction from Ruth's cleaving.
-
-Ruth's commitment will be made in the face of visible lack.
-
-That is why it becomes one of the strongest acts in the book.
+The road now presents a genuine choice.
 
 ---
 
-### Ruth 1:14 — Orpah Returns; Ruth Cleaves
+### Ruth 1:14 — Ruth Cleaves
 
 > “and Orpah kissed her mother in law; but Ruth clave unto her.”
 
 ### What Happens
 
-The women weep again.
+Orpah accepts Naomi's release and returns.
 
-Orpah kisses Naomi and returns.
-
-Ruth remains.
-
-The text says Ruth **cleaves** to Naomi.
+Ruth remains attached to Naomi.
 
 ### The Key
 
-Orpah should not be turned into a villain.
+Orpah should not be made into the villain of the chapter. She follows the course Naomi herself has urged.
 
-Naomi told her to return.
+Ruth makes the unusual choice.
 
-Orpah loves Naomi enough to weep over the separation.
+The Hebrew verb translated **clave**, *dabaq*, means to cling or hold fast. The same verb family appears elsewhere in Scripture for deep relational and covenantal attachment.
 
-Then she accepts the path Naomi has urged her to take.
+The contrast is therefore simple and strong.
 
-Her departure makes Ruth's choice visible.
+One woman returns to the familiar.
 
-Ruth does something beyond what Naomi asks.
-
-She **cleaves**.
-
-The Hebrew verb **דָּבַק — dabaq** means to cling, hold fast, or remain closely attached.
-
-It is strong covenantal and relational language elsewhere in Scripture.
-
-Genesis uses it when a man cleaves to his wife.
-
-Deuteronomy uses it for cleaving to the LORD.
-
-In Ruth, its immediate function is clear:
-
-Ruth refuses separation.
+Ruth holds fast to Naomi.
 
 ### BKV
 
-The road divides here.
+The decisive movement is attachment before outcome.
 
-Orpah returns toward the life she knows.
-
-Ruth attaches herself to Naomi's path without knowing where it will end.
-
-This is one of the first places Ruth touches the disciple very directly.
-
-There are moments when transformation becomes visible through what a person refuses to release.
-
-Ruth does not yet possess anything in Bethlehem.
-
-Her first possession is a commitment.
-
-She holds fast.
-
-Then the road opens.
+Ruth has not been shown what Bethlehem will give her. She chooses the path by choosing what she will cleave to.
 
 ---
 
 ### Ruth 1:15–18 — “Thy God My God”
 
-Naomi tells Ruth:
+Naomi points out that Orpah has returned:
 
-> “Behold, thy sister in law is gone back unto her people, and unto her gods: return thou after thy sister in law.”
+> “unto her people, and unto her gods.”
 
 Ruth answers:
 
 > “Intreat me not to leave thee, or to return from following after thee…”
 
-Then comes the declaration:
+Then:
 
-> “whither thou goest, I will go; and where thou lodgest, I will lodge: thy people shall be my people, and thy God my God.”
+> “thy people shall be my people, and thy God my God.”
 
 ### What Happens
 
-Ruth binds her future to Naomi's.
+Ruth commits herself to Naomi's journey, people, land, and God. Her commitment extends even to death and burial.
 
-She accepts Naomi's destination.
-
-Naomi's people become her people.
-
-Naomi's God becomes her God.
-
-She accepts even burial in Naomi's land.
-
-Naomi realizes that Ruth is steadfastly determined and stops trying to persuade her.
+Naomi sees that Ruth is steadfastly determined and stops trying to persuade her.
 
 ### The Key
 
-This is Ruth's decisive movement.
+Ruth is doing more than choosing to accompany an elderly relative.
 
-She crosses several boundaries at once:
+She is choosing a new belonging.
 
-**land  
-→ people  
-→ belonging  
-→ God  
-→ future  
-→ death**
+Her declaration reaches across the major structures of identity:
 
-Her statement reaches all the way to the grave:
+**where you go  
+where you live  
+your people  
+your God  
+where you die  
+where you are buried**
 
-> “where thou diest, will I die, and there will I be buried.”
+This is not a temporary visit to Bethlehem.
 
-Ruth is not arranging a temporary visit to Bethlehem.
-
-She is transferring her life.
-
-This commitment happens before she knows what Bethlehem will provide.
-
-That sequence matters.
-
-**cleaving precedes provision.**
+Ruth has transferred the direction of her life.
 
 ### BKV
 
-Ruth's transformation begins through attachment.
+Ruth chooses covenant direction before she possesses covenant benefits.
 
-She chooses the direction before she knows its outcome.
+That order matters.
 
-That is a recurring biblical architecture.
-
-Abraham is called to go before he knows the land in full.
-
-Israel leaves Egypt before it possesses Canaan.
-
-The disciple often receives enough light for the next allegiance before receiving a map of everything that allegiance will produce.
-
-Ruth does not say:
-
-**Show me Boaz and I will come.**
-
-She says:
-
-**thy God my God.**
+The field comes later.
 
 Boaz comes later.
 
-The field comes later.
+Covering comes later.
 
 Redemption comes later.
 
 The house comes later.
 
-The child comes later.
+Ruth first decides:
 
-The kingdom comes generations later.
+> “thy God my God.”
 
-The cleaving comes first.
+She chooses belonging before she sees what belonging will provide.
 
 ---
 
-### Ruth 1:19 — The Two Women Enter Bethlehem
+### Ruth 1:19 — They Arrive Together
 
 > “So they two went until they came to Bethlehem.”
 
 ### What Happens
 
-Naomi and Ruth complete the journey.
-
-Their arrival causes a stir throughout Bethlehem.
-
-The women of the city ask:
+Naomi and Ruth complete the journey. Their arrival causes the city to stir, and the women ask:
 
 > “Is this Naomi?”
 
 ### The Key
 
-The wording is simple:
+The same road has carried two different movements.
 
-> “So they two went…”
+Naomi has returned home.
 
-The chapter has reduced a household of four leaving Bethlehem to two widows returning.
+Ruth has entered a new home.
 
-But these two are not the same two who left.
+Naomi knows Bethlehem through memory. Ruth knows it only through commitment.
 
-Naomi returns changed by loss.
-
-Ruth arrives for the first time.
-
-The same road therefore contains opposite movements:
-
-**Naomi: Moab → home**
-
-**Ruth: Moab → new world**
-
-One is returning.
-
-One is entering.
-
-They arrive together.
+Yet they arrive together.
 
 ### BKV
 
-The architecture of return can include people at different stages of the journey.
+Return and entry can happen at the same boundary.
 
-Naomi knows Bethlehem and feels empty there.
+Naomi is coming back to something she once knew, while Ruth is discovering it for the first time.
 
-Ruth does not know Bethlehem and has committed herself to whatever awaits there.
-
-The disciple's return to something once known can occur alongside another part of the person entering it as though for the first time.
-
-Old knowledge and new allegiance meet on the same road.
+The story joins those two movements before either woman knows what Bethlehem will become for them.
 
 ---
 
-### Ruth 1:20–21 — Naomi Becomes Mara
+### Ruth 1:20–21 — Naomi Names Herself by the Loss
+
+Naomi answers:
 
 > “Call me not Naomi, call me Mara: for the Almighty hath dealt very bitterly with me.”
 
-### What Happens
-
-Naomi tells the women of Bethlehem not to call her Naomi.
-
-She chooses **Mara — bitter**.
-
-Then she explains:
+Then:
 
 > “I went out full, and the LORD hath brought me home again empty.”
 
-She understands her suffering under the sovereignty of God.
+### What Happens
 
-She says the Almighty has afflicted her.
+Naomi interprets her experience through bitterness and emptiness.
+
+She acknowledges that she has been brought home, but she understands the journey primarily through what she lost.
 
 ### The Key
 
-Naomi's interpretation deserves to be heard before it is corrected by the rest of the story.
+Naomi is home without feeling restored.
 
-She has suffered enormous loss.
+That distinction is essential.
 
-She does not pretend otherwise.
+She has made the correct geographic movement, but her interpretation is still formed by the deaths in Moab.
 
-And she does not speak as someone who has abandoned belief in God.
+Ruth does not mock that interpretation. Naomi's grief has real grounds.
 
-She speaks about God constantly.
-
-Her struggle concerns what God's dealings with her mean.
-
-Naomi has returned to Bethlehem physically while interpreting herself through Moab.
-
-She sees:
-
-husband gone,
-
-sons gone,
-
-future gone.
-
-Therefore:
-
-**empty.**
-
-Yet there is a fascinating tension in her statement.
-
-Naomi says:
-
-> “the LORD hath brought me home again.”
-
-Even inside the bitterness, she recognizes that she has been brought home.
+The story simply continues beyond it.
 
 ### BKV
 
-This is one of the most mature spiritual moments in Ruth precisely because it is unresolved.
+A person can return to the right place while still carrying the meaning formed in the place of loss.
 
-Naomi is home.
+Naomi's direction has changed before her perception has fully changed.
 
-Naomi is bitter.
+The rest of Ruth will address that perception through events rather than argument.
 
-Both statements are true at this point in the story.
+She will see provision.
 
-Return does not require us to falsify grief.
+She will recognize Boaz.
 
-A person can stand in the right place while still carrying an interpretation formed in the place of loss.
+She will seek redemption for Ruth.
 
-The rest of Ruth will work upon that interpretation through events.
+She will eventually hold a child.
 
-Not through an argument.
-
-Through bread.
-
-Through Ruth.
-
-Through a field.
-
-Through Boaz.
-
-Through redemption.
-
-Through a child.
-
-Naomi does not yet know what her return contains.
+The story will give Naomi new evidence from which to understand her life.
 
 ---
 
-### Ruth 1:22 — Empty at the Beginning of Harvest
+### Ruth 1:22 — The Beginning of Barley Harvest
 
 > “So Naomi returned, and Ruth the Moabitess, her daughter in law, with her…”
 
-Then the narrator adds:
+Then:
 
-> “and they came to Bethlehem in the beginning of barley harvest.”
+> “they came to Bethlehem in the beginning of barley harvest.”
 
 ### What Happens
 
-The chapter closes by summarizing the return.
-
-Naomi has come home.
-
-Ruth the Moabitess has come with her.
-
-Their arrival coincides with the beginning of barley harvest.
+Naomi and Ruth arrive in Bethlehem as the barley harvest begins.
 
 ### The Key
 
-This final detail changes the atmosphere of the entire chapter.
+This final line places Naomi's declaration of emptiness beside the first visible sign of coming provision.
 
-Naomi has just said:
+The chapter began with famine.
 
-> **“empty.”**
+It ends with harvest.
 
-The narrator immediately gives us:
+Naomi has not gathered any grain yet, so the reversal is incomplete. But the conditions around her have changed.
 
-> **“the beginning of barley harvest.”**
-
-Naomi's statement is not mocked or dismissed.
-
-She really has lost her husband and sons.
-
-But her perception is not yet large enough to include what has begun around her.
-
-The famine that opened the chapter is over.
-
-The fields are producing.
-
-The harvest is beginning.
-
-And standing beside Naomi is Ruth.
-
-Naomi includes herself among the empty.
-
-The reader already knows she did not return alone.
+She says she is empty at the exact moment the narrator tells us that harvest is beginning.
 
 ### BKV
 
-This may be the governing image of Ruth 1.
+This is the chapter's clearest image.
 
-**The disciple can arrive at harvest while still feeling empty.**
+**Naomi is looking backward at what has been lost while the narrator points forward to what has begun.**
 
-The internal interpretation may lag behind the actual movement of God.
+Both perspectives belong to the moment.
 
-Naomi sees the end of what was.
+She really has suffered loss.
 
-The narrator places her at the beginning of what is coming.
+Harvest really is beginning.
 
-That is why the wording matters:
-
-**beginning of barley harvest.**
-
-The chapter does not end with fullness.
-
-It ends with the beginning.
-
-Restoration has entered the story before Naomi can recognize it as restoration.
+Ruth 1 therefore ends at the boundary between grief and restoration. Naomi has returned before she can see what her return contains.
 
 ---
 
@@ -825,27 +497,15 @@ Restoration has entered the story before Naomi can recognize it as restoration.
 
 ### 1. Famine → Departure → Return
 
-This is one of Scripture's recurring movements.
+Scripture repeatedly uses famine to set households and nations in motion. Genesis contains several such movements, including Abraham's descent during famine and Jacob's household going toward Egypt because food is unavailable in Canaan.
 
-Genesis repeatedly sends families into motion because of famine.
-
-Abraham moves during famine.
-
-Isaac encounters famine.
-
-Jacob's sons travel because of famine.
-
-Joseph's strange path eventually becomes the means by which the family survives famine.
-
-Ruth begins within the same world.
-
-Here the movement eventually reverses:
+Ruth participates in this larger architecture while developing its own movement:
 
 **Bethlehem  
 → famine  
 → Moab  
 → loss  
-→ hearing of bread  
+→ bread heard of  
 → Bethlehem**
 
 **Confidence: ESTABLISHED**
@@ -854,21 +514,11 @@ Here the movement eventually reverses:
 
 ### 2. Hearing → Arising → Returning
 
-Naomi's return begins when she hears:
+Naomi first hears that the LORD has again given His people bread. She then rises and begins returning.
 
-> “that the LORD had visited his people in giving them bread.”
+The order is important because the report reaches her before the provision does.
 
-This resembles the wider biblical architecture in which news of divine action awakens movement.
-
-The important function in Ruth is concrete:
-
-Naomi hears that conditions have changed.
-
-Then she rises.
-
-Then she returns.
-
-Interiorly, the first movement toward restoration may begin through hearing before anything has changed in the person's own hands.
+Interiorly, a changed direction can begin when a person becomes aware that what seemed barren is alive again.
 
 **Confidence: STRONG RECONSTRUCTION**
 
@@ -876,57 +526,41 @@ Interiorly, the first movement toward restoration may begin through hearing befo
 
 ### 3. Cleaving → New Belonging
 
-Ruth **cleaves** to Naomi.
+Ruth 1:14 says:
 
-The verb *dabaq* belongs to a larger biblical vocabulary of deep attachment.
+> “Ruth clave unto her.”
 
-Genesis 2:24:
+The Hebrew *dabaq* also appears in Genesis 2:24 for a man cleaving to his wife and in Deuteronomy for cleaving to the LORD.
 
-> “cleave unto his wife”
-
-Deuteronomy 10:20:
-
-> “to him shalt thou cleave”
-
-Ruth's use is relationally concrete while participating naturally in that larger architecture.
-
-Her new belonging begins through attachment before possession.
-
-**Confidence: ESTABLISHED**
-
----
-
-### 4. Stranger → Covenant People
-
-Ruth begins as:
-
-> “Ruth the Moabitess.”
-
-Her declaration establishes a new allegiance:
+Ruth's immediate attachment is to Naomi, but her following declaration expands that attachment into people and God:
 
 > “thy people shall be my people, and thy God my God.”
 
-The rest of the book will test and embody that declaration.
-
-She will enter the field under Israel's law.
-
-She will come under the protection of Boaz.
-
-She will seek redemption.
-
-She will enter the house.
-
-She will enter the genealogy.
-
-Ruth 1 is the threshold.
-
 **Confidence: ESTABLISHED**
 
 ---
 
-### 5. Fullness → Emptiness → Restoration
+### 4. Return Before Restoration
 
-Naomi herself establishes the first two terms:
+Naomi reaches Bethlehem while still calling herself Mara and empty.
+
+This establishes a distinction that recurs elsewhere in Scripture. A boundary can be crossed before the interior transformation associated with that crossing is complete.
+
+Israel leaves Egypt before the wilderness reveals what remains within the people.
+
+Jonah returns to his commission before Chapter 4 exposes what remains unresolved in him.
+
+Naomi returns to Bethlehem before she can recognize the restoration already beginning around her.
+
+The narratives are different, but the functional correspondence is strong.
+
+**Confidence: STRONG RECONSTRUCTION**
+
+---
+
+### 5. Fullness → Emptiness → Restored Life
+
+Naomi supplies the first two stages herself:
 
 > “I went out full”
 
@@ -934,95 +568,50 @@ and:
 
 > “the LORD hath brought me home again empty.”
 
-The remainder of Ruth will answer the second term.
-
-Chapter 3 even returns explicitly to the language when Boaz sends grain so Ruth will not go back to Naomi **empty**.
-
-Chapter 4 gives Naomi a child described as:
+The remainder of Ruth will answer that emptiness through provision, redemption, and finally the child whom the women call:
 
 > “a restorer of thy life.”
 
-The movement therefore belongs to the architecture of the whole book.
+The whole-book movement is therefore:
 
 **FULLNESS  
 → EMPTINESS  
 → RETURN  
 → PROVISION  
+→ REDEMPTION  
 → RESTORED LIFE**
 
 **Confidence: ESTABLISHED**
 
 ---
 
-### 6. Bitterness Before Restoration
+### 6. Famine → Harvest
 
-Naomi names herself Mara after she has already returned.
-
-That sequence is important.
-
-She does not become hopeful first and then return.
-
-She returns bitter.
-
-The book allows the transformation of her perception to happen after the geographic return.
-
-This corresponds with larger biblical return patterns in which crossing the boundary does not instantly complete the inward transformation.
-
-Israel leaves Egypt before the wilderness exposes what remains within.
-
-Jonah returns to his commission before Chapter 4 exposes his continuing resistance.
-
-Naomi returns to Bethlehem before she can perceive what her return will become.
-
-The stories differ, but the function is related:
-
-**right direction can precede completed interior restoration.**
-
-**Confidence: STRONG RECONSTRUCTION**
-
----
-
-### 7. Famine → Harvest
-
-Ruth 1 begins:
+The chapter opens:
 
 > “there was a famine in the land.”
 
-It ends:
+It closes:
 
 > “in the beginning of barley harvest.”
 
-That is an explicit chapter-level reversal.
+This is an explicit narrative reversal.
 
-The chapter does not yet show Ruth gathering the harvest.
-
-It places her at its beginning.
-
-This makes the ending a threshold rather than a resolution.
+The word **beginning** keeps the chapter from claiming too much. Naomi has reached the beginning of restoration rather than its completion.
 
 **Confidence: ESTABLISHED**
 
 ---
 
-### 8. The Unseen Gift Beside Naomi
+### 7. Naomi's Emptiness and Ruth's Presence
 
-Naomi says she has returned empty.
+Naomi says she has returned empty while Ruth stands beside her.
 
-Yet Ruth is standing beside her.
+The rest of the book will reveal how significant Ruth already is to Naomi's restoration. By Chapter 4, the women of Bethlehem will describe Ruth as:
 
-The rest of the book will prove Ruth to be extraordinarily consequential to Naomi's restoration.
+> “better to thee than seven sons.”
 
-Chapter 4 will describe Ruth as better to Naomi:
-
-> “than seven sons.”
-
-There is therefore an intentional narrative irony in Ruth 1.
-
-Naomi interprets herself as empty while accompanied by the person through whom much of her restoration will come.
-
-The text does not condemn Naomi for failing to see this. Her grief explains the narrowness of her present horizon.
-
-Interiorly, something already present in the life may later prove to have been part of the answer before the person recognized it.
+The narrative therefore allows us to see something Naomi cannot yet see: part of the answer has already walked home with her.
 
 **Confidence: STRONG RECONSTRUCTION**
 
@@ -1034,31 +623,29 @@ Interiorly, something already present in the life may later prove to have been p
 
 **Meaning:** House/place of bread or food.
 
-**MSFR:** Naomi's home in Judah; the place the family leaves during famine and to which Naomi and Ruth return when provision has resumed.
+**MSFR:** Naomi's home in Judah, abandoned during famine and returned to when bread and harvest have resumed.
 
-**BKV:** The literary tension is unusually strong because Ruth 1 moves from famine in Bethlehem to the beginning of barley harvest in Bethlehem.
-
-The book itself activates the bread/provision resonance.
+**BKV:** Ruth itself develops the bread resonance through famine, renewed bread, return, and barley harvest.
 
 ---
 
 ### Judah — יְהוּדָה / Yehudah
 
-**Meaning:** Genesis connects the name with praise or thanksgiving.
+**Meaning:** Genesis 29:35 explicitly connects Judah's naming with praise or thanksgiving to the LORD.
 
-**MSFR:** The tribal territory containing Bethlehem and the larger ancestral line into which Ruth is entering.
+**MSFR:** The tribal territory containing Bethlehem and the ancestral line into which Ruth is entering.
 
-**BKV:** The chapter does not yet develop Judah symbolically. Its larger importance becomes visible in Ruth 4 when the genealogy runs through Perez to David.
+**BKV:** Judah becomes more significant at the end of the book when the genealogy runs through Perez toward David.
 
 ---
 
 ### Moab — מוֹאָב / Mo'av
 
-**Meaning:** Genesis 19 gives the name within the story of Lot's descendants; the ancient etymology should not carry the interpretation.
+**Meaning:** Genesis 19 gives the biblical naming context; uncertain ancient etymology should not carry the interpretation.
 
-**MSFR:** The foreign land where Elimelech's household sojourns, where Naomi's husband and sons die, and from which Naomi returns.
+**MSFR:** The foreign land where Elimelech's household sojourns, where Naomi's husband and sons die, and from which Naomi and Ruth depart.
 
-**BKV:** Moab functions first as the land away from Bethlehem and as Ruth's original national identity. Its importance grows because Ruth the Moabitess chooses Naomi's people and God.
+**BKV:** Moab functions primarily as the place away from Bethlehem and as Ruth's original national identity.
 
 ---
 
@@ -1068,23 +655,17 @@ The book itself activates the bread/provision resonance.
 
 **MSFR:** Naomi's husband and head of the household that leaves Bethlehem during famine.
 
-**BKV:** His name has an intriguing canonical resonance because Ruth begins during Judges, when Israel has no human king, and ends with David. The text does not explicitly develop this wordplay, so the connection should remain secondary.
+**BKV:** His name has a possible secondary resonance in a book set during Judges and ending with David, but Ruth does not explicitly build its argument upon that wordplay.
 
 ---
 
 ### Naomi — נָעֳמִי / No'omi
 
-**Meaning:** Pleasant, pleasantness, or my pleasantness.
+**Meaning:** Pleasantness, pleasant, or my pleasantness.
 
-**MSFR:** Israelite widow whose household is emptied in Moab and who initiates the return to Bethlehem.
+**MSFR:** Israelite widow who loses her husband and sons in Moab, hears that bread has returned to Bethlehem, and initiates the journey home.
 
-**BKV:** Naomi herself activates the meaning of her name by rejecting it:
-
-> “Call me not Naomi.”
-
-Her movement from Naomi to Mara describes how she presently understands her life.
-
-The rest of Ruth will test whether Mara is the final name of her story.
+**BKV:** Naomi herself activates the contrast in her name by asking to be called Mara. Her movement through the book will test whether bitterness is the final interpretation of her life.
 
 ---
 
@@ -1094,135 +675,69 @@ The rest of Ruth will test whether Mara is the final name of her story.
 
 **MSFR:** The name Naomi gives herself when she returns to Bethlehem.
 
-**BKV:** Mara describes Naomi's interpretation of what has happened to her.
-
-It is not the name the narrator begins using for her.
-
-The book continues to call her Naomi.
-
-That distinction is worth preserving.
-
-Naomi says:
-
-**Mara.**
-
-The story continues:
-
-**Naomi.**
-
-Her bitterness is real.
-
-It does not receive authority to rename the entire future.
+**BKV:** Mara accurately expresses Naomi's present experience, but the narrator continues calling her Naomi. Her pain names a stage of the journey rather than the ending of the story.
 
 ---
 
 ### Mahlon — מַחְלוֹן
 
-**Meaning:** Traditionally associated with sickness or weakness, though the derivation should be treated cautiously.
+**Meaning:** Traditionally associated with sickness or weakness; derivation uncertain.
 
-**MSFR:** Son of Naomi and Elimelech, husband of Ruth, whose death leaves Ruth widowed.
-
-**BKV:** His primary importance is functional. His death creates the threatened line and inheritance that later redemption addresses.
+**MSFR:** Son of Elimelech and Naomi and husband of Ruth. His death leaves Ruth widowed and contributes to the threatened family line addressed later by redemption.
 
 ---
 
 ### Chilion — כִּלְיוֹן
 
-**Meaning:** Traditionally associated with failing, wasting, or coming to an end.
+**Meaning:** Traditionally associated with failing, wasting, or coming to an end; caution is appropriate.
 
-**MSFR:** Naomi and Elimelech's other son, who also dies in Moab.
-
-**BKV:** The actual death supplies all the architecture required. The name does not need to be turned into a symbolic prediction.
+**MSFR:** Elimelech and Naomi's other son, whose death further empties the household.
 
 ---
 
 ### Orpah — עָרְפָּה
 
-**Meaning:** Uncertain. Traditional connections with neck or turning the back should not control the reading.
+**Meaning:** Uncertain.
 
-**MSFR:** Naomi's Moabite daughter-in-law who loves her, begins the journey, and eventually accepts Naomi's instruction to return.
+**MSFR:** Naomi's Moabite daughter-in-law who begins the journey, grieves the separation, and eventually accepts Naomi's instruction to return.
 
-**BKV:** Orpah makes Ruth's cleaving visible by providing the alternative path. She should not be made into a figure of evil merely because she returns.
+**BKV:** Orpah provides the reasonable alternative that makes Ruth's cleaving visible. Her return should not be turned into evidence of moral failure.
 
 ---
 
 ### Ruth — רוּת
 
-**Meaning:** Often associated traditionally with friendship or companionship; the precise derivation is uncertain.
+**Meaning:** Traditionally associated with friendship or companionship; exact derivation uncertain.
 
 **MSFR:** Moabite widow who refuses separation from Naomi, cleaves to her, chooses her people and God, and enters Bethlehem with her.
 
-**BKV:** Ruth's function is already powerful without depending upon her name's uncertain etymology.
-
-She is the one who **cleaves**.
-
-Her first great act is not receiving.
-
-It is choosing.
+**BKV:** Ruth's function is stronger than any uncertain etymology. She is the one who chooses belonging before she knows what that belonging will give her.
 
 ---
 
 ## The Chapter in One Movement
 
-Ruth 1 begins with famine.
+Ruth 1 begins when famine drives a household away from Bethlehem.
 
-There is no bread in Bethlehem.
+In Moab, the problem becomes much deeper than hunger. Elimelech dies, then Mahlon and Chilion die, leaving Naomi with the loss of the family structure and future she once knew.
 
-So Elimelech takes his household into Moab.
+Then Naomi hears that bread has returned to Bethlehem.
 
-Then the household collapses.
+She rises and begins going home.
 
-Elimelech dies.
-
-Mahlon dies.
-
-Chilion dies.
-
-Naomi is left with Ruth and Orpah.
-
-Then Naomi hears something from home:
-
-**the LORD has visited His people.**
-
-There is bread again.
-
-So she rises.
-
-The road reverses.
-
-Naomi begins moving back toward Bethlehem.
-
-Orpah and Ruth begin with her.
-
-Naomi releases them both.
-
-Orpah returns.
-
-Ruth cleaves.
-
-And on the road between Moab and Bethlehem, Ruth makes the decision that will govern everything that follows:
+On the road, Naomi releases Ruth and Orpah from any obligation to follow her. Orpah returns, while Ruth cleaves to Naomi and chooses a future she cannot yet see:
 
 > “thy people shall be my people, and thy God my God.”
 
-Then the two women walk into Bethlehem.
+The two women arrive in Bethlehem carrying very different experiences of the same journey. Ruth has entered a new people. Naomi has returned to an old home that no longer feels like the home she left.
 
-Naomi looks at herself and sees what Moab took.
+Naomi calls herself Mara.
 
-She says:
+She says she has come back empty.
 
-**Do not call me Pleasant.**
+Then the narrator gives the final piece of information:
 
-**Call me Bitter.**
-
-She says:
-
-> “I went out full, and the LORD hath brought me home again empty.”
-
-And then the narrator gives us the final image.
-
-They have arrived:
-
-> “in the beginning of barley harvest.”
+> “they came to Bethlehem in the beginning of barley harvest.”
 
 That is Ruth 1:
 
@@ -1230,27 +745,28 @@ That is Ruth 1:
 → DEPARTURE  
 → LOSS  
 → HEARING  
-→ ARISING  
 → RETURN  
-→ SEPARATION  
+→ RELEASE  
 → CLEAVING  
-→ NEW ALLEGIANCE  
+→ NEW BELONGING  
 → HOMECOMING  
 → BITTERNESS  
-→ DECLARED EMPTINESS  
+→ EMPTINESS  
 → BEGINNING OF HARVEST**
 
-Naomi sees emptiness.
+Naomi has not yet been restored.
 
-Ruth has chosen belonging.
+Ruth has not yet found Boaz.
 
-Bethlehem is producing bread again.
+No one has spoken of redemption.
 
-And the fields are ready.
+But the direction has changed.
 
-The chapter ends before either woman knows the name **Boaz**.
+They are back in Bethlehem.
 
-But the reader is already standing at the edge of his field.
+The famine is over.
+
+And harvest is beginning.
 
 09/13/2026  
 © 2026 Luke Stewart | The Bible Key  
