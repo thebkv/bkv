@@ -8,7 +8,7 @@ focus:
   - misplaced trust
   - completed judgment
   - approaching restoration
-summary: Jerusalem sees how completely her former glory has been degraded: precious gold is dimmed, sacred stones are scattered, children starve, and trusted rulers fail. Yet the chapter ends with a decisive boundary—the punishment of Zion has reached its completion, and exile will not continue forever.
+summary: "Jerusalem sees how completely her former glory has been degraded: precious gold is dimmed, sacred stones are scattered, children starve, and trusted rulers fail. Yet the chapter ends with a decisive boundary—the punishment of Zion has reached its completion, and exile will not continue forever."
 permalink: /lamentations04/
 ---
 
