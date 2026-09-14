@@ -22,7 +22,7 @@ permalink: /esther00/
 
 ## BKV Insight
 
-Esther is about **letting your belonging to God decide how you live when protecting yourself is no longer enough**.
+Esther is about what happens when belonging to God becomes more important than protecting yourself.
 
 Esther belongs to the Jewish people long before anyone in the palace knows it. Mordecai has raised her, she has been taken into the king's house, and she has become queen. Her Jewish identity remains hidden.
 
