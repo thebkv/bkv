@@ -1757,6 +1757,9 @@ sections:
       - title: Jonah
         subtitle: 'The Book of Mission: The Resisting Prophet and Boundless Mercy'
         chapters:
+        - chapter: 0
+          bkv_title: The Unfinished Prophet
+          url: /jonah00/
         - chapter: 1
           bkv_title: Fleeing from the Presence into the Depths
         - chapter: 2
