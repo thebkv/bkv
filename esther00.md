@@ -20,6 +20,29 @@ permalink: /esther00/
 
 ---
 
+Chapter	What this means for the disciple
+00 (overview) — **The Hidden Kingdom**	God may already be at work in you before you can see what He is doing. Esther shows how what begins hidden can eventually take its rightful place in your life.
+01 — The Queen Refuses	The life ruling you is not as secure as it appears. The story begins when the old order can no longer command everything to obey it.
+02 — Esther Becomes Queen	Something new has been placed within you. Esther reaches the throne before anyone knows who she really is. The new life is present before it is fully revealed.
+03 — The Decree of Death	What rules you can turn against the life God is forming in you. Haman gains authority, and suddenly what belongs to God is under threat.
+04 — For Such a Time as This	Eventually you have to stop hiding. Esther reaches the moment when preserving herself is no longer enough. “If I perish, I perish.” She chooses who she belongs to.
+05 — Esther Approaches the King	Surrender has to become action. Esther walks into the place she was afraid to enter. What was hidden begins to confront what has been ruling.
+06 — The Sleepless Night	God can begin turning things you cannot turn yourself. What had been forgotten is remembered, and the thing Haman meant for destruction begins moving toward honor instead.
+07 — Haman Falls	The thing that has been ruling against God does not have to rule you forever. Haman is exposed, loses his place, and falls into the destruction he prepared for another.
+08 — The Counter-Decree	Removing the old ruler is not the end; you must learn to live under a new authority. The ring changes hands, and a new command goes out that allows God’s people to stand.
+09 — The Day Is Reversed	What once had power over you can lose that power. The day appointed for destruction becomes a day of victory, rest, joy, and remembrance.
+10 — Mordecai Governs	The life that once seemed powerless can become the life that governs you. Mordecai moves from outside the palace to beside the throne, using authority for the good of the people.
+
+And I think the whole book, stated to an ordinary disciple, may be as simple as:
+
+Esther is about what happens when the life of God is already within you, but it is not yet governing you. It begins hidden. It is threatened. It must come forward. The thing that has been ruling is exposed and removed. Then authority changes hands, until the life that once seemed hidden and powerless begins to govern the kingdom.
+
+That feels much closer to the level we want: the reader can recognize his own journey before he knows any of our terminology. Then the deeper architecture, fractals, onomastics, decrees, signet ring, gates, throne, fasting, and reversals can show him why we think the text is saying it.
+
+
+
+
+
 ## BKV Insight
 
 Esther is about what happens when **who you are in God** begins to determine how you live. For the disciple, the Jew is the person who knows he belongs to God and lives from that belonging.
