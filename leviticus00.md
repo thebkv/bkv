@@ -1,16 +1,13 @@
 ---
-
 book: Leviticus
 chapter: 0
 title: "Living Near the Presence"
 focus:
-
-* Leviticus begins after the Presence of God has filled the Tabernacle.
-* God teaches a rescued people how to draw near, be cleansed, and live with Him among them.
-* Holiness moves outward from the sanctuary into the disciple's whole life.
-  summary: "Leviticus shows the disciple how to live when the Presence of God is no longer distant, but dwelling among His people."
-  permalink: /leviticus00/
-
+  - "Leviticus begins after the Presence of God has filled the Tabernacle."
+  - "God teaches a rescued people how to draw near, be cleansed, and live with Him among them."
+  - "Holiness moves outward from the sanctuary into the disciple's whole life."
+summary: "Leviticus shows the disciple how to live when the Presence of God is no longer distant, but dwelling among His people."
+permalink: /leviticus00/
 ---
 
 # LEVITICUS
