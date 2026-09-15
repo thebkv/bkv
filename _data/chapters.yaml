@@ -240,6 +240,9 @@ sections:
     - title: Leviticus
       subtitle: 'The Book of Holiness: Life Ordered Around the Divine Presence'
       chapters:
+      - chapter: 0
+        bkv_title: Living Near the Presence
+        url: /leviticus00/
       - chapter: 1
         bkv_title: The Whole Life Is Offered Upon the Altar
       - chapter: 2
