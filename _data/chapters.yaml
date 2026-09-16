@@ -6,7 +6,7 @@ sections:
     summary: Formation of the Inner Law
     books:
     - title: Genesis
-      subtitle: 'The Mystery of the Seed and the Primordial Order'
+      subtitle: 'The Mystery of the Beginning'
       chapters:
       - chapter: 1
         bkv_title: The Mystery of Creation
@@ -115,7 +115,7 @@ sections:
       - chapter: 50
         bkv_title: The Bones of Joseph
     - title: Exodus
-      subtitle: 'The Book of Deliverance: The God-Given Faculties Released from Bondage'
+      subtitle: 'The Escape from Bondage'
       chapters:
       - chapter: 1
         bkv_title: The Disciple’s Powers Are Put in Bondage
@@ -238,7 +238,7 @@ sections:
         bkv_title: The Dwelling Is Raised and Filled with the Presence
         url: /exodusxy/
     - title: Leviticus
-      subtitle: 'The Book of Holiness: Life Ordered Around the Divine Presence'
+      subtitle: 'Into the Presence'
       chapters:
       - chapter: 0
         bkv_title: Living Near the Presence
@@ -299,7 +299,7 @@ sections:
       - chapter: 27
         bkv_title: What Is Devoted to God Is Properly Valued and Set Apart
     - title: Numbers
-      subtitle: 'The Book of the Wilderness: The Ordered Faculties Tested on the Journey'
+      subtitle: 'The Wilderness Journey'
       chapters:
       - chapter: 1
         bkv_title: The Faculties Are Counted and Ordered for the Journey
@@ -374,8 +374,7 @@ sections:
       - chapter: 36
         bkv_title: The Inheritance Is Preserved Within Its Proper Order
     - title: Deuteronomy
-      subtitle: 'The Book of Remembrance: The Divine Law Internalized Before Entering
-        the Inheritance'
+      subtitle: 'Edge of the Promised Land'
       chapters:
       - chapter: 1
         bkv_title: The Failed Approach to the Promise Is Remembered
