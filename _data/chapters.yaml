@@ -241,63 +241,116 @@ sections:
       subtitle: 'Into the Presence'
       chapters:
       - chapter: 0
-        bkv_title: Living Near the Presence
+        bkv_title: Into the Presence
         url: /leviticus00/
+
       - chapter: 1
-        bkv_title: The Whole Life Is Offered Upon the Altar
+        bkv_title: The Fire on the Altar
+        url: /leviticus01/
+
       - chapter: 2
-        bkv_title: The Fruit of Human Labor Is Consecrated to God
+        bkv_title: The Offering of the Harvest
         url: /leviticus02/
+
       - chapter: 3
-        bkv_title: Communion Is Established Through the Peace Offering
+        bkv_title: The Feast of Peace
+        url: /leviticus03/
+
       - chapter: 4
-        bkv_title: Unconscious Disorder Is Brought Into the Light
+        bkv_title: The Hidden Sin
+        url: /leviticus04/
+
       - chapter: 5
-        bkv_title: Guilt Is Acknowledged and Restitution Begins
+        bkv_title: The Price of Guilt
+        url: /leviticus05/
+
       - chapter: 6
-        bkv_title: The Fire of Consecration Is Kept Continually Burning
+        bkv_title: The Fire That Never Goes Out
+        url: /leviticus06/
+
       - chapter: 7
-        bkv_title: Sacrifice Is Ordered According to Its Divine Function
+        bkv_title: The Law of the Offerings
+        url: /leviticus07/
+
       - chapter: 8
-        bkv_title: The Priestly Faculties Are Consecrated for Service
+        bkv_title: The Priests Are Consecrated
+        url: /leviticus08/
+
       - chapter: 9
-        bkv_title: Consecrated Service Opens Into the Glory of God
+        bkv_title: The Glory Appears
+        url: /leviticus09/
+
       - chapter: 10
-        bkv_title: Unauthorized Fire Reveals the Danger of Misdirected Spiritual Power
+        bkv_title: Strange Fire
+        url: /leviticus10/
+
       - chapter: 11
-        bkv_title: Discernment Separates What May Be Received from What Must Be Refused
+        bkv_title: Clean and Unclean
+        url: /leviticus11/
+
       - chapter: 12
-        bkv_title: New Life Passes Through Purification
+        bkv_title: The Purification of New Life
+        url: /leviticus12/
+
       - chapter: 13
-        bkv_title: Corruption Is Examined and Brought Under Discernment
+        bkv_title: The Plague Beneath the Skin
+        url: /leviticus13/
+
       - chapter: 14
-        bkv_title: What Has Been Cleansed Is Restored to the Community
+        bkv_title: The Cleansing of the Leper
+        url: /leviticus14/
+
       - chapter: 15
-        bkv_title: The Outflow of Life Is Brought Under Sacred Order
+        bkv_title: The Hidden Issue
+        url: /leviticus15/
+
       - chapter: 16
-        bkv_title: The Inner Sanctuary Is Cleansed and Atonement Is Made
+        bkv_title: Behind the Veil
+        url: /leviticus16/
+
       - chapter: 17
-        bkv_title: Life and Blood Are Reserved for God
+        bkv_title: The Life Is in the Blood
+        url: /leviticus17/
+
       - chapter: 18
-        bkv_title: Desire Is Bounded to Preserve Holy Order
+        bkv_title: Forbidden Relations
+        url: /leviticus18/
+
       - chapter: 19
-        bkv_title: Holiness Enters the Ordinary Relationships of Life
+        bkv_title: Be Ye Holy
+        url: /leviticus19/
+
       - chapter: 20
-        bkv_title: The Boundaries of Holiness Are Enforced
+        bkv_title: The Cost of Profaning the Holy
+        url: /leviticus20/
+
       - chapter: 21
-        bkv_title: The Priestly Faculty Is Held to a Higher Order
+        bkv_title: The Priests of the Holy Place
+        url: /leviticus21/
+
       - chapter: 22
-        bkv_title: Holy Things Are Protected from Profanation
+        bkv_title: The Holy Things
+        url: /leviticus22/
+
       - chapter: 23
-        bkv_title: Sacred Time Orders the Life Around God’s Redemptive Pattern
+        bkv_title: The Feasts of the LORD
+        url: /leviticus23/
+
       - chapter: 24
-        bkv_title: The Light, Bread, and Holy Name Are Kept Before the Presence
+        bkv_title: The Lamp, the Bread, and the Name
+        url: /leviticus24/
+
       - chapter: 25
-        bkv_title: Sabbath and Jubilee Restore the Divine Order of Possession
+        bkv_title: The Year of Jubilee
+        url: /leviticus25/
+
       - chapter: 26
-        bkv_title: Alignment Brings Fruitfulness; Persistent Disorder Brings Dissolution
+        bkv_title: Blessing and Desolation
+        url: /leviticus26/
+
       - chapter: 27
-        bkv_title: What Is Devoted to God Is Properly Valued and Set Apart
+        bkv_title: Devoted to the LORD
+        url: /leviticus27/
     - title: Numbers
       subtitle: 'The Wilderness Journey'
       chapters:
