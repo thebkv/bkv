@@ -11,6 +11,9 @@ permalink: /leviticus01/
 # LEVITICUS 01
 ## AT THE DOOR OF THE TENT
 *The disciple is called to bring his whole life before the Presence.*
+
+01 — THE BURNT OFFERING The disciple begins by bringing the whole self to God. The burnt offering is not primarily about fixing one particular failure; the entire offering ascends. Nothing is held back for private use. Leviticus therefore begins with surrender: the life that has come out of Egypt must now become God's life, willingly placed upon the altar until the old claim of self-ownership gives way to complete belonging.
+
 ## BKV Insight
 Leviticus 1 shows the disciple what it means to stop standing at a distance from God and bring his life before Him.
 Exodus has already brought Israel through the sea, through the wilderness, to Sinai, and finally to the completed tabernacle. The glory of the LORD has filled the dwelling. Now Leviticus opens with something wonderfully simple:
