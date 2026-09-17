@@ -1,22 +1,14 @@
-
-
-
-
-⸻
-
+---
 book: Leviticus
 chapter: 1
-title: “The Whole Life Is Offered Upon the Altar”
+title: "The Fire on the Altar"
 focus:
-
-* The burnt offering presents the whole life to God
-* Nothing is withheld from the altar
-* The disciple willingly gives himself to God
-* The offering points forward to Christ and the living sacrifice
-    summary: “Leviticus 1 gives the disciple a picture of complete surrender: the whole offering is willingly brought before God and placed upon the altar.”
-    permalink: /leviticus01/
-
-⸻
+  - "The burnt offering is given completely to God."
+  - "Nothing from the offering is held back."
+  - "The disciple learns what it means to place his whole life before God."
+summary: "Leviticus 1 shows the disciple the meaning of complete surrender: a life willingly brought near and given wholly to God."
+permalink: /leviticus01/
+---
 
 LEVITICUS 01
 
