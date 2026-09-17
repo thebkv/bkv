@@ -18,7 +18,7 @@ focus:
 
 summary: "The consecrated priesthood begins its ministry and God's glory appears. Fire comes from God Himself, confirming that what has been surrendered and ordered according to Him has been received."
 
-permalink: /leviticus09/
+permalink: /leviticus09/. 
 
 ---
 
