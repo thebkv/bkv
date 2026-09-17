@@ -1,280 +1,194 @@
-
-
-
-
-⸻
-
+---
 book: Leviticus
 chapter: 1
-title: “The Fire on the Altar”
+title: "At the Door of the Tent"
 focus:
-
-* “The burnt offering is brought willingly and given completely to God.”
-* “The disciple learns what it means to bring his whole life into the Presence of God.”
-    summary: “Leviticus 1 shows the disciple the meaning of complete surrender: the whole life is willingly brought near and given to God.”
-    permalink: /leviticus01/
-
-⸻
-
-LEVITICUS 01
-
-The Fire on the Altar
-
-The whole life is brought near and given to God.
-
-BKV Insight
-
-Leviticus 1 shows the disciple what it means to bring his whole life to God.
-
-This is the first thing God teaches Israel after His glory fills the Tabernacle. The subject is not how to escape Egypt anymore. Israel has already been brought out. God is now dwelling among them, and the question has changed. How does a person live near Him?
-
-The answer begins at the altar.
-
-The burnt offering is different from an offering in which the worshipper receives part of the sacrifice back. This animal is given completely to God. The worshipper brings it himself, places his hand upon its head, and watches as the entire offering passes onto the altar. Nothing is kept for later.
-
-That gives the serious disciple something important to recognize in his own life with God. It is possible to seek God while still dividing life into the parts we give Him and the parts we intend to keep under our own government. We may want His help with our fears, our problems, our family, or our future while still assuming that our ambitions, habits, thoughts, possessions, time, and plans remain fundamentally ours.
-
-Leviticus 1 puts the whole creature on the altar.
-
-This does not mean that the disciple abandons ordinary life. It means ordinary life changes ownership. Your work is still your work. Your body is still your body. Your relationships still require your attention. You still make decisions and plans. But increasingly you learn to bring these things before God rather than maintaining a private territory outside His government.
-
-Paul later tells the disciple to:
-
-“present your bodies a living sacrifice, holy, acceptable unto God”
-— Romans 12:1
-
-That language belongs naturally beside Leviticus 1. The disciple is not a dead sacrifice upon a physical altar. He is a living sacrifice. He gets up in the morning and continues living, working, speaking, choosing, thinking, creating, serving, and loving. The difference is that the life being lived has been presented to God.
-
-This chapter can therefore help you identify something very practical in your discipleship: where do you still stop the offering?
-
-You may readily give God your religious life but guard your ambitions. You may give Him your future but protect an old resentment. You may surrender a problem while retaining the right to decide exactly how it must be solved. These are recognizable places where part of the life has come near the altar while another part remains in our hands.
-
-The burnt offering gives you a picture to carry into prayer and self-examination. You do not have to invent an elaborate symbolic meaning for every part of the animal. The central image is already enough.
-
-The whole offering is brought near.
-
-The whole offering belongs to God.
-
-Know and Notice
-
-Watch the words that emphasize personal participation and completeness. The man brings his offering, puts his hand upon its head, and presents it “before the LORD.” Then notice how carefully the chapter accounts for the entire offering. Even the inward parts are washed and placed upon the altar.
-
-The chapter also gives the same basic offering in different economic forms. One man can bring a bull, another a sheep or goat, and another only birds. God does not require every worshipper to possess the same things. What remains constant is that each person brings what is actually his and gives it to God.
-
-Ask Yourself
-
-What part of my life do I most naturally think of as belonging to God?
-
-What part do I still instinctively think of as mine alone?
-
-If my life is a living sacrifice, what would it mean to bring that part before Him too?
-
-⸻
-
-Canonical History & Context
-
-Leviticus begins almost immediately after the closing scene of Exodus. Israel has left Egypt, come to Sinai, entered covenant with God, and constructed the Tabernacle according to the instructions given to Moses.
-
-Exodus ends with the decisive event:
-
-“the glory of the LORD filled the tabernacle.”
-— Exodus 40:34
-
-That fact explains why Leviticus exists. The Tabernacle is not simply Israel’s religious meeting place. The LORD has placed His dwelling in the midst of the camp. Israel must now learn what life near that Presence requires.
-
-The Burnt Offering Before Leviticus
-
-Leviticus does not introduce burnt offerings for the first time. After the flood, Noah builds an altar and offers burnt offerings to the LORD in Genesis 8. In Genesis 22, Abraham is told to offer Isaac as a burnt offering before God provides a ram in his place.
-
-The practice therefore belongs to the Scriptural story long before Sinai. What changes in Leviticus is its place within the ordered worship of Israel. The altar now stands before the Tabernacle, priests have been appointed, and sacrifice becomes part of Israel’s continuing life with God in their midst.
-
-An Offering Within Reach
-
-The chapter provides for offerings from the herd, the flock, or the birds. These are not three different spiritual achievements. They allow people of different means to participate in the same kind of offering.
-
-A bull is far more valuable than a turtledove, but Leviticus 1 does not create one form of nearness for the wealthy and another for the poor. The scale of what a person can bring changes. The essential offering does not.
-
-⸻
-
-Natural Reading
-
-Verses 1–2 — The LORD Calls from the Tabernacle
-
-What Happens
-
-The LORD calls Moses and speaks to him “out of the tabernacle of the congregation.” He begins by telling Israel how an offering from their cattle is to be brought, whether from the herd or from the flock.
-
-The Key
-
-The location matters. The voice now comes from the dwelling Israel has just finished building. Exodus ended with the glory of the LORD filling that dwelling; Leviticus begins with God speaking from within it.
-
-The first major subject is approach. Israel has been brought near geographically, but now the people must learn how to live in relation to the One who dwells among them.
-
-BKV
-
-For the disciple, this changes the question from simply finding God to living with God at the center. There are moments when we want deliverance from something, and Exodus gives us that great pattern. But deliverance is not the end of the disciple’s life. Freedom creates the possibility of a life actually ordered around God.
-
-Leviticus begins to explore that life.
-
-Verses 3–5 — The Worshipper Brings His Offering
-
-What Happens
-
-A man bringing an offering from the herd is to bring a male without blemish. He brings it to the door of the Tabernacle and puts his hand upon its head. The animal is then killed before the LORD, and Aaron’s sons bring its blood and sprinkle it around the altar.
-
-The Key
-
-The worshipper does not remain detached from the offering. He selects it, brings it, approaches the Tabernacle with it, and lays his hand upon it. The offering comes from what belongs to him.
-
-Verse 4 also introduces atonement: the offering is accepted “to make atonement for him.” The burnt offering therefore involves more than the modern idea of personal dedication. The worshipper approaches God through a sacrificial provision God Himself has established.
-
-BKV
-
-For the disciple, surrender begins personally. You cannot present someone else’s life to God. You cannot substitute another person’s calling, discipline, gifts, circumstances, or obedience for your own.
-
-This also keeps the BKV reading anchored in the actual sacrifice. Whole-life surrender is a genuine pattern here, but it is not self-salvation through surrender. The worshipper does not invent his own means of approach. He comes by the way God has provided.
-
-The disciple likewise comes to God through Christ, and then learns to present the life that has been received from Him back to Him.
-
-Verses 6–9 — The Whole Offering Is Placed on the Altar
-
-What Happens
-
-The burnt offering is skinned and divided into pieces. The priests put fire and wood upon the altar and arrange the pieces over it. The inward parts and legs are washed with water, and the priest burns the entire offering.
-
-The result is described as “an offering made by fire, of a sweet savour unto the LORD.”
-
-The Key
-
-This is the feature that most clearly distinguishes the chapter’s governing picture: the whole offering goes upon the altar.
-
-The washing of the inward parts and legs should first be allowed to mean what it does in the ritual itself. Parts requiring washing are washed before being placed on the altar. We do not need to assign an independent spiritual identity to every organ or limb in order to understand the chapter.
-
-The completeness of the offering is the stronger fact.
-
-BKV
-
-This is where the altar becomes especially searching for the disciple. We naturally divide ourselves into visible and hidden regions. There is the life other people see, and there are the thoughts, motives, desires, fears, memories, and private decisions they do not see.
-
-God’s government reaches the inward life too.
-
-The point is not that each inward part of the animal secretly represents a particular human faculty. The chapter gives us something simpler and stronger. Nothing inside the offering is exempt from belonging to God.
-
-That is the territory of real discipleship. The disciple begins to bring his inner life into the same Presence in which he has already placed his outward life.
-
-Verses 10–13 — The Offering from the Flock
-
-What Happens
-
-If the offering comes from the flock, the worshipper may bring a sheep or goat, again a male without blemish. It is killed, divided, washed where required, arranged upon the altar, and burned completely.
-
-The Key
-
-The repetition helps establish the governing function. The animal changes, but the essential action does not. The offering is brought before the LORD and given wholly upon the altar.
-
-This is one reason the chapter itself cautions us against making the species carry more symbolic weight than the text requires. Bull, sheep, and goat all serve the same basic function here.
-
-BKV
-
-The disciple does not need a dramatic life in order to surrender it to God. Nor does surrender become more genuine because another person’s offering appears larger.
-
-The question Leviticus 1 places before you is much more personal: What has actually been given to you to bring?
-
-Your abilities may differ from another disciple’s. Your responsibilities, resources, opportunities, and limitations may differ as well. God is not asking you to place another person’s life on your altar. The life available for you to present is the one you have actually been given.
-
-Verses 14–17 — The Offering of Birds
-
-What Happens
-
-A person bringing a burnt offering of birds may bring turtledoves or young pigeons. The priest performs the sacrifice at the altar, removes what is not burned with the offering, divides the bird without separating it completely, and burns it upon the wood.
-
-It too becomes “an offering made by fire, of a sweet savour unto the LORD.”
-
-The Key
-
-The smallest offering in the chapter receives the same concluding description as the larger offerings. The bird does not become a lesser kind of burnt offering because it costs less than a bull.
-
-The provision makes the offering accessible to someone who does not possess the resources required for the larger animals.
-
-BKV
-
-This protects the disciple from turning consecration into comparison. Someone else’s life may look larger, more productive, more gifted, or more important. Leviticus does not measure the worshipper by whether he can bring another man’s bull.
-
-He brings what he has.
-
-For the disciple, that can be deeply freeing. You do not need someone else’s faculties, circumstances, money, influence, strength, or calling before your life can belong completely to God. The smallest life brought wholly before Him still expresses the governing truth of the burnt offering.
-
+  - God calls from the dwelling and provides the way of approach.
+  - The disciple brings his whole life before God rather than keeping part of it outside His government.
+summary: "Leviticus begins at the door of the tabernacle, where God calls the worshipper near and shows him how a life may be presented and accepted before Him."
+permalink: /leviticus01/
+---
+# LEVITICUS 01
+## AT THE DOOR OF THE TENT
+*The disciple is called to bring his whole life before the Presence.*
+## BKV Insight
+Leviticus 1 shows the disciple what it means to stop standing at a distance from God and bring his life before Him.
+Exodus has already brought Israel through the sea, through the wilderness, to Sinai, and finally to the completed tabernacle. The glory of the LORD has filled the dwelling. Now Leviticus opens with something wonderfully simple:
+> “And the LORD called unto Moses, and spake unto him out of the tabernacle of the congregation.”
+God calls from within the dwelling.
+That is where Leviticus begins for you. The Presence is there, and God calls you toward Him. The question of the chapter is what you will bring when you come.
+The answer is not merely your religious thoughts, your prayers, or the part of yourself you already consider spiritual. The burnt offering is placed wholly before God. The worshipper brings it to the door, lays his hand upon it, kills it, and the offering is given over upon the altar.
+This is the first great movement of Leviticus: **approach requires presentation**.
+You can desire God and still keep much of your actual life outside the door. Your plans can remain your own. Your ambitions can remain your own. Your body, time, money, habits, relationships, imagination, work, and future can all remain under your private government while another portion of you seeks the Presence.
+Leviticus begins by bringing that division into view.
+The offering is brought **to the door of the tabernacle**. That detail matters. The worshipper has reached a boundary. He is approaching the place where God dwells among His people, and he cannot invent his own way of entering. God Himself gives the way of approach.
+Then the worshipper puts his hand upon the head of the offering.
+> “And he shall put his hand upon the head of the burnt offering; and it shall be accepted for him to make atonement for him.”
+The offering stands in relation to the person who brought it. What happens at the altar is not detached from him. He has brought something of his own, placed his hand upon it, and presented it before God.
+For the disciple, the movement becomes unmistakable. You cannot come near to God while forever protecting yourself from His claim. At some point the life seeking God must become the life presented to God.
+Paul later uses exactly this sacrificial movement when he tells believers:
+> “present your bodies a living sacrifice, holy, acceptable unto God”  
+> — Romans 12:1
+That is Leviticus 1 brought directly into the life of the disciple.
+Your body means your actual life. Your hands. Your mouth. Your attention. Your appetites. Your faculties. What you do when nobody is watching. What you build. What you pursue. What you refuse. What you spend your strength upon.
+The kingdom within is not established by having spiritual ideas about these things. They are brought under God's government.
+And notice who begins the chapter.
+God calls.
+The disciple does not break into the Presence by spiritual force. He responds to an invitation and approaches by the way God provides. Even the surrender itself takes place inside divine provision.
+The chapter also makes provision for different circumstances. One person brings from the herd. Another from the flock. Another brings birds. The material scale changes, but the essential movement does not.
+The offering is brought.
+The worshipper approaches.
+The life is presented.
+The offering ascends.
+This is where Leviticus begins because everything that follows depends upon it. Cleansing, discernment, priestly service, holiness, sacred time, and eventually the great Day of Atonement all belong to a life being ordered around the Presence.
+Before any of that, you come to the door.
+And you bring yourself.
+## Canonical History & Context
+### Leviticus Begins Where Exodus Ends
+Leviticus does not begin as a separate story disconnected from Exodus.
+At the end of Exodus, the tabernacle has finally been completed according to the pattern given to Moses. Then:
+> “the glory of the LORD filled the tabernacle.”  
+> — Exodus 40:34
+The dwelling is finished and the Presence fills it.
+Leviticus begins immediately from that reality. The LORD speaks to Moses **out of the tabernacle** and begins giving Israel the order by which a people living around His Presence may approach and serve Him.
+This gives the whole book its setting.
+Israel has already been delivered from Egypt. Leviticus is not a method for escaping Pharaoh. It is instruction for a delivered people learning how to live near God.
+### The Burnt Offering
+The burnt offering, Hebrew *ʿolah*, is distinguished by the extent to which the offering ascends from the altar in smoke.
+Unlike offerings in which substantial portions are eaten, the burnt offering is given over almost entirely upon the altar. The skin of the herd or flock animal goes to the priest according to Leviticus 7:8, and the bird procedure removes specified parts, but the dominant action remains whole presentation upon the altar.
+Leviticus 1 also explicitly states that the offering makes atonement for the worshipper and is accepted for him.
+So the chapter holds several ideas together that should not be separated:
+**approach, acceptance, atonement, and complete presentation.**
+### The Worshipper and the Priests
+The worshipper is not passive.
+For the herd and flock offerings, he brings the animal, lays his hand upon its head, kills it, and participates in preparing it. The priests handle the blood and altar service.
+That distinction becomes important throughout Leviticus. Nearness to God does not mean everyone performs every sacred function. The worshipper has his part; the priest has his part; the altar has its appointed use.
+The entire approach is ordered.
+## Natural Reading
+### Verses 1–2 — The Call from the Dwelling
+**What Happens**
+The LORD calls Moses and speaks to him from the tabernacle. Moses is told to address Israel concerning the offerings they may bring.
+The first movement comes from God toward man: God speaks and gives the instructions for approach.
+**The Key**
+The Hebrew opening, *Vayyiqra* — “And he called” — became the Hebrew name of the book.
+That is an unusually fitting beginning. The laws that follow begin with a call from the Presence.
+The related language of *qarav*, to approach or draw near, and *qorbān*, something brought near as an offering, reinforces the physical movement of the chapter. Something belonging to the worshipper is being brought before God.
+**BKV**
+The serious disciple eventually discovers that longing for God and actually bringing his life to God are different things.
+You can admire the tabernacle from outside.
+You can study it.
+You can understand its furniture.
+You can talk about the Presence.
+But Leviticus begins when you hear the call and approach.
+The inward question is no longer merely, **Do I believe God is there?**
+It becomes:
+**What am I bringing to Him?**
+### Verses 3–9 — The Offering from the Herd
+**What Happens**
+A worshipper bringing a burnt sacrifice from the herd must bring a male without blemish. He brings it to the door of the tabernacle, lays his hand upon its head, and kills it before the LORD.
+The priests bring the blood and sprinkle it around the altar. The animal is prepared, washed where prescribed, arranged upon the altar, and burned.
+The offering becomes:
+> “a sweet savour unto the LORD.”
+**The Key**
+Verse 4 gives the central relationship:
+> “it shall be accepted for him to make atonement for him.”
+The worshipper places his hand upon the offering before it is sacrificed.
+Leviticus 1 does not describe the explicit confession and transfer of sins found later with the live goat in Leviticus 16. We should therefore allow this gesture to say what the chapter itself shows: the worshipper deliberately identifies himself with the offering he has brought before God.
+The offering is accepted on his behalf.
+**BKV**
+Here the chapter comes very close.
+Something that belonged to the worshipper is now placed completely at God's disposal.
+That is the movement of consecration in the disciple.
+There are things we gladly ask God to change and other things we would prefer Him merely to bless. We may want His guidance while retaining control of the destination. We may want His power while retaining our ambitions. We may want His Presence while protecting habits, resentments, desires, or identities from His government.
+The burnt offering permits no such arrangement.
+It is placed upon the altar.
+Paul's “living sacrifice” makes the inward movement explicit for the disciple. The sacrifice now lives. You rise from prayer and continue walking around in the world, but the life has been presented.
+That changes the question you carry into everything else.
+Not simply:
+**What do I want to do?**
+But:
+**What belongs to God now?**
+### Verses 10–13 — The Offering from the Flock
+**What Happens**
+If the offering comes from the sheep or goats, it must likewise be a male without blemish. It is killed before the LORD, its blood is applied around the altar, and the prepared animal is burned.
+Again the result is:
+> “a sweet savour unto the LORD.”
+**The Key**
+The animal has changed. The fundamental movement has not.
+The worshipper still brings an acceptable offering according to the way God has provided.
+This repetition matters because the chapter is establishing a pattern rather than assigning a separate spiritual identity to every species.
+**BKV**
+God is not asking you to imitate someone else's offering.
+The circumstances of disciples differ. Their responsibilities differ. Their possessions differ. Their abilities differ. Their histories differ.
+But the governing question remains remarkably stable:
+**Is what I actually have being brought under God?**
+Consecration is not measured by comparison with another person's life.
+It is measured by whether your life is truly being presented.
+### Verses 14–17 — The Offering of Birds
+**What Happens**
+A worshipper who brings birds may offer turtledoves or young pigeons. The priest performs the prescribed procedure at the altar. The crop and feathers are removed to the designated place, the bird is divided without being completely severed, and it is burned upon the altar.
+Once again the chapter ends with:
+> “an offering made by fire, of a sweet savour unto the LORD.”
+**The Key**
+The scale of the offering has become much smaller.
+The chapter does not therefore describe the offering as spiritually inferior. The same language of acceptable altar presentation remains.
+God has provided an approach that can be used by people of different means.
+**BKV**
+This protects consecration from becoming spiritual theater.
 The question is not whether your offering looks impressive.
-
-The question is whether it is yours to give.
-
-⸻
-
-Fractal Notes & References
-
-Noah’s Burnt Offering — Genesis 8:20–21
-
-ESTABLISHED
-
-Noah offers burnt offerings after emerging from the ark, and the text uses the same “sweet savour” language later found in Leviticus 1. The connection is lexical and direct. In both passages, the burnt offering belongs to life before God after passage through a great deliverance.
-
-Abraham and Isaac — Genesis 22:1–14
-
-STRONG RECONSTRUCTION
-
-Genesis 22 places the burnt offering inside one of Scripture’s strongest narratives of surrender. Abraham is asked to give the son through whom the promise is expected to continue. God stops Abraham and provides the ram.
-
-Leviticus 1 should not simply be collapsed into Genesis 22, but the shared burnt-offering form makes the connection substantial: what is most deeply held is placed before God, while provision ultimately comes from God.
-
-The Continual Burnt Offering — Exodus 29:38–46
-
-ESTABLISHED
-
-Exodus commands continual burnt offerings at the Tabernacle before Leviticus begins. The passage concludes with God’s promise to dwell among Israel: “I will dwell among the children of Israel, and will be their God.”
-
-This strengthens the larger architecture of Leviticus. Offering and divine dwelling are already joined in the Torah itself.
-
-Christ Gives Himself — Ephesians 5:2
-
-PLAUSIBLE EXTENSION
-
-Paul describes Christ as having “given himself for us an offering and a sacrifice to God for a sweetsmelling savour.” The shared offering and savour language makes Leviticus useful background for hearing Paul’s description, while Ephesians does not identify its statement specifically with every detail of Leviticus 1.
-
-The central resonance is nevertheless strong: Christ does not merely give something. He gives himself.
-
-The Living Sacrifice — Romans 12:1
-
-PLAUSIBLE EXTENSION
-
-Paul’s call to “present your bodies a living sacrifice” provides the clearest New Testament expression of the disciple-level pattern developed here. Romans 12 is not simply a commentary on Leviticus 1, but it carries the sacrificial language into the ordinary embodied life of the believer.
-
-The sacrifice now walks away from the altar alive and continues belonging to God.
-
-⸻
-
-Onomastics
-
-Vayikra — “And He Called”
-
-The Hebrew name of Leviticus comes from its opening word, Vayikra: “And he called.”
-
-The name fits the book’s opening situation unusually well. God has entered the Tabernacle, and the first movement of Leviticus is His call from within the dwelling.
-
-Qorban — Offering
-
-The word translated “offering” in Leviticus 1:2 is qorban, from the Hebrew root q-r-b, associated with nearness and bringing near.
-
-That makes the vocabulary especially useful for this chapter. An offering is something brought near before God.
-
-Olah — Burnt Offering
-
-The burnt offering is the Hebrew olah, from a root meaning to go up or ascend. The name corresponds naturally to the offering that is consumed upon the altar and goes up in smoke.
-
-The word does not by itself establish the entire BKV interpretation. The action of the chapter does that work: the offering is brought near and given completely to God.
-
-Leviticus begins, then, with the whole life upon the altar. But the disciple’s life consists of more than the surrender of the self. He also works, makes things, receives provision, and brings forth fruit. Leviticus 2 turns from the animal upon the fire to something much more ordinary: the work of human hands and the gift of the harvest.
-
-September 2026
-The Bible Key | © Luke Stewart
-
+The question is whether what you have is actually His.
+A person can make a dramatic outward display while carefully withholding the thing God is actually pressing upon his heart. Another may have very little visible to give and yet place his actual life before God without reservation.
+Leviticus 1 draws everyone toward the same door.
+Bring what is yours.
+Come by the way God provides.
+Place the life before Him.
+Let God govern what belongs to God.
+And for the disciple, eventually, that means everything.
+## Fractal Notes & References
+### Divine Call → Presentation → Acceptance
+**ESTABLISHED**
+The chapter itself establishes the movement: the LORD calls from the dwelling (1:1), the worshipper brings the offering to the door (1:3), lays his hand upon it (1:4), and the offering is accepted for him.
+God initiates the approach and defines its order.
+### Noah — Offering After Deliverance
+**STRONG RECONSTRUCTION**
+After Noah passes through the flood, he builds an altar and offers burnt offerings, and Genesis 8:21 describes the LORD smelling a sweet savour.
+Leviticus uses the same broad pattern after Israel's deliverance from Egypt: rescue is followed by altar worship and a life reordered before God.
+The sequence matters. The offering does not purchase the original deliverance. It follows it.
+### Exodus — Deliverance Becomes Dwelling
+**ESTABLISHED**
+Exodus moves from bondage to deliverance to covenant to tabernacle. Leviticus begins with God speaking from that completed dwelling.
+The disciple pattern therefore continues:
+**delivered from the old government → brought near to the Presence → taught how to live there.**
+Freedom from Egypt was never the end of the journey.
+God intended to dwell among His people.
+### Romans 12 — The Living Sacrifice
+**ESTABLISHED**
+Romans 12:1 deliberately uses sacrificial presentation for the believer:
+> “present your bodies a living sacrifice.”
+This provides one of the strongest canonical bridges into the disciple's life.
+The altar pattern becomes lived consecration. The disciple himself continues living, working, thinking, speaking, choosing, and serving, but now as one presented to God.
+### Christ — The Fragrant Offering
+**ESTABLISHED**
+Ephesians 5:2 describes Christ as having:
+> “given himself for us an offering and a sacrifice to God for a sweetsmelling savour.”
+The language reaches back into the sacrificial world of passages such as Leviticus 1.
+The deepest pattern of the offering is therefore not destruction for destruction's sake. It is self-giving to God.
+For the disciple, consecration follows Christ's pattern: a life no longer held back for itself, but given in love and obedience to God.
+## Onomastics
+| Word | Meaning / Function | BKV Significance |
+|---|---|---|
+| **Vayyiqra** | “And he called.” The opening word and Hebrew title of Leviticus. | The book of approach begins because God calls from the dwelling. |
+| **Qarav** | To approach, draw near, bring near. | Nearness is movement toward God, not merely knowledge about Him. |
+| **Qorbān** | An offering or gift brought near. | Something belonging to the worshipper is brought before God. |
+| **ʿOlah** | Burnt offering; associated with ascending. | The offering rises from the altar in smoke. The disciple connection to whole-life presentation is strengthened by Romans 12:1. |
+| **Altar** | The appointed place of sacrificial presentation. | The disciple does not merely possess a life from God; he presents that life back to God. |
+Leviticus begins at a door.
+Behind it is the dwelling filled with the Presence. Before it stands the worshipper carrying what he has brought.
+That is a fitting place for the serious disciple to begin.
+You have been brought out of Egypt. You have seen what God can deliver you from. Now comes the deeper question of what your freedom is **for**.
+The LORD calls from the dwelling.
+Bring your life near.
+---
+*16 September AD 2026*  
+© The Bible Key Vision  
 ⚓️
