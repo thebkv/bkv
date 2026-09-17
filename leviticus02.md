@@ -1,3 +1,31 @@
+---
+
+book: Leviticus
+
+chapter: 2
+
+title: "The Offering of the Work"
+
+focus:
+
+  - The fruit of ordinary life is brought to God
+
+  - Work, substance, and increase become holy
+
+  - Consecration enters daily life
+
+summary: "The disciple brings the fruit of ordinary life into the sanctuary. Work, substance, increase, and daily activity are brought under God's government and become an offering to Him."
+
+permalink: /leviticus02/
+
+---
+
+
+
+02 — THE GRAIN OFFERING
+
+After the self is given, the disciple learns to give God the fruit of ordinary life. Flour, oil, frankincense, salt, baking, work, and food enter the sanctuary. What you produce, prepare, possess, and live by is brought under God's government. The disciple is learning that holiness is not confined to dramatic spiritual experiences; the common substance of daily life can become an offering to God.
+
 ## BKV Insight
 
 Leviticus 1 shows the disciple what it means to stop standing at a distance from God and bring his life before Him.
