@@ -132,3 +132,94 @@ He already gave you that nearness. Now He begins teaching you how to live with i
 Leviticus begins with His voice calling from the Tabernacle. The first person who answers comes to the door with something to offer.
 
 That is where chapter 1 begins.
+
+
+
+---
+
+
+
+
+
+LEVITICUS — THE DISCIPLE DRAWN NEAR
+
+01 — THE BURNT OFFERING
+The disciple begins by bringing the whole self to God. The burnt offering is not primarily about fixing one particular failure; the entire offering ascends. Nothing is held back for private use. Leviticus therefore begins with surrender: the life that has come out of Egypt must now become God's life, willingly placed upon the altar until the old claim of self-ownership gives way to complete belonging.
+
+02 — THE GRAIN OFFERING
+After the self is given, the disciple learns to give God the fruit of ordinary life. Flour, oil, frankincense, salt, baking, work, and food enter the sanctuary. What you produce, prepare, possess, and live by is brought under God's government. The disciple is learning that holiness is not confined to dramatic spiritual experiences; the common substance of daily life can become an offering to God.
+
+03 — THE PEACE OFFERING
+The disciple discovers that surrender to God leads to fellowship with God. The peace offering is shared: part belongs upon the altar, part belongs to the priest, and part becomes a meal. The movement is toward communion. God is no longer approached only as the One to whom something must be surrendered, but as the One with whom life is shared. Divine order produces peace because the life has been brought back into right relationship with its source.
+
+04 — THE SIN OFFERING
+The disciple begins to recognize that disorder can operate even when he did not consciously intend it. Leviticus now deals with sins committed in ignorance. Spiritual growth therefore requires more than sincerity; light reveals what was previously unseen. Priest, congregation, ruler, and common person are all accountable according to their place. As consciousness increases, hidden disorder is exposed, confessed, and brought before God so that it no longer governs the life unconsciously.
+
+05 — GUILT COMES TO LIGHT
+The disciple learns to stop concealing what has become known. Failure involving testimony, uncleanness, careless speech, or holy things must be acknowledged: “he shall confess that he hath sinned in that thing.” This is the movement from vague guilt into specific recognition. What the light identifies must be named and brought to God. Transformation accelerates when the disciple ceases defending, disguising, or generalizing the thing that God has already shown him.
+
+06 — THE FIRE MUST NOT GO OUT
+The disciple learns that consecration must become continuous. The fire kindled by God is tended by the priest morning and night; ashes are removed, the altar is prepared again, and the flame is kept alive. Yesterday's surrender cannot substitute for today's obedience. The inward priesthood develops the discipline of maintaining what God has begun: clearing away what has already been consumed and presenting the life again so that the divine fire never goes out.
+
+07 — THE LAW OF THE OFFERING
+The disciple learns the distinctions within sacrifice. Guilt, peace, holiness, priestly portions, blood, fat, clean and unclean participation are carefully ordered. Desire alone is no longer enough; spiritual life acquires discrimination. The disciple begins to understand what belongs to God, what can be received, what must be relinquished, and how different inward conditions require different responses. Nearness to God produces increasing precision.
+
+08 — THE PRIEST IS CONSECRATED
+The disciple's inward priesthood is now formally set apart. Moses brings Aaron—the illumined or enlightening priestly function—and his sons to the door of the Tabernacle, washes them, clothes them, anoints them, applies blood to ear, hand, and foot, and keeps them before God seven days. The meaning is intensely practical: hearing, doing, and walking are being consecrated. The disciple is being trained not merely to visit God's presence but to minister from it.
+
+09 — THE GLORY APPEARS
+Consecration begins to function. Aaron performs the ministry for which he has been prepared, blesses the people, and the glory of the LORD appears. Fire comes from before God and consumes the offering. This is the confirmation the disciple could never manufacture for himself: when the inward life has been brought into divine order, God's own fire answers. What was surrendered to God is received by God, and the Presence that seemed hidden becomes manifest.
+
+10 — STRANGE FIRE
+The disciple immediately learns the danger of substituting self-generated spiritual activity for what comes from God. Nadab, associated with free giving, and Abihu, whose name points toward divine sonship, possess genuine priestly position, yet they offer fire that God did not command. Even a true spiritual faculty can act from itself. Leviticus therefore draws a severe boundary: nearness to God does not authorize invention. The disciple must distinguish divine fire from religious impulse, emotional excitement, presumption, and the natural mind attempting to operate holy things.
+
+11 — CLEAN AND UNCLEAN
+The disciple learns discrimination in what he takes into himself. Israel must distinguish what may and may not be eaten and what contact produces uncleanness. At the interior level the governing function is discernment: not everything available to consciousness should become nourishment. Thoughts, impressions, desires, teachings, images, conversations, and influences enter and become part of us. The disciple learns to recognize what sustains the consecrated life and what contaminates it.
+
+12 — BIRTH AND PURIFICATION
+The disciple learns that even genuine increase must pass through purification. Something can be naturally fruitful without yet being ready for sanctuary use. Birth brings new life, but it also introduces blood, vulnerability, and a period of separation before return to holy participation. The inward lesson is that every new development—idea, capacity, work, identity, or spiritual experience—must mature and be presented to God rather than immediately being treated as perfected because it has been born.
+
+13 — THE PLAGUE IS EXAMINED
+The disciple learns to submit suspicious conditions to priestly examination. A mark appears in skin, garment, or dwelling material, but it is not instantly condemned; it is examined, isolated when necessary, and examined again. The great faculty being trained here is spiritual diagnosis. The disciple must learn the difference between a superficial disturbance and a corruption that is spreading beneath the surface. Divine judgment looks carefully before declaring something clean or unclean.
+
+14 — THE LEPER RETURNS
+The disciple learns that God's purpose in exposing corruption is restoration. The cleansed leper is brought back through washing, sacrifice, blood, oil, and priestly examination. Blood and oil touch ear, thumb, and toe—the same regions consecrated in the priesthood. What had been excluded can be restored to hearing, action, and walk. God does not merely identify what is diseased in the disciple; He provides a way for the healed faculty to return to the camp and ultimately to the sanctuary.
+
+15 — THE HIDDEN FLOW
+The disciple learns that life can be depleted through inward conditions that are less visible than open rebellion. Bodily discharges picture an uncontrolled outflow of life: something that should remain ordered within the person continually escapes and communicates uncleanness. The disciple begins noticing where attention, desire, emotion, imagination, speech, and vital strength leak away. Holiness includes learning where life is flowing and bringing even private, recurring, bodily, and hidden processes under divine order.
+
+16 — THE DAY OF ATONEMENT
+The disciple reaches the center of Leviticus: God provides a way through the veil. Aaron may not enter the Most Holy Place whenever he chooses; entrance occurs according to God's order, through sacrifice, cleansing, blood, incense, and the removal of Israel's sins. One goat is offered and another carries the confessed iniquities away into the wilderness. The disciple discovers that the deepest reconciliation cannot be accomplished by self-improvement. God Himself establishes the way by which the whole life is cleansed, the accumulated burden is removed, and man is brought into the Presence.
+
+17 — THE LIFE IS IN THE BLOOD
+The disciple learns that life belongs to God. Sacrifice may not be scattered among competing altars, and blood may not be consumed because “the life of the flesh is in the blood.” The inward life therefore has one center. Vitality, worship, desire, sacrifice, and dependence cannot be distributed among rival gods, identities, ambitions, or appetites. The disciple gathers the life back from fragmentation and recognizes its source: life comes from God and is returned to God.
+
+18 — DO NOT WALK AS EGYPT
+The disciple learns that leaving Egypt geographically is not enough; Egypt must cease to provide the pattern for conduct. Israel is commanded not to live according to Egypt behind them or Canaan before them, but according to God's judgments. Sexual boundaries become a major testing ground because desire easily creates its own law. The disciple now faces a fundamental question of transformation: Who determines the pattern of my life—the world I came from, the world around me, my own desire, or God?
+
+19 — BE HOLY
+The disciple discovers what holiness looks like when carried into ordinary human relationships. Reverence, parents, Sabbath, harvest, generosity, honesty, wages, judgment, sexuality, speech, neighbors, strangers, weights, measures, and worship all come under one command: “Ye shall be holy: for I the LORD your God am holy.” Holiness is God's character reproduced through the whole life. The disciple is becoming internally undivided, so that worship and ordinary conduct express the same Presence.
+
+20 — THE OLD POWERS LOSE THEIR CLAIM
+The disciple must decisively reject practices that hand life back to false spiritual government. Molech, familiar spirits, adultery, incest, and other forbidden unions represent more than isolated violations: they are rival arrangements of allegiance, desire, generation, and spiritual authority. God repeatedly says that He has separated Israel from other peoples. The disciple therefore learns that sanctification includes separation: faculties once governed by appetite, fear, inherited patterns, or false powers are withdrawn from those masters and reserved for God.
+
+21 — THE PRIEST MUST REMAIN WHOLE
+The disciple learns that the faculties which minister nearest to God require particular integrity. The priest cannot treat death, marriage, body, family, and sanctuary casually, and physical defects restrict certain priestly functions. The governing principle is wholeness appropriate to nearness. As a faculty moves closer to the center of divine service, disorder in that faculty matters more, not less. God is forming within the disciple a priesthood capable of handling holy things without mixing them with death, fragmentation, or corruption.
+
+22 — HOLY THINGS ARE NOT COMMON THINGS
+The disciple learns to distinguish what has been consecrated from what is available for ordinary consumption. Priests themselves can become temporarily unable to eat holy food, outsiders cannot casually consume it, and defective offerings cannot simply be handed to God. The disciple is learning reverence for what God has set apart. Spiritual gifts, revelation, worship, covenant, body, time, and calling cease to be treated as common property; what belongs to God is handled according to its true value.
+
+23 — THE APPOINTED TIMES
+The disciple discovers that divine life has a rhythm. Sabbath, Passover, Unleavened Bread, Firstfruits, Weeks, Trumpets, Atonement, and Tabernacles order Israel's year around God's acts. The inward journey likewise has appointed movements: rest, deliverance, separation from the old, first fruit, increase, awakening, cleansing, and finally dwelling with God. The disciple does not remain in one spiritual moment forever. God leads the life through recurring seasons until redemption becomes an ordered pattern of remembrance, growth, harvest, cleansing, and communion.
+
+24 — LIGHT, BREAD, AND THE NAME
+The disciple learns to maintain the sanctuary continually: the lamp burns, the bread remains before God, and the divine Name is treated as holy. Then a man whose Israelite and Egyptian worlds are joined blasphemes the Name, revealing the conflict of mixed identity. The disciple is being gathered toward an undivided center. Light must remain burning, communion must remain before God, and God's Name—His revealed identity and authority—must not be carried by the divided consciousness as though it were common speech.
+
+25 — SABBATH AND JUBILEE
+The disciple learns that the land itself belongs to God and therefore cannot be possessed absolutely. The ground rests, debts and servitude are interrupted, ancestral possession returns, and Jubilee proclaims liberty throughout the land. What God gave cannot finally be alienated from God's purpose. Interiorly, this is restoration of inheritance: faculties sold into bondage, portions of life lost through failure, and ground claimed by another master are capable of return. God's government moves creation toward release, restoration, and recovered inheritance.
+
+26 — THE TWO PATHS
+The disciple is shown what the covenant produces when obeyed and what happens when divine order is persistently resisted. Alignment produces fruitfulness, security, peace, divine presence, and freedom from the old yoke; resistance progressively disintegrates the ordered life until strength, land, sanctuary, and community collapse. Yet even there God remembers His covenant. The disciple sees the architecture plainly: obedience gathers life into order; resistance fragments it; repentance opens the way toward restoration.
+
+27 — WHAT BELONGS TO GOD
+Leviticus ends with vows, valuations, devoted things, redeemed property, firstborn, and tithes. After everything the disciple has learned about sacrifice, priesthood, cleansing, holiness, appointed times, and Jubilee, the final question is possession: What is truly mine, and what belongs to God? Persons, animals, houses, fields, produce, and increase are all measured in relation to the sanctuary. The disciple who entered Leviticus bringing an offering now discovers that his whole world can become consecrated. The book ends where it began, but at a larger scale: what was surrendered at the altar in Chapter 1 has expanded until the disciple understands that his life, faculties, increase, inheritance, and substance all belong to the LORD.
