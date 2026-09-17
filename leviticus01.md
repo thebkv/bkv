@@ -10,6 +10,7 @@ summary: "Leviticus 1 shows the disciple the meaning of complete surrender: a li
 permalink: /leviticus01/
 ---
 
+
 LEVITICUS 01
 
 The Fire on the Altar
