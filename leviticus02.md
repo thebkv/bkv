@@ -20,7 +20,7 @@ permalink: /leviticus02/
 
 ---
 
-# Leviticus 02
+# LEVITICUS 02
 
 ## THE GRAIN OFFERING
 
