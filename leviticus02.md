@@ -5,9 +5,9 @@ title: "The Gift of the Harvest"
 focus:
   - "The grain offering brings the fruit of ordinary work before God."
   - "God receives what His people have grown and prepared."
-  - "The disciple learns to bring his daily work into his life with God."
-summary: "Leviticus 2 shows the disciple that the ordinary work of his life can become an offering to God."
-permalink: /leviticus02/
+  - "The disciple learns to bring his daily work into his life with God."  
+summary: "Leviticus 2 shows the disciple that the ordinary work of his life can become an offering to God."  
+permalink: /leviticus02/. 
 ---
 
 # LEVITICUS 2
