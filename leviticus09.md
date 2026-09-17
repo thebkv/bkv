@@ -1,25 +1,13 @@
-
-
 ---
-
 book: Leviticus
-
 chapter: 9
-
 title: "The Glory Appears"
-
 focus:
-
   - Consecration begins to function
-
   - God's fire receives what has been surrendered
-
   - Divine order opens into manifested Presence
-
 summary: "The consecrated priesthood begins its ministry and God's glory appears. Fire comes from God Himself, confirming that what has been surrendered and ordered according to Him has been received."
-
-permalink: /leviticus09/   
-
+permalink: /leviticus09/
 ---
 
 # LEVITICUS 09
