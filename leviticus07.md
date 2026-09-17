@@ -16,7 +16,7 @@ focus:
 
 summary: "The disciple learns what belongs to God, what may be received, and what must be relinquished. Spiritual life develops discrimination as sacrifice is brought into increasingly precise divine order."
 
-permalink: /leviticus07/
+permalink: /leviticus07/  
 
 ---
 
