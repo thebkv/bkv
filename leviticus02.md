@@ -20,9 +20,9 @@ permalink: /leviticus02/
 
 ---
 
+# Leviticus 02
 
-
-02 — THE GRAIN OFFERING
+## THE GRAIN OFFERING
 
 After the self is given, the disciple learns to give God the fruit of ordinary life. Flour, oil, frankincense, salt, baking, work, and food enter the sanctuary. What you produce, prepare, possess, and live by is brought under God's government. The disciple is learning that holiness is not confined to dramatic spiritual experiences; the common substance of daily life can become an offering to God.
 
