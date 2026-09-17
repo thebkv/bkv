@@ -16,7 +16,7 @@ focus:
 
 summary: "The disciple's inward priesthood is washed, clothed, anointed, and consecrated. Hearing, action, and walk are brought under divine government so that the disciple can minister from the Presence."
 
-permalink: /leviticus08/. 
+permalink: /leviticus08/  
 
 ---
 
