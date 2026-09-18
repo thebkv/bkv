@@ -14,4 +14,8 @@ permalink: /leviticus12/
 
 ## 12 — BIRTH AND PURIFICATION
 
-The disciple learns that even genuine increase must pass through purification. Something can be naturally fruitful without yet being ready for sanctuary use. Birth brings new life, but it also introduces blood, vulnerability, and a period of separation before return to holy participation. The inward lesson is that every new development—idea, capacity, work, identity, or spiritual experience—must mature and be presented to God rather than immediately being treated as perfected because it has been born.
+The disciple learns not to mistake new life for finished life. Leviticus 12 begins with something genuinely good—a child has been born—yet birth is followed by waiting, cleansing, and finally a return to the sanctuary. The same thing happens in you. A new understanding, desire, calling, work, or way of living can truly be born of God and still need time to grow and be purified. Do not reject what is new because it is unfinished, but do not call it complete simply because it has been born. Let God finish what He has begun in you.
+
+And Jesus gives us a very clean connection:
+
+> “First the blade, then the ear, after that the full corn in the ear.” Mark 4:28
