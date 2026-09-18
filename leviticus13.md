@@ -12,6 +12,10 @@ permalink: /leviticus13/
 
 # LEVITICUS 13
 
-## 13 — THE PLAGUE IS EXAMINED
+## 13 - THE PLAGUE IS EXAMINED
 
-The disciple learns to submit suspicious conditions to priestly examination. A mark appears in skin, garment, or dwelling material, but it is not instantly condemned; it is examined, isolated when necessary, and examined again. The great faculty being trained here is spiritual diagnosis. The disciple must learn the difference between a superficial disturbance and a corruption that is spreading beneath the surface. Divine judgment looks carefully before declaring something clean or unclean.
+The disciple learns not to call everything clean just because he hopes it is, and not to call everything unclean just because he fears it is. Some things in you need to be brought into the light, watched, and honestly examined until you can see whether they are passing disturbances or something that is actually making you worse. God never asks you to condemn yourself, and any feeling that He asks this is actually a satanic message; God wants you to discern what is really happening in you.
+
+And let's apply the Jesus test:
+
+> “Ye shall know them by their fruits.” Matthew 7:16
