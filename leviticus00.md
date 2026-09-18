@@ -223,3 +223,79 @@ The disciple is shown what the covenant produces when obeyed and what happens wh
 
 27 — WHAT BELONGS TO GOD
 Leviticus ends with vows, valuations, devoted things, redeemed property, firstborn, and tithes. After everything the disciple has learned about sacrifice, priesthood, cleansing, holiness, appointed times, and Jubilee, the final question is possession: What is truly mine, and what belongs to God? Persons, animals, houses, fields, produce, and increase are all measured in relation to the sanctuary. The disciple who entered Leviticus bringing an offering now discovers that his whole world can become consecrated. The book ends where it began, but at a larger scale: what was surrendered at the altar in Chapter 1 has expanded until the disciple understands that his life, faculties, increase, inheritance, and substance all belong to the LORD.
+
+
+
+
+---
+book: Leviticus
+chapter: 16
+title: "Two Goats, One Removal: Supplemental Commentary"
+focus: The two-goat rite of the Day of Atonement and the meaning of Azazel
+summary: Research into the two goats and Azazel turns up a range of ideas, from a goat that departs, to a rugged place, to a wilderness being. Through all of them the function stays steady: one goat purges the center, and the other carries away what was removed.
+---
+
+# Leviticus 16: The Two Goats and Azazel
+
+*Supplemental commentary*
+
+## The Chapter's Job
+
+Leviticus 16 opens just after the deaths of Aaron's two sons (16:1), and everything in it is about coming near to God safely. Aaron washes, puts on plain linen, and offers a bull for himself and his household first. Incense fills the Most Holy Place with cloud. Blood is sprinkled on and before the mercy seat. Then the sanctuary is cleansed in stages: the Most Holy Place, the tent of meeting, and the altar (vv. 16-20). Only after all of that does the second goat come forward.
+
+Many researchers describe this as a reset. On this view, sin and impurity are thought to stain the sanctuary even from a distance, and blood is the means of cleansing it. Jacob Milgrom is the best-known voice for this reading. Michael Heiser uses similar language and adds that the chapter is about restoring ritual purity, not about forgiveness in the way many people think of it today.
+
+## The Two Goats
+
+Two goats are brought to the entrance of the tent, and lots are cast: one "for the LORD" and one "for Azazel" (v. 8). The lots take the choice out of Aaron's hands. Later Jewish tradition asked that the two goats match in looks and value, so they are treated as a pair.
+
+The first goat is killed as a purification offering, and its blood goes behind the veil. The second is kept alive. Aaron lays both hands on its head and confesses Israel's iniquities, transgressions, and sins over it. A man chosen for the task then leads it out to a "land cut off" (vv. 21-22). One act has two movements. What the blood cleanses inside, the living goat carries out.
+
+The same shape shows up in Leviticus 14:4-7, where two birds are used to cleanse a person: one is killed, and the other is set free in the open field.
+
+## Azazel: A Range of Ideas
+
+Research into Azazel turns up a range of ideas, and none of them has settled the question.
+
+**A goat that goes away.** The word can be split into *ʿez* (goat) and *ʾazal* (to go away). The Greek Septuagint calls it the one who is "sent away." The Latin Vulgate and Tyndale's English word "scapegoat" (escape goat) follow the same line. The Brown-Driver-Briggs lexicon reads it as a strengthened form of one word, meaning "complete removal."
+
+**A place.** Some Jewish readers understood it as a rugged cliff or hard mountain, from *ʿazaz* (strong) and *ʾel*. The phrase "land cut off" in verse 22 fits this picture. The Mishnah later describes the goat being pushed off a cliff, but Leviticus itself only says it was sent away alive.
+
+**A being.** The pairing "for the LORD" and "for Azazel" reads most naturally as two names. The wilderness was pictured as the home of wild, goat-like spirits. Leviticus 17:7 speaks of "goat-demons" in the very next chapter, and Isaiah 13:21 and 34:14 place similar creatures in ruined places. In 1 Enoch 8-10, Azazel is a leader of rebel Watchers who is bound in the desert, and all sin is charged to him. Some researchers think that even if Azazel was once a demon's name, Leviticus treats him only as a destination. Nothing is offered to him, and the goat is presented "before the LORD" (v. 10).
+
+**Both goats for God.** A reading attributed to the medieval commentator Ibn Ezra holds that the second goat is also, in the end, for the LORD. The wilderness is not a rival kingdom but part of the same world under the same God.
+
+## Older Rituals Nearby
+
+Elimination rites were common in the ancient Near East. Records from Ebla (around 2400 BC), and later Hittite and Neo-Assyrian texts, describe animals loaded with plague, curse, or impurity and driven out to empty land. Israel's rite has the same basic picture, but it sits inside a sanctuary system. The priest confesses over the goat, the goat stands before the LORD, and the whole day is tied to a call to humble the soul (vv. 29-31).
+
+The camp against the wilderness carries the picture. The camp is order, life, and God's presence. The wilderness is emptiness and death. Driving the goat out shows guilt being moved out of the community and into the place where it no longer lives among the people.
+
+## How Later Readers Carried It Forward
+
+**The Aramaic side.** The Peshitta uses a name form, "Azazael," in Leviticus 16. Targum Onqelos, the Temple Scroll, and 4Q180 at Qumran also keep it as a name. George Lamsa, who translated the Peshitta into English, follows this in verses 8 and 10: one lot "for the LORD and the other lot for Azazael," and the live goat sent "to Azazael" in the wilderness. Lamsa is an observer of interest here. His work shows how readers in the Aramaic tradition understood the word. It is not evidence of an original text behind the Hebrew.
+
+**The Samaritan text.** The Samaritan Pentateuch has the spelling עזזאל once, in verse 10, with the alef placed after both zayins. It may be a scribal slip, but it shows the word was handled with some freedom.
+
+**The Enoch and rabbinic paths.** Enoch turned the wilderness into a prison for a fallen being. The rabbis of the Mishnah turned the sending-away into a ritual over a cliff. Both are later layers built on the Leviticus text.
+
+## A Metaphysical Reading
+
+Charles Fillmore reads the goats as workings inside one person. The slain goat stands for the lifting and refining of inner energies that had been turned toward evil, raising them back into spiritual use and ending resistance toward God. The live goat stands for the active denial of error: releasing belief in sin, condemnation, and personal guilt, and sending resistance toward others out into the outer void of forgetfulness.
+
+## The Hebrew Letters (Exploratory)
+
+עזאזל is five letters: ayin, zayin, alef, zayin, lamed. The word divides in view: the first two letters (ע-ז) spell *ʿez*, "goat," and the last three (א-ז-ל) spell *ʾazal*, "to go away." Ayin is tied to the eye and to seeing. Zayin is often linked with cutting or a weapon. Alef is the first letter and a sign of strength and beginning. Lamed is the goad, a reaching toward. A cut stands on each side of the alef. This is an exploratory observation, not an established one.
+
+## Threads to Other Passages
+
+- **Leviticus 10 and 16:1.** The chapter answers the deaths of Nadab and Abihu with a safe way to approach.
+- **Leviticus 14:4-7.** Two birds, one killed and one released, follow the same pattern.
+- **Leviticus 17:7.** The next chapter speaks of goat-demons, close to the wilderness picture in chapter 16.
+- **Leviticus 25:9.** The Jubilee trumpet sounds on the Day of Atonement.
+- **Romans 3:25.** The Greek word for the mercy seat, *hilastērion*, is used of Jesus.
+- **Hebrews 9:7-14 and 13:11-13.** Blood goes behind the veil once a year, and the bodies of the sin offerings are burned outside the camp.
+
+## Where This Leaves the Reading
+
+The chapter holds one problem and two movements: cleansing at the center, and sending away to the edge. Whether Azazel is read as a departure, a place, or a being, the function stays steady. The live goat carries, and the wilderness receives. For the disciple, the pattern suggests that inner clearing is not finished until what was cleansed is also released, so that it does not walk back into the camp.
