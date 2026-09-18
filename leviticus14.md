@@ -14,4 +14,8 @@ permalink: /leviticus14/
 
 ## 14 — THE LEPER RETURNS
 
-The disciple learns that God's purpose in exposing corruption is restoration. The cleansed leper is brought back through washing, sacrifice, blood, oil, and priestly examination. Blood and oil touch ear, thumb, and toe—the same regions consecrated in the priesthood. What had been excluded can be restored to hearing, action, and walk. God does not merely identify what is diseased in the disciple; He provides a way for the healed faculty to return to the camp and ultimately to the sanctuary.
+The disciple learns that God does not expose what is wrong in him merely to condemn or exclude it. Leviticus 14 begins with a person who has been unclean being brought back. He is examined, washed, cleansed, and restored; then blood and oil are placed on his ear, hand, and foot. What had been separated from the life of Israel can now hear, act, and walk as part of it again. The disciple needs to know that when God exposes and cleanses something in him, the goal is not permanent shame. The goal is restoration: what was once ruled by uncleanness can be brought back, reconsecrated, and made useful to God.
+
+And Jesus gives us an almost perfect Gospel story for this chapter:
+
+> “I will; be thou clean.” Matthew 8:3
