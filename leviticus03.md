@@ -26,4 +26,6 @@ permalink: /leviticus03/
 
 God does not call you to surrender merely so that you can lose something. He is bringing you into fellowship with Him. In the peace offering, the offering is shared: a portion is given to God, a portion belongs to the priests, and the worshipper also eats. What you surrender to God becomes the ground of communion with Him. You are not merely approaching an altar; you are being brought to His table.
 
+The Savior test:
+
 > “If any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.” Revelation 3:20
