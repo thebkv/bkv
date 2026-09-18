@@ -11,7 +11,7 @@ permalink: /leviticus01/
 
 # LEVITICUS 01
 
-01 — THE WHOLE OFFERING
+## 01 — THE WHOLE OFFERING
 
 The disciple begins by giving himself wholly to God. In the burnt offering, the entire offering is placed upon the altar and ascends to God. Nothing is held back for another purpose. This is where Leviticus begins because this is where the life with God begins: you are no longer trying to fit God into a life that still belongs to you. You place the life itself upon the altar.
 
