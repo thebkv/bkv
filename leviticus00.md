@@ -4,7 +4,7 @@ chapter: "00"
 title: Living Near the Presence
 focus: What happens when God comes to dwell among His people
 summary: A whole-book overview of Leviticus tracing the movement from Israel's deliverance to God's dwelling among them, showing how holiness reaches outward from the sanctuary into ordinary life, and closing with what this pattern means for the disciple's inner life today.
-permalink: /bkv/leviticus00/
+permalink: /bkv/leviticus00/  
 ---
 
 # LEVITICUS
