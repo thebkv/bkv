@@ -24,7 +24,7 @@ permalink: /leviticus03/
 
 ## 03 — AT THE TABLE WITH GOD
 
-God does not call you to surrender merely so that you can lose something. He is bringing you into fellowship with Him. In the peace offering, the offering is shared: a portion is given to God, a portion belongs to the priests, and the worshipper also eats. What you surrender to God becomes the ground of communion with Him. You are not merely approaching an altar; you are being brought to His table.
+When God calls you to surrender, He is bringing you into fellowship with Him. He's not asking you to give up anything that matters. In the peace offering, the offering is shared: a portion is given to God, a portion belongs to the priests, and the worshipper also eats. What you surrender to God becomes the ground of communion with Him. You are not merely approaching an altar; you are being brought to His table.
 
 The Savior test:
 
