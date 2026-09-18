@@ -3,10 +3,10 @@ book: Leviticus
 chapter: 16
 title: "Beyond the Veil"
 focus:
-  - The disciple receives God's way into the Presence
-  - Atonement cleanses both the people and the sanctuary
-  - Confessed iniquity is carried away
-summary: "The disciple reaches the center of Leviticus: God Himself provides the ordered way through the veil. The whole life is cleansed, accumulated iniquity is removed, and the way into the Presence is opened by atonement rather than self-improvement."
+  - The disciple cannot make his own way into the Presence
+  - God provides the way of cleansing and reconciliation
+  - What has been confessed is not merely forgiven but carried away
+summary: "The disciple learns that he cannot cleanse himself into God's Presence. God provides the way, cleanses what the disciple cannot cleanse for himself, and carries away the burden that has accumulated through sin."
 permalink: /leviticus16/
 ---
 
@@ -14,4 +14,4 @@ permalink: /leviticus16/
 
 ## 16 — BEYOND THE VEIL
 
-The disciple reaches the center of Leviticus: God provides the way through the veil. Aaron cannot enter the Most Holy Place whenever he chooses; he enters according to God's order, through washing, sacrifice, blood, incense, and atonement. The sanctuary itself is cleansed from the uncleanness of the people, and confessed iniquity is placed upon the living goat and carried away. The disciple discovers that the deepest reconciliation cannot be produced by effort or spiritual technique. God establishes the way by which the whole life is cleansed, its accumulated burden is removed, and man is brought into the Presence.
+The disciple learns that he cannot make his own way into the Presence. Aaron may not simply pass through the veil whenever he chooses; God provides the way through cleansing, sacrifice, blood, and atonement. One goat is offered before the LORD, while another bears the confessed iniquities away into the wilderness. This is what the disciple needs to know at the center of Leviticus: you do not perfect yourself until you become worthy to enter. You bring the whole truth of yourself to God and receive the cleansing He provides. What has separated you from Him is dealt with, what has accumulated is carried away, and the way into His Presence is opened by God Himself.
