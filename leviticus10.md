@@ -24,5 +24,7 @@ permalink: /leviticus10/
 
 ## 10 — STRANGE FIRE
 
-The disciple immediately learns the danger of substituting self-generated spiritual activity for what comes from God. Nadab, associated with free giving, and Abihu, whose name points toward divine sonship, possess genuine priestly position, yet they offer fire that God did not command. Even a true spiritual faculty can act from itself. Leviticus therefore draws a severe boundary: nearness to God does not authorize invention. The disciple must distinguish divine fire from religious impulse, emotional excitement, presumption, and the natural mind attempting to operate holy things.
+The disciple learns that not everything done in God’s name comes from God. Nadab and Abihu are consecrated priests, but they offer “strange fire… which he commanded them not.” You can be sincere, "spiritual", and even doing something that looks holy while still acting from your "natural" self. The closer you walk with God, the more important it becomes to know the difference between what He is doing in you and what you are trying to do for Him.
+
+> “I can of mine own self do nothing.” John 5:30
 
