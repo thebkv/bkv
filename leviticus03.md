@@ -22,7 +22,8 @@ permalink: /leviticus03/
 
 # LEVITICUS 03
 
-## 03 - THE PEACE OFFERING
+## 03 — AT THE TABLE WITH GOD
 
-The disciple discovers that surrender to God leads to fellowship with God. The peace offering is shared: part belongs upon the altar, part belongs to the priest, and part becomes a meal. The movement is toward communion. God is no longer approached only as the One to whom something must be surrendered, but as the One with whom life is shared. Divine order produces peace because the life has been brought back into right relationship with its source.
+God does not call you to surrender merely so that you can lose something. He is bringing you into fellowship with Him. In the peace offering, the offering is shared: a portion is given to God, a portion belongs to the priests, and the worshipper also eats. What you surrender to God becomes the ground of communion with Him. You are not merely approaching an altar; you are being brought to His table.
 
+> “If any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.” Revelation 3:20
