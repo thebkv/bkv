@@ -14,4 +14,6 @@ permalink: /leviticus09/
 
 ## 09 — THE GLORY APPEARS
 
-Consecration begins to function. Aaron performs the ministry for which he has been prepared, blesses the people, and the glory of the LORD appears. Fire comes from before God and consumes the offering. This is the confirmation the disciple could never manufacture for himself: when the inward life has been brought into divine order, God's own fire answers. What was surrendered to God is received by God, and the Presence that seemed hidden becomes manifest.
+The disciple learns that what God begins in you, God Himself completes. Aaron and the priests have done what God commanded: they have prepared themselves, brought the offerings, and stood before Him. Then something happens that they cannot produce: “the glory of the LORD appeared,” and fire came out from before Him. You can prepare, obey, surrender, and present yourself to God, but you cannot manufacture His Presence. Your part is faithfulness; the fire is His.
+
+> “He that sent me is with me: the Father hath not left me alone; for I do always those things that please him.” John 8:29
