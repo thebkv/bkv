@@ -14,4 +14,7 @@ permalink: /leviticus15/
 
 ## 15 — THE HIDDEN FLOW
 
-The disciple learns that life can be depleted through inward conditions that are less visible than open rebellion. Bodily discharges picture an uncontrolled outflow of life: something that should remain ordered within the person continually escapes and communicates uncleanness. The disciple begins noticing where attention, desire, emotion, imagination, speech, and vital strength leak away. Holiness includes learning where life is flowing and bringing even private, recurring, bodily, and hidden processes under divine order.
+The disciple learns to pay attention to what continually flows out of him. Leviticus 15 deals with bodily flows that happen privately, repeatedly, and sometimes beyond conscious control. The inward pattern is just as recognizable: thoughts become words, desires become actions, emotions spill into relationships, and attention and energy continually flow toward whatever has hold of us. The disciple therefore learns that holiness reaches even the hidden parts of life. It is not enough to control what other people can see; God brings order to the inward sources from which the life is continually flowing.
+
+> “That which cometh out of the man, that defileth the man.” Mark 7:20 
+
