@@ -22,8 +22,10 @@ permalink: /leviticus04/
 
 # LEVITICUS 04
 
-## 04 — THE SIN OFFERING
+## 4 — WHEN YOU BEGIN TO SEE
 
-The disciple begins to recognize that disorder can operate even when he did not consciously intend it. Leviticus now deals with sins committed in ignorance. Spiritual growth therefore requires more than sincerity; light reveals what was previously unseen. Priest, congregation, ruler, and common person are all accountable according to their place. As consciousness increases, hidden disorder is exposed, confessed, and brought before God so that it no longer governs the life unconsciously.
+You will not always recognize what is wrong about you while you are doing it. Leviticus 4 makes pathway for sins committed in ignorance to be brought to light. When God shows you something in yourself that you could not see before, do not hide it, defend it, or condemn yourself for having been blind to it. Bring what has become known into the light and let God deal with it.
+
+> “If ye were blind, ye should have no sin: but now ye say, We see; therefore your sin remaineth.” John 9:41
 
 
