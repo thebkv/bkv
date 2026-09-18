@@ -24,8 +24,6 @@ permalink: /leviticus02/
 
 ## 02 — THE WORK OF YOUR HANDS
 
-The disciple learns that God does not only want the great moments of surrender. He wants the ordinary substance of your life. The grain offering comes from what has been grown, gathered, prepared, and worked by human hands. Your work, abilities, time, possessions, and daily responsibilities can all be brought under God and become part of your offering to Him. A surrendered life turns ordinary work into holy work.
-
-The Savior Test gives us a particularly concrete Jesus connection:
+God wants your full surrender... **and** He wants the ordinary substance of your life. The grain offering comes from what has been grown, gathered, prepared, and worked by human hands. Bring your skills, abilities, time, possessions, and daily responsibilities and make them all available to Him. A surrendered life makes ordinary work into holy work.
 
 > “My meat is to do the will of him that sent me, and to finish his work.” John 4:34
