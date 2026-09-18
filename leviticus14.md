@@ -14,7 +14,7 @@ permalink: /leviticus14/
 
 ## 14 — THE LEPER RETURNS
 
-The disciple learns that God does not expose what is wrong in him merely to condemn or exclude it. Leviticus 14 begins with a person who has been unclean being brought back. He is examined, washed, cleansed, and restored; then blood and oil are placed on his ear, hand, and foot. What had been separated from the life of Israel can now hear, act, and walk as part of it again. The disciple needs to know that when God exposes and cleanses something in him, the goal is not permanent shame. The goal is restoration: what was once ruled by uncleanness can be brought back, reconsecrated, and made useful to God.
+The disciple learns that God does not expose what is wrong in him to condemn. Leviticus 14 begins with a person who has been unclean being brought back. He is examined, washed, cleansed, and restored; then blood and oil are placed on his ear, hand, and foot. What had been separated from the life of Israel can now hear, act, and walk as part of it again. The disciple needs to know that when God exposes and cleanses something in him, the goal not shame. Shame is a tool of the devil. God's goal for you is restoration: you were ruled by uncleanness but you can be brought back, reconsecrated, and made useful to God.
 
 And Jesus gives us an almost perfect Gospel story for this chapter:
 
