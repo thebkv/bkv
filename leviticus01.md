@@ -1,4 +1,4 @@
----
+---  
 book: Leviticus
 chapter: 1
 title: "At the Door of the Tent"
@@ -7,7 +7,7 @@ focus:
   - The disciple brings his whole life before God rather than keeping part of it outside His government.
 summary: "Leviticus begins at the door of the tabernacle, where God calls the worshipper near and shows him how a life may be presented and accepted before Him."
 permalink: /leviticus01/
----
+---  
 
 # LEVITICUS 01
 
