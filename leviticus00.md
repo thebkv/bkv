@@ -235,6 +235,8 @@ focus: The two-goat rite of the Day of Atonement and the meaning of Azazel
 summary: Research into the two goats and Azazel turns up a range of ideas, from a goat that departs, to a rugged place, to a wilderness being. Through all of them the function stays steady: one goat purges the center, and the other carries away what was removed.
 ---
 
+# Sonnet 5 raw research into meaning of the goats
+
 # Leviticus 16: The Two Goats and Azazel
 
 *Supplemental commentary*
@@ -299,3 +301,98 @@ Charles Fillmore reads the goats as workings inside one person. The slain goat s
 ## Where This Leaves the Reading
 
 The chapter holds one problem and two movements: cleansing at the center, and sending away to the edge. Whether Azazel is read as a departure, a place, or a being, the function stays steady. The live goat carries, and the wilderness receives. For the disciple, the pattern suggests that inner clearing is not finished until what was cleansed is also released, so that it does not walk back into the camp.
+
+
+
+# Astra 6 rew research
+
+My strongest reading is that Leviticus 16 shows how God separates his people from the sin that has entered their life together—even their worship—so that they can continue living with him. The two goats enact two parts of that separation: cleansing where God dwells, and carrying the confessed wrongdoing away.
+
+For the serious disciple, the question becomes very personal: Will you allow God to cleanse the place in you where you meet him, and release the wrongdoing you have been defending, concealing, or continually carrying?
+
+I examined the received Hebrew text and connected passages across all five books. I haven’t established a numerical checksum or run an exhaustive skip-code search. But your suggestion that the books explain themselves produces several substantial connections—one especially striking.
+
+The starting point is what the goats actually do.
+
+In the story	Its assigned work
+The goat designated for YHWH	Its blood is brought within the veil to purify the sanctuary.
+The living goat designated for Azazel	The people’s wrongdoings are confessed over it; it carries them into a remote wilderness.
+
+Both begin before God. Their roles are assigned by lots; the text does not first identify one as morally good and the other as evil. Verse 5 groups the pair under the designation ḥaṭṭāʾt, the sin/purification offering. That makes two complementary functions a firmer starting point than two opposing personalities. ⁠Leviticus 16:5–22
+
+One further detail matters: the first goat’s blood goes inward; its carcass is later carried outside. So “one goat goes to heaven, the other to hell” would already distort the actual movements.
+
+The next chapter supplies an internal explanation of blood: its significance is life, and God says he has given it for atonement. The inward movement therefore involves life provided by God for reconciliation. That keeps the interpretation anchored in the Torah’s own explanation. ⁠Leviticus 17:11
+
+Now comes the strongest Hebrew connection.
+
+In Exodus 34:7, God describes himself with these words:
+
+נֹשֵׂא עָוֹן וָפֶשַׁע וְחַטָּאָה
+
+Noseʾ ʿavon va-feshaʿ ve-ḥaṭṭaʾah.
+
+Ordinarily translated as forgiving iniquity, transgression, and sin, the expression uses נשא — nasaʾ, a verb that can mean lift, carry, bear, or—in this construction—forgive. ⁠Exodus 34:7
+
+Leviticus 16:21 names that same threefold burden: iniquities, transgressions, sins. Then verse 22 uses the same verb, נשא, for what the goat does: it bears the iniquities away.
+
+What Exodus declares about God’s character, Leviticus gives a visible action.
+
+This does not make the goat God. It makes the goat’s task a concrete picture of forgiveness: the burden is taken up and removed. That connection is considerably stronger than an interpretation built from an uncertain dissection of the name Azazel.
+
+Genesis supplies a human example. In Genesis 50:17, Joseph’s brothers ask him to forgive their transgression and sin, again using נשא. Joseph responds by reassuring and providing for the brothers who injured him. The vocabulary joins the ritual to an actual broken relationship being restored. ⁠Genesis 50:17–21
+
+For the disciple, that means forgiveness concerns whether wrongdoing continues to govern a relationship. You can apply that both to receiving God’s forgiveness and to forgiving someone else.
+
+There is also a nearby structural check on the interpretation.
+
+In Leviticus 14, cleansing involves two birds. One is killed; the living bird is dipped in its blood and released. Both birds are explicitly clean. The arrangement appears in cleansing a person and again in cleansing a house. No confession of sins over the bird is specified, so the rituals are not identical. Nevertheless, the recurring structure is clear: a paired rite involving death, blood, and the departure of a living creature restores cleanness. ⁠Leviticus 14:4–7, 49–53
+
+This weighs against automatically identifying the living goat as an evil self or Satan. The Torah has already taught the reader that a slain animal and a released animal can work together in one cleansing.
+
+It also produces an intriguing progression: a person can be cleansed; a house can be cleansed; the sanctuary at the heart of the community can be cleansed. The same concern reaches progressively deeper into shared life.
+
+Your suggestion about double meanings opens another fruitful possibility in Genesis.
+
+In Genesis 27, two goat kids help Jacob approach his father under a false identity. Their skins disguise his hands. Esau is called saʿir, hairy—a word closely connected with the vocabulary for a he-goat. Here goats, clothing, hands, and approaching a father participate in concealment. ⁠Genesis 27:9–23
+
+In Genesis 37, a שְׂעִיר עִזִּים — seʿir ʿizzim, the same animal expression used in Leviticus, supplies the blood on Joseph’s garment. The brothers use it to conceal their wrongdoing from their father. ⁠Genesis 37:31–33
+
+I would treat the following as an exploratory literary connection, rather than an established explanation of the ritual:
+
+The family of Israel previously used goats to hide the truth. Now Israel must name the truth over a goat.
+
+That would be a powerful reversal. The materials associated with deception are taken into a rite requiring confession. For the disciple, the implication is sharp: you cannot use religion to make your condition look different before the Father. Reconciliation involves acknowledging what actually happened.
+
+There is a still larger reversal worth considering.
+
+In Genesis 3, the human being is sent out from the garden. The verb is from שלח — shalaḥ, also used for sending the goat away. Read together, the scenes suggest this pattern:
+
+In Eden, the transgressor leaves the sacred dwelling. In Leviticus 16, the confessed transgressions are carried away while the community remains around God’s dwelling.
+
+That is a thematic reading, not a claim that Leviticus explicitly identifies the goat with Adam. But it makes the destination of the ritual intelligible: preserving life with God through the removal of what defiles it. ⁠Genesis 3:23–24
+
+Numbers and Deuteronomy confirm why that matters. Numbers 5 connects the camp’s purity with God dwelling among the people; it also joins confession to restitution. Deuteronomy connects holiness in the camp with God’s presence, and later describes God changing the heart so that his people can love him and live. The movement toward an inward application is already present within the five books. ⁠Numbers 5:1–8, ⁠Deuteronomy 23:10–15, ⁠Deuteronomy 30:6
+
+What, then, about Azazel?
+
+The five books do not give an independent, explicit definition of that name. Its meaning remains uncertain; interpreting it as a wilderness being, a destination, or removal requires further argument. I would not turn a proposed etymology into a settled definition of some faculty within the disciple.
+
+But the goat’s function is much clearer than the name. It carries confessed sins away. Even if Azazel denotes a wilderness being, that would identify the destination or recipient; it would not automatically identify the goat itself as that being.
+
+The adjacent prohibition on sacrificing to seʿirim, goat-like spirits, also constrains any reading that turns this into ordinary worship of another power. ⁠Leviticus 17:7
+
+So the “checksum” I can substantiate here is a set of mutually supporting relationships: the vocabulary of forgiveness, the paired cleansing rituals, the preservation of God’s dwelling, confession, and restored relationship. Those connections place limits on what an interpretation can plausibly mean. They do not establish a mathematical proof of the text’s correctness.
+
+For the serious reader, I think the deepest implication is this:
+
+Even the part of your life you call holy can need cleansing.
+
+Your prayer can contain bargaining. Your devotion can protect an ambition. Your knowledge of Scripture can become a way to avoid admitting what you have done. Applying the sanctuary’s cleansing inwardly means allowing God to reach those places too.
+
+The living goat then adds something equally necessary: acknowledged sin can be relinquished. You take responsibility, make the repair that is yours to make, and accept that the burden can be removed. Continually defending yourself and continually condemning yourself can both keep your attention bound to the same wrongdoing.
+
+This is where Jesus’ instruction to cleanse the inside of the cup becomes especially direct. He addresses people whose religious exterior conceals an uncleansed interior. ⁠Matthew 23:25–26
+
+My reading of the two goats is therefore: God cleanses the dwelling and removes the burden, so that his people can live with him. In the disciple, that means letting him reach what your religion has concealed—and receiving the freedom to live differently once it has been confessed.
+
