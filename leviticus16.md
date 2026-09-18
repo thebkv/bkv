@@ -14,6 +14,8 @@ permalink: /leviticus16/
 
 ## 16 — BEYOND THE VEIL
 
-The disciple learns that he cannot make his own way into the Presence. Aaron may not simply pass through the veil whenever he chooses; God provides the way through cleansing, sacrifice, blood, and atonement. One goat is offered before the LORD, while another bears the confessed iniquities away into the wilderness. This is what the disciple needs to know at the center of Leviticus: you do not perfect yourself until you become worthy to enter. You bring the whole truth of yourself to God and receive the cleansing He provides. What has separated you from Him is dealt with, what has accumulated is carried away, and the way into His Presence is opened by God Himself.
+The serious Christian disciple learns that he cannot make his own way into the Presence of the Lord. Aaron doesn't simply pass through the veil whenever he chooses; God provides the way through cleansing and sacrifice. And atonement. One goat is offered before the LORD, while another bears the confessed iniquities away into the wilderness. This is what the disciple needs to know: you don't become worthy to enter by perfecting yourself. No, you lay the whole truth of yourself in front of God and accept the gift, whether cleansing or whatever else He provides. The things that kept you separate from Him have been dealt with. the accumulated nonsense has been carried away, and the way into His Presence is **opened by God Himself**.
+
+And the Savior test:
 
 > “I am the way… no man cometh unto the Father, but by me” John 14:6
