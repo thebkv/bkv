@@ -16,4 +16,4 @@ permalink: /leviticus16/
 
 The disciple learns that he cannot make his own way into the Presence. Aaron may not simply pass through the veil whenever he chooses; God provides the way through cleansing, sacrifice, blood, and atonement. One goat is offered before the LORD, while another bears the confessed iniquities away into the wilderness. This is what the disciple needs to know at the center of Leviticus: you do not perfect yourself until you become worthy to enter. You bring the whole truth of yourself to God and receive the cleansing He provides. What has separated you from Him is dealt with, what has accumulated is carried away, and the way into His Presence is opened by God Himself.
 
-| “I am the way… no man cometh unto the Father, but by me” John 14:6
+> “I am the way… no man cometh unto the Father, but by me” John 14:6
