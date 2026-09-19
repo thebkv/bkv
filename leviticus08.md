@@ -22,7 +22,8 @@ permalink: /leviticus08/
 
 # LEVITICUS 08
 
-## 08 — THE PRIEST IS CONSECRATED
+## 08 — SET APART FOR GOD
 
-The disciple's inward priesthood is now formally set apart. Moses brings Aaron—the illumined or enlightening priestly function—and his sons to the door of the Tabernacle, washes them, clothes them, anoints them, applies blood to ear, hand, and foot, and keeps them before God seven days. The meaning is intensely practical: hearing, doing, and walking are being consecrated. The disciple is being trained not merely to visit God's presence but to minister from it.
+Before God works through you, He works on you. He wants to prepare you for His service. Aaron and his sons are washed, clothed, anointed, and set apart. Blood is placed on the ear, the hand, and the foot. Let God change what you listen to, what you do, and where you walk. 
 
+> “If any man serve me, let him follow me.” John 12:26
