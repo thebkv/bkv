@@ -20,8 +20,11 @@ permalink: /leviticus05/
 
 ---
 
-# LEVITICUS 05  
+# LEVITICUS 05
 
-## 05 — GUILT COMES TO LIGHT  
+## 05 — BRING IT INTO THE LIGHT
 
-The disciple learns to stop concealing what has become known. Failure involving testimony, uncleanness, careless speech, or holy things must be acknowledged: “he shall confess that he hath sinned in that thing.” This is the movement from vague guilt into specific recognition. What the light identifies must be named and brought to God. Transformation accelerates when the disciple ceases defending, disguising, or generalizing the thing that God has already shown him.
+When God shows you what is wrong, don’t leave it hidden inside you. Leviticus 5 moves from becoming aware of sin to confessing it: “he shall confess that he hath sinned in that thing.” Say what is true before God. Do not excuse it, rename it, or hide from it. What you bring into the light can be forgiven and cleansed.
+
+> “Every one that doeth evil hateth the light… But he that doeth truth cometh to the light.” John 3:20–21
+
