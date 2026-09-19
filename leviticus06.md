@@ -22,6 +22,9 @@ permalink: /leviticus06/
 
 # LEVITICUS 06
 
-## 06 — THE FIRE MUST NOT GO OUT
+## 06 — KEEP THE FIRE BURNING
 
-The disciple learns that consecration must become continuous. The fire kindled by God is tended by the priest morning and night; ashes are removed, the altar is prepared again, and the flame is kept alive. Yesterday's surrender cannot substitute for today's obedience. The inward priesthood develops the discipline of maintaining what God has begun: clearing away what has already been consumed and presenting the life again so that the divine fire never goes out.
+Giving yourself to God is not a passing decision. In Leviticus 6, the priest keeps the altar fire burning day and night. “The fire shall ever be burning upon the altar; it shall never go out.” Yesterday’s surrender is not enough for today. Follow God again today. Then do it again tomorrow.
+
+> “If any man will come after me, let him deny himself, and take up his cross daily, and follow me.” Luke 9:23
+
