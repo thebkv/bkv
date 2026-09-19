@@ -12,6 +12,9 @@ permalink: /leviticus27/
 
 # LEVITICUS 27
 
-## 27 — WHAT BELONGS TO GOD
+## 27 — IT BELONGS TO GOD
 
-Leviticus ends by asking what belongs to God. Vows, persons, animals, houses, fields, firstborn, devoted things, and tithes are all measured in relation to the sanctuary. The disciple who entered the book bringing an offering now discovers that consecration reaches everything he calls his own. Life, faculties, possessions, increase, and inheritance are no longer separate from worship. The book ends where it began, but at a larger scale: what was placed upon the altar in Chapter 1 has expanded until the disciple understands that the whole life belongs to the LORD.
+Your life with God eventually reaches everything you have. Leviticus ends with people, animals, houses, fields, possessions, and offerings being valued or devoted to the LORD. Nothing sits outside His claim simply because it seems ordinary. You began Leviticus by bringing an offering to God. You end by realizing that everything belongs to Him.
+
+> “For where your treasure is, there will your heart be also.” Matthew 6:21
+
