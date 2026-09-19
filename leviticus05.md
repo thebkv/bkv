@@ -24,7 +24,7 @@ permalink: /leviticus05/
 
 ## 05 — BRING IT INTO THE LIGHT
 
-When God shows you what is wrong, don’t leave it hidden inside you. Leviticus 5 moves from becoming aware of sin to confessing it: “he shall confess that he hath sinned in that thing.” Say what is true before God. Do not excuse it, rename it, or hide from it. What you bring into the light can be forgiven and cleansed.
+When God shows you what is wrong, don't leave it hidden inside you. Leviticus 5 shows you become aware of your flaws, and then you confess them: “he shall confess that he hath sinned in that thing.” Say what is true before God. **Do not excuse it.** Don't give it a different name or try to side step it or hide from it. Bring it into the light so that it can be forgiven and cleansed.
 
 > “Every one that doeth evil hateth the light… But he that doeth truth cometh to the light.” John 3:20–21
 
