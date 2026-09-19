@@ -22,6 +22,9 @@ permalink: /leviticus07/
 
 # LEVITICUS 07
 
-## 07 — THE LAW OF THE OFFERING
+## 07 — LEARN WHAT GOD ASKS
 
-The disciple learns the distinctions within sacrifice. Guilt, peace, holiness, priestly portions, blood, fat, clean and unclean participation are carefully ordered. Desire alone is no longer enough; spiritual life acquires discrimination. The disciple begins to understand what belongs to God, what can be received, what must be relinquished, and how different inward conditions require different responses. Nearness to God produces increasing precision.
+A willing heart matters, but willingness does not replace obedience. Leviticus 7 gives different instructions for different offerings. They are not interchangeable. As you walk with God, learn to listen carefully. Do not assume that every good intention is His direction. Ask what God requires, then do that.
+
+> “If ye love me, keep my commandments.” John 14:15
+
