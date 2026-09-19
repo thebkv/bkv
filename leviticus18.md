@@ -12,6 +12,9 @@ permalink: /leviticus18/
 
 # LEVITICUS 18
 
-## 18 — THE FORBIDDEN APPROACH
+## 18 — DO NOT WALK AS THEY WALK
 
-The disciple learns that leaving Egypt is not enough; Egypt must cease to provide the pattern for his life. Israel is commanded not to walk according to Egypt behind them or Canaan before them, but according to God's judgments. The chapter's sexual boundaries expose a place where desire readily becomes its own law, crossing distinctions that God has established. The disciple therefore learns to ask who governs desire and relationship: the world he came from, the world around him, his own appetite, or God. Holiness preserves the right boundaries by which life remains ordered under Him.
+You cannot follow God while letting the world around you decide what is normal. Israel had lived in Egypt and was going into Canaan, but God told them not to live like either one. The same choice is before you. Your desires do not become right simply because they are accepted around you. **Let the Lord**, not the culture around you, **teach you how to live**.
+
+> “If ye were of the world, the world would love his own: but because ye are not of the world… therefore the world hateth you.” John 15:19
+
