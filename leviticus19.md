@@ -12,6 +12,9 @@ permalink: /leviticus19/
 
 # LEVITICUS 19
 
-## 19 — THE EDGE OF THE FIELD
+## 19 — HOLINESS IN ORDINARY LIFE
 
-The disciple discovers what holiness looks like when it leaves the sanctuary and enters ordinary life. Reverence, parents, Sabbath, harvest, generosity, wages, judgment, speech, neighbors, strangers, weights, measures, and worship all come under one command: “Ye shall be holy: for I the LORD your God am holy.” Even the edge of the field is governed by God's Presence, because part of what the disciple possesses is deliberately left for another. Holiness is God's order spreading through the whole life until worship, work, speech, possessions, judgment, and love of neighbor express the same divine government.
+You cannot separate holiness from how you treat people. God brings His purity down into your daily routine. Your business dealings, your wages, your parents, your neighbors, and the stranger at your gate. Where does this happen in you? Every time you try to keep your worship private while holding a grudge, cheating on a small detail, or ignoring the person in front of you. True holiness is not an abstract spiritual feeling; it is God’s character coming through your hands and your mouth in ordinary life.
+
+> “You shall love your neighbor as yourself.” Matthew 22:39
+
