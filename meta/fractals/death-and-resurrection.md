@@ -1,3 +1,13 @@
+---
+
+title: "Death and Resurrection"
+
+type: fractal
+
+permalink: /fractals/death-and-resurrection/
+
+---
+
 ## The Pattern
 
 One of the deepest movements in Scripture is also one of the simplest: **something dies, and God brings life out of it.**
@@ -11,3 +21,28 @@ That matters to the disciple because death and resurrection is not only somethin
 **Death → Burial → Resurrection → New Life**
 
 That is the pattern this page follows through Scripture.
+
+
+## The Savior Test
+
+Jesus does not merely teach this pattern. He lives it.
+
+And then He says:
+
+> "If any man will come after me, let him deny himself, and take up his cross, and follow me."
+>
+> — Matthew 16:24
+
+The disciple follows the same movement. Not by seeking suffering for its own sake, but by refusing to preserve the old life when following Christ requires surrendering it.
+
+Jesus gives the promise on the other side:
+
+> "Whosoever will lose his life for my sake, the same shall save it."
+>
+> — Luke 9:24
+
+That is the pattern: **what you keep trying to save cannot become the new thing God is bringing forth.**
+
+The question for the disciple is:
+
+**What am I trying to keep alive that God is asking me to surrender?**
