@@ -16,6 +16,11 @@ Use these tools to follow names, places, structures, and recurring patterns acro
       <a href="#bible-dictionary"><strong>Bible Dictionary →</strong></a>
       · Strong's Roots <em>(coming later)</em>
     </p>
+    <p>
+    <a href="{{ '/meta/potts/obedience/' | relative_url }}">
+      <strong>Swedenborg Concordance — Obedience →</strong>
+    </a>
+</p>
   </div>
   
   <div style="border:1px solid #26344d;border-radius:9px;padding:1.2rem;">
