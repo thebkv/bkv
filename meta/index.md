@@ -7,13 +7,7 @@ permalink: /meta/
 
 Search Charles Fillmore's *Metaphysical Bible Dictionary*.
 
-<input
-  type="search"
-  id="fillmore-search"
-  placeholder="Search a name, place, or term..."
-  autocomplete="off"
-  style="width:100%;max-width:700px;padding:14px 16px;font-size:18px;margin:20px 0;"
->
+<input type="search" id="fillmore-search" placeholder="Search a name, place, or term..." autocomplete="off" style="width:100%;max-width:700px;padding:14px 16px;font-size:18px;margin:20px 0;">
 
 <div id="fillmore-results"></div>
 
