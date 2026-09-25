@@ -8,6 +8,8 @@ permalink: /fractals/younger-supplants-elder/
 
 ---
 
+# The Younger Supplants the Elder
+
 ## The Pattern
 
 Again and again in Scripture, the one who comes first is not the one who finally receives the inheritance. **The first appears naturally. The second comes afterward. The first cannot carry God's purpose to completion, and the second receives what the first could not.**
@@ -38,6 +40,18 @@ The life that came first is not enough. Another birth is necessary. Jesus does n
 Paul later states the same order plainly:
 
 > "That was not first which is spiritual, but that which is natural; and afterward that which is spiritual."
+>
+> — 1 Corinthians 15:46
+
+**First the natural. Then the spiritual.**
+
+That is the younger-supplants-the-elder pattern brought directly into the life of the disciple.
+
+The question is:
+
+**Which man is ruling now?**
+
+
 >
 > — 1 Corinthians 15:46
 
