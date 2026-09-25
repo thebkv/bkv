@@ -8,6 +8,8 @@ permalink: /fractals/death-and-resurrection/
 
 ---
 
+# Death and Resurrection
+
 ## The Pattern
 
 One of the deepest movements in Scripture is also one of the simplest: **something dies, and God brings life out of it.**
@@ -46,3 +48,4 @@ That is the pattern: **what you keep trying to save cannot become the new thing 
 The question for the disciple is:
 
 **What am I trying to keep alive that God is asking me to surrender?**
+
