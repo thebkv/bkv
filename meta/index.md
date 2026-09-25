@@ -5,27 +5,39 @@ permalink: /meta/
 
 # Reference Library
 
-Patterns, names, meanings, and tools for following Scripture across the whole Bible.
+Use these tools to follow names, places, structures, and recurring patterns across Scripture.
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1rem;margin:1.5rem 0 2.5rem;">
+
+  <div style="border:1px solid #26344d;border-radius:9px;padding:1.2rem;">
+    <h2 style="margin-top:0;">Names & Meanings</h2>
+    <p>Look up biblical names, places, words, and symbols.</p>
+    <p><strong>Bible Dictionary</strong> · Strong's Roots <em>(coming later)</em></p>
+  </div>
+
+  <div style="border:1px solid #26344d;border-radius:9px;padding:1.2rem;">
+    <h2 style="margin-top:0;">The Biblical World</h2>
+    <p>See how places and structures function in Scripture.</p>
+    <p>Tabernacle · Temple · Egypt to Canaan · Jerusalem · Wilderness</p>
+  </div>
+
+  <a href="{{ '/fractals/' | relative_url }}" style="display:block;border:1px solid #26344d;border-radius:9px;padding:1.2rem;text-decoration:none;color:inherit;">
+    <h2 style="margin-top:0;">Fractal Patterns</h2>
+    <p>Follow movements that repeat throughout Scripture and in the disciple.</p>
+    <p>Death and Resurrection · Younger Supplants the Elder · Exodus · Two Kings · Seed · Return</p>
+  </a>
+
+  <div style="border:1px solid #26344d;border-radius:9px;padding:1.2rem;">
+    <h2 style="margin-top:0;">How to Read</h2>
+    <p>Simple principles for recognizing the interior meaning without losing the actual text.</p>
+    <p>Scripture interprets Scripture · Function before symbolism · The Savior Test · Selected insights from Fillmore, Swedenborg, Lamsa, and Nicoll</p>
+  </div>
+
+</div>
 
 ---
 
-## Fractal Patterns
-
-Some movements appear again and again in Scripture. The people and places change, but the movement remains.
-
-These pages follow those patterns through the Bible and ask where the same movement happens in the disciple.
-
-### [The Younger Supplants the Elder]({{ '/fractals/younger-supplants-elder/' | relative_url }})
-
-**Natural first. Spiritual afterward.**
-
-Again and again, the one who comes first is not the one who finally carries the inheritance: Cain and Abel, Ishmael and Isaac, Esau and Jacob, Saul and David, Adam and Christ.
-
-[Explore all fractal patterns →]({{ '/fractals/' | relative_url }})
-
----
-
-## Metaphysical Bible Dictionary
+## Bible Dictionary
 
 Search Charles Fillmore's *Metaphysical Bible Dictionary*.
 
@@ -63,7 +75,7 @@ search.addEventListener('input', function () {
   }
 
   results.innerHTML = matches.map(entry =>
-    `<p><a href="/bkv${entry.url}">${entry.term}</a></p>`
+    `<p><a href="{{ site.baseurl }}${entry.url}">${entry.term}</a></p>`
   ).join('');
 });
 </script>
