@@ -41,7 +41,7 @@ search.addEventListener('input', function () {
   }
 
   results.innerHTML = matches.map(entry =>
-    `<p><a href="${entry.url}">${entry.term}</a></p>`
+    `<p><a href="{{ site.baseurl }}${entry.url}">${entry.term}</a></p>`
   ).join('');
 });
 </script>
