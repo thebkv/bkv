@@ -1,3 +1,13 @@
+---
+
+title: "The Younger Supplants the Elder"
+
+type: fractal
+
+permalink: /fractals/younger-supplants-elder/
+
+---
+
 ## The Pattern
 
 Again and again in Scripture, the one who comes first is not the one who finally receives the inheritance. **The first appears naturally. The second comes afterward. The first cannot carry God's purpose to completion, and the second receives what the first could not.**
