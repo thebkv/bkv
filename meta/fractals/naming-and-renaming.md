@@ -8,277 +8,112 @@ permalink: /fractals/naming-and-renaming/
 
 ## The Pattern
 
-Names matter in Scripture because they say something about **who a person is**.
+Names matter in Scripture because they often tell us something about who a person is. That is why a change of name can mark such an important turning point. Abram becomes Abraham when God confirms His promise to him. Sarai becomes Sarah as she is brought into that same promise. Jacob becomes Israel after wrestling with God, and Jesus gives Simon the name Peter before Simon has become the man that name points toward.
 
-That is why some of the most important turning points in the Bible are marked by a new name.
+In each case, the new name says something about a new identity. And often the name changes before the person's life has fully caught up with it. That is what makes this pattern important for the disciple. God is not limited to naming us according to what we have been. He can call forth what He is making us.
 
-Abram becomes Abraham.
+## Abraham and Sarah
 
-Sarai becomes Sarah.
-
-Jacob becomes Israel.
-
-Simon becomes Peter.
-
-The old name belongs to the life and story that came before. Then something happens—God calls, promises, confronts, or reveals—and a new name is given.
-
-The person may still look like the same person. Their circumstances may not immediately change. But something fundamental has been declared about who they now are.
-
-**Old Name → Encounter → New Name → New Life**
-
-For the disciple, this is the movement from living according to the identity we have received from the old life to living according to the identity God gives us.
-
----
-
-## Abram Becomes Abraham
-
-Abram already has a history with God when his name changes.
-
-God has called him out of his country. Abram has believed God. He has traveled, built altars, failed, recovered, fought battles, and waited years for the promised son.
-
-Then in Genesis 17 God speaks again:
+Abram already has a long history with God when his name changes. He has left his country, believed God's promise, traveled through Canaan, made mistakes, recovered from them, and waited years for the promised son. Then God tells him:
 
 > "Neither shall thy name any more be called Abram, but thy name shall be Abraham."
 >
 > — Genesis 17:5
 
-The promise has not yet appeared.
+The striking thing is that Isaac has not been born yet. Abraham receives the new name while the promise still looks impossible.
 
-Isaac has not been born.
+The same thing happens with Sarah. She is still barren when God says, "Thou shalt not call her name Sarai, but Sarah shall her name be." The circumstances have not changed yet, but God speaks of Abraham and Sarah according to what He is going to bring forth through them.
 
-But Abraham receives the name **before he sees the thing the name points toward**.
-
-That matters.
-
-God names him according to what God is bringing forth, not merely according to what Abraham can presently see.
-
-The new name comes before the visible fulfillment.
-
----
-
-## Sarai Becomes Sarah
-
-The same thing happens to Sarai.
-
-> "As for Sarai thy wife, thou shalt not call her name Sarai, but Sarah shall her name be."
->
-> — Genesis 17:15
-
-She is still barren when God says it.
-
-Nothing visible has changed yet.
-
-But God names her in connection with the promise that is about to be fulfilled.
-
-The new identity is spoken while the old circumstances are still present.
-
-This is one of the recurring tensions of the disciple's life:
-
-**God can declare what He is making you before you can see it.**
-
----
+That is an important part of this pattern. The new name can come **before the visible evidence**. Abraham has to begin living as Abraham while he is still waiting for Isaac.
 
 ## Jacob Becomes Israel
 
-Jacob's renaming is different.
+Jacob's story shows another side of renaming. His old name belongs to a life marked by grasping and struggle. He has fought for the birthright, deceived his father, fled from Esau, struggled with Laban, and finally begun the dangerous journey home.
 
-His whole life has been marked by grasping and struggle.
-
-He took Esau's birthright. He received the blessing through deception. He fled from his brother. He struggled with Laban. Then, on the way back, he is left alone and wrestles through the night.
-
-The question comes:
+Then, during the night of wrestling in Genesis 32, he is asked a very simple question:
 
 > "What is thy name?"
 >
 > — Genesis 32:27
 
-He answers:
-
-> "Jacob."
-
-Then comes the new name:
+He has to answer, "Jacob." Only then does the new name come:
 
 > "Thy name shall be called no more Jacob, but Israel."
 >
 > — Genesis 32:28
 
-Before the new name is spoken, Jacob has to say the old one.
+There is something important here for the disciple. Jacob does not receive a new identity by pretending the old one never existed. He has to name who he has been before he is told who he will now be.
 
-He has to answer for who he has been.
-
-Then the new name is given.
-
-Jacob does not disappear from the story after this. In fact, Scripture continues to use both **Jacob** and **Israel**.
-
-That makes the pattern especially useful for the disciple.
-
-Receiving the new name does not mean every trace of the old life instantly vanishes.
-
-There can be a period in which Scripture itself seems to move back and forth between the two names.
-
-**Jacob is still there. Israel has been born.**
-
-The question becomes which identity will govern the man.
-
----
+And Jacob does not instantly disappear after this encounter. Scripture continues to call the same man both Jacob and Israel. The new identity has been given, but he still has to live it out. That makes his story much more recognizable. A real encounter with God can change the direction of a person's life without instantly removing every trace of the person he used to be.
 
 ## Simon Becomes Peter
 
-Jesus does something similar when He meets Simon.
+Jesus does something similar when He first meets Simon:
 
 > "Thou art Simon the son of Jona: thou shalt be called Cephas."
 >
 > — John 1:42
 
-Simon has barely begun following Jesus.
+Jesus gives him the new name at the beginning, not the end.
 
-He has not preached at Pentecost.
+Simon has not preached at Pentecost yet. He has not become the man we see leading the disciples in Acts. In fact, some of his greatest failures are still ahead of him. He will misunderstand Jesus, argue with Him, boast about his own faithfulness, draw a sword, and finally deny that he even knows Him.
 
-He has not become the man we know from Acts.
+Yet Jesus has already named him.
 
-He has not even gone through his greatest failure yet.
+That means the name is not a reward for Simon finally becoming good enough. Jesus sees what Simon is going to become through following Him and begins calling him toward it before the work is finished.
 
-Jesus names him in view of what he is becoming.
+This is much like Abraham receiving his new name before Isaac is born. God names what He is bringing forth before everyone else can see it.
 
-That does not prevent Simon from later acting like the old Simon.
+## Names Can Tell the Truth About What Something Has Become
 
-He argues.
+Not every new name in Scripture is a promise of something pleasant. Sometimes a name exposes what has happened.
 
-He misunderstands.
+Hosea's children receive names that speak of Israel's broken relationship with God. Places are also named or renamed because of what happened there. Jacob names Bethel after recognizing that God was present in the place. Other names preserve memories of struggle, judgment, deliverance, or encounter.
 
-He boasts.
-
-He draws a sword.
-
-He denies Jesus.
-
-Yet the name remains.
-
-The new name is not a description of Simon's flawless performance. It points toward the man Christ is bringing forth.
-
----
-
-## Names Can Also Mark Judgment
-
-The pattern is not only positive.
-
-Scripture can name something in order to reveal what it has become.
-
-Hosea's children receive names such as **Lo-ruhamah** and **Lo-ammi** as signs to Israel.
-
-Places are renamed because of what happened there.
-
-Names can preserve blessing, failure, judgment, encounter, or promise.
-
-So the biblical principle is larger than simply:
-
-**new name = good.**
-
-Naming identifies.
-
-Renaming reveals that the identity or condition of something has changed.
-
----
+So the pattern is not simply that an old name is bad and a new name is good. The deeper point is that **a name identifies something**. When Scripture gives something a new name, we should ask what has changed and why the old name is no longer enough.
 
 ## Where This Happens in the Disciple
 
-Most of us have names for ourselves long before we seriously begin following Christ.
+Long before we seriously begin following Christ, most of us already have answers to the question, "Who am I?" We build those answers out of our history, our successes, our failures, what other people have said about us, and what we have learned to believe about ourselves.
 
-Not necessarily literal names.
+A person can spend years living under a name that was never literally spoken over him. Failure. Successful. Weak. Important. Rejected. Self-sufficient. The good one. The bad one. The person who always ruins things. The person who does not need anyone.
 
-Failure.
+Those identities can become so familiar that we stop recognizing them as names. They simply become the person we assume ourselves to be.
 
-Successful.
+Then Christ begins to change the answer.
 
-Weak.
+This does not require pretending that our old story never happened. Jacob really had been Jacob. Simon really did deny Jesus. Their histories were not erased. But their histories were no longer allowed to have the final word about who they were.
 
-Strong.
-
-Rejected.
-
-Important.
-
-Victim.
-
-Self-made.
-
-Good person.
-
-Bad person.
-
-Whatever the words are, they become answers to the question:
-
-**Who am I?**
-
-Then Christ begins to separate the disciple from the identity built out of history, reputation, fear, achievement, failure, and the judgments of other people.
-
-A different identity begins to govern.
-
-This does not mean pretending the old story never happened.
-
-Jacob really was Jacob.
-
-Simon really did deny Jesus.
-
-The old name tells the truth about where the person has been.
-
-But it does not necessarily tell the truth about who the person is becoming.
-
-The disciple eventually has to learn to live from the name God gives rather than continually returning to the name the old life supplied.
-
----
+That is where this pattern becomes practical. The disciple has to learn to live from the identity God is bringing forth rather than continually returning to the identity formed by the old life. And, like Abraham, Jacob, and Peter, there may be a considerable period when the new name is true even though our lives have not completely caught up with it.
 
 ## The Fractal
 
-**OLD NAME**  
-Identity is established by the life that came before.
+The pattern begins with an identity that has already been established. Then there is an encounter with God in which something new is revealed or promised. A new name is given, but the old circumstances and habits may still remain for a time. The rest of the story is about learning to live as the person God has now named.
 
-↓
-
-**ENCOUNTER**  
-God calls, confronts, promises, or reveals.
-
-↓
-
-**NEW NAME**  
-A different identity is declared.
-
-↓
-
-**TENSION**  
-The old life may still remain visible.
-
-↓
-
-**NEW LIFE**  
-The person begins to live according to the identity God has given.
-
-The name changes before the whole life catches up with it.
-
----
+That is why renaming in Scripture is not merely a change of label. It marks a change in what will govern the person's life.
 
 ## The Savior Test
 
-Jesus repeatedly calls people beyond the identity by which they have been known.
-
-Simon is one of the clearest examples:
+Jesus does not merely accept Simon's existing identity and try to make a slightly better Simon. When He first meets him, He says:
 
 > "Thou art Simon the son of Jona: thou shalt be called Cephas."
 >
 > — John 1:42
 
-But Revelation carries the pattern directly into the life of the one who overcomes.
+Jesus knows exactly who Simon is, but He also knows who Simon will become.
 
-Jesus says:
+Revelation carries the same pattern into the life of the disciple. Jesus promises the one who overcomes:
 
 > "To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written."
 >
 > — Revelation 2:17
 
-The new name belongs to the overcoming life.
+The biblical pattern begins to come together. Abraham receives a new name. Sarah receives a new name. Jacob receives a new name. Simon receives a new name. And Jesus promises a new name to the one who overcomes.
 
-The disciple is not merely trying to improve the person named by the old life. Christ is bringing forth an identity that comes from God.
+The question for the disciple is not merely what people have called you, or even what you have called yourself.
 
-The question is:
+**What name are you living under now?**
 
-**What name am I still living under?**
+---
+
+[← All Fractal Patterns]({{ '/fractals/' | relative_url }}) · [Reference Library]({{ '/meta/' | relative_url }})
