@@ -15,98 +15,101 @@ The people, places, and circumstances change, but the underlying movement remain
 
 ## Transformation
 
-### [The Younger Supplants the Elder]({{ '/fractals/younger-supplants-elder/' | relative_url }})
-Natural first. Spiritual afterward.
+### [Death and Resurrection →]({{ '/fractals/death-and-resurrection/' | relative_url }})
 
-### [Death and Resurrection]({{ '/fractals/death-and-resurrection/' | relative_url }})
-The old life dies; new life rises.
+The old life comes to an end, and God brings forth something new.
 
-**Naming and Renaming**  
-An encounter with God changes the identity by which a person lives.
+### [The Younger Supplants the Elder →]({{ '/fractals/younger-supplants-elder/' | relative_url }})
 
-**Barrenness to Birth**  
-Human inability gives way to something God brings forth.
+The natural comes first. The spiritual comes afterward. The first order gives way to the second.
+
+### [Naming and Renaming →]({{ '/fractals/naming-and-renaming/' | relative_url }})
+
+An encounter with God gives a new identity, and the disciple learns to live from the new name rather than the old one.
+
+**Barrenness to Birth** *(coming later)*  
+Human inability → promise → divine intervention → new life.
 
 ---
 
 ## Journey
 
-**Exodus**  
+**Exodus** *(coming later)*  
 Bondage → separation → passage → wilderness → inheritance.
 
-**Return**  
+**Return** *(coming later)*  
 Departure → loss → turning → return → restoration.
 
-**Wilderness**  
+**Wilderness** *(coming later)*  
 Separation from the old order → testing → dependence → preparation.
 
-**Crossing the Waters**  
+**Crossing the Waters** *(coming later)*  
 Old territory → water boundary → new territory.
 
-**Descent and Ascent**  
+**Descent and Ascent** *(coming later)*  
 Going down precedes being raised or brought into rule.
 
-**The Mountain**  
-Ascent → encounter → revelation → return.
+**The Mountain** *(coming later)*  
+Ascent → encounter → revelation → descent carrying what was received.
 
 ---
 
 ## Government
 
-**Two Kings**  
-Two governments contend for rule.
+**Two Kings** *(coming later)*  
+Two governments contend for rule within one kingdom.
 
-**Two Trees**  
-Two sources produce two kinds of fruit.
+**Two Trees** *(coming later)*  
+Two sources of life produce two kinds of fruit.
 
-**The City**  
-Life gathered and ordered under a governing center.
+**The City** *(coming later)*  
+Life gathered and ordered around a governing center.
 
-**The Ruined City**  
-Order collapses → the ruin is faced → restoration begins.
+**The Ruined City** *(coming later)*  
+Order collapses → the ruin is faced → mourning → restoration.
 
-**The Shepherd Becomes King**  
+**The Shepherd Becomes King** *(coming later)*  
 Faithfulness in obscurity → conflict → anointing → government.
 
 ---
 
 ## Presence
 
-**Outside → Inside → Presence**  
+**Outside → Inside → Presence** *(coming later)*  
 Distance → approach → cleansing → dwelling with God.
 
-**The Temple**  
+**The Temple** *(coming later)*  
 A dwelling is prepared and ordered for the Presence of God.
 
-**The Garden**  
+**The Garden** *(coming later)*  
 Life ordered, kept, cultivated, and made fruitful in God's presence.
 
-**Cleansing → Consecration → Glory**  
-What defiles is removed → life is set apart → Presence is revealed.
+**Cleansing → Consecration → Glory** *(coming later)*  
+Defilement removed → life set apart → Presence revealed.
 
-**Offering → Fire → Acceptance**  
-Something is surrendered → consumed → received by God.
+**Offering → Fire → Acceptance** *(coming later)*  
+Something surrendered → consumed or transformed → accepted before God.
 
 ---
 
 ## Promise and Fruit
 
-**The Seed**  
+**The Seed** *(coming later)*  
 Hidden beginning → burial → growth → multiplication.
 
-**The Field and Harvest**  
+**The Field and Harvest** *(coming later)*  
 Sowing → growth → ripening → gathering.
 
-**Famine to Bread**  
+**Famine to Bread** *(coming later)*  
 Lack → dependence → provision → abundance.
 
-**The Bride and Marriage**  
+**The Bride and Marriage** *(coming later)*  
 Separation → preparation → union → fruitfulness.
 
-**The Remnant**  
+**The Remnant** *(coming later)*  
 Collapse does not destroy the seed God preserves.
 
-**The Rejected One Exalted**  
+**The Rejected One Exalted** *(coming later)*  
 Rejection → descent → exaltation → the rejected one becomes a means of deliverance.
 
 ---
