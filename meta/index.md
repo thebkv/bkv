@@ -18,7 +18,7 @@ Use these tools to follow names, places, structures, and recurring patterns acro
     </p>
     <p>
     <a href="{{ '/meta/potts/obedience/' | relative_url }}">
-      <strong>Swedenborg Concordance — Obedience →</strong>
+      <strong>Potts Concordance — Obedience →</strong>
     </a>
 </p>
   </div>
