@@ -24,11 +24,13 @@ Use these tools to follow names, places, structures, and recurring patterns acro
     <p>Tabernacle · Temple · Egypt to Canaan · Jerusalem · Wilderness</p>
   </div>
 
-  <a href="{{ '/fractals/' | relative_url }}" style="display:block;border:1px solid #26344d;border-radius:9px;padding:1.2rem;text-decoration:none;color:inherit;">
+  <div style="border:1px solid #26344d;border-radius:9px;padding:1.2rem;">
     <h2 style="margin-top:0;">Fractal Patterns</h2>
     <p>Follow movements that repeat throughout Scripture and in the disciple.</p>
-    <p>Death and Resurrection · Younger Supplants the Elder · Exodus · Two Kings · Seed · Return</p>
-  </a>
+    <p><a href="{{ '/fractals/younger-supplants-elder/' | relative_url }}"><strong>The Younger Supplants the Elder →</strong></a></p>
+    <p>Death and Resurrection · Exodus · Two Kings · Seed · Return <em>(coming later)</em></p>
+    <p style="margin-bottom:0;"><a href="{{ '/fractals/' | relative_url }}">View all patterns →</a></p>
+  </div>
 
   <div style="border:1px solid #26344d;border-radius:9px;padding:1.2rem;">
     <h2 style="margin-top:0;">How to Read</h2>
