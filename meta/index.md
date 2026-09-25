@@ -9,19 +9,19 @@ Use these tools to follow names, places, structures, and recurring patterns acro
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1rem;margin:1.5rem 0 2.5rem;">
   
-  <div style="border:1px solid #26344d;border-radius:9px;padding:1.2rem;">
-    <h2 style="margin-top:0;">Names & Meanings</h2>
-    <p>Look up biblical names, places, words, and symbols.</p>
-    <p>
-      <a href="#bible-dictionary"><strong>Bible Dictionary →</strong></a>
-      · Strong's Roots <em>(coming later)</em>
-    </p>
-    <p>
-    <a href="{{ '/meta/potts/obedience/' | relative_url }}">
-      <strong>Potts Concordance — Obedience →</strong>
-    </a>
-</p>
-  </div>
+<div style="border:1px solid #26344d;border-radius:9px;padding:1.2rem;">
+  <h2 style="margin-top:0;">Names & Meanings</h2>
+  <p>Look up biblical names, places, words, and symbols.</p>
+
+  <p>
+    <a href="#bible-dictionary"><strong>Bible Dictionary →</strong></a>
+    · Strong's Roots <em>(coming later)</em>
+  </p>
+
+  <p>
+    <a href="{{ '/meta/potts/obedience/' | relative_url }}"><strong>Potts Concordance — Obedience →</strong></a>
+  </p>
+</div>
   
   <div style="border:1px solid #26344d;border-radius:9px;padding:1.2rem;">
     <h2 style="margin-top:0;">The Biblical World</h2>
