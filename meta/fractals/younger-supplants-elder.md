@@ -23,3 +23,30 @@ Old Man → New Man
 First King → New King**
 
 The question running through this pattern is simple: **which one will finally rule?**
+
+
+## The Savior Test
+
+Jesus tells Nicodemus:
+
+> "Except a man be born again, he cannot see the kingdom of God."
+>
+> — John 3:3
+
+The life that came first is not enough. Another birth is necessary. Jesus does not tell Nicodemus to improve his first birth. He tells him he must be born again.
+
+Paul later states the same order plainly:
+
+> "That was not first which is spiritual, but that which is natural; and afterward that which is spiritual."
+>
+> — 1 Corinthians 15:46
+
+**First the natural. Then the spiritual.**
+
+That is the younger-supplants-the-elder pattern brought directly into the life of the disciple.
+
+The question is:
+
+**Which man is ruling now?**
+
+
