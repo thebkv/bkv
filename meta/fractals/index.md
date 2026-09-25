@@ -18,7 +18,7 @@ The people, places, and circumstances change, but the underlying movement remain
 ### [The Younger Supplants the Elder]({{ '/fractals/younger-supplants-elder/' | relative_url }})
 Natural first. Spiritual afterward.
 
-**Death and Resurrection**  
+### [Death and Resurrection]({{ '/fractals/death-and-resurrection/' | relative_url }})
 The old life dies; new life rises.
 
 **Naming and Renaming**  
