@@ -6,7 +6,7 @@ focus:
   - A royal display meets a refusal, and the king's wounded honor receives counsel that turns it into law.
   - The governing disciple discovery of how an injury to importance can begin ruling an entire life.
 summary: "Esther 1 shows how wounded pride can begin making the rules for an entire life, as one refusal at a royal feast becomes an empire-wide decree."
-permalink: /esther01/
+permalink: /esther01research/
 ---
 
 # ESTHER 01
