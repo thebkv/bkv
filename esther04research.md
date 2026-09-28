@@ -6,7 +6,7 @@ focus:
   - Grief from outside the palace reaches a sheltered queen, and she comes to see her own relationship to a threatened people.
   - The governing disciple discovery of letting belonging to God decide what to do when faithfulness becomes costly.
 summary: "Esther 4 shows a hidden queen learning the full danger facing her people and committing herself to a costly approach, deciding who she belongs to before she knows whether she will survive it."
-permalink: /esther04/
+permalink: /esther04research/
 ---
 
 # ESTHER 04
