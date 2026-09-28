@@ -11,11 +11,11 @@ permalink: /joshua00/
 
 ## 00 — BEYOND THE JORDAN
 
-Joshua is about learning to live in what God has already given you. Israel has been delivered from Egypt, brought through the wilderness, and led all the way to the edge of the Promised Land. But being given the land is not the same as possessing it. They still have to cross the Jordan, face what occupies the land, and take possession of their inheritance. The same is true in you. **God does not only bring you out of the old life. He leads you into a new one and teaches you to live there.**
+Joshua is about possessing what God has already given you. Israel has been delivered from Egypt, brought through the wilderness, and given the Promised Land—but they are still standing on the other side of the Jordan. The land is theirs, but they must cross over, face what still occupies it, and actually live there. The same thing happens in you. **God can give you an inheritance that you have not yet learned to possess.**
 
-> **“If ye know these things, happy are ye if ye do them.” — John 13:17**
+> **“Why call ye me, Lord, Lord, and do not the things which I say?” — Luke 6:46**
 
-The Savior makes the same distinction Joshua does: knowing what God has given you is not the end. **You have to live it.**
+Jesus makes the same distinction Joshua does. Hearing the word and receiving the promise are not the end. **What God gives you must become the life you actually live.**
 
 ---
 
