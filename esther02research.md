@@ -6,7 +6,7 @@ focus:
   - A vulnerable young woman is received into the royal household and crowned, while a faithful man's service is recorded without reward.
   - The governing disciple discovery that a life can be prepared for a responsibility it cannot yet see.
 summary: "Esther 2 shows how a life can be prepared for a responsibility not yet visible, as a hidden Jewish orphan is crowned queen and a faithful, unrewarded act is quietly written into the record."
-permalink: /esther02/
+permalink: /esther02research/
 ---
 
 # ESTHER 02
