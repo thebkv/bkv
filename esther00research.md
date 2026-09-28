@@ -19,6 +19,7 @@ permalink: /esther00/
 ## BKV Insight
 
 The Book of Esther is a divine masterclass in how the hidden Spirit reclaims governance over a compromised life.  
+The book shows what happens when a life that belongs to God is hidden within a kingdom still governed by other powers, and crisis forces that hidden allegiance to come forward.
 
 At the beginning of the book, Esther is already in the kingdom, but she is hidden. She belongs to the Jewish people, yet the king does not know it. Mordecai is faithful, but he sits outside the palace gate. Haman rises to power, receives the king's ring, and uses that authority to send out a decree of destruction.  
 
