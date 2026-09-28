@@ -8,7 +8,7 @@ focus:
   - A personal resentment gains the king's authority and spreads throughout the empire.
   - The lot appoints a day for destruction, but the outcome remains beyond Haman's control.
 summary: "Esther 3 shows how resentment can begin ruling far more of your life than the thing that first caused it. Haman cannot bear one man's refusal, turns his anger against an entire people, and gains the authority to send that anger throughout the empire."
-permalink: /esther03/
+permalink: /esther03research/
 ---
 
 # ESTHER 03
