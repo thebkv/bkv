@@ -8,7 +8,7 @@ focus:
   - The structure prepared for Mordecai's death becomes Haman's own end.
   - Removing the enemy does not yet undo what he has already set in motion.
 summary: "Esther identifies herself with her threatened people, names Haman as the enemy, and sees the structure prepared for Mordecai become the place of Haman's own death."
-permalink: /esther07/
+permalink: /esther07research/
 ---
 
 # ESTHER 07
