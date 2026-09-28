@@ -9,7 +9,7 @@ focus:
   - Haman's resentment makes all his wealth, honor, and favor feel worthless.
   - Haman's grievance becomes a practical plan for Mordecai's death.
 summary: "Esther approaches the king and finds favor, while Haman's resentment turns toward a plan for Mordecai's death."
-permalink: /esther05/
+permalink: /esther05research/
 ---
 
 # ESTHER 05
