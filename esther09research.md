@@ -6,7 +6,7 @@ focus:
   - The people exercise the standing they were granted, prevail on the appointed day, and refuse the spoil offered to them.
   - Deliverance matures into rest, shared portions, gifts to the poor, and a remembrance established for their children.
 summary: "Esther 9 shows the people living out the freedom they received, turning the day appointed for their destruction into rest, generosity, and a remembrance carried forward as Purim."
-permalink: /esther09/
+permalink: /esther09research/
 ---
 
 # ESTHER 09
