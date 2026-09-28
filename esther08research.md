@@ -7,7 +7,7 @@ focus:
   - Authority passes into new hands, and Esther uses it to answer the danger that remains.
   - The Jews are given the right to gather together and stand for their lives.
 summary: "After Haman's fall, Esther and Mordecai receive authority to answer the decree that still threatens the Jews, turning the empire's power toward their preservation."
-permalink: /esther08/
+permalink: /esther08research/
 ---
 
 # ESTHER 08
