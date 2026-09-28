@@ -7,7 +7,7 @@ focus:
   - Crisis forces what is hidden to come forward.
   - The book moves from threatened life to changed government, rest, and remembrance.
 summary: "Esther shows the disciple how the life of God can already be present within him before it is governing him, and how crisis brings that hidden life forward until authority changes hands."
-permalink: /esther00/
+permalink: /esther00research/
 ---
 
 # ESTHER
