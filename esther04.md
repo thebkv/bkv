@@ -11,7 +11,7 @@ permalink: /esther04/
 
 ## 04 — IF I PERISH
 
-There comes a point when belonging to God has to decide what you will actually do. Esther is safe inside the palace until Mordecai makes her face the danger threatening her people and the responsibility attached to her position. The law is real, and approaching the king may cost her life. She does not receive a guarantee that everything will work out. **She decides who she belongs to before she knows what that decision will cost.**
+Sooner or later, following God will cost you something you want to protect. Esther is safe inside the palace until Mordecai makes her face the danger threatening her people and the responsibility attached to her position. The law is real, and approaching the king may cost her life. She does not receive a guarantee that everything will work out. **She decides who she belongs to before she knows what that decision will cost.**
 
 > **“He that loveth his life shall lose it; and he that hateth his life in this world shall keep it unto life eternal.” — John 12:25**
 
