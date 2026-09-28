@@ -505,6 +505,8 @@ sections:
     - title: Joshua
       subtitle: 'The Book of Conquest: The Renewal Mind Claims the Promised Inheritance'
       chapters:
+      - chapter: 0
+        bkv_title: Beyond the Jordan
       - chapter: 1
         bkv_title: The Mind Is Charged to Claim the Inheritance
       - chapter: 2
