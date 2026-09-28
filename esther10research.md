@@ -6,7 +6,7 @@ focus:
   - Imperial life continues while Mordecai's greatness is entered into the official record.
   - Authority that has passed through crisis becomes settled government, defined by the good it does for others.
 summary: "Esther 10 closes the book by showing a life becoming well governed once its strength is used for the good of others rather than the defense of its own importance."
-permalink: /esther10/
+permalink: /esther10research/
 ---
 
 # ESTHER 10
