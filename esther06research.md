@@ -8,7 +8,7 @@ focus:
   - The first visible reversal occurs before Esther has even made her petition.
   - Haman begins to fall through the very honor he wanted for himself.
 summary: "Esther 6 shows how something faithful that seemed forgotten can return at exactly the right time, turning Haman's plan against him before Esther has even made her request."
-permalink: /esther06/
+permalink: /esther06research/
 ---
 
 # ESTHER 06
