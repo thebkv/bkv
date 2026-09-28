@@ -27,7 +27,7 @@ Ahasuerus displays the glory of his kingdom, but Vashti refuses his command and 
 ### 02 — THE HIDDEN QUEEN
 Esther is brought into the palace and becomes queen, but her identity remains hidden. Something belonging to God has entered the kingdom before the kingdom realizes what it is.
 
-### 03 — THE ENEMY'S DECREE
+### 03 — THE LOT IS CAST
 Haman's anger toward Mordecai grows into a decree against the entire Jewish people. A private hatred becomes a power of destruction when it is given authority.
 
 ### 04 — THE DECISION
