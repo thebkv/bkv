@@ -3,16 +3,16 @@ book: Esther
 chapter: 2
 title: "The Hidden Queen"
 focus:
-  - Esther is brought into the palace and becomes queen while her identity remains hidden.
-  - God can place something within you before its purpose has become visible.
-summary: "Esther becomes queen while her identity remains hidden. What has been placed in the kingdom will only later be revealed when the moment comes for it to act."
+  - Esther becomes queen before she can see why her position will matter.
+  - Mordecai faithfully serves the king, and his unrewarded act is quietly recorded for a later time.
+summary: "Esther 2 shows how a life can be prepared for a responsibility not yet visible."
 permalink: /esther02/
 ---
 
 ## 02 — THE HIDDEN QUEEN
 
-Not everything God is doing in you becomes visible immediately. Esther enters the palace, finds favor, and becomes queen, but she does not yet reveal who she is. Her position comes before the crisis that will show why she is there. **Something can be quietly established in you long before you understand what God will require of it.**
+You will not always understand what God is preparing while it is happening. Esther becomes queen years before the crisis that will reveal why her position matters. Mordecai faithfully saves the king's life, receives no reward, and his service simply sits forgotten in the royal record. Neither of them can see what these things will eventually become. **Be faithful with what is in front of you even when you cannot yet see what God may be preparing it for.**
 
-> **“The kingdom of God cometh not with observation.” — Luke 17:20**
+> **“Thy Father which seeth in secret himself shall reward thee openly.” — Matthew 6:4**
 
-Jesus shows that God's kingdom does not always arrive in an obvious way. What God is establishing within you may be hidden before its purpose becomes clear.
+Jesus teaches you not to measure faithfulness by whether anyone sees it or whether it produces an immediate result. What seems hidden or forgotten has not therefore been wasted.
