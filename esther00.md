@@ -11,7 +11,7 @@ permalink: /esther00/
 
 ## 00 — THE HIDDEN QUEEN
 
-Esther is about what happens when belonging to God becomes more important than protecting yourself. Esther enters the palace with her identity hidden, and for a time she can live safely that way. But eventually a crisis comes that makes hiding impossible. She must decide whether she will protect the life she has built or openly stand with the people to whom she belongs. **The same moment comes in you when what you know inwardly must finally determine how you live outwardly.**
+Esther is a palace intrigue novella about what happens when belonging to God becomes more important than protecting yourself. Esther enters the palace with her identity hidden, and for a time she can live safely that way. But eventually a crisis comes that makes hiding impossible. She must decide whether she will protect the life she has built or openly stand with the people to whom she belongs. **The same moment comes in you when what you know inwardly must finally determine how you live outwardly.**
 
 > **“Whosoever shall seek to save his life shall lose it; and whosoever shall lose his life shall preserve it.” — Luke 17:33**
 
