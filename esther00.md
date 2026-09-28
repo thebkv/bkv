@@ -50,3 +50,6 @@ The day appointed for destruction becomes the day of deliverance. The power that
 
 ### 10 — MORDECAI EXALTED
 Mordecai ends where Haman wanted to stand: beside the king and exercising authority for the good of the people. The book closes with a different kind of government established beside the throne.
+
+[Read the full Esther research](esther00research.md)
+
