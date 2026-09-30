@@ -57,6 +57,7 @@ Saint imagery therefore frequently appears in passages concerned with **belongin
 | Saints Equipped for Ministry (Ephesians 4:12) | Those set apart are prepared to function within one body |
 | Patience of the Saints (Revelation 14:12) | Faithfulness continues while contrary powers remain active |
 | Saints Reign with Christ (Revelation 20:4) | Those belonging to Christ participate in His government |
+| Saints Executing Judgment (Psalm 149:5-9) | Those aligned with God participate in the establishment of His order and judgment 
 
 ---
 
