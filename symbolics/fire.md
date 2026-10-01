@@ -1,5 +1,11 @@
+---
+title: "Fire"
+permalink: /symbolics/fire/
+---
+
 # Biblical Symbolics — Fire
 Version: 2026-03-09
+
 
 ## Core Meaning
 
