@@ -1,3 +1,10 @@
+---
+
+title: "City"
+
+permalink: /symbolics/bread/
+
+---
 # Biblical Symbolics — City
 v 3/9/2026
 
