@@ -1,5 +1,10 @@
+---
+title: "Congregation"
+permalink: /symbolics/congregation/
+---
+
 # Biblical Symbolics — Congregation
-Version: 2026-09-30
+Version: 2026-03-09
 
 ## Core Meaning
 
