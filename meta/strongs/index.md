@@ -9,18 +9,35 @@ Look up the Hebrew and Greek words indexed in *Strong's Exhaustive Concordance*.
 
 Search by **Strong's number, English transliteration, original Hebrew or Greek,** or a word in the definition.
 
-<input type="search" id="strongs-search" placeholder="Try G26, agape, love, H85, Abraham..." autocomplete="off" style="width:100%;max-width:700px;padding:14px 16px;font-size:18px;margin:20px 0 8px;">
-
-<div id="strongs-status">Loading Strong's data...</div>
-
-<div id="strongs-results"></div>
+<div id="strongs-app"></div>
 
 <script>
 (function () {
+  const app = document.getElementById('strongs-app');
 
-  const searchBox = document.getElementById('strongs-search');
-  const statusBox = document.getElementById('strongs-status');
-  const resultsBox = document.getElementById('strongs-results');
+  const searchBox = document.createElement('input');
+  searchBox.type = 'search';
+  searchBox.id = 'strongs-search';
+  searchBox.placeholder = 'Try G26, agape, love, H85, Abraham...';
+  searchBox.autocomplete = 'off';
+
+  searchBox.style.width = '100%';
+  searchBox.style.maxWidth = '700px';
+  searchBox.style.padding = '14px 16px';
+  searchBox.style.fontSize = '18px';
+  searchBox.style.margin = '20px 0 8px';
+  searchBox.style.boxSizing = 'border-box';
+
+  const statusBox = document.createElement('div');
+  statusBox.id = 'strongs-status';
+  statusBox.innerHTML = '<p>Loading Strong\'s data...</p>';
+
+  const resultsBox = document.createElement('div');
+  resultsBox.id = 'strongs-results';
+
+  app.appendChild(searchBox);
+  app.appendChild(statusBox);
+  app.appendChild(resultsBox);
 
   let entries = [];
 
@@ -54,23 +71,15 @@ Search by **Strong's number, English transliteration, original Hebrew or Greek,*
         </div>
 
         ${entry.xlit ? `
-          <p>
-            <strong>Transliteration:</strong>
-            ${escapeHtml(entry.xlit)}
-          </p>
+          <p><strong>Transliteration:</strong> ${escapeHtml(entry.xlit)}</p>
         ` : ''}
 
         ${entry.pronounce ? `
-          <p>
-            <strong>Pronunciation:</strong>
-            ${escapeHtml(entry.pronounce)}
-          </p>
+          <p><strong>Pronunciation:</strong> ${escapeHtml(entry.pronounce)}</p>
         ` : ''}
 
         ${entry.description ? `
-          <p style="line-height:1.65;">
-            ${escapeHtml(entry.description)}
-          </p>
+          <p style="line-height:1.65;">${escapeHtml(entry.description)}</p>
         ` : ''}
 
       </div>
@@ -78,13 +87,12 @@ Search by **Strong's number, English transliteration, original Hebrew or Greek,*
   }
 
   function runSearch() {
-
     const query = searchBox.value.trim().toLowerCase();
 
     if (!query) {
       resultsBox.innerHTML = '';
       statusBox.innerHTML =
-        entries.length.toLocaleString() + " Strong's entries available.";
+        `<p>${entries.length.toLocaleString()} Strong's entries available.</p>`;
       return;
     }
 
@@ -97,7 +105,6 @@ Search by **Strong's number, English transliteration, original Hebrew or Greek,*
     }
 
     const matches = entries.filter(function(entry) {
-
       const number = (entry.number || '').toLowerCase();
       const lemma = (entry.lemma || '').toLowerCase();
       const xlit = (entry.xlit || '').toLowerCase();
@@ -112,47 +119,37 @@ Search by **Strong's number, English transliteration, original Hebrew or Greek,*
         pronounce.indexOf(query) !== -1 ||
         description.indexOf(query) !== -1
       );
-
     }).slice(0, 50);
 
     if (!matches.length) {
-      statusBox.innerHTML = "No matching Strong's entries.";
+      statusBox.innerHTML = "<p>No matching Strong's entries.</p>";
       resultsBox.innerHTML = '';
       return;
     }
 
     statusBox.innerHTML =
-      matches.length +
-      (matches.length === 50 ? '+' : '') +
-      ' matching entries.';
+      `<p>${matches.length}${matches.length === 50 ? '+' : ''} matching entries.</p>`;
 
-    resultsBox.innerHTML =
-      matches.map(renderEntry).join('');
+    resultsBox.innerHTML = matches.map(renderEntry).join('');
   }
 
   fetch('{{ "/meta/strongs/strongs.json" | relative_url }}')
     .then(function(response) {
-
       if (!response.ok) {
-        throw new Error(
-          'Could not load strongs.json: HTTP ' + response.status
-        );
+        throw new Error('HTTP ' + response.status);
       }
 
       return response.json();
-
     })
     .then(function(data) {
-
       if (!Array.isArray(data)) {
-        throw new Error('strongs.json is not an array.');
+        throw new Error('Strong data is not an array.');
       }
 
       entries = data;
 
       statusBox.innerHTML =
-        entries.length.toLocaleString() +
-        " Strong's entries available — 8,674 Hebrew and 5,624 Greek.";
+        `<p>${entries.length.toLocaleString()} Strong's entries available — 8,674 Hebrew and 5,624 Greek.</p>`;
 
       const params = new URLSearchParams(window.location.search);
       const initialQuery = params.get('q');
@@ -161,19 +158,15 @@ Search by **Strong's number, English transliteration, original Hebrew or Greek,*
         searchBox.value = initialQuery;
         runSearch();
       }
-
     })
     .catch(function(error) {
-
       console.error('Strong data error:', error);
 
       statusBox.innerHTML =
-        "<strong>Strong's data could not be loaded.</strong>";
-
+        `<p><strong>Strong's data could not be loaded.</strong><br><small>${escapeHtml(error.message)}</small></p>`;
     });
 
   searchBox.addEventListener('input', runSearch);
-
 })();
 </script>
 
