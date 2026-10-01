@@ -9,12 +9,14 @@ Biblical symbols develop their meaning through the way they function across Scri
 
 <div style="margin-top:2rem;">
 
-{% assign symbolic_pages = site.pages | where: "symbolic", true | sort: "title" %}
+{% assign symbolic_pages = site.pages | where_exp: "p", "p.dir == '/symbolics/'" | sort: "title" %}
 
-{% for page in symbolic_pages %}
-<a href="{{ page.url | relative_url }}" style="display:block;border:1px solid #26344d;border-radius:9px;padding:1rem 1.2rem;margin-bottom:.75rem;text-decoration:none;">
-  <strong>{{ page.title }}</strong>
-</a>
+{% for p in symbolic_pages %}
+  {% unless p.name == 'index.md' %}
+  <a href="{{ p.url | relative_url }}" style="display:block;border:1px solid #26344d;border-radius:9px;padding:1rem 1.2rem;margin-bottom:.75rem;text-decoration:none;">
+    <strong>{{ p.title }}</strong>
+  </a>
+  {% endunless %}
 {% endfor %}
 
 </div>
