@@ -15,7 +15,7 @@ Use these tools to follow names, places, structures, and recurring patterns acro
 
   <p>
     <a href="#bible-dictionary"><strong>Bible Dictionary →</strong></a>
-    · Strong's Roots <em>(coming later)</em>
+· <a href="{{ '/meta/strongs/' | relative_url }}"><strong>Strong's Concordance →</strong></a>
   </p>
 
   <p>
