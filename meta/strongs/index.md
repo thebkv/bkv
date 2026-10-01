@@ -14,9 +14,9 @@ Search by **Strong's number, English transliteration, original Hebrew or Greek,*
 <script>
 (function () {
 
-  const app = document.getElementById('strongs-app');
+  var app = document.getElementById('strongs-app');
 
-  const searchBox = document.createElement('input');
+  var searchBox = document.createElement('input');
   searchBox.type = 'search';
   searchBox.placeholder = 'Loading Strong\'s data...';
   searchBox.autocomplete = 'off';
@@ -29,150 +29,177 @@ Search by **Strong's number, English transliteration, original Hebrew or Greek,*
   searchBox.style.margin = '20px 0 8px';
   searchBox.style.boxSizing = 'border-box';
 
-  const statusBox = document.createElement('div');
-  const resultsBox = document.createElement('div');
+  var statusBox = document.createElement('div');
+  var resultsBox = document.createElement('div');
 
-  statusBox.innerHTML = '<p>Loading 14,298 Strong\'s entries...</p>';
+  statusBox.innerHTML =
+    '<p>Loading Strong\'s dictionary...</p>';
 
   app.appendChild(searchBox);
   app.appendChild(statusBox);
   app.appendChild(resultsBox);
 
-  let entries = [];
-  let ready = false;
+  var entries = [];
 
 
   function escapeHtml(value) {
+
     return String(value || '')
       .replace(/&/g, '&amp;')
       .replace(/</g, '&lt;')
       .replace(/>/g, '&gt;')
       .replace(/"/g, '&quot;')
       .replace(/'/g, '&#039;');
+
   }
 
 
   function renderEntry(entry) {
 
-    const language =
-      String(entry.number || '').startsWith('H')
+    var number = String(entry.number || '');
+
+    var language =
+      number.charAt(0) === 'H'
         ? 'Hebrew'
         : 'Greek';
 
-    return `
-      <div style="
-        border:1px solid #26344d;
-        border-radius:9px;
-        padding:1.25rem 1.4rem;
-        margin:1rem 0;
-      ">
+    var html = '';
 
-        <div style="font-size:1.5rem;font-weight:bold;">
-          ${escapeHtml(entry.number)}
+    html +=
+      '<div style="' +
+      'border:1px solid #26344d;' +
+      'border-radius:9px;' +
+      'padding:1.25rem 1.4rem;' +
+      'margin:1rem 0;' +
+      '">';
 
-          <span style="
-            font-size:1rem;
-            font-weight:normal;
-            opacity:.65;
-            margin-left:.5rem;
-          ">
-            ${language}
-          </span>
-        </div>
+    html +=
+      '<div style="font-size:1.5rem;font-weight:bold;">' +
+      escapeHtml(number) +
+      ' <span style="' +
+      'font-size:1rem;' +
+      'font-weight:normal;' +
+      'opacity:.65;' +
+      'margin-left:.5rem;' +
+      '">' +
+      language +
+      '</span></div>';
 
-        ${entry.lemma ? `
-          <div style="
-            font-size:2rem;
-            margin:.75rem 0;
-          ">
-            ${escapeHtml(entry.lemma)}
-          </div>
-        ` : ''}
 
-        ${entry.xlit ? `
-          <p>
-            <strong>Transliteration:</strong>
-            ${escapeHtml(entry.xlit)}
-          </p>
-        ` : ''}
+    if (entry.lemma) {
 
-        ${entry.pronounce ? `
-          <p>
-            <strong>Pronunciation:</strong>
-            ${escapeHtml(entry.pronounce)}
-          </p>
-        ` : ''}
+      html +=
+        '<div style="font-size:2rem;margin:.75rem 0;">' +
+        escapeHtml(entry.lemma) +
+        '</div>';
 
-        ${entry.description ? `
-          <p style="line-height:1.65;">
-            ${escapeHtml(entry.description)}
-          </p>
-        ` : ''}
+    }
 
-      </div>
-    `;
+
+    if (entry.xlit) {
+
+      html +=
+        '<p><strong>Transliteration:</strong> ' +
+        escapeHtml(entry.xlit) +
+        '</p>';
+
+    }
+
+
+    if (entry.pronounce) {
+
+      html +=
+        '<p><strong>Pronunciation:</strong> ' +
+        escapeHtml(entry.pronounce) +
+        '</p>';
+
+    }
+
+
+    if (entry.description) {
+
+      html +=
+        '<p style="line-height:1.65;">' +
+        escapeHtml(entry.description) +
+        '</p>';
+
+    }
+
+
+    html += '</div>';
+
+    return html;
+
   }
 
 
   function searchEntries() {
 
-    if (!ready) {
-      return;
-    }
+    var rawQuery = searchBox.value.trim();
 
-    const rawQuery = searchBox.value.trim();
-    const query = rawQuery.toLowerCase();
-
-    if (!query) {
+    if (!rawQuery) {
 
       resultsBox.innerHTML = '';
 
       statusBox.innerHTML =
-        `<p><strong>${entries.length.toLocaleString()}</strong> ` +
-        `entries loaded — 8,674 Hebrew and 5,624 Greek.</p>`;
+        '<p><strong>' +
+        entries.length.toLocaleString() +
+        '</strong> entries loaded — ' +
+        '8,674 Hebrew and 5,624 Greek.</p>';
 
       return;
+
     }
 
 
-    let normalizedNumber = rawQuery.toUpperCase();
+    var query = rawQuery.toLowerCase();
+
+    var normalizedNumber =
+      rawQuery.toUpperCase();
+
 
     if (/^[GH]0*\d+$/.test(normalizedNumber)) {
 
       normalizedNumber =
         normalizedNumber.charAt(0) +
-        parseInt(normalizedNumber.slice(1), 10);
+        parseInt(
+          normalizedNumber.substring(1),
+          10
+        );
 
     }
 
 
-    const matches = [];
+    var matches = [];
 
-    for (const entry of entries) {
 
-      const number =
+    for (var i = 0; i < entries.length; i++) {
+
+      var entry = entries[i];
+
+      var number =
         String(entry.number || '');
 
-      const lemma =
+      var lemma =
         String(entry.lemma || '').toLowerCase();
 
-      const xlit =
+      var xlit =
         String(entry.xlit || '').toLowerCase();
 
-      const pronounce =
+      var pronounce =
         String(entry.pronounce || '').toLowerCase();
 
-      const description =
+      var description =
         String(entry.description || '').toLowerCase();
 
 
       if (
         number.toUpperCase() === normalizedNumber ||
-        number.toLowerCase().includes(query) ||
-        lemma.includes(query) ||
-        xlit.includes(query) ||
-        pronounce.includes(query) ||
-        description.includes(query)
+        number.toLowerCase().indexOf(query) !== -1 ||
+        lemma.indexOf(query) !== -1 ||
+        xlit.indexOf(query) !== -1 ||
+        pronounce.indexOf(query) !== -1 ||
+        description.indexOf(query) !== -1
       ) {
 
         matches.push(entry);
@@ -180,7 +207,7 @@ Search by **Strong's number, English transliteration, original Hebrew or Greek,*
       }
 
 
-      if (matches.length >= 50) {
+      if (matches.length === 50) {
         break;
       }
 
@@ -190,71 +217,130 @@ Search by **Strong's number, English transliteration, original Hebrew or Greek,*
     if (matches.length === 0) {
 
       statusBox.innerHTML =
-        `<p>No matching Strong's entries for ` +
-        `<strong>${escapeHtml(rawQuery)}</strong>.</p>`;
+        '<p>No matching Strong\'s entries for ' +
+        '<strong>' +
+        escapeHtml(rawQuery) +
+        '</strong>.</p>';
 
       resultsBox.innerHTML = '';
 
       return;
+
     }
 
 
     statusBox.innerHTML =
-      `<p><strong>${matches.length}` +
-      `${matches.length === 50 ? '+' : ''}</strong> ` +
-      `matching entries.</p>`;
+      '<p><strong>' +
+      matches.length +
+      (matches.length === 50 ? '+' : '') +
+      '</strong> matching entries.</p>';
 
 
-    resultsBox.innerHTML =
-      matches.map(renderEntry).join('');
+    var output = '';
+
+    for (var j = 0; j < matches.length; j++) {
+      output += renderEntry(matches[j]);
+    }
+
+    resultsBox.innerHTML = output;
 
   }
 
 
-  searchBox.addEventListener('input', searchEntries);
+  searchBox.addEventListener(
+    'input',
+    searchEntries
+  );
 
 
-  fetch('./strongs.json')
-    .then(function(response) {
+  /*
+   * LOAD STRONG'S DATA
+   *
+   * Deliberately using XMLHttpRequest rather
+   * than fetch().
+   */
 
-      if (!response.ok) {
-        throw new Error('HTTP ' + response.status);
-      }
+  var xhr = new XMLHttpRequest();
 
-      return response.json();
+  xhr.open(
+    'GET',
+    '/bkv/meta/strongs/strongs.json',
+    true
+  );
 
-    })
-    .then(function(data) {
 
-      if (!Array.isArray(data)) {
-        throw new Error('Strong\'s JSON is not an array.');
-      }
+  xhr.onload = function () {
 
-      entries = data;
-      ready = true;
-
-      searchBox.disabled = false;
-
-      searchBox.placeholder =
-        'Try sword, love, Abraham, agape, H2719, G26...';
-
-      statusBox.innerHTML =
-        `<p><strong>${entries.length.toLocaleString()}</strong> ` +
-        `entries loaded — 8,674 Hebrew and 5,624 Greek.</p>`;
-
-    })
-    .catch(function(error) {
-
-      console.error('Strong\'s load error:', error);
-
-      ready = false;
-      searchBox.disabled = true;
+    if (xhr.status < 200 || xhr.status >= 300) {
 
       statusBox.innerHTML =
-        `<p><strong>Strong's data could not be loaded.</strong> ` +
-        `${escapeHtml(error.message)}</p>`;
+        '<p><strong>Could not load Strong\'s data.</strong> ' +
+        'HTTP ' +
+        xhr.status +
+        '</p>';
 
-    });
+      return;
+
+    }
+
+
+    var data;
+
+
+    try {
+
+      data = JSON.parse(xhr.responseText);
+
+    } catch (error) {
+
+      statusBox.innerHTML =
+        '<p><strong>The Strong\'s file loaded, ' +
+        'but the JSON could not be parsed.</strong><br>' +
+        escapeHtml(error.message) +
+        '</p>';
+
+      return;
+
+    }
+
+
+    if (!Array.isArray(data)) {
+
+      statusBox.innerHTML =
+        '<p><strong>The Strong\'s file loaded, ' +
+        'but its structure was not recognized.</strong></p>';
+
+      return;
+
+    }
+
+
+    entries = data;
+
+    searchBox.disabled = false;
+
+    searchBox.placeholder =
+      'Try sword, love, Abraham, agape, H2719, G26...';
+
+
+    statusBox.innerHTML =
+      '<p><strong>' +
+      entries.length.toLocaleString() +
+      '</strong> entries loaded — ' +
+      '8,674 Hebrew and 5,624 Greek.</p>';
+
+  };
+
+
+  xhr.onerror = function () {
+
+    statusBox.innerHTML =
+      '<p><strong>The Strong\'s file request failed.</strong></p>';
+
+  };
+
+
+  xhr.send();
 
 })();
 </script>
