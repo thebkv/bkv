@@ -47,6 +47,21 @@ Search by **Strong's number, English meaning, transliteration, original Hebrew o
       .replace(/'/g, '&#039;');
   }
 
+  function highlightSearch(text, query) {
+    if (!text) return '';
+    if (!query) return escapeHtml(text);
+
+    var safeText = escapeHtml(text);
+    var safeQuery = escapeHtml(query);
+    var regexQuery = safeQuery.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    var regex = new RegExp('(' + regexQuery + ')', 'gi');
+
+    return safeText.replace(
+      regex,
+      '<mark style="background:#f0b323;color:#0a1628;padding:0 .12em;border-radius:2px;">$1</mark>'
+    );
+  }
+
   function renderEntry(entry, query) {
     var number = String(entry.number || '');
     var language = number.charAt(0) === 'H' ? 'Hebrew' : 'Greek';
@@ -120,7 +135,7 @@ Search by **Strong's number, English meaning, transliteration, original Hebrew o
 
     if (description) {
       html += '<p style="line-height:1.65;">' +
-        escapeHtml(description) +
+        highlightSearch(description, query) +
         '</p>';
     }
 
