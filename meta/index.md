@@ -5,13 +5,13 @@ permalink: /meta/
 
 # Reference Library
 
-Use these tools to follow names, words, symbols, places, structures, and recurring patterns across Scripture.
+Use these tools to follow names, places, words, symbols, structures, and recurring patterns across Scripture.
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1rem;margin:1.5rem 0 2.5rem;">
 
   <div style="border:1px solid #26344d;border-radius:9px;padding:1.2rem;">
-    <h2 style="margin-top:0;">Names & Words</h2>
-    <p>Look up biblical names, places, Hebrew and Greek words, and their meanings.</p>
+    <h2 style="margin-top:0;">Names & Meanings</h2>
+    <p>Look up biblical names, places, words, and their meanings.</p>
 
     <p>
       <a href="#bible-dictionary"><strong>Fillmore Bible Dictionary →</strong></a>
@@ -27,11 +27,9 @@ Use these tools to follow names, words, symbols, places, structures, and recurri
   </div>
 
   <div style="border:1px solid #26344d;border-radius:9px;padding:1.2rem;">
-    <h2 style="margin-top:0;">Symbolics</h2>
-    <p>Follow the recurring meaning of objects, people, places, and images across Scripture.</p>
-    <p style="margin-bottom:0;">
-      <a href="{{ '/symbolics/' | relative_url }}"><strong>Explore Biblical Symbolics →</strong></a>
-    </p>
+    <h2 style="margin-top:0;">The Biblical World</h2>
+    <p>See how places and structures function in Scripture.</p>
+    <p style="margin-bottom:0;">Tabernacle · Temple · Egypt to Canaan · Jerusalem · Wilderness</p>
   </div>
 
   <div style="border:1px solid #26344d;border-radius:9px;padding:1.2rem;">
@@ -40,16 +38,18 @@ Use these tools to follow names, words, symbols, places, structures, and recurri
     <p>
       <a href="{{ '/fractals/younger-supplants-elder/' | relative_url }}"><strong>The Younger Supplants the Elder →</strong></a>
     </p>
-    <p>Death and Resurrection · Exodus · Two Kings · Seed · Return</p>
+    <p>Death and Resurrection · Exodus · Two Kings · Seed · Return <em>(coming later)</em></p>
     <p style="margin-bottom:0;">
       <a href="{{ '/fractals/' | relative_url }}"><strong>View all patterns →</strong></a>
     </p>
   </div>
 
   <div style="border:1px solid #26344d;border-radius:9px;padding:1.2rem;">
-    <h2 style="margin-top:0;">The Biblical World</h2>
-    <p>See how places and structures function in Scripture.</p>
-    <p style="margin-bottom:0;">Tabernacle · Temple · Egypt to Canaan · Jerusalem · Wilderness</p>
+    <h2 style="margin-top:0;">Symbolics</h2>
+    <p>Follow the recurring meaning of objects, people, places, and images across Scripture.</p>
+    <p style="margin-bottom:0;">
+      <a href="{{ '/symbolics/' | relative_url }}"><strong>Explore Biblical Symbolics →</strong></a>
+    </p>
   </div>
 
   <div style="border:1px solid #26344d;border-radius:9px;padding:1.2rem;">
@@ -64,7 +64,7 @@ Use these tools to follow names, words, symbols, places, structures, and recurri
 
 <h2 id="bible-dictionary">Fillmore Bible Dictionary</h2>
 
-Search Charles Fillmore's *Metaphysical Bible Dictionary*.
+Search Charles Fillmore's <em>Metaphysical Bible Dictionary</em>.
 
 <input
   type="search"
@@ -82,15 +82,6 @@ const fillmoreResults = document.getElementById('fillmore-results');
 
 let fillmoreEntries = [];
 
-function escapeFillmoreHtml(value) {
-  return String(value ?? '')
-    .replaceAll('&', '&amp;')
-    .replaceAll('<', '&lt;')
-    .replaceAll('>', '&gt;')
-    .replaceAll('"', '&quot;')
-    .replaceAll("'", '&#039;');
-}
-
 fillmoreResults.innerHTML = '<p>Loading Bible Dictionary…</p>';
 
 fetch('{{ "/assets/data/fillmore-index.json" | relative_url }}')
@@ -102,7 +93,6 @@ fetch('{{ "/assets/data/fillmore-index.json" | relative_url }}')
   })
   .then(data => {
     fillmoreEntries = data;
-
     fillmoreResults.innerHTML =
       `<p>${fillmoreEntries.length.toLocaleString()} entries available.</p>`;
   })
@@ -132,11 +122,8 @@ fillmoreSearch.addEventListener('input', function () {
     return;
   }
 
-  fillmoreResults.innerHTML = matches.map(entry => {
-    const term = escapeFillmoreHtml(entry.term);
-    const url = '{{ site.baseurl }}' + entry.url;
-
-    return `<p><a href="${url}">${term}</a></p>`;
-  }).join('');
+  fillmoreResults.innerHTML = matches.map(entry =>
+    `<p><a href="{{ site.baseurl }}${entry.url}">${entry.term}</a></p>`
+  ).join('');
 });
 </script>
