@@ -66,13 +66,7 @@ Use these tools to follow names, places, words, symbols, structures, and recurri
 
 Search Charles Fillmore's <em>Metaphysical Bible Dictionary</em>.
 
-<input
-  type="search"
-  id="fillmore-search"
-  placeholder="Search a name, place, or term..."
-  autocomplete="off"
-  style="width:100%;max-width:700px;padding:14px 16px;font-size:18px;margin:20px 0 8px;"
->
+<input type="search" id="fillmore-search" placeholder="Search a name, place, or term..." autocomplete="off" style="width:100%;max-width:700px;padding:14px 16px;font-size:18px;margin:20px 0 8px;">
 
 <div id="fillmore-results"></div>
 
