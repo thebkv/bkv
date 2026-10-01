@@ -1,3 +1,8 @@
+---
+title: "Light"
+permalink: /symbolics/light/
+---
+
 # Biblical Symbolics — Light
 Version: 2026-03-09
 
