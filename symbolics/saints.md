@@ -1,3 +1,8 @@
+---
+title: "Saints"
+permalink: /symbolics/saints/
+---
+
 # Biblical Symbolics — Saints
 Version: 2026-09-30
 
