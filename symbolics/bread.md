@@ -1,5 +1,11 @@
+---
+title: "Bread"
+permalink: /symbolics/bread/
+---
+
 # Biblical Symbolics — Bread
 Version: 2026-03-09
+
 
 ## Core Meaning
 
