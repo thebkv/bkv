@@ -175,7 +175,7 @@ Search by **Strong's number, English transliteration, original Hebrew or Greek,*
       matches.map(renderEntry).join('');
   }
 
-  fetch('{{ "/meta/strongs/strongs.json" | relative_url }}')
+    fetch('./strongs.json')
     .then(function(response) {
 
       if (!response.ok) {
