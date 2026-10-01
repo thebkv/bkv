@@ -9,7 +9,7 @@ Biblical symbols develop their meaning through the way they function across Scri
 
 <div style="margin-top:2rem;">
 
-{% assign symbolic_pages = site.pages | where_exp: "p", "p.dir == '/symbolics/'" | sort: "title" %}
+{% assign symbolic_pages = site.pages | where_exp: "p", "p.path contains 'symbolics/'" | sort: "title" %}
 
 {% for p in symbolic_pages %}
   {% unless p.name == 'index.md' %}
