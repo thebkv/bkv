@@ -2,7 +2,7 @@
 
 title: "City"
 
-permalink: /symbolics/bread/
+permalink: /symbolics/city/
 
 ---
 # Biblical Symbolics — City
