@@ -47,9 +47,34 @@ Search by **Strong's number, English meaning, transliteration, original Hebrew o
       .replace(/'/g, '&#039;');
   }
 
-  function renderEntry(entry) {
+  function renderEntry(entry, query) {
     var number = String(entry.number || '');
     var language = number.charAt(0) === 'H' ? 'Hebrew' : 'Greek';
+
+    var lemma = String(entry.lemma || '');
+    var english = String(entry.english || '');
+    var description = String(entry.description || '');
+
+    /*
+      If there is no supplied English gloss, but the user's
+      search term occurs in the description, show that term
+      in brackets to explain why this result appeared.
+
+      Example:
+          בָּרָק — [sword]
+
+      The brackets deliberately distinguish a search match
+      from an actual dictionary gloss.
+    */
+    var searchHint = '';
+
+    if (
+      !english &&
+      query &&
+      description.toLowerCase().indexOf(query.toLowerCase()) !== -1
+    ) {
+      searchHint = query;
+    }
 
     var html = '';
 
@@ -61,17 +86,21 @@ Search by **Strong's number, English meaning, transliteration, original Hebrew o
       language +
       '</span></div>';
 
-    if (entry.lemma || entry.english) {
+    if (lemma || english || searchHint) {
       html += '<div style="font-size:2rem;margin:.75rem 0;">';
 
-      if (entry.lemma) {
-        html += escapeHtml(entry.lemma);
+      if (lemma) {
+        html += escapeHtml(lemma);
       }
 
-      if (entry.english) {
+      if (english) {
         html += ' <span style="font-size:1.25rem;opacity:.75;">— ' +
-          escapeHtml(entry.english) +
+          escapeHtml(english) +
           '</span>';
+      } else if (searchHint) {
+        html += ' <span style="font-size:1.25rem;opacity:.55;">— [' +
+          escapeHtml(searchHint) +
+          ']</span>';
       }
 
       html += '</div>';
@@ -89,9 +118,9 @@ Search by **Strong's number, English meaning, transliteration, original Hebrew o
         '</p>';
     }
 
-    if (entry.description) {
+    if (description) {
       html += '<p style="line-height:1.65;">' +
-        escapeHtml(entry.description) +
+        escapeHtml(description) +
         '</p>';
     }
 
@@ -171,7 +200,7 @@ Search by **Strong's number, English meaning, transliteration, original Hebrew o
     var output = '';
 
     for (var j = 0; j < matches.length; j++) {
-      output += renderEntry(matches[j]);
+      output += renderEntry(matches[j], rawQuery);
     }
 
     resultsBox.innerHTML = output;
