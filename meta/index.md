@@ -424,11 +424,9 @@ Search John Faulkner Potts's <em>Swedenborg Concordance</em> by subject, alterna
           works.map(escapeHtml).join(' · ') + '</p>';
       }
 
-      // Only Obedience has a published Potts article page at this stage.
-      if ((entry.slug || '').toLowerCase() === 'obedience') {
-        html += '<p style="margin:.7rem 0 0;"><a href="{{ \'/meta/potts/obedience/\' | relative_url }}"><strong>Open entry →</strong></a></p>';
-      } else {
-        html += '<p style="margin:.7rem 0 0;opacity:.55;"><em>Full entry page coming next.</em></p>';
+      if (entry.slug) {
+        html += '<p style="margin:.7rem 0 0;"><a href="{{ \'/meta/potts/entry/\' | relative_url }}?entry=' +
+          encodeURIComponent(entry.slug) + '"><strong>Open entry →</strong></a></p>';
       }
 
       html += '</div>';
