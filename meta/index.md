@@ -425,9 +425,8 @@ Search John Faulkner Potts's <em>Swedenborg Concordance</em> by subject, alterna
       }
 
       if (entry.slug) {
-        html += '<p style="margin:.7rem 0 0;"><a href="{{ \'/meta/potts/entry/\' | relative_url }}?entry=' +
-          encodeURIComponent(entry.slug) +
-          '"><strong>Open entry →</strong></a></p>';
+        html += '<p style="margin:.7rem 0 0;"><a href="/bkv/meta/potts/entry/?entry=' +
+          encodeURIComponent(entry.slug) + '"><strong>Open entry →</strong></a></p>';
       }
 
       html += '</div>';
