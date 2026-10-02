@@ -22,7 +22,7 @@ Use these tools to follow names, places, words, symbols, structures, and recurri
     </p>
 
     <p style="margin-bottom:0;">
-      <a href="{{ '/meta/potts/obedience/' | relative_url }}"><strong>Potts Concordance — Obedience →</strong></a>
+      <a href="#potts-search-section"><strong>Potts — Swedenborg Concordance →</strong></a>
     </p>
   </div>
 
@@ -308,6 +308,157 @@ Search by <strong>Strong's number, English meaning, transliteration, original He
   };
 
   xhr.send();
+})();
+</script>
+
+---
+
+<h2 id="potts-search-section">Potts — Swedenborg Concordance</h2>
+
+Search John Faulkner Potts's <em>Swedenborg Concordance</em> by subject, alternate headword, Latin term, or Swedenborg work.
+
+<div id="potts-app"></div>
+
+<script>
+(function () {
+  var app = document.getElementById('potts-app');
+
+  var searchBox = document.createElement('input');
+  searchBox.type = 'search';
+  searchBox.placeholder = 'Loading Potts Concordance...';
+  searchBox.autocomplete = 'off';
+  searchBox.disabled = true;
+  searchBox.style.width = '100%';
+  searchBox.style.maxWidth = '700px';
+  searchBox.style.padding = '14px 16px';
+  searchBox.style.fontSize = '18px';
+  searchBox.style.margin = '20px 0 8px';
+  searchBox.style.boxSizing = 'border-box';
+
+  var statusBox = document.createElement('div');
+  var resultsBox = document.createElement('div');
+
+  statusBox.innerHTML = '<p>Loading Potts Concordance...</p>';
+
+  app.appendChild(searchBox);
+  app.appendChild(statusBox);
+  app.appendChild(resultsBox);
+
+  var entries = [];
+
+  function escapeHtml(value) {
+    return String(value == null ? '' : value)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#039;');
+  }
+
+  function asArray(value) {
+    if (Array.isArray(value)) return value;
+    if (value == null || value === '') return [];
+    return [value];
+  }
+
+  function searchEntries() {
+    var rawQuery = searchBox.value.trim();
+
+    if (!rawQuery) {
+      resultsBox.innerHTML = '';
+      statusBox.innerHTML =
+        '<p><strong>' + entries.length.toLocaleString() + '</strong> Potts articles available.</p>';
+      return;
+    }
+
+    var q = rawQuery.toLowerCase();
+
+    var matches = entries.filter(function (entry) {
+      var searchable = []
+        .concat(entry.term || '')
+        .concat(asArray(entry.headwords))
+        .concat(asArray(entry.latin))
+        .concat(asArray(entry.works))
+        .concat(asArray(entry.header_sentences))
+        .join(' ')
+        .toLowerCase();
+
+      return searchable.indexOf(q) !== -1;
+    }).slice(0, 50);
+
+    if (!matches.length) {
+      statusBox.innerHTML =
+        '<p>No matching Potts entries for <strong>' + escapeHtml(rawQuery) + '</strong>.</p>';
+      resultsBox.innerHTML = '';
+      return;
+    }
+
+    statusBox.innerHTML =
+      '<p><strong>' + matches.length + (matches.length === 50 ? '+' : '') +
+      '</strong> matching Potts entries.</p>';
+
+    resultsBox.innerHTML = matches.map(function (entry) {
+      var term = entry.term || (entry.headwords && entry.headwords[0]) || 'Untitled entry';
+      var latin = asArray(entry.latin);
+      var works = asArray(entry.works);
+      var headwords = asArray(entry.headwords).filter(function (h) {
+        return h && h !== term;
+      });
+
+      var html =
+        '<div style="border:1px solid #26344d;border-radius:9px;padding:1.1rem 1.25rem;margin:1rem 0;">' +
+        '<div style="font-size:1.35rem;font-weight:bold;">' + escapeHtml(term) + '</div>';
+
+      if (latin.length) {
+        html += '<p style="margin:.45rem 0;"><em>' +
+          latin.map(escapeHtml).join(' · ') + '</em></p>';
+      }
+
+      if (headwords.length) {
+        html += '<p style="margin:.45rem 0;"><strong>Related:</strong> ' +
+          headwords.map(escapeHtml).join(' · ') + '</p>';
+      }
+
+      if (works.length) {
+        html += '<p style="margin:.45rem 0;opacity:.78;"><strong>Works:</strong> ' +
+          works.map(escapeHtml).join(' · ') + '</p>';
+      }
+
+      // Only Obedience has a published Potts article page at this stage.
+      if ((entry.slug || '').toLowerCase() === 'obedience') {
+        html += '<p style="margin:.7rem 0 0;"><a href="{{ \'/meta/potts/obedience/\' | relative_url }}"><strong>Open entry →</strong></a></p>';
+      } else {
+        html += '<p style="margin:.7rem 0 0;opacity:.55;"><em>Full entry page coming next.</em></p>';
+      }
+
+      html += '</div>';
+      return html;
+    }).join('');
+  }
+
+  searchBox.addEventListener('input', searchEntries);
+
+  fetch('{{ "/meta/potts/potts-index.json" | relative_url }}')
+    .then(function (response) {
+      if (!response.ok) throw new Error('HTTP ' + response.status);
+      return response.json();
+    })
+    .then(function (data) {
+      if (!Array.isArray(data)) {
+        throw new Error('Potts index is not an array.');
+      }
+
+      entries = data;
+      searchBox.disabled = false;
+      searchBox.placeholder = 'Try obedience, Aaron, love, hear, Obedientia...';
+      statusBox.innerHTML =
+        '<p><strong>' + entries.length.toLocaleString() + '</strong> Potts articles available.</p>';
+    })
+    .catch(function (error) {
+      console.error(error);
+      statusBox.innerHTML =
+        '<p><strong>The Potts Concordance could not be loaded.</strong></p>';
+    });
 })();
 </script>
 
