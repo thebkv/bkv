@@ -5,7 +5,7 @@ permalink: /meta/
 
 # Reference Library
 
-Use these tools to follow names, places, words, symbols, structures, and recurring patterns across Scripture. These resources may be helpful, but please remember only Scripture is the inspired Word.
+Use these tools to follow names, places, words, symbols, structures, and recurring patterns across Scripture.
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1rem;margin:1.5rem 0 2.5rem;">
 
