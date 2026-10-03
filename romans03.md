@@ -7,7 +7,7 @@ summary: "The law exposes what is wrong but cannot make the disciple righteous. 
 permalink: /romans03/
 ---
 
-## 03 — BOASTING IS EXCLUDED
+## 03 — THE WAY NO ONE COULD MAKE
 
 Romans 3 brings the disciple to the end of trying to establish his own righteousness. Paul has removed the distinction between the religious person and the irreligious one: both stand in need of God. The law has an important purpose, because it tells the truth about us. It exposes sin and leaves us without an excuse. But seeing what is right is not the same thing as becoming right. “By the law is the knowledge of sin.”
 
