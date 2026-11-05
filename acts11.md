@@ -13,7 +13,10 @@ permalink: /acts11/
 
 God may be working in someone you would never have expected Him to receive. Peter is criticized for entering the home of Gentiles, but he tells the believers how God gave them the same Holy Ghost they had received. Peter realizes that he cannot reject people whom God has already accepted. The believers in Jerusalem hear him, change their minds, and glorify God. Later, Barnabas sees God's grace at work in Antioch and encourages the new disciples. **When you see God working in someone's life, rejoice and help them follow Him.**
 
+## The Savior Test
+
 > **“Other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice.” — John 10:16**
+> “I have yet many things to say unto you, but ye cannot bear them now.” — John 16:12
 
 Jesus had already told His disciples that He would bring others into His flock. Acts 11 shows them learning to recognize those whom He is bringing in.
 
