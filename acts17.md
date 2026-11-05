@@ -1,5 +1,24 @@
-# ACTS 17 — Bible Key Version (BKV)
-## The God You Seek Is Already Near
+---
+book: Acts
+chapter: 17
+title: "The Unknown God"
+focus:
+  - Paul proclaims Jesus in Thessalonica and Berea, where the people respond differently to the same message.
+  - In Athens, Paul finds an altar to the unknown God and declares the God who made heaven and earth.
+  - God calls all people to repent because He has raised Jesus from the dead.
+summary: "Acts 17 shows you how to seek God beyond inherited beliefs and human inventions, and come to know the living God who is already near you."
+permalink: /acts17/
+---
+
+## 17 — THE UNKNOWN GOD
+
+You can spend your life searching for God without recognizing how near He already is. In Athens, Paul finds a city full of idols and an altar dedicated to the unknown God. He tells the people that the God who made them does not live in temples built by human hands and needs nothing they can give Him. **“For in him we live, and move, and have our being.”** God has been near them all along, but now Paul calls them to turn from their ignorance and recognize Him. He points them to Jesus, whom God has raised from the dead. **You do not have to invent a way to reach a distant God. Seek the Lord who gives you life, turn toward Him, and come to know Him through Jesus Christ.**
+
+## The Savior Test
+
+> **“The kingdom of God cometh not with observation: Neither shall they say, Lo here! or, lo there! for, behold, the kingdom of God is within you.” — Luke 17:20–21**
+
+Jesus directs your attention away from searching for God's kingdom in outward places. Paul reveals the same truth in Athens: God is near, and your life already depends upon Him. The invitation is to recognize Him, repent, and live in the light of what Jesus has revealed.
 
 > “For in Him we live, and move, and have our being.” — Acts 17:28 (KJV)
 
