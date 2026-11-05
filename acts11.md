@@ -23,6 +23,7 @@ Jesus had already told His disciples that He would bring others into His flock. 
 
 
 
+
 # IN DEPTH: Acts 11 — BKV Study (The Expansion of Consciousness)
 
 **Acts 11** is a pivotal chapter that records the early church's necessary and painful psychological shift from **Rigid Law** (exclusivity) to **Universal Grace** (inclusivity), setting the stage for the true expansion of consciousness.
