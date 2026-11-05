@@ -2260,17 +2260,16 @@ sections:
 - section:
     number: 5
     name: Gospels 5 Acts
-    summary: The Manifestation of the Living Word and Spirit
+    summary: 'The Manifestation of the Living Word and Spirit'
     books:
     - title: Matthew
-      subtitle: 'The Book of the Kingdom: The Manifested King and the Promised Law
-        Fulfilled'
+      subtitle: The Book of the Kingdom: The Manifested King and the Promised Law Fulfilled
       chapters:
       - chapter: 1
         bkv_title: The Genealogy of Promise and the Virgin Conception
         url: /acts01/
       - chapter: 2
-        bkv_title: The Seeking Magi, the Tyrant's Rage, and the Flight to Egypt
+        bkv_title: The Seeking Magi, the Tyrants Rage, and the Flight to Egypt
         url: /acts02/
       - chapter: 3
         bkv_title: The Voice in the Wilderness and the Baptism of Fire
