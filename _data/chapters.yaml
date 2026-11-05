@@ -2267,88 +2267,88 @@ sections:
       chapters:
       - chapter: 1
         bkv_title: The Genealogy of Promise and the Virgin Conception
-        url: /acts01/
+        url: /matthew01/
       - chapter: 2
         bkv_title: The Seeking Magi, the Tyrants Rage, and the Flight to Egypt
-        url: /acts02/
+        url: /matthew02/
       - chapter: 3
         bkv_title: The Voice in the Wilderness and the Baptism of Fire
-        url: /acts03/
+        url: /matthew03/
       - chapter: 4
         bkv_title: The Wilderness Temptation and the Call of the First Disciples
-        url: /acts04/
+        url: /matthew04/
       - chapter: 5
         bkv_title: The Sermon on the Mount: The Internal Law Revealed
-        url: /acts05/
+        url: /matthew05/
       - chapter: 6
         bkv_title: Secret Devotion, the Pattern Prayer, and Undivided Trust
-        url: /acts06/
+        url: /matthew06/
       - chapter: 7
         bkv_title: Discernment, the Narrow Gate, and the Foundation on the Rock
-        url: /acts07/
+        url: /matthew07/
       - chapter: 8
         bkv_title: Authority Over Sickness, Storms, and Unclean Powers
-        url: /acts08/
+        url: /matthew08/
       - chapter: 9
         bkv_title: Forgiveness Spoken, the Harvest Plentiful, and New Wine
-        url: /acts09/
+        url: /matthew09/
       - chapter: 10
         bkv_title: The Twelve Commissioned and Sent Among Wolves
-        url: /acts10/
+        url: /matthew10/
       - chapter: 11
         bkv_title: John’s Inquiry and the Easy Yoke for the Weary
-        url: /acts11/
+        url: /matthew11/
       - chapter: 12
         bkv_title: Lord of the Sabbath and the Unpardonable Sin Exposed
-        url: /acts12/
+        url: /matthew12/
       - chapter: 13
         bkv_title: The Parables of the Kingdom and the Hidden Treasure
-        url: /acts13/
+        url: /matthew13/
       - chapter: 14
         bkv_title: The Martyrdom of John, Feeding Five Thousand, and Walking on Water
-        url: /acts14/
+        url: /matthew14/
       - chapter: 15
         bkv_title: Heart Pollution, Faith of the Canaanite Woman, and Four Thousand Fed
-        url: /acts15/
+        url: /matthew15/
       - chapter: 16
         bkv_title: The Great Confession, the Rock, and the Price of Discipleship
-        url: /acts16/
+        url: /matthew16/
       - chapter: 17
         bkv_title: The Transfiguration, the Demonic Stronghold, and the Temple Tax
-        url: /acts17/
+        url: /matthew17/
       - chapter: 18
         bkv_title: Childlike Humility, Offenses Removed, and Endless Forgiveness
-        url: /acts18/
+        url: /matthew18/
       - chapter: 19
         bkv_title: The Sacredness of Union, Little Children, and the Rich Young Ruler
-        url: /acts19/
+        url: /matthew19/
       - chapter: 20
         bkv_title: Laborers in the Vineyard and Servant Leadership
-        url: /acts20/
+        url: /matthew20/
       - chapter: 21
         bkv_title: The Triumphal Entry, Cleansing the Temple, and the Withered Fig Tree
-        url: /acts21/
+        url: /matthew21/
       - chapter: 22
         bkv_title: The Wedding Feast, Tribute to Caesar, and the Great Commandment
-        url: /acts22/
+        url: /matthew22/
       - chapter: 23
         bkv_title: Religious Hypocrisy Rebuked and the Lament Over Jerusalem
-        url: /acts23/
+        url: /matthew23/
       - chapter: 24
         bkv_title: The Olivet Discourse: Signs of the End and Watchfulness
-        url: /acts25/
+        url: /matthew24/
       - chapter: 25
         bkv_title: The Ten Virgins, the Talents, and the Judgment of Nations
-        url: /acts26/
+        url: /matthew25/
       - chapter: 26
         bkv_title: The Anointing, the Upper Room, Gethsemane, and Betrayal
-        url: /acts26/
+        url: /matthew26/
       - chapter: 27
         bkv_title: The Trial, Crucifixion, Death, and Burial of the King
-        url: /acts27/
+        url: /matthew27/
       - chapter: 28
         bkv_title: The Resurrection, Angelic Witness, and Great Commission
-        url: /acts28/
+        url: /matthew28/
     - title: Mark
       subtitle: 'The Book of Action: The Servant Mind Moving in Power'
       chapters:
@@ -2488,61 +2488,88 @@ sections:
       chapters:
       - chapter: 1
         bkv_title: Ascension, Promise of Power, and Choice of Matthias
+        url: /acts01/
       - chapter: 2
         bkv_title: Pentecost Fire, Tongues of Flame, and First Believers
+        url: /acts02/
       - chapter: 3
         bkv_title: Lame Man Healed at Beautiful Gate and Peter’s Message
+        url: /acts03/
       - chapter: 4
         bkv_title: Arrest, Boldness in Prayer, and All Things Common
+        url: /acts04/
       - chapter: 5
         bkv_title: Ananias and Sapphira, Apostles Imprisoned and Delivered
+        url: /acts05/
       - chapter: 6
         bkv_title: Seven Deacons Chosen and Stephen’s Arrest
+        url: /acts06/
       - chapter: 7
         bkv_title: Stephen’s Historical Defense and First Christian Martyrdom
+        url: /acts07/
       - chapter: 8
         bkv_title: Persecution Scatters Church, Philip in Samaria, and Ethiopian Eunuch
+         url: /acts08/
       - chapter: 9
         bkv_title: Conversion of Saul on Damascus Road and Aeneas/Dorcas Healed
+        url: /acts09/
       - chapter: 10
         bkv_title: Cornelius’ Vision, Peter’s Sheet Vision, and Gentles Receive Spirit
         url: /acts10/
       - chapter: 11
         bkv_title: Peter Defends Gentile Mission and Antioch Church Established
+        url: /acts11/
       - chapter: 12
         bkv_title: James Martyred, Peter Escapes Prison, and Herod’s Death
+        url: /acts12/
       - chapter: 13
-        bkv_title: 'Saul and Barnabas Sent Out: First Missionary Journey Begins'
+        bkv_title: Saul and Barnabas Sent Out: First Missionary Journey Begins
+        url: /acts13/
       - chapter: 14
         bkv_title: Iconium, Lystra Stoning, and Establishing Elders in Churches
+        url: /acts14/
       - chapter: 15
-        bkv_title: 'Jerusalem Council: Gentile Freedom from Law Confirmed'
+        bkv_title: Jerusalem Council: Gentile Freedom from Law Confirmed
+        url: /acts15/
       - chapter: 16
         bkv_title: Timothy Joins, Macedonian Call, Philippian Jailer Saved
+        url: /acts16/
       - chapter: 17
         bkv_title: Thessalonica, Berean Nobility, and Areopagus Address in Athens
+        url: /acts17/
       - chapter: 18
         bkv_title: Corinth Ministry, Priscilla/Aquila, and Apollos Instructed
+        url: /acts18/
       - chapter: 19
         bkv_title: Ephesus Revival, Seven Sons of Sceva, and Riot of Silversmiths
+        url: /acts19/
       - chapter: 20
         bkv_title: Eutychus Raised and Farewell Charge to Ephesian Elders
+        url: /acts20/
       - chapter: 21
         bkv_title: Warning at Caesarea, Arrival in Jerusalem, and Arrest in Temple
+        url: /acts21/
       - chapter: 22
         bkv_title: Paul’s Defense Before Jerusalem Mob and Roman Citizenship Claimed
+        url: /acts22/
       - chapter: 23
         bkv_title: Sanhedrin Division, Plot Revealed, and Escort to Caesarea
+        url: /acts23/
       - chapter: 24
         bkv_title: Trial Before Felix and Paul Imprisoned Two Years
+        url: /acts24/
       - chapter: 25
         bkv_title: Appeal to Caesar Made Before Festus
+        url: /acts25/
       - chapter: 26
-        bkv_title: 'Defense Before King Agrippa: Almost Persuaded'
+        bkv_title: Defense Before King Agrippa: Almost Persuaded
+        url: /acts26/
       - chapter: 27
         bkv_title: Voyage to Rome, Terrifying Shipwreck, and Malta Survival
+        url: /acts27/
       - chapter: 28
         bkv_title: Viper Bite Harmless, Ministry on Malta, and Two Years in Rome
+        url: /acts28/
 - section:
     number: 6
     name: Epistles
