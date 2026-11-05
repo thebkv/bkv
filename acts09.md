@@ -1,22 +1,27 @@
-
-
-
-
-⸻
-
-layout: page
-title: “Acts 09 — The Man Who Could Not See”
+---
+layout: chapter
+title: "The Man Who Lost His Sight"
 book: Acts
 chapter: 9
+permalink: /acts09/
+---
 
-The Man Who Could Not See
+# Acts 9 — The Man Who Lost His Sight
 
-Saul is on his way to Damascus to arrest the disciples of Jesus when a light from heaven stops him in the road. He falls to the earth and hears the Lord ask, “Saul, Saul, why persecutest thou me?” Saul has devoted himself to defending God, yet he discovers that he has been fighting against the very One he believes he serves. When he rises, he cannot see. For three days he must be led by others, unable to eat or drink. Meanwhile, Jesus speaks to a disciple named Ananias and sends him to Saul. Ananias is afraid because he knows what Saul has done to the saints, but the Lord tells him, “He is a chosen vessel unto me.” Jesus already sees what Saul is becoming. Ananias obeys, enters the house, calls him “Brother Saul,” and lays his hands upon him. Saul receives his sight, is filled with the Holy Ghost, and begins preaching that Jesus is the Son of God. The persecutor becomes a witness, and the man who came to Damascus to bind the disciples must now escape the city himself.
+## The Natural Reading
 
-What This Reveals in You
+Saul is on his way to Damascus to arrest the followers of Jesus when a light from heaven suddenly surrounds him. He falls to the ground and hears Jesus asking why he is persecuting him. When Saul gets up, he can no longer see, and his companions must lead him into the city. For three days he remains blind, neither eating nor drinking. The Lord then sends a disciple named Ananias to him. Ananias is afraid because he knows Saul's reputation, but Jesus tells him that Saul is a chosen vessel who will carry his name before the Gentiles, kings, and the children of Israel. Ananias obeys, lays his hands on Saul, and Saul receives his sight and is filled with the Holy Ghost. 
 
-Saul shows us how a man can be sincerely devoted to God and still be moving against Him. He knows the Scriptures, possesses religious authority, and is certain of his judgment. Yet all that knowledge has left him blind to Jesus. The light on the Damascus road brings him face to face with the Lord he has failed to recognize. His physical blindness makes visible what has already been happening within him. But Jesus has not finished with Saul. He calls him a chosen vessel, someone who will receive and carry His name. Even Saul’s strength, learning, and determination will now serve a different purpose. He is sent to the Gentiles, to kings, and to the children of Israel. These are real people to whom he will bear witness, but they also show us how far the revelation of Christ must reach within ourselves: into what has never known Him, into the convictions that govern us, and into the religious understanding we believe we already possess. Saul himself belongs to Israel, yet he must have his eyes opened to recognize the Savior in the Scriptures he has spent his life defending. Ananias shows us another part of this work. He must trust what Jesus says about Saul rather than remain governed by what he knows of Saul’s past. When he calls him “Brother Saul,” he receives the man whom Jesus has chosen. The chapter asks you to examine what you are so certain of that you may have stopped listening to the Lord. Jesus can open your eyes, change the direction of your life, and make a vessel of the very man who once opposed Him.
+He is baptized and soon begins preaching that Jesus is the Son of God. Everyone is astonished because this is the same man who had been persecuting the believers. When his enemies plot to kill him, the disciples help him escape Damascus by lowering him through the city wall in a basket. Later, Barnabas helps him gain the trust of the disciples in Jerusalem. The chapter closes with Peter healing Aeneas, who has been bedridden for eight years, and raising Tabitha from the dead. Many people turn to the Lord because of these miracles.
 
-The Savior Test
+## What This Chapter Is Showing You
 
-Jesus Himself interrupts Saul, reveals his blindness, chooses him for His service, and sends Ananias to restore his sight. Saul does not find his way to Jesus through the strength of his own understanding. Jesus comes to him. The same Lord who confronts him also receives him, heals him, and gives him a new purpose. This is the Savior at work in the disciple: bringing hidden blindness into the light and teaching a man to see, hear, and follow Him.
+Saul knows the Scriptures and is convinced he is doing God's work, but he has been fighting against Jesus without realizing it. When Jesus appears to him, Saul loses his sight, and suddenly the man who thought he knew exactly where he was going has to be led by the hand. His physical blindness shows us something about his spiritual condition. He has spent his life studying the things of God, yet he has failed to recognize the Savior. But Jesus has a purpose for him. He sends Ananias to restore his sight, even though Ananias is afraid of him. The Lord calls Saul a chosen vessel, someone who will carry his name to the Gentiles, kings, and Israel. 
+
+We can see these three groups within ourselves as well. The Gentiles are those parts of our lives that have not yet come to know God. Kings are the beliefs and desires that rule over us. And Israel is the spiritual understanding we already possess, which still needs to recognize Jesus. Saul himself is the perfect example of this last group. He already knows the Scriptures, but now he must come to understand them through Christ. Once his sight returns, he begins using the same courage, intelligence, and determination that once made him a persecutor to preach the Gospel. Jesus has turned his whole life in a new direction. Even his escape from Damascus teaches us something. 
+
+The man who once traveled with authority to arrest others must now trust his fellow disciples to lower him to safety in a basket. And when we come to Peter's miracles at the end of the chapter, we see the same work of Jesus continuing. Aeneas, who has been unable to rise from his bed, gets up and walks. Tabitha, who has died, is restored to life. Throughout this chapter, the Lord is bringing people out of conditions they could never overcome by themselves. We should be willing to let him show us where we have been mistaken, even in things we have believed for years. Saul's story reminds us that we can be sincere, devoted, and knowledgeable about Scripture, and still have much to discover about Jesus.
+
+## The Savior Test
+
+Jesus meets Saul on the road to Damascus and shows him that he has been fighting against the very Lord he believes he serves. He sends Ananias to restore Saul's sight and gives him a new purpose. Later, Jesus heals Aeneas through Peter, and Tabitha is raised after Peter prays. The risen Savior is still working among his people, opening their eyes, restoring their strength, and giving them new life. Saul's experience invites us to bring even our most firmly held beliefs before Jesus and allow him to teach us what we have not yet understood.
