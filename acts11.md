@@ -15,8 +15,8 @@ God may be working in someone you would never have expected Him to receive. Pete
 
 ## The Savior Test
 
-> **“Other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice.” — John 10:16**
-> “I have yet many things to say unto you, but ye cannot bear them now.” — John 16:12
+> "Other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice.” — John 10:16  
+> “I have yet many things to say unto you, but ye cannot bear them now.” — John 16:12  
 
 Jesus had already told His disciples that He would bring others into His flock. Acts 11 shows them learning to recognize those whom He is bringing in.
 
