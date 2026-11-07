@@ -2278,7 +2278,7 @@ sections:
         bkv_title: The Wilderness Temptation and the Call of the First Disciples
         url: /matthew04/
       - chapter: 5
-        bkv_title: The Sermon on the Mount: The Internal Law Revealed
+        bkv_title: "The Sermon on the Mount: The Internal Law Revealed"
         url: /matthew05/
       - chapter: 6
         bkv_title: Secret Devotion, the Pattern Prayer, and Undivided Trust
@@ -2335,7 +2335,7 @@ sections:
         bkv_title: Religious Hypocrisy Rebuked and the Lament Over Jerusalem
         url: /matthew23/
       - chapter: 24
-        bkv_title: The Olivet Discourse: Signs of the End and Watchfulness
+        bkv_title: "The Olivet Discourse: Signs of the End and Watchfulness"
         url: /matthew24/
       - chapter: 25
         bkv_title: The Ten Virgins, the Talents, and the Judgment of Nations
@@ -2509,7 +2509,7 @@ sections:
         url: /acts07/
       - chapter: 8
         bkv_title: Persecution Scatters Church, Philip in Samaria, and Ethiopian Eunuch
-         url: /acts08/
+        url: /acts08/
       - chapter: 9
         bkv_title: Conversion of Saul on Damascus Road and Aeneas/Dorcas Healed
         url: /acts09/
@@ -2523,13 +2523,13 @@ sections:
         bkv_title: James Martyred, Peter Escapes Prison, and Herod’s Death
         url: /acts12/
       - chapter: 13
-        bkv_title: Saul and Barnabas Sent Out: First Missionary Journey Begins
+        bkv_title: "Saul and Barnabas Sent Out: First Missionary Journey Begins"
         url: /acts13/
       - chapter: 14
         bkv_title: Iconium, Lystra Stoning, and Establishing Elders in Churches
         url: /acts14/
       - chapter: 15
-        bkv_title: Jerusalem Council: Gentile Freedom from Law Confirmed
+        bkv_title: "Jerusalem Council: Gentile Freedom from Law Confirmed"
         url: /acts15/
       - chapter: 16
         bkv_title: Timothy Joins, Macedonian Call, Philippian Jailer Saved
@@ -2562,7 +2562,7 @@ sections:
         bkv_title: Appeal to Caesar Made Before Festus
         url: /acts25/
       - chapter: 26
-        bkv_title: Defense Before King Agrippa: Almost Persuaded
+        bkv_title: "Defense Before King Agrippa: Almost Persuaded"
         url: /acts26/
       - chapter: 27
         bkv_title: Voyage to Rome, Terrifying Shipwreck, and Malta Survival
