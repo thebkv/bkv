@@ -7,6 +7,7 @@ permalink: /amos01/
 ---
 
 # Amos 1 — The Roar from Zion and the Decree of Divine Equilibrium
+(work in progress)
 
 ### How to Read This Dossier
 Claims in this document are explicitly marked by kind:  
