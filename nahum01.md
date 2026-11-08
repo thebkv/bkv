@@ -47,6 +47,39 @@ The middle verses split the enforcement into two distinct functional operations 
 
 The chapter culminates in a declaration of total liberation. The yoke of the adversarial system—the heavy, crushing constraint that kept the people of God paralyzed—is shattered into pieces. This is the functional payoff of the boundary being enforced: when the rival power is broken, the channels of peace and true worship are instantly restored. The feet of the messenger on the mountains signal that the domain has been cleared, inviting the disciple to return to covenantal stability and keep their vows in safety.
 
+
+
+
+## The Savior Test
+
+Jesus tells us what happens when a house is built upon a foundation that cannot stand:
+
+> "Every kingdom divided against itself is brought to desolation; and every city or house divided against itself shall not stand." — Matthew 12:25
+
+Nahum describes the overthrow of Nineveh, a power that had established itself through violence and oppression. Jesus confirms the principle at work. A kingdom that carries destruction within itself cannot continue forever. The disciple should recognize that Nineveh can also represent the thoughts and habits within him that have become powerful enough to rule his life. What has been built upon pride, fear, and the desire to control must eventually give way to the rule of God.
+
+But Nahum also tells us something wonderful:
+
+> "The LORD is good, a strong hold in the day of trouble; and he knoweth them that trust in him." — Nahum 1:7
+
+Jesus confirms this promise when he describes the man who hears his sayings and does them:
+
+> "And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock." — Matthew 7:25
+
+Here we can see the distinction Nahum is making. The same overwhelming power that brings down the proud stronghold cannot overthrow the house established upon the rock. Jesus teaches the disciple where that rock is found. It is not in the security of his possessions, the strength of his own reasoning, or his ability to control circumstances. He must hear the words of Jesus and put them into practice.
+
+Nahum ends with the breaking of the oppressor's yoke and the announcement of peace. Jesus brings this promise directly to the disciple:
+
+> "If the Son therefore shall make you free, ye shall be free indeed." — John 8:36
+
+This is the liberation toward which the chapter moves. The disciple may have lived for years under the authority of fear, resentment, pride, or some other inward master. But Christ comes with an authority greater than whatever has held him captive. The old yoke can be broken, and the man can begin to live according to the truth he has received.
+
+The disciple should therefore ask himself what kind of stronghold he is building. Is he strengthening the old Nineveh within him, defending the very thoughts and desires from which he needs to be delivered? Or is he building upon the words of Jesus, trusting the Lord as his refuge?
+
+Nahum shows the overthrow of the oppressor and the restoration of peace. Jesus shows the disciple how to enter that freedom. The stronghold that enslaved him must fall, but the house founded upon the rock will stand.
+
+
+
 ***
 
 ## The Disciple's Key
