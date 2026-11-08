@@ -67,6 +67,7 @@ Jesus confirms this promise when he describes the man who hears his sayings and 
 > "And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock." — Matthew 7:25
 
 Here we can see the distinction Nahum is making. The same overwhelming power that brings down the proud stronghold cannot overthrow the house established upon the rock. Jesus teaches the disciple where that rock is found. It is not in the security of his possessions, the strength of his own reasoning, or his ability to control circumstances. He must hear the words of Jesus and put them into practice.
+[See Matthew 7 — The House That Would Not Fall](matthew07.md)
 
 Nahum ends with the breaking of the oppressor's yoke and the announcement of peace. Jesus brings this promise directly to the disciple:
 
