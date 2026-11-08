@@ -28,7 +28,7 @@ This is the heart of Psalm 73. The psalmist nearly loses his footing because he 
 
 Jesus then asks a question that exposes the weakness of worldly prosperity:
 
-> "For what is a man profited, if he shall gain the whole world, and lose his own soul?" — [Matthew 16:26](matthew16)  
+> "For what is a man profited, if he shall gain the whole world, and lose his own soul?" — Matthew 16:26 [The Rock and the Keys](matthew16)  
 
 The psalmist had been measuring success by wealth, comfort, and outward security. Jesus reveals what was missing from that calculation. A man may possess everything the world considers desirable and still be losing the very life that matters most. The disciple must learn to consider where a path leads, rather than merely what it appears to offer today.
 
