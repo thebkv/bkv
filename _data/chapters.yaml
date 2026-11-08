@@ -2186,7 +2186,8 @@ sections:
         subtitle: 'The Book of Execution: The Fall of the Violent City'
         chapters:
         - chapter: 1
-          bkv_title: 'The Jealous God: A Stronghold in the Day of Trouble'
+          bkv_title: The Fall of the Stronghold  
+          url: /nahum01/
         - chapter: 2
           bkv_title: The Shielded Mighty Men and Nineveh Shattered
         - chapter: 3
