@@ -1,4 +1,3 @@
-
 ---
 book: Acts
 chapter: 19
@@ -9,7 +8,7 @@ focus:
   - Believers confess their former practices and destroy their books of magic.
   - The spread of the Gospel threatens the city's trade in idols.
 summary: "Acts 19 shows you the difference between knowing Jesus and merely using His name, as His power drives out evil and changes how people live."
-permalink: /acts19/
+permalink: /acts19/  
 ---
 
 ## 19 — THE NAME ABOVE EVERY POWER
