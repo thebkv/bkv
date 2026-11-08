@@ -3,7 +3,7 @@ book: "Nahum"
 chapter: 1
 focus: "The Consolidation of Power and the Execution of the Boundary"
 summary: "The vision opens with the absolute enforcement of the divine boundary, revealing that the same intensity that collapses adversarial structures acts as an impenetrable fortress of refuge for those who rely upon the Source."
-permalink: nahum01
+permalink: /nahum01/
 ---
 
 # Nahum Chapter 1
