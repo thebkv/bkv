@@ -1,3 +1,15 @@
+---
+book: Psalms
+chapter: 73
+title: "The Sanctuary Reveals the Truth"
+permalink: /psalm73/
+---
+
+## PSALM 73 — THE SANCTUARY REVEALS THE TRUTH
+
+The psalmist nearly loses his faith when he sees the prosperity of the wicked. They seem to enjoy wealth, strength, and freedom from trouble, while he struggles despite trying to keep his heart clean. He begins to wonder whether following God has been worth the cost. But everything changes when he enters the sanctuary. There he sees what appearances had concealed: the prosperity he envied was resting on an unstable foundation. He realizes that the greatest treasure was never the wealth or comfort of other men, but the presence of God himself. The disciple must learn this same lesson. When he judges his life by outward circumstances, he can easily become discouraged or envious. But when he draws near to God, his understanding is restored, and he discovers where his true security lies.
+
+
 # BKV Psalm 73 — When Appearance Lies
 
 ## Summary
@@ -5,6 +17,50 @@
 Psalm 73 describes one of the great turning points in the life of the disciple. The psalm begins with a contradiction: God is good, yet those who disregard Him appear to prosper. The temptation is to judge reality by appearances, leading to envy, instability, and discouragement. Everything changes when the psalmist enters the sanctuary. There, a higher perspective reveals the true destination of every path. The chapter ultimately teaches that God's presence is itself the disciple's greatest inheritance. Nearness to God restores right perception.
 
 ---
+
+
+## The Savior Test
+
+The psalmist begins by looking at the prosperity of the wicked and wondering whether keeping his heart clean has been worthwhile. Everything changes when he enters the sanctuary of God. He begins to see beyond their present circumstances to where their lives are leading.
+
+Jesus gives the disciple the very instruction he needs:
+
+> "Judge not according to the appearance, but judge righteous judgment." — John 7:24
+
+This is the heart of Psalm 73. The psalmist nearly loses his footing because he judges by what he sees. The wicked appear strong, wealthy, and free from trouble, while the man seeking God experiences difficulty and correction. From the outside, it seems that the wrong people are prospering. But Jesus tells us that appearances are not sufficient grounds for judgment. The disciple must learn to see according to the truth of God.
+
+Jesus then asks a question that exposes the weakness of worldly prosperity:
+
+> "For what is a man profited, if he shall gain the whole world, and lose his own soul?" — Matthew 16:26
+
+The psalmist had been measuring success by wealth, comfort, and outward security. Jesus reveals what was missing from that calculation. A man may possess everything the world considers desirable and still be losing the very life that matters most. The disciple must learn to consider where a path leads, rather than merely what it appears to offer today.
+
+Jesus also describes two men who build their houses upon different foundations. One builds upon rock, the other upon sand. Both houses stand for a time, but when the storm comes, only the house founded upon the rock remains (Matthew 7:24–27).
+
+This helps explain the slippery places of Psalm 73. What appeared secure to the psalmist was actually resting upon an unstable foundation. The prosperity he envied could not guarantee the lasting safety he imagined it possessed. He had almost abandoned the true foundation because he was distracted by the appearance of another man's house.
+
+But the psalm does not end with a warning against wealth. It leads the disciple to something much greater.
+
+> "Whom have I in heaven but thee? and there is none upon earth that I desire beside thee." — Psalm 73:25
+
+Jesus expresses this same priority:
+
+> "But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you." — Matthew 6:33
+
+The disciple who seeks the kingdom first is learning to desire what the psalmist finally discovers in the sanctuary. He no longer has to measure the goodness of God by comparing his circumstances with those of other men. He can trust the Father while continuing to seek the life and righteousness of His kingdom.
+
+The Savior Test reveals the movement of the whole psalm. Jesus calls the disciple away from judging by appearances, shows him the danger of gaining the world at the expense of his soul, and teaches him to build upon what will endure.
+
+The disciple should ask himself whether he has been envying something that only looks desirable from a distance. Has he mistaken outward prosperity for the blessing of God? Has he allowed comparison to make him doubt the value of the life Christ is teaching him to live?
+
+The psalmist found his answer when he entered the sanctuary. Jesus brings the disciple to that same discovery: the greatest treasure is found in knowing the Father and living in His kingdom.
+
+The psalmist finally says:
+
+> "But it is good for me to draw near to God." — Psalm 73:28
+
+This is where his nearly slipping feet find their footing again.
+
 
 # Interactive KJV
 
