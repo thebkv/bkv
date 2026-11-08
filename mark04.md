@@ -1,4 +1,3 @@
-
 ---
 book: Mark
 chapter: 4
@@ -9,7 +8,7 @@ focus:
   - The kingdom grows by a power the disciple does not manufacture
   - Faith must remain awake when outward circumstances become frightening
 summary: "Jesus reveals the secret of the seed, the hidden growth of the kingdom, and the mustard seed that becomes greater than all herbs. Then he crosses the sea with his disciples and stills a violent storm, showing them the authority of the very Word he has been teaching."
-permalink: /mark04/
+permalink: /mark04/  
 ---
 
 # MARK 4
