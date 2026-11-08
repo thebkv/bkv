@@ -5,12 +5,9 @@ title: "The Sanctuary Reveals the Truth"
 permalink: /psalm73/
 ---
 
-## PSALM 73 — THE SANCTUARY REVEALS THE TRUTH
+# PSALM 73 — THE SANCTUARY REVEALS THE TRUTH
 
 The psalmist nearly loses his faith when he sees the prosperity of the wicked. They seem to enjoy wealth, strength, and freedom from trouble, while he struggles despite trying to keep his heart clean. He begins to wonder whether following God has been worth the cost. But everything changes when he enters the sanctuary. There he sees what appearances had concealed: the prosperity he envied was resting on an unstable foundation. He realizes that the greatest treasure was never the wealth or comfort of other men, but the presence of God himself. The disciple must learn this same lesson. When he judges his life by outward circumstances, he can easily become discouraged or envious. But when he draws near to God, his understanding is restored, and he discovers where his true security lies.
-
-
-# BKV Psalm 73 — When Appearance Lies
 
 ## Summary
 
