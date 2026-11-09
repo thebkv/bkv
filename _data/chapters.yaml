@@ -1563,7 +1563,8 @@ sections:
       subtitle: 'The Book of Wisdom: Practical Rules for the Disciplined Consciousness'
       chapters:
       - chapter: 1
-        bkv_title: The Fear of the Lord Is the Beginning of Knowledge
+        bkv_title: The Cry in the Streets
+        url: /proverbs01/
       - chapter: 2
         bkv_title: The Search for Wisdom Protects from the Evil Way
       - chapter: 3
