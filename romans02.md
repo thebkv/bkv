@@ -59,6 +59,12 @@ The chapter reaches its conclusion with an extraordinary declaration:
 
 Paul has brought the disciple all the way from judging the outward sins of others to examining the hidden condition of his own heart.
 
+<img src="https://github.com/user-attachments/assets/c69b53d2-7738-49dd-8cc4-926be2f9d6a1"
+     alt="Romans 2 — The Judge Is Judged"
+     width="1672"
+     height="941"
+     style="display: block; width: 100%; max-width: 960px; height: auto; margin: 2rem auto;">
+
 The man who began the chapter confident that he could identify unrighteousness must now ask whether he is willing to be made righteous himself. The religious teacher must become a disciple. The man who possesses the outward sign must receive the inward work. And the man who has been seeking the approval of others must learn to seek the praise that comes from God.
 
 ## The Savior Test
