@@ -93,6 +93,8 @@ Naomi cannot yet see what is coming when she walks back into Bethlehem. She does
 
 She only knows that she has come home empty.
 
+<img width="1672" height="941" alt="ruth00b" src="https://github.com/user-attachments/assets/0531661d-5cf7-4362-8a3e-53589ad047a1" />
+
 Then Ruth goes looking for food.
 
 She enters a field and gleans because the two women need to eat. There Boaz notices her, protects her, feeds her, and tells his workers to leave additional grain for her.
