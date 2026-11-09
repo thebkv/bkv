@@ -493,6 +493,8 @@ Then she speaks:
 
 > “whither thou goest, I will go; and where thou lodgest, I will lodge…”
 
+<img width="1672" height="941" alt="ruth01b" src="https://github.com/user-attachments/assets/3d8dcc68-9ac5-4f8c-be4b-59450d712d47" />
+
 And finally:
 
 > “thy people shall be my people, and thy God my God.”
