@@ -38,7 +38,7 @@ The danger in Proverbs is not simply that wicked men exist. It is that they invi
 
 Then Proverbs introduces Wisdom as a woman crying openly in the streets. She calls to the simple, the scorners, and the fools, asking how long they will continue loving their foolishness.
 
-<img width="1672" height="941" alt="proverbs01b" src="https://github.com/user-attachments/assets/765579e5-340f-45ac-95e6-1eea63ba5897" />
+<img width="1672" height="941" alt="proverbs01b" src="https://github.com/user-attachments/assets/765579e5-340f-45ac-95e6-1eea63ba5897" />  
 
 
 Her invitation is remarkable:
