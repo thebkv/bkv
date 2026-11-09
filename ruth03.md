@@ -80,6 +80,54 @@ That is the movement of Ruth 3: **Ruth asks for redemption, Boaz accepts the res
 
 ---
 
+## The Savior Test
+
+Ruth comes to Boaz at midnight and asks him to spread his covering over her. She has already found provision in his field, but now she is asking for something greater. She wants him to act as her redeemer and give her a lasting place in the household.
+
+Jesus gives the disciple an invitation that reaches into this same need:
+
+> "Come unto me, all ye that labour and are heavy laden, and I will give you rest." — Matthew 11:28
+
+Naomi begins the chapter by seeking rest for Ruth. She understands that Ruth needs more than enough barley to survive another day. She needs a future. Jesus speaks of a rest that goes deeper still. He calls the weary to come to him personally, just as Ruth must personally approach the man who can redeem her.
+
+Jesus also says:
+
+> "All that the Father giveth me shall come to me; and him that cometh to me I will in no wise cast out." — John 6:37
+
+Ruth comes to Boaz without any claim based upon wealth or position. She has no power to restore the lost inheritance herself. She can only make her request to the one who has the standing to help her. Boaz receives her and promises to act.
+
+This gives the disciple a beautiful picture of approaching Christ. He does not have to arrive with his life already restored. He comes because he needs the Redeemer. Jesus promises that the one who comes to him will not be cast out.
+
+But Ruth 3 contains another important detail. Boaz discovers that a nearer kinsman has the first right to redeem. He cannot simply ignore that right. He promises to settle the matter properly, and Ruth must trust him to do what he has said.
+
+Jesus speaks with even greater certainty concerning the work entrusted to him:
+
+> "And this is the Father's will which hath sent me, that of all which he hath given me I should lose nothing, but should raise it up again at the last day." — John 6:39
+
+Boaz is a faithful man who accepts the responsibility of redemption within the order of his family. Jesus is the Savior sent by the Father, who declares his purpose to preserve those given to him. The two are not identical, but Boaz's willingness to take responsibility gives the disciple a way to recognize something of the Redeemer's character.
+
+Then comes the remarkable ending of Ruth 3.
+
+Naomi tells Ruth:
+
+> "Sit still, my daughter, until thou know how the matter will fall." — Ruth 3:18
+
+Ruth has approached Boaz, made her request, and received his promise. She cannot resolve the remaining question herself. Boaz must now act.
+
+Jesus tells his disciples:
+
+> "Let not your heart be troubled: ye believe in God, believe also in me." — John 14:1
+
+Here is the lesson for the disciple. Faith sometimes requires him to act, as Ruth acted when she went to the threshing floor. But having entrusted the matter to the one who can accomplish it, faith also teaches him to trust rather than attempt to take everything back into his own hands.
+
+Ruth began the chapter seeking rest. She ends it waiting upon the man who has promised to redeem her. And Naomi says that Boaz will not rest until he has finished the matter.
+
+The disciple should consider whether he has truly brought his need to Christ. Has he asked for the covering and restoration that only the Redeemer can give? And having come to him, is he willing to trust the work Christ has promised to accomplish?
+
+The Savior Test confirms the heart of Ruth 3. Jesus invites the weary to come to him, promises not to cast them out, and declares his commitment to those entrusted to him.
+
+Ruth has found the redeemer. Now she must trust him to finish the work.
+
 ## Canonical History & Context
 
 ### From the Field to the Threshing Floor
