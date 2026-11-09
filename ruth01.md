@@ -22,21 +22,13 @@ permalink: /ruth01/
 
 Ruth 1 is about **turning back toward God while you are still empty**.
 
-Naomi does not return to Bethlehem because her life has been repaired.
+Naomi has nothing to return to. No husband, no sons, no grandsons, no restored inheritance. And no idea that Boaz will soon enter the story. She has no worldly reason to go back.
 
-Her husband is still dead.
-
-Her sons are still dead.
-
-She has no grandson, no restored inheritance, and no idea that Boaz will soon enter the story.
-
-She returns because she hears:
+She returns only because she hears:
 
 > “the LORD had visited his people in giving them bread.”
 
-That is enough to change her direction.
-
-Naomi rises and starts home while she is still carrying everything that happened in Moab.
+That is enough to change her direction. She rises and starts home while she is still carrying everything that happened in Moab.
 
 This is the first movement of Ruth for the disciple.
 
