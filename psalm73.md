@@ -36,6 +36,9 @@ Jesus also describes two men who build their houses upon different foundations. 
 
 This helps explain the slippery places of Psalm 73. What appeared secure to the psalmist was actually resting upon an unstable foundation. The prosperity he envied could not guarantee the lasting safety he imagined it possessed. He had almost abandoned the true foundation because he was distracted by the appearance of another man's house.
 
+<img width="1672" height="941" alt="psalm73b" src="https://github.com/user-attachments/assets/03e430ba-0657-4691-8abd-216429348f59" />
+
+
 But the psalm does not end with a warning against wealth. It leads the disciple to something much greater.
 
 > "Whom have I in heaven but thee? and there is none upon earth that I desire beside thee." — Psalm 73:25
