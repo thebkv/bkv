@@ -36,6 +36,8 @@ Ruth waits until Boaz has finished his work and gone to sleep, then lies at his 
 
 > “I am Ruth thine handmaid: spread therefore thy skirt over thine handmaid; for thou art a near kinsman.”
 
+<img width="1672" height="941" alt="ruth03b" src="https://github.com/user-attachments/assets/9a3ec624-f344-482d-b010-4f794ead18b2" />
+
 This brings back one of the most important words from Chapter 2.
 
 Boaz had told Ruth that she had come to trust under the **wings** of the LORD. The Hebrew word is **kanaph**.
