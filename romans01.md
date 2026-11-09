@@ -94,3 +94,6 @@ Romans 1 begins with the righteousness of God revealed through faith, and then s
 Jesus confirms both sides of that lesson. The man who loves darkness moves away from the light, but the man who does truth comes to the light.
 
 The disciple must decide which way he is walking.
+
+<img width="1672" height="941" alt="romans01a" src="https://github.com/user-attachments/assets/2bc159d6-1fa9-485b-8983-1d09a6b90bcd" />
+
