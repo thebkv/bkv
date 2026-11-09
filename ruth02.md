@@ -32,6 +32,8 @@ God's law required Israel's landowners to leave part of the harvest for the poor
 
 Then Boaz sees her, and the provision becomes personal.
 
+<img width="1672" height="941" alt="ruth02b" src="https://github.com/user-attachments/assets/e6e7559d-fd24-454c-95b2-89a0030d616d" />
+
 He tells Ruth to stay in his field. He makes sure the young men will not bother her, gives her access to water, invites her to eat, and tells the workers to leave extra grain where she can gather it. Ruth still works, but she is now working in a field where someone is deliberately making sure she has enough.
 
 Boaz tells her why he has taken notice of her. He has heard what she did for Naomi, how she left her father and mother, and how she came to live among a people she had not known before. Then he describes what her choice in Chapter 1 means:
