@@ -21,6 +21,7 @@ His reason reveals the difference between the two men. He is willing to acquire 
 The nearer kinsman releases his right. Boaz accepts the responsibility. The sandal changes hands.
 
 <!-- Insert the Ruth 04 artwork, “The Sandal at the Gate,” here. -->
+<img width="1672" height="941" alt="ruth04b" src="https://github.com/user-attachments/assets/d6a20e78-e707-43f7-b92d-c69260dee339" />
 
 What Boaz promised at the threshing floor can now be established before witnesses. The land, the family name, Ruth’s future, and the continuation of the household are being dealt with together.
 
