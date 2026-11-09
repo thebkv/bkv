@@ -7,11 +7,13 @@ permalink: /psalm73/
 
 # PSALM 73 — THE SANCTUARY REVEALS THE TRUTH
 
-The psalmist nearly loses his faith when he sees the prosperity of the wicked. They seem to enjoy wealth, strength, and freedom from trouble, while he struggles despite trying to keep his heart clean. He begins to wonder whether following God has been worth the cost. But everything changes when he enters the sanctuary. There he sees what appearances had concealed: the prosperity he envied was resting on an unstable foundation. He realizes that the greatest treasure was never the wealth or comfort of other men, but the presence of God himself. The disciple must learn this same lesson. When he judges his life by outward circumstances, he can easily become discouraged or envious. But when he draws near to God, his understanding is restored, and he discovers where his true security lies.
+The psalmist knows that God is good, yet he nearly loses his faith when he sees the prosperity of the wicked. Those who disregard God seem to enjoy wealth, strength, and freedom from trouble, while he struggles despite trying to keep his heart clean. He begins to wonder whether following God has been worth the cost. His mistake is to judge his life by outward appearances, mistaking temporary prosperity for lasting security. 
 
-## Summary
+Everything changes when he enters the sanctuary of God. There he begins to understand where each path ultimately leads, and he sees that the prosperity he envied rests upon an unstable foundation. The disciple must learn this same lesson. When he measures his life against the apparent success of others, envy and discouragement can cause him to lose his footing. 
 
-Psalm 73 describes one of the great turning points in the life of the disciple. The psalm begins with a contradiction: God is good, yet those who disregard Him appear to prosper. The temptation is to judge reality by appearances, leading to envy, instability, and discouragement. Everything changes when the psalmist enters the sanctuary. There, a higher perspective reveals the true destination of every path. The chapter ultimately teaches that God's presence is itself the disciple's greatest inheritance. Nearness to God restores right perception.
+But in the presence of God, his understanding is restored. He discovers that his greatest inheritance is not wealth, comfort, or freedom from difficulty, but God himself. What began as a struggle over why the wicked prosper ends with the psalmist declaring, "But it is good for me to draw near to God." (Psalm 73:28)
+
+> See also: Ruth — The Road from Bitterness to Redemption, where Naomi returns to Bethlehem believing that God has brought her home empty, unaware of the restoration already unfolding through Ruth.
 
 ---
 
@@ -49,7 +51,7 @@ Jesus expresses this same priority:
 
 The disciple who seeks the kingdom first is learning to desire what the psalmist finally discovers in the sanctuary. He no longer has to measure the goodness of God by comparing his circumstances with those of other men. He can trust the Father while continuing to seek the life and righteousness of His kingdom.
 
-The Savior Test reveals the movement of the whole psalm. Jesus calls the disciple away from judging by appearances, shows him the danger of gaining the world at the expense of his soul, and teaches him to build upon what will endure.
+The Savior Test reveals the movement of the whole psalm. The Lord calls the disciple away from judging by appearances, shows him the danger of gaining the world at the expense of his soul, and teaches him to build upon what will endure.
 
 The disciple should ask himself whether he has been envying something that only looks desirable from a distance. Has he mistaken outward prosperity for the blessing of God? Has he allowed comparison to make him doubt the value of the life Christ is teaching him to live?
 
