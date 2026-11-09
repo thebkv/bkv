@@ -4,7 +4,7 @@ chapter: 3
 title: "BOASTING IS EXCLUDED"
 focus: "The end of self-righteousness and the reception of righteousness through Christ."
 summary: "The law exposes what is wrong but cannot make the disciple righteous. Paul brings everyone onto the same ground, removes every reason for boasting, and points to the righteousness of God received through faith in Jesus Christ."
-permalink: /romans03/
+permalink: /romans03/  
 ---
 
 ## 03 — THE WAY NO ONE COULD MAKE
