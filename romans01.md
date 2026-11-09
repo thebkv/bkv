@@ -27,7 +27,14 @@ The disciple should recognize how easily this can happen within his own thinking
 
 Paul describes the turning point as an exchange. Men change the glory of the incorruptible God into images resembling corruptible creatures. They exchange the truth of God for a lie, and worship and serve the creature more than the Creator.
 
-This is the great exchange at the center of the chapter.
+This is the great exchange at the center of the chapter. (continues)
+
+<img src="https://github.com/user-attachments/assets/2bc159d6-1fa9-485b-8983-1d09a6b90bcd"
+     alt="Romans 1 — The Great Exchange"
+     width="1672"
+     height="941"
+     style="display: block; width: 100%; max-width: 960px; height: auto; margin: 2rem auto;">
+
 
 The disciple should not imagine that an idol must always be a carved image. Anything created can become an object of misplaced devotion when a man begins to look to it for what belongs to God. His possessions, reputation, physical strength, intellectual ability, or even his religious accomplishments can become the things around which he organizes his life.
 
@@ -95,5 +102,6 @@ Jesus confirms both sides of that lesson. The man who loves darkness moves away 
 
 The disciple must decide which way he is walking.
 
-<img width="1672" height="941" alt="romans01a" src="https://github.com/user-attachments/assets/2bc159d6-1fa9-485b-8983-1d09a6b90bcd" />
 
+(c) 2026 The Bible Key Ministry
+⚓️
