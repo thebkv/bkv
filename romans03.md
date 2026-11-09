@@ -11,9 +11,9 @@ permalink: /romans03/
 
 Romans 3 brings the disciple to the end of trying to establish his own righteousness. Paul has removed the distinction between the religious person and the irreligious one: both stand in need of God. The law has an important purpose, because it tells the truth about us. It exposes sin and leaves us without an excuse. But seeing what is right is not the same thing as becoming right. “By the law is the knowledge of sin.”
 
-Then Paul turns to what God does. The righteousness we could not produce for ourselves is revealed through Jesus Christ. This is why boasting is excluded. The disciple cannot stand before God pointing to his knowledge, discipline, religious history, or good behavior as the source of his righteousness. The old man wants to become good enough to justify himself. Paul says that entire project has reached its end.
+Then Paul turns to what God does. The righteousness we could not produce for ourselves is revealed through Jesus Christ. This is why boasting works against you. The disciple cannot stand before God pointing to his own knowledge, discipline, religious history, or good behavior as the source of his righteousness. The old man wants to become good enough to justify himself. Paul says that entire project has reached its end.
 
-This does not mean that how we live no longer matters. It means the source has changed. The disciple is no longer trying to manufacture righteousness from the old life. He receives a new life from Christ, and righteousness begins to come from that life.
+The disciple is no longer trying to create righteousness from the old life. He receives a new life from Christ, and righteousness begins to come from that life.
 
 ### The Savior Test
 
