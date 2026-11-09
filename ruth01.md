@@ -54,6 +54,8 @@ Naomi tells her to go back to her people and her gods. Ruth refuses.
 
 > “whither thou goest, I will go; and where thou lodgest, I will lodge: thy people shall be my people, and thy God my God.”
 
+<img width="1672" height="941" alt="ruth01b" src="https://github.com/user-attachments/assets/bb28305d-8fdf-48b2-87da-420534cd6421" />
+
 Ruth chooses her direction before she knows what waits for her there.
 
 She does not know about Boaz.
