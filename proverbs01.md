@@ -9,7 +9,9 @@ permalink: /proverbs01/
 
 ## 01 — THE CRY IN THE STREETS
 
-Wisdom calls openly to everyone willing to hear, but not everyone is willing to listen. Solomon begins by teaching that the fear of the Lord is the beginning of knowledge. He warns his son against those who promise easy riches through violence and dishonesty, then introduces Wisdom herself, crying aloud in the streets and calling men to turn from their foolishness. The disciple should recognize that the voice of wisdom is not always telling him what he wants to hear. Sometimes it comes as correction, exposing a path he has chosen that will eventually destroy him. The question is whether he will listen while there is still time to turn. Those who refuse wisdom must eventually face the consequences of their own choices, but those who receive her instruction are promised a life established in safety. The disciple must learn to recognize God's instruction, receive correction without resisting it, and walk in the way that leads to life.
+Wisdom calls openly to everyone willing to hear, but not everyone is willing to listen. Solomon begins by teaching that the fear of the Lord is the beginning of knowledge. He warns his son against those who promise easy riches through violence and dishonesty, then introduces Wisdom herself, crying aloud in the streets and calling men to turn from their foolishness. The disciple should recognize that the voice of wisdom is not always telling him what he wants to hear. Sometimes it comes as correction, exposing a path he has chosen that will eventually destroy him. 
+
+The question is whether he will listen while there is still time to turn. Those who refuse wisdom must eventually face the consequences of their own choices, but those who receive her instruction are promised a life established in safety. The disciple must learn to recognize God's instruction, receive correction without resisting it, and walk in the way that leads to life.
 
 In Proverbs 1:7, the ancient word translated “fear” is yir'ah (יִרְאָה), from a root associated with fear, trembling, reverence, and awe. It can describe actual fear of danger, but when directed toward the Lord, it also carries the sense of recognizing His greatness, authority, and holiness. The ancient meaning includes reverence, but it should not be reduced to mere respect.
 
@@ -20,11 +22,7 @@ The word yir'ah embraces both awe and accountability: the disciple recognizes Go
 
 ## The Savior Test
 
-True wisdom can be found:
-
-> "The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction." — Proverbs 1:7
-
-Jesus confirms the importance of fearing God:
+Our Lord confirms the importance of this "fear".
 
 > "But I will forewarn you whom ye shall fear: Fear him, which after he hath killed hath power to cast into hell; yea, I say unto you, Fear him." — Luke 12:5
 
@@ -36,9 +34,12 @@ Jesus gives the disciple the same warning about the way he chooses to follow:
 
 > "Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat." — Matthew 7:13
 
-The danger in Proverbs is not simply that wicked men exist. It is that they invite the disciple to join them. They offer belonging, wealth, and the appearance of advantage. Jesus tells him to consider where the road leads. A way may attract many followers and seem profitable at first, yet still lead to destruction.
+The danger in Proverbs is not simply that wicked men exist. It is that they invite the disciple to join them. _They offer belonging, wealth, and the appearance of advantage._ Jesus tells the disciple to consider where the road leads. A way may attract many followers and seem profitable at first, yet still lead to destruction.
 
 Then Proverbs introduces Wisdom as a woman crying openly in the streets. She calls to the simple, the scorners, and the fools, asking how long they will continue loving their foolishness.
+
+<img width="1672" height="941" alt="proverbs01b" src="https://github.com/user-attachments/assets/765579e5-340f-45ac-95e6-1eea63ba5897" />
+
 
 Her invitation is remarkable:
 
@@ -83,3 +84,6 @@ The disciple must ask himself whether he has merely admired wisdom or has begun 
 Wisdom has cried in the streets. Jesus has spoken the words of life.
 
 The disciple must hear and follow.
+
+(c) The Bible Key Ministry
+⚓️
