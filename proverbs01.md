@@ -12,6 +12,12 @@ permalink: /proverbs01/
 
 Wisdom calls openly to everyone willing to hear, but not everyone is willing to listen. Solomon begins by teaching that the fear of the Lord is the beginning of knowledge. He warns his son against those who promise easy riches through violence and dishonesty, then introduces Wisdom herself, crying aloud in the streets and calling men to turn from their foolishness. The disciple should recognize that the voice of wisdom is not always telling him what he wants to hear. Sometimes it comes as correction, exposing a path he has chosen that will eventually destroy him. The question is whether he will listen while there is still time to turn. Those who refuse wisdom must eventually face the consequences of their own choices, but those who receive her instruction are promised a life established in safety. The disciple must learn to recognize God's instruction, receive correction without resisting it, and walk in the way that leads to life.
 
+In Proverbs 1:7, the ancient word translated “fear” is yir'ah (יִרְאָה), from a root associated with fear, trembling, reverence, and awe. It can describe actual fear of danger, but when directed toward the Lord, it also carries the sense of recognizing His greatness, authority, and holiness. The ancient meaning includes reverence, but it should not be reduced to mere respect.
+
+For the disciple, the fear of the Lord begins when God becomes more real and authoritative to him than his own opinions, desires, or the approval of other people. He approaches God with awe, receives His correction, and takes His Word seriously. This is the beginning of wisdom because it places the disciple in a position to be taught.
+
+The word yir'ah embraces both awe and accountability: the disciple recognizes God's goodness, but also understands that His authority is not something to treat lightly.
+
 
 ## The Savior Test
 
