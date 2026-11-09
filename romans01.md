@@ -2,6 +2,7 @@
 book: Romans
 chapter: 1
 title: "The Great Exchange"
+summary: "The Power of the Gospel and the Decline of the Natural Mind"
 permalink: /romans01/  
 ---
 
