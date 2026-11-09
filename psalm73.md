@@ -14,6 +14,7 @@ Everything changes when he enters the sanctuary of God. There he begins to under
 But in the presence of God, his understanding is restored. He discovers that his greatest inheritance is not wealth, comfort, or freedom from difficulty, but God himself. What began as a struggle over why the wicked prosper ends with the psalmist declaring, "But it is good for me to draw near to God." (Psalm 73:28)
 
 > See also: Ruth — The Road from Bitterness to Redemption, where Naomi returns to Bethlehem believing that God has brought her home empty, unaware of the restoration already unfolding through Ruth.
+> See also: Habakkuk - "Although the fig tree shall not blossom, neither shall fruit be in the vines... Yet I will rejoice in the LORD, I will joy in the God of my salvation."
 
 ---
 
