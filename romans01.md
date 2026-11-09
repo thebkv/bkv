@@ -29,7 +29,7 @@ Paul describes the turning point as an exchange. Men change the glory of the inc
 
 This is the great exchange at the center of the chapter. (continues)
 
-<img src="https://github.com/user-attachments/assets/2bc159d6-1fa9-485b-8983-1d09a6b90bcd"
+<img src="https://github.com/user-attachments/assets/2717c72e-b424-49f1-af7d-98a42048bcc8"
      alt="Romans 1 — The Great Exchange"
      width="1672"
      height="941"
