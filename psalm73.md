@@ -15,6 +15,7 @@ But in the presence of God, his understanding is restored. He discovers that his
 
 > See also: Ruth — The Road from Bitterness to Redemption, where Naomi returns to Bethlehem believing that God has brought her home empty, unaware of the restoration already unfolding through Ruth.  
 > See also: Habakkuk - "Although the fig tree shall not blossom, neither shall fruit be in the vines... Yet I will rejoice in the LORD, I will joy in the God of my salvation."
+> See also: Psalm 16 - "The LORD is the portion of mine inheritance and of my cup: thou maintainest my lot."
 
 ---
 
