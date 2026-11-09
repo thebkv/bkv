@@ -59,7 +59,7 @@ The chapter reaches its conclusion with an extraordinary declaration:
 
 Paul has brought the disciple all the way from judging the outward sins of others to examining the hidden condition of his own heart.
 
-<img src="https://github.com/user-attachments/assets/c69b53d2-7738-49dd-8cc4-926be2f9d6a1"
+<img src="https://github.com/user-attachments/assets/6fc8694c-17a4-437d-909d-614742e1920c"
      alt="Romans 2 — The Judge Is Judged"
      width="1672"
      height="941"
