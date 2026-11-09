@@ -19,6 +19,12 @@ This does not mean that how we live no longer matters. It means the source has c
 
 Jesus shows exactly this when the Pharisee and the publican go to the temple to pray. The Pharisee presents God with his religious accomplishments. The publican has nothing to present and simply asks for mercy. Jesus says the publican goes home **“justified rather than the other”** (Luke 18:14).
 
+<img src="[IMAGE_URL_HERE](https://github.com/user-attachments/assets/0ddf3c4c-f45c-408b-a5d0-450802c43003)"
+     alt="Romans 3 — The publican humbly seeks mercy in the temple"
+     width="1672"
+     height="941"
+     style="display: block; width: 100%; max-width: 960px; height: auto; margin: 2rem auto;">
+
 Romans 3 is showing the same thing. The door into the kingdom is not opened by proving that the old man is righteous.
 
 **Boasting ends when the disciple stops presenting himself to God and begins receiving his life from Christ.**
