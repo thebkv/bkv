@@ -109,6 +109,82 @@ The journey was leading toward a new household, a restored inheritance, and a li
 
 ---
 
+
+## The Savior Test
+
+Boaz comes to the gate of Bethlehem to settle the matter he promised Ruth he would finish. Another kinsman has the first right to redeem the inheritance, and Boaz honors that claim. At first the man is willing to acquire the land. But when he learns that redemption also involves Ruth and the responsibility of preserving the dead man's name, he withdraws.
+
+He says:
+
+> "I cannot redeem it for myself, lest I mar mine own inheritance." — Ruth 4:6
+
+This is the turning point. The nearer kinsman is concerned about what redemption will cost him. Boaz, however, is willing to take responsibility for the widow, the land, and the future of the household.
+
+Jesus gives us the key to understanding this willingness:
+
+> "For even the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many." — Mark 10:45
+
+Jesus came to give himself for others. Boaz is not Jesus, and his act of redemption is not the same as the saving work of Christ. But the disciple can recognize something of the Savior's character in what Boaz does. He willingly accepts a responsibility that another man has refused.
+
+There is also an important difference between the two men at the gate. The nearer kinsman asks what redemption might take away from his own inheritance. Boaz accepts the obligation because he is willing to restore the inheritance of another.
+
+Jesus describes this same willingness in even greater terms:
+
+> "I am the good shepherd: the good shepherd giveth his life for the sheep." — John 10:11
+
+The disciple should recognize what kind of Redeemer he has in Jesus. Christ does not abandon those who come to him because their restoration is costly. He has come to save, and he willingly gives himself for those entrusted to him.
+
+But Ruth 4 reveals something else. Redemption must actually be accomplished.
+
+In chapter 3, Ruth came to Boaz seeking his covering. He received her request and promised to settle the matter. Now he goes to the gate, faces the remaining claim, and completes what he said he would do.
+
+Jesus speaks of his own work with these words:
+
+> "I have glorified thee on the earth: I have finished the work which thou gavest me to do." — John 17:4
+
+And upon the cross:
+
+> "It is finished." — John 19:30
+
+Boaz carries his promise through to completion. Jesus, in the greater work of redemption, fulfills the purpose for which the Father sent him.
+
+The disciple must learn to trust the Redeemer to accomplish what he has promised. Ruth could ask Boaz for redemption, but she could not settle the claim at the gate herself. That responsibility belonged to the one who had the standing and willingness to redeem her.
+
+Then the story becomes fruitful. Ruth enters Boaz's household, the Lord gives her conception, and a son is born. Naomi, who returned to Bethlehem saying that the Lord had brought her home empty, now holds the child in her arms.
+
+The women call him:
+
+> "A restorer of thy life, and a nourisher of thine old age." — Ruth 4:15
+
+Here the disciple can see that redemption has brought more than the recovery of property. A broken household has received new life. Ruth has found a home, Naomi has received comfort, and a future has opened where there had seemed to be none.
+
+Jesus describes the purpose of his coming:
+
+> "I am come that they might have life, and that they might have it more abundantly." — John 10:10
+
+This is the greater life toward which the story points. Christ comes to restore man to fellowship with the Father and bring forth the fruit of that new life. The disciple is invited to enter a relationship with the Redeemer that changes how he lives and what his life produces.
+
+And then Ruth ends with an extraordinary revelation.
+
+The child is named Obed. Obed becomes the father of Jesse, and Jesse becomes the father of David.
+
+Matthew opens his Gospel by tracing the generations of Jesus Christ and specifically names Ruth:
+
+> "And Booz begat Obed of Ruth; and Obed begat Jesse." — Matthew 1:5
+
+This is the great completion of the book. The Moabite widow who came to Bethlehem with Naomi becomes an ancestor of David, and through David's line, of Jesus Christ.
+
+The disciple should consider how little Ruth could have known when she first chose to accompany Naomi. She could not see the generations that would follow. Boaz could not see the full significance of his faithfulness at the gate. Yet their lives became part of a much greater work of God.
+
+The Savior Test brings the whole book into focus. Jesus reveals the character of the willing Redeemer, the one who gives himself, finishes the work entrusted to him, and brings life where there was loss.
+
+The disciple must ask himself whether he is still trying to preserve the old claim over his life, accepting God's provision while resisting the fuller work of redemption. Has he come to Christ for covering, yet continued to hold back what he fears surrendering?
+
+Ruth came seeking refuge beneath the wings of the Lord. Through Boaz, she found redemption, a household, and a future she could never have imagined.
+
+And through the generations that followed, the Redeemer himself came into the world.
+
+
 ## Canonical History & Context
 
 ### The City Gate
