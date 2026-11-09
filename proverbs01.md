@@ -1,9 +1,8 @@
-
 ---
 book: Proverbs
 chapter: 1
 title: "The Cry in the Streets"
-permalink: /proverbs01/
+permalink: /proverbs01/  
 ---
 
 # PROVERBS 1
