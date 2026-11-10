@@ -1,6 +1,7 @@
 ---
 book: Acts
 chapter: 10
+title: "The House Peter Would Not Enter"
 focus:
   - God removes the boundary between Jew and Gentile
   - Peter learns not to call any person common or unclean
@@ -10,9 +11,110 @@ summary: God prepares Cornelius and Peter for the same meeting, removes a bounda
 permalink: /acts10/
 ---
 
-# Acts 10 — The Door Opens to the Nations
+# ACTS 10
 
-## THE FORBIDDEN HOUSE
+## 10 — THE HOUSE PETER WOULD NOT ENTER
+
+Peter has walked with Jesus, witnessed his resurrection, received the Holy Spirit, and preached the gospel with power. Yet there is something he still does not understand. 
+
+In Caesarea, a Roman centurion named Cornelius is praying to God, while Peter is praying in Joppa. Neither man knows the other, but God is preparing them to meet. Peter sees heaven opened and receives a vision that challenges his understanding of what is clean and unclean. When the messengers arrive, he must decide whether to follow the Spirit into a house he would ordinarily have avoided. 
+
+There he discovers that God has already been at work among the people he considered outsiders. The disciple should recognize what is happening within Peter. A man may genuinely know Christ and still carry assumptions that prevent him from seeing what God is doing. Peter must allow the Lord to correct his understanding before he can recognize the work of the Holy Spirit unfolding before his eyes.
+
+
+
+## The Savior Test
+
+Before Jesus ascended, he gave his disciples a remarkable commission:
+
+> "But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth." — Acts 1:8
+
+Peter heard these words himself. He received the Holy Spirit at Pentecost, preached in Jerusalem, and witnessed the gospel spreading beyond the city. Yet when God prepares to send him into the house of a Roman centurion, Peter still needs a vision to understand what the Lord is asking him to do.
+
+This is the first great lesson for the disciple. Peter had received the words of Jesus, but he was still discovering how completely those words would change his understanding.
+
+Jesus had already spoken about people beyond the familiar fold:
+
+> "And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd." — John 10:16
+
+Jesus knew there were others who would hear his voice. The disciple should notice that Jesus speaks of bringing them himself. The Shepherd already knows the sheep whom Peter has not yet met.
+
+Now consider what happens in Acts 10. Cornelius is praying in Caesarea, and God hears him. Peter is praying in Joppa, and God prepares him. By the time Peter enters the house, Cornelius has gathered his family and friends, ready to hear the Word.
+
+Peter discovers that the Shepherd has already been at work.
+
+But first, Peter must confront something within himself.
+
+On the housetop, he sees a vessel descending from heaven, containing animals he has always considered unclean. When the voice tells him to rise, kill, and eat, Peter protests:
+
+> "Not so, Lord; for I have never eaten any thing that is common or unclean." — Acts 10:14
+
+The answer comes:
+
+> "What God hath cleansed, that call not thou common." — Acts 10:15
+
+Jesus had already taught Peter a principle that should have prepared him for this moment:
+
+> "There is nothing from without a man, that entering into him can defile him: but the things which come out of him, those are they that defile the man." — Mark 7:15
+
+Jesus was teaching about the source of human defilement. He directed attention away from outward things and toward what proceeds from the heart.
+
+Peter's vision now brings him to another application of God's cleansing. The animals in the vision prepare him to recognize something about people, and **Peter himself tells us what the vision means**:
+
+> "But God hath shewed me that I should not call any man common or unclean." — Acts 10:28
+
+This is the interpretation the disciple must preserve. God is preparing him to enter the household of a Gentile and recognize those whom God is receiving.
+
+There is something revealing about Peter's resistance. He believes he is defending his faithfulness to God. He has obeyed the distinctions he was taught under the law, and he is unwilling to violate them. Yet God is asking him to recognize what He is now doing through Christ.
+
+The disciple should understand how easily this can happen in his own life. He may hold an understanding that once helped him obey God, yet become so attached to his interpretation (or habits) that he resists the further understanding God is bringing him. Peter must learn that faithfulness includes listening when the Lord corrects him.
+
+Then Peter enters Cornelius's house and begins to preach Jesus Christ.
+
+He tells them about Jesus of Nazareth, whom God anointed with the Holy Ghost and power, who went about doing good and healing those oppressed by the devil. He speaks of his death, his resurrection, and the witnesses who saw him alive.
+
+Finally, Peter declares:
+
+> "To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins." — Acts 10:43
+
+Here the promise of Jesus comes into full view.
+
+Jesus had already commanded his disciples:
+
+> "Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost." — Matthew 28:19
+
+The command is clear and inclusive. Jesus had said *all nations*. Peter is now in a Gentile household, proclaiming the very gospel Jesus sent him to preach.
+
+And while Peter is still speaking, the Holy Ghost falls upon those who hear the Word.
+
+This is the decisive moment. Peter has not finished his sermon. The household has not been baptized in water. But God has already given them the Holy Spirit.
+
+Jesus had promised:
+
+> "And him that cometh to me I will in no wise cast out." — John 6:37
+
+The disciple should recognize the importance of what happens here. Peter is witnessing the Lord receive people whom Peter had previously regarded as outside the familiar boundaries of his religious life.
+
+He can no longer treat them as excluded when God has visibly given them the same Spirit.
+
+Peter asks:
+
+> "Can any man forbid water, that these should not be baptized, which have received the Holy Ghost as well as we?" — Acts 10:47
+
+The chapter has brought Peter a remarkable distance. On the housetop he says, "Not so, Lord." In the house of Cornelius he asks, "Can any man forbid?"
+
+He begins by resisting what heaven has shown him. He ends by recognizing that no man has the right to withhold what God has already given.
+
+The Savior Test confirms the whole movement of Acts 10. Jesus promised that his witnesses would go to the ends of the earth. He spoke of other sheep who would hear his voice. He commanded his disciples to teach all nations, and he promised not to cast out those who come to him.
+
+Peter is now witnessing those words come to pass.
+
+The disciple should ask himself whether he is willing to let Jesus correct what he thinks he already knows. Has he become so certain of his understanding that he no longer recognizes the work of God when it appears somewhere unexpected? Is he willing to follow the Spirit even when doing so requires him to reconsider a boundary he has long taken for granted?
+
+So the chapter shows a disciple being taught new things by the very Lord he has already followed for years.
+
+Peter enters a house he once would not have entered, and finds the Holy Spirit waiting to be revealed there. Jesus had already told him that there were other sheep, and now Peter has met them.
+
 
 ## BKV Insight
 
