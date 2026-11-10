@@ -9,6 +9,54 @@ summary: "Deuteronomy 18 tells you where to turn for direction: reject the other
 permalink: /deuteronomy18/  
 ---
 
+# DEUTERONOMY 18
+
+## 18 — HEAR YE HIM
+
+Moses begins by reminding Israel that the priests and Levites will receive no inheritance in the land like the other tribes. Their inheritance is the Lord himself. While the rest of Israel receives land to possess and cultivate, the Levites are set apart to serve God and live from what he provides. The disciple should recognize the importance of this. A man may have possessions, work, and responsibilities in the world, but his greatest inheritance is God himself. The priest's portion points toward a life in which the Lord has become the man's source of security and provision.
+
+Then Moses warns Israel about the practices they will encounter in the promised land. The surrounding nations seek guidance through divination, enchantments, familiar spirits, and consulting the dead. They want to discover hidden things and gain some measure of control over what lies ahead. Israel must not follow them.
+
+The disciple should recognize this temptation. When he faces an uncertain future, he may become desperate to know what will happen or find someone who can tell him what to do. Fear can make almost any promise of secret knowledge attractive. But Moses is teaching Israel that they must not surrender themselves to every voice claiming spiritual authority. They belong to God, and they must learn to receive their direction from him.
+
+Then comes the great promise at the heart of the chapter:
+
+> "The LORD thy God will raise up unto thee a Prophet from the midst of thee, of thy brethren, like unto me; unto him ye shall hearken." — Deuteronomy 18:15
+
+God has not left his people without a voice. Moses tells them that the Lord himself will raise up a Prophet whom they must hear.
+
+This promise reaches back to Horeb, where Israel had been afraid to hear the voice of God directly and had asked Moses to stand between them and the overwhelming presence. God now promises a Prophet who will speak the words given to him. His authority will come from the One who sent him.
+
+The disciple should pay particular attention to this. The central question is no longer how many voices he can consult or how much hidden knowledge he can acquire. It is whether he will listen to the One God has appointed.
+
+The identity of this Prophet is revealed in the New Testament. After Peter heals the lame man at the Beautiful Gate, he speaks to the people of Israel about Jesus Christ. He then quotes the very promise Moses gave:
+
+> "For Moses truly said unto the fathers, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear in all things whatsoever he shall say unto you." — Acts 3:22
+
+Peter continues with the warning that every soul who refuses to hear that Prophet will be cut off from among the people. He is telling Israel that the Prophet Moses promised has come in Jesus Christ.
+
+This is an extraordinary confirmation. Peter is not merely finding a resemblance between Moses and Jesus. He directly applies Moses' words to the risen Christ, whom he has just proclaimed to the people.
+
+And there is another witness. On the mountain of Transfiguration, Moses and Elijah appear with Jesus. Then the Father speaks from the cloud:
+
+> "This is my beloved Son, in whom I am well pleased; hear ye him." — Matthew 17:5
+
+Moses had told Israel, "Unto him ye shall hearken." Now the Father identifies Jesus and gives the same command: "Hear ye him."
+
+The disciple should recognize the importance of this. The man who has spent his life searching for divine guidance is being directed to Jesus Christ. The Father has identified the Son, and Peter has confirmed that he is the Prophet Moses foretold. The disciple need not spend his life following every religious voice that claims to possess hidden knowledge. He must learn to hear Jesus.
+
+Moses then warns Israel about prophets who speak presumptuously in God's name. Some will claim to possess a word from the Lord when God has not sent them. Israel must learn to distinguish the word God has given from the claims men make on their own authority.
+
+This warning remains important for the disciple. He may encounter confident teachers, impressive claims, and predictions offered as though they came directly from God. But confidence is not the same as divine authority. Jesus himself warned against false prophets and told his disciples to recognize them by their fruits.
+
+The disciple must therefore examine what he hears. Does a teaching agree with the words of Jesus? Does it lead him toward love, mercy, righteousness, and obedience to the Father? Or does it draw him away from Christ toward fear, fascination with hidden knowledge, or dependence upon another man's supposed authority?
+
+The chapter begins with the Lord as the priest's inheritance and ends with the question of whose word Israel can trust. Both teachings lead the disciple toward the same discovery. God is to be his portion, and God has provided the voice he must follow.
+
+The Prophet promised through Moses has come. Peter identifies him, the Father confirms him, and Jesus himself declares that he speaks the words given him by the Father.
+
+The disciple must now decide whether he will merely study what Jesus has said or actually hear and follow him.
+
 
 ## The Savior Test
 
