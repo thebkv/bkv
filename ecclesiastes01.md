@@ -49,6 +49,8 @@ He has seen all the works done under the sun, and behold, all is vanity and vexa
 
 The expression translated *vexation of spirit* is often understood as striving after wind. The picture is of a man attempting to grasp something that continually escapes him. He may exert tremendous effort and even understand much of what he encounters, but he cannot take hold of the lasting satisfaction he seeks.
 
+<img width="1672" height="941" alt="ecclesiastes01b" src="https://github.com/user-attachments/assets/1bfc8a92-8076-4da4-b806-abdef45a5f63" />
+
 The Preacher then says, "That which is crooked cannot be made straight: and that which is wanting cannot be numbered."
 
 He has discovered limitations that human wisdom cannot overcome simply by understanding them. There are things he cannot repair by examining them more carefully, and there are deficiencies he cannot supply through knowledge alone.
