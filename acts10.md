@@ -365,6 +365,8 @@ It changes Peter's understanding so that he can enter Cornelius's house.
 
 Peter crosses the physical threshold after God has begun removing the inward boundary.
 
+<img width="1672" height="941" alt="acts10b" src="https://github.com/user-attachments/assets/b6f0a0f3-dc60-4d46-9d3c-aa389c503675" />
+
 Then he discovers something remarkable.
 
 Cornelius has already been praying.
