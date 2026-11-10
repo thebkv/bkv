@@ -34,6 +34,8 @@ Then, on the mountain of Transfiguration, the Father gives the decisive command:
 
 Moses had said, "Unto him ye shall hearken." Now the Father identifies Jesus and says, "Hear ye him."
 
+<img width="1672" height="941" alt="deuteronomy18c" src="https://github.com/user-attachments/assets/14c2611e-41bb-4cb4-9492-1dc50dccbb61" />
+
 The connection becomes even stronger when we turn to Peter's sermon in Acts 3. After healing the lame man at the Beautiful Gate, Peter speaks to Israel about Jesus Christ and quotes Moses directly:
 
 > "For Moses truly said unto the fathers, A prophet shall the Lord your God raise up unto you of your brethren, like unto me; him shall ye hear in all things whatsoever he shall say unto you." — Acts 3:22
