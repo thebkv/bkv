@@ -3,7 +3,7 @@ book: Ecclesiastes
 chapter: 1
 title: "The King Who Had Everything"
 permalink: /ecclesiastes01/  
----
+---  
 
 # ECCLESIASTES 1
 
