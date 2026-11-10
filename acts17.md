@@ -48,6 +48,9 @@ Paul is sent on to Athens alone. While waiting, he is distressed by the city’s
 
 Epicurean and Stoic philosophers debate with him and bring him to the Areopagus. Paul speaks about the “unknown god,” declaring the Creator who does not dwell in temples, who gives life to all, and who is near to everyone.
 
+<img width="1672" height="941" alt="acts17b" src="https://github.com/user-attachments/assets/e00231f2-b4d5-4e72-9641-7cdad9cbf555" />
+
+
 When Paul speaks of resurrection, some mock, some delay, and some believe. Paul leaves Athens, having planted the seed.
 
 ---
