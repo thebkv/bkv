@@ -7,9 +7,9 @@ permalink: /psalm73/
 
 # PSALM 73 — THE SANCTUARY REVEALS THE TRUTH
 
-The psalmist knows that God is good, yet he nearly loses his faith when he sees the prosperity of the wicked. Those who disregard God seem to enjoy wealth, strength, and freedom from trouble, while he struggles despite trying to keep his heart clean. He begins to wonder whether following God has been worth the cost. His mistake is to judge his life by outward appearances, mistaking temporary prosperity for lasting security. 
+The psalmist knows that God is good, yet he nearly loses his faith when he sees the prosperity of the wicked. As can readily be seen in today's world, those who disregard God seem to enjoy wealth, strength, and freedom from trouble, while he struggles despite trying to keep his heart clean. He begins to wonder whether following God has been worth the cost. His mistake is to judge his life by outward appearances, mistaking temporary prosperity for lasting security. 
 
-Everything changes when he enters the sanctuary of God. There he begins to understand where each path ultimately leads, and he sees that the prosperity he envied rests upon an unstable foundation. The disciple must learn this same lesson. When he measures his life against the apparent success of others, envy and discouragement can cause him to lose his footing. 
+Everything changes when he enters the sanctuary of God. There he begins to understand where each path ultimately leads, and he sees that the prosperity he envied rests upon an unstable, and indeed, imaginary, foundation. The disciple must learn this same lesson. When he measures his life against the apparent success of others, envy and discouragement can cause him to lose his footing. 
 
 But in the presence of God, his understanding is restored. He discovers that his greatest inheritance is not wealth, comfort, or freedom from difficulty, but God himself. What began as a struggle over why the wicked prosper ends with the psalmist declaring, "But it is good for me to draw near to God." (Psalm 73:28)
 
@@ -24,7 +24,7 @@ But in the presence of God, his understanding is restored. He discovers that his
 
 The psalmist begins by looking at the prosperity of the wicked and wondering whether keeping his heart clean has been worthwhile. Everything changes when he enters the sanctuary of God. He begins to see beyond their present circumstances to where their lives are leading.
 
-Jesus gives the disciple the very instruction he needs:
+Almost 1000 years later, the Lord gives the disciple the very instruction he needs:
 
 > "Judge not according to the appearance, but judge righteous judgment." — John 7:24
 
@@ -33,6 +33,11 @@ This is the heart of Psalm 73. The psalmist nearly loses his footing because he 
 Jesus then asks a question that exposes the weakness of worldly prosperity:
 
 > "For what is a man profited, if he shall gain the whole world, and lose his own soul?" — Matthew 16:26 [The Rock and the Keys](matthew16.md)  
+
+In Matthew 19 he says:
+> And: "It is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God." - Also see Mark 10, Luke 18
+
+This message from the Savior could not be more clear.
 
 The psalmist had been measuring success by wealth, comfort, and outward security. Jesus reveals what was missing from that calculation. A man may possess everything the world considers desirable and still be losing the very life that matters most. The disciple must learn to consider where a path leads, rather than merely what it appears to offer today.
 
