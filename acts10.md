@@ -170,7 +170,31 @@ God begins moving them toward one another.
 
 ---
 
-## Natural Reading
+
+
+
+## The Natural Reading
+
+Acts 10 begins with two men praying in different cities. Cornelius is a Roman centurion living in Caesarea, a devout man who fears God, gives generously to the poor, and prays continually. An angel appears to him and tells him that his prayers and alms have come up before God. He is instructed to send for Peter, who is staying with Simon the tanner in Joppa. Cornelius obeys and sends three men to find him. Meanwhile, Peter knows nothing of what has happened in Caesarea, but God is preparing him for the visit.
+
+The following day, Peter goes up onto the housetop to pray. He becomes hungry, and while food is being prepared, he falls into a trance. He sees heaven opened and a great vessel descending, filled with animals that he has been taught not to eat. A voice tells him to rise, kill, and eat. Peter answers, "Not so, Lord; for I have never eaten any thing that is common or unclean." The voice replies, "What God hath cleansed, that call not thou common." This happens three times, and the vessel is taken back into heaven. Peter is left wondering what the vision means. He has obeyed the law concerning clean and unclean things all his life, and now he has received an instruction that seems to contradict what he knows. He does not yet understand what God is showing him.
+
+While Peter is still thinking about the vision, the men sent by Cornelius arrive at the gate. The Spirit tells Peter to go with them, doubting nothing, because he has sent them. Peter receives the men into the house, and the next day he travels with them to Caesarea, accompanied by several believers from Joppa. When he arrives, Cornelius has gathered his relatives and close friends to hear what Peter has been commanded to say. The two men have followed the instructions given to them, though neither knew beforehand what the other was experiencing. Cornelius has been prepared to receive the message, and Peter has been prepared to enter a house he would ordinarily have avoided.
+
+When Peter enters, Cornelius falls at his feet, but Peter lifts him up and says, "Stand up; I myself also am a man." Peter then explains why his visit is so unusual. He tells those gathered that a Jew would ordinarily avoid such close association with a Gentile, but God has shown him that he must not call any man common or unclean. Here Peter himself explains the vision. The animals in the vessel had prepared him for this meeting. He had believed that certain people must remain outside the familiar boundaries of his religious life, but God has brought him into their home. Peter has followed Jesus for years, witnessed his resurrection, preached at Pentecost, and seen remarkable miracles. Yet there was still something he needed to learn. The disciple should recognize that knowing Christ does not mean he has already understood everything Christ intends to teach him.
+
+Cornelius tells Peter about the angel and why he sent for him. He explains that everyone has gathered before God to hear what the Lord has commanded Peter to speak. Peter begins with a discovery of his own: "Of a truth I perceive that God is no respecter of persons." He has come to understand that God receives those who fear him and work righteousness, whatever nation they belong to. Then Peter preaches Jesus Christ. He tells them how God anointed Jesus of Nazareth with the Holy Ghost and power, how he went about doing good and healing those oppressed by the devil, how he was crucified, and how God raised him from the dead. He declares that the apostles are witnesses of these things and that through Jesus' name, whoever believes in him shall receive remission of sins.
+
+While Peter is still speaking, the Holy Ghost falls upon those who hear the Word. The Jewish believers who accompanied him are astonished because the gift of the Holy Ghost has been poured out upon the Gentiles also. They hear them speak with tongues and magnify God. Peter has not arranged this or brought it about through his own authority. He has simply preached Christ, and God has acted before he has even finished speaking. This is the moment that settles the matter. Peter can see that the same Spirit given to the believers at Pentecost has now been given to the people standing before him.
+
+Peter asks, "Can any man forbid water, that these should not be baptized, which have received the Holy Ghost as well as we?" He then commands them to be baptized in the name of the Lord. The man who began by saying, "Not so, Lord," has come to recognize something he would once have resisted. God has received these people, and Peter will not stand in the way. What makes the chapter especially revealing is that Peter was already a faithful disciple when it began. He was not being called away from unbelief, but into a fuller understanding of the Lord he already knew. The disciple must remain willing to be taught in the same way. He may have followed Jesus for many years and still discover that some of the boundaries he has defended were drawn by his own understanding. When the Lord shows him something more, he must be willing to listen.
+
+Acts 10 ends with Peter remaining among the people he had once considered outside his fellowship. He came to Caesarea to bring them the gospel, but God also used the journey to enlarge Peter's understanding. The Lord who sent him had already been at work in the house before he arrived.
+
+---  
+
+
+## Analysis
 
 ### Acts 10:1–8 — Cornelius Is Heard
 
