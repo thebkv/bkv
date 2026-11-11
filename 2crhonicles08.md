@@ -13,6 +13,8 @@ Solomon has finished building the house of the Lord and his own house. Twenty ye
 
 The disciple should recognize this stage of the journey. There is a time when a man is occupied with seeking God and establishing a place for His presence in his life. But that is not the end of the work. The understanding he has received must begin to govern the rest of his affairs. His responsibilities, his habits, the way he uses his resources, and the work of his hands must all be brought into order. Solomon has built the Temple, but now he must govern the kingdom.
 
+<img width="1672" height="941" alt="2chronicles08b" src="https://github.com/user-attachments/assets/8fdae8c9-3445-4f8f-a50f-6613a1a85a59" />
+
 The chapter describes Solomon rebuilding cities and settling Israelites within them. He strengthens fortified places, builds store cities, and establishes places for his chariots and horsemen. His authority extends over the territory entrusted to him, and he is making preparations to preserve what has been established.
 
 There is something the disciple can learn from this. Spiritual understanding must eventually become practical. A man may have experienced a genuine awakening, received an answer to prayer, or discovered something wonderful in Scripture, but he must still return to the ordinary responsibilities of his life. The question is whether he will carry that understanding into everything he does. It is possible to experience the presence of God in prayer and then conduct the rest of the day as though nothing has changed.
