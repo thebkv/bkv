@@ -19,7 +19,7 @@ Peter has walked with Jesus, witnessed his resurrection, received the Holy Spiri
 
 In Caesarea, a Roman centurion named Cornelius is praying to God, while Peter is praying in Joppa. Neither man knows the other, but God is preparing them to meet. Peter sees heaven opened and receives a vision that challenges his understanding of what is clean and unclean. When the messengers arrive, he must decide whether to follow the Spirit into a house he would ordinarily have avoided. 
 
-There he discovers that God has already been at work among the people he considered outsiders. The disciple should recognize what is happening within Peter. A man may genuinely know Christ and still carry assumptions that prevent him from seeing what God is doing. Peter must allow the Lord to correct his understanding before he can recognize the work of the Holy Spirit unfolding before his eyes.
+There he discovers that God has already been at work among the people he considered outsiders. The disciple should recognize what is happening within Peter. A man may genuinely know Christ and still carry assumptions that prevent him from seeing what God is saying. Peter must allow the Lord to correct his understanding before he can recognize the work of the Holy Spirit unfolding before his eyes.
 
 
 
@@ -65,7 +65,7 @@ Peter's vision now brings him to another application of God's cleansing. The ani
 
 This is the interpretation the disciple must preserve. God is preparing him to enter the household of a Gentile and recognize those whom God is receiving.
 
-There is something revealing about Peter's resistance. He believes he is defending his faithfulness to God. He has obeyed the distinctions he was taught under the law, and he is unwilling to violate them. Yet God is asking him to recognize what He is now doing through Christ.
+There is something revealing about Peter's resistance. He believes he is defending his faithfulness to God. He has obeyed the distinctions he was taught under the law, and he is unwilling to violate them. Yet God is asking him to recognize what He is now working through Christ.
 
 The disciple should understand how easily this can happen in his own life. He may hold an understanding that once helped him obey God, yet become so attached to his interpretation (or habits) that he resists the further understanding God is bringing him. Peter must learn that faithfulness includes listening when the Lord corrects him.
 
@@ -194,7 +194,7 @@ Acts 10 ends with Peter remaining among the people he had once considered outsid
 ---  
 
 
-## Analysis
+## Notes
 
 ### Acts 10:1–8 — Cornelius Is Heard
 
