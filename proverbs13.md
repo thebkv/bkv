@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Proverbs 13 — The Life You Are Feeding"
+book: Proverbs
+chapter: 13
+description: "Proverbs 13 shows the disciple how his inner life becomes his outward experience through correction, speech, desire, diligence, and the thoughts he cultivates."
+---
 
 # Proverbs 13 — The Life You Are Feeding
 
