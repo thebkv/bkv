@@ -61,6 +61,8 @@ A desire continually postponed can become a source of suffering. The disciple ma
 
 But the fulfillment of a rightly cultivated desire becomes a tree of life. It bears fruit beyond the original longing.
 
+<img width="1672" height="941" alt="proverbs13b" src="https://github.com/user-attachments/assets/41bf1860-ceda-46cf-a7a9-9778269b43c1" />
+
 The chapter also warns about companionship:
 
 > He that walketh with wise men shall be wise: but a companion of fools shall be destroyed. (13:20)
