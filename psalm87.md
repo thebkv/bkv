@@ -123,3 +123,8 @@ The disciple should ask himself whether he is still relying upon the identity he
 The nations are being gathered. The Lord is recording those who belong to his city.
 
 And the singers rejoice because all their springs are there.
+
+**See also:** [Acts 10 — The House Peter Would Not Enter]({{ '/acts10/' | relative_url }}), where Peter discovers that God has received the Gentiles, fulfilling the vision of Psalm 87 in which people from distant nations are counted among those who belong to Zion.
+
+(c) 2026 The Bible Key
+⚓️
