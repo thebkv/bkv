@@ -48,6 +48,8 @@ The disciple should recognize the movement. God exposes the unfaithfulness that 
 
 Hosea's household bears three names that tell Israel the truth about its condition. Jezreel announces judgment, Lo-ruhamah warns of mercy withdrawn, and Lo-ammi declares the broken relationship. Yet before the chapter ends, God has already spoken of a day when the rejected will be called his children and the divided people will be gathered together.
 
+<img width="1672" height="941" alt="hosea01b" src="https://github.com/user-attachments/assets/7c669606-67d4-478e-b5ed-d7d6803a1a24" />
+
 The disciple must learn to hear both parts of the message. He cannot dismiss the seriousness of turning away from God, but neither should he overlook the mercy already appearing in God's promise to restore his people.
 
 ## The Savior Test
