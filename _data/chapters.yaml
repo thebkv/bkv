@@ -2091,31 +2091,44 @@ sections:
           bkv_title: The House of Three Names
           url: /hosea01/
         - chapter: 2
-          bkv_title: Stripped of False Loves and Allured Back to the Wilderness
+          bkv_title: The Wilderness and the Wedding
+          url: /hosea02/
         - chapter: 3
-          bkv_title: Love Restores and Redeems the Fallen Soul
+          bkv_title: The Price of Redemption
+          url: /hosea03/
         - chapter: 4
-          bkv_title: 'No Knowledge of God in the Land: Priest and People Stumble'
+          bkv_title: The Knowledge That Was Lost
+          url: /hosea04/
         - chapter: 5
-          bkv_title: Judgment Declared Upon Unspiritual Leadership
+          bkv_title: The Wound No King Could Heal
+          url: /hosea05/
         - chapter: 6
-          bkv_title: 'Come, Let Us Return: Loyalty Over Mere Sacrifice'
+          bkv_title: Mercy Before Sacrifice
+          url: /hosea06/
         - chapter: 7
-          bkv_title: The Half-Baked Cake and Unturned Heart
+          bkv_title: The Heart That Would Not Return
+          url: /hosea07/
         - chapter: 8
-          bkv_title: Sowing the Wind and Reaping the Whirlwind
+          bkv_title: The God They Claimed to Know
+          url: /hosea08/
         - chapter: 9
-          bkv_title: The Days of Punishment and the Loss of Joy
+          bkv_title: The Feast Before the Exile
+          url: /hosea09/
         - chapter: 10
-          bkv_title: 'An Empty Vine: Sow for Yourselves Righteousness'
+          bkv_title: Break Up the Fallow Ground
+          url: /hosea10/
         - chapter: 11
-          bkv_title: 'Out of Egypt I Called My Son: Compassion Stirred'
+          bkv_title: How Shall I Give Thee Up?
+          url: /hosea11/
         - chapter: 12
-          bkv_title: 'Jacob Wrestled and Returned: Turn Back to Your God'
+          bkv_title: The Man Who Wrestled with God
+          url: /hosea12/
         - chapter: 13
-          bkv_title: Self-Destruction in Pride and the Promise of Ransom
+          bkv_title: The Ransom from the Grave
+          url: /hosea13/
         - chapter: 14
-          bkv_title: Healed from Backsliding and Blooming Like the Lily
+          bkv_title: The Fruit of Returning
+          url: /hosea14/
       - title: Joel
         subtitle: 'The Book of Awakening: The Day of the Lord and the Outpouring Spirit'
         chapters:
