@@ -9,6 +9,8 @@ permalink: /hosea02/
 
 ## 02 — THE WILDERNESS AND THE WEDDING
 
-## The Natural Reading
+## The Savior Test
+
+> "And I will betroth thee unto me for ever." — Hosea 2:19
 
 > "And if I go and prepare a place for you, I will come again, and receive you unto myself." — John 14:3

@@ -9,6 +9,8 @@ permalink: /hosea04/
 
 ## 04 — THE KNOWLEDGE THAT WAS LOST
 
-## The Natural Reading
+## The Savior Test
+
+> "My people are destroyed for lack of knowledge." — Hosea 4:6
 
 > "And this is life eternal, that they might know thee the only true God, and Jesus Christ, whom thou hast sent." — John 17:3

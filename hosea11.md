@@ -9,6 +9,8 @@ permalink: /hosea11/
 
 ## 11 — HOW SHALL I GIVE THEE UP?
 
-## The Natural Reading
+## The Savior Test
+
+> "How shall I give thee up, Ephraim? how shall I deliver thee, Israel?" — Hosea 11:8
 
 > "But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him." — Luke 15:20

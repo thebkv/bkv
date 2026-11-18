@@ -9,6 +9,8 @@ permalink: /hosea06/
 
 ## 06 — MERCY BEFORE SACRIFICE
 
-## The Natural Reading
+## The Savior Test
+
+> "For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings." — Hosea 6:6
 
 > "But go ye and learn what that meaneth, I will have mercy, and not sacrifice." — Matthew 9:13

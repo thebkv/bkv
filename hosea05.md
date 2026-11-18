@@ -9,6 +9,8 @@ permalink: /hosea05/
 
 ## 05 — THE WOUND NO KING COULD HEAL
 
-## The Natural Reading
+## The Savior Test
+
+> "Yet could he not heal you, nor cure you of your wound." — Hosea 5:13
 
 > "They that be whole need not a physician, but they that are sick." — Matthew 9:12

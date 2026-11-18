@@ -9,6 +9,8 @@ permalink: /hosea09/
 
 ## 09 — THE FEAST BEFORE THE EXILE
 
-## The Natural Reading
+## The Savior Test
+
+> "My God will cast them away, because they did not hearken unto him." — Hosea 9:17
 
 > "How often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!" — Matthew 23:37
