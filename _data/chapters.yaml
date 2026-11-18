@@ -2132,12 +2132,18 @@ sections:
       - title: Joel
         subtitle: 'The Book of Awakening: The Day of the Lord and the Outpouring Spirit'
         chapters:
+        - chapter: 0
+          bkv_title: The Day of the Lord
+          url: /joel00/
         - chapter: 1
           bkv_title: The Devastating Swarm Awakens the Stupor of the Land
+          url: /joel01/
         - chapter: 2
           bkv_title: 'Rend Your Heart: The Spirit Poured Out Upon All Flesh'
+          url: /joel02/
         - chapter: 3
           bkv_title: The Multitudes in the Valley of Decision
+          url: /joel03/
       - title: Amos
         subtitle: 'The Book of Justice: Righteousness Flowing Like an Ever-Living
           Stream'
