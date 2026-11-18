@@ -11,6 +11,8 @@ permalink: /hosea01/
 
 ## The Natural Reading
 
+> "Blessed are the peacemakers: for they shall be called the children of God." — Matthew 5:9
+
 Hosea begins with an unusual command from God. The prophet is told to take a wife of whoredoms, because the land has departed from the Lord and gone after other gods. Hosea marries Gomer, the daughter of Diblaim, and the children born into this household are given names that announce what is happening between God and Israel. The prophet's family becomes a living picture of a broken covenant. What Israel has been doing toward God is now shown through the most intimate human relationship, where love and faithfulness should have been found.
 
 The disciple should understand why this picture is so powerful. Marriage is a relationship in which two people are bound together by a promise of faithfulness. Israel had entered into covenant with the Lord, yet had begun looking to other gods for the blessings and security that belonged to that relationship. This is more than a mistake in religious practice. It is a betrayal of trust. The disciple may recognize something similar when he claims to depend upon God while continually turning elsewhere for the things he most desires. He may speak of faithfulness while allowing some other affection, ambition, or fear to govern his decisions.
