@@ -105,6 +105,8 @@ Then we come to the final verse:
 
 > "As well the singers as the players on instruments shall be there: all my springs are in thee." — Psalm 87:7
 
+<img width="1672" height="941" alt="psalm87b" src="https://github.com/user-attachments/assets/7a370be1-8bb0-4111-b76b-379f68e34a1a" />
+
 Jesus speaks to the woman of Samaria about another source of water:
 
 > "But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life." — John 4:14
