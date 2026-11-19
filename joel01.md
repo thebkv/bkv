@@ -9,7 +9,7 @@ permalink: /joel01/
 
 ## 01 — THE DEVASTATING SWARM AWAKENS THE STUPOR OF THE LAND
 
-[image prompt: Ancient Judean vineyard after a locust swarm, with stripped vines, pale bark, a few locusts resting on the branches, and a farmer holding a nearly empty harvest basket. Quiet, ground-level composition in dusty ochre and gray. Biblical oil painting, no lettering.]
+<img width="1672" height="941" alt="joel01b" src="https://github.com/user-attachments/assets/d2dcfd5c-fae2-427a-ad51-7ac9fd6615f6" />
 
 ## The Savior Test
 
