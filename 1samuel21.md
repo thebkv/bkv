@@ -1,4 +1,13 @@
-# 1 Samuel 21 — The Principle of Sacred Bread  
+---
+book: 1 Samuel
+chapter: 21
+title: "The Bread and the Sword"
+permalink: /1samuel21/
+---
+
+# 1 SAMUEL 21
+
+## 21 — THE BREAD AND THE SWORD
 ### *Divine Provision in the Exile of Love*  
   
 > *“So the priest gave him hallowed bread: for there was no bread there but the shewbread, that was taken from before the LORD.”*  

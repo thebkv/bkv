@@ -1,5 +1,13 @@
-# 1 SAMUEL 01 — Bible Key Version (BKV)  
-## The Principle of Earnest Desire: The Birth of True Prayer  
+---
+book: 1 Samuel
+chapter: 1
+title: "The Prayer That Gave a Son Away"
+permalink: /1samuel01/
+---
+
+# 1 SAMUEL 01
+
+## 01 — THE PRAYER THAT GAVE A SON AWAY
   
 > *“For this child I prayed; and the LORD hath given me my petition which I asked of him.”*  
   

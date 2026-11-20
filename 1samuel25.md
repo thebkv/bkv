@@ -1,4 +1,13 @@
-# 1 Samuel 25 — The Principle of Wise Intercession  
+---
+book: 1 Samuel
+chapter: 25
+title: "The Woman Who Stopped the Swords"
+permalink: /1samuel25/
+---
+
+# 1 SAMUEL 25
+
+## 25 — THE WOMAN WHO STOPPED THE SWORDS
 ### *The Law of Intuitive Mercy — The Folly of the Ego and the Wisdom of Intuition*  
   
 > *“And when Abigail saw David, she hasted, and lighted off the ass, and fell before David on her face, and bowed herself to the ground.”*  

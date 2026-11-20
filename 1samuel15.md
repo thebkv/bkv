@@ -1,4 +1,13 @@
-# 1 Samuel 15 — The Principle of Rationalized Disobedience  
+---
+book: 1 Samuel
+chapter: 15
+title: "The Bleating Behind the Victory"
+permalink: /1samuel15/
+---
+
+# 1 SAMUEL 15
+
+## 15 — THE BLEATING BEHIND THE VICTORY
 ### *Partial Obedience as Complete Rejection*  
   
 > *“Behold, to obey is better than sacrifice, and to hearken than the fat of rams.”*  

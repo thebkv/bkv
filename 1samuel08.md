@@ -1,4 +1,13 @@
-# 1 Samuel 8 — The Principle of Substituted Rule  
+---
+book: 1 Samuel
+chapter: 8
+title: "Give Us a King"
+permalink: /1samuel08/
+---
+
+# 1 SAMUEL 08
+
+## 08 — GIVE US A KING
 ### *The Desire for Outer Kingship and the Rejection of Inner Guidance*  
   
 > *“Make us a king to judge us like all the nations.”*  

@@ -1,4 +1,13 @@
-# 1 Samuel 17 — The Principle of Spiritual Courage  
+---
+book: 1 Samuel
+chapter: 17
+title: "Five Stones and a Giant"
+permalink: /1samuel17/
+---
+
+# 1 SAMUEL 17
+
+## 17 — FIVE STONES AND A GIANT
 ### *The Confrontation of Faith and the Giant of Fear*  
   
 > *“Thou comest to me with a sword, and with a spear, and with a shield: but I come to thee in the name of the LORD of hosts.”*   

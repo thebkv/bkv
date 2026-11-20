@@ -1,4 +1,13 @@
-# 1 Samuel 28 — The Principle of False Inquiry  
+---
+book: 1 Samuel
+chapter: 28
+title: "The King at the Door of Endor"
+permalink: /1samuel28/
+---
+
+# 1 SAMUEL 28
+
+## 28 — THE KING AT THE DOOR OF ENDOR
 ### *The Silence of God and the Desperation of the Will*  
   
 > *“And when Saul enquired of the LORD, the LORD answered him not, neither by dreams, nor by Urim, nor by prophets.”*  

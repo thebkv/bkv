@@ -1,5 +1,13 @@
-# 1 SAMUEL 03 — Bible Key Version (BKV)  
-## The Principle of Inner Hearing  
+---
+book: 1 Samuel
+chapter: 3
+title: "The Voice in the Night"
+permalink: /1samuel03/
+---
+
+# 1 SAMUEL 03
+
+## 03 — THE VOICE IN THE NIGHT
 ### *Distinguishing the Voice of the Source from the Noise of the Self*  
 ⸻  
 ## SUMMARY  

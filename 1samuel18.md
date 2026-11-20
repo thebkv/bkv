@@ -1,4 +1,13 @@
-# 1 Samuel 18 — The Principle of Divine Friendship  
+---
+book: 1 Samuel
+chapter: 18
+title: "The Robe and the Spear"
+permalink: /1samuel18/
+---
+
+# 1 SAMUEL 18
+
+## 18 — THE ROBE AND THE SPEAR
 ### *The Covenant of Love and the Shadow of Jealousy*  
   
 > *“The soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul.”*  

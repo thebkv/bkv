@@ -1,4 +1,13 @@
-# 1 Samuel 30 — The Principle of Restoration  
+---
+book: 1 Samuel
+chapter: 30
+title: "The Return to the Burning City"
+permalink: /1samuel30/
+---
+
+# 1 SAMUEL 30
+
+## 30 — THE RETURN TO THE BURNING CITY
 ### *Strength Renewed and All Recovered*  
   
 > *“But David encouraged himself in the LORD his God.”*  

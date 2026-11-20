@@ -1,4 +1,13 @@
-# 1 Samuel 27 — The Principle of Apparent Retreat  
+---
+book: 1 Samuel
+chapter: 27
+title: "A Refuge in Enemy Country"
+permalink: /1samuel27/
+---
+
+# 1 SAMUEL 27
+
+## 27 — A REFUGE IN ENEMY COUNTRY
 ### *The Hidden Working of Divine Strategy*  
   
 > *“And David said in his heart, I shall now perish one day by the hand of Saul: there is nothing better for me than that I should speedily escape into the land of the Philistines.”*  

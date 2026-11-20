@@ -1,4 +1,13 @@
-# 1 Samuel 20 — The Principle of Sacred Covenant  
+---
+book: 1 Samuel
+chapter: 20
+title: "The Arrows Beyond the Mark"
+permalink: /1samuel20/
+---
+
+# 1 SAMUEL 20
+
+## 20 — THE ARROWS BEYOND THE MARK
 ### *Faith and Love Preserve Loyalty Amid Division*  
   
 > *“The LORD be between me and thee, and between my seed and thy seed for ever.”*  

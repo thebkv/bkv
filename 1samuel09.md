@@ -1,4 +1,13 @@
-# 1 Samuel 9 — The Principle of Misguided Search  
+---
+book: 1 Samuel
+chapter: 9
+title: "The Lost Asses and the Waiting Prophet"
+permalink: /1samuel09/
+---
+
+# 1 SAMUEL 09
+
+## 09 — THE LOST ASSES AND THE WAITING PROPHET
 ### *The Rise of the Outer King and the Lost Purpose of Desire*  
   
 > *“Now the asses of Kish Saul’s father were lost.”*  

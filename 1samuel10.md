@@ -1,4 +1,13 @@
-# 1 Samuel 10 — The Principle of Confirmation  
+---
+book: 1 Samuel
+chapter: 10
+title: "The King Hidden Among the Baggage"
+permalink: /1samuel10/
+---
+
+# 1 SAMUEL 10
+
+## 10 — THE KING HIDDEN AMONG THE BAGGAGE
 ### *The Trial of Image and the Descent of Temporary Spirit*  
   
 > *“And the Spirit of the LORD will come upon thee, and thou shalt prophesy with them, and shalt be turned into another man.”*  

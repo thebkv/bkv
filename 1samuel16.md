@@ -1,4 +1,13 @@
-# 1 Samuel 16 — The Principle of Inner Renewal  
+---
+book: 1 Samuel
+chapter: 16
+title: "The Youngest Son in the Field"
+permalink: /1samuel16/
+---
+
+# 1 SAMUEL 16
+
+## 16 — THE YOUNGEST SON IN THE FIELD
 ### *The Anointing of David and the Passing of the Spirit*  
   
 > *“Man looketh on the outward appearance, but the LORD looketh on the heart.”*  

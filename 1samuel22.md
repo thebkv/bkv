@@ -1,4 +1,13 @@
-# 1 Samuel 22 — The Principle of the Cave  
+---
+book: 1 Samuel
+chapter: 22
+title: "The Refugees in the Cave"
+permalink: /1samuel22/
+---
+
+# 1 SAMUEL 22
+
+## 22 — THE REFUGEES IN THE CAVE
 ### *The Formation of the Inner Community*  
   
 > *“David therefore departed thence, and escaped to the cave Adullam: and when his brethren and all his father’s house heard it, they went down thither to him.”*  

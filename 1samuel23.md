@@ -1,4 +1,13 @@
-# 1 Samuel 23 — The Principle of Guidance and Betrayal  
+---
+book: 1 Samuel
+chapter: 23
+title: "The City That Would Give Him Up"
+permalink: /1samuel23/
+---
+
+# 1 SAMUEL 23
+
+## 23 — THE CITY THAT WOULD GIVE HIM UP
 ### *Acting by Revelation, Departing by Wisdom*  
   
 > *“Then David enquired of the LORD yet again; and the LORD answered him and said, Arise, go down to Keilah; for I will deliver the Philistines into thine hand.”*  

@@ -1,4 +1,13 @@
-# 1 Samuel 26 — The Principle of Discernment  
+---
+book: 1 Samuel
+chapter: 26
+title: "The Spear Beside the Sleeping King"
+permalink: /1samuel26/
+---
+
+# 1 SAMUEL 26
+
+## 26 — THE SPEAR BESIDE THE SLEEPING KING
 ### *The Maturity of Love and the Sleep of the Will*  
   
 > *“The LORD forbid that I should stretch forth mine hand against the LORD’s anointed: but, I pray thee, take thou now the spear that is at his bolster, and the cruse of water, and let us go.”*  

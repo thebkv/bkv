@@ -1,4 +1,13 @@
-# 1 Samuel 19 — The Principle of Spiritual Preservation  
+---
+book: 1 Samuel
+chapter: 19
+title: "The Escape Through the Window"
+permalink: /1samuel19/
+---
+
+# 1 SAMUEL 19
+
+## 19 — THE ESCAPE THROUGH THE WINDOW
 ### *Love Protected in the Midst of Envy*  
   
 > *“And Saul sent messengers to take David: and when they saw the company of the prophets prophesying, … the Spirit of God was upon them also.”*  

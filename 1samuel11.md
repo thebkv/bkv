@@ -1,4 +1,13 @@
-# 1 Samuel 11 — The Principle of Zealous Victory  
+---
+book: 1 Samuel
+chapter: 11
+title: "Seven Days to Save Jabesh"
+permalink: /1samuel11/
+---
+
+# 1 SAMUEL 11
+
+## 11 — SEVEN DAYS TO SAVE JABESH
 ### *The Awakening of Outer Strength and the Spirit’s First Triumph through Form*  
   
 > *“And the Spirit of God came upon Saul when he heard those tidings, and his anger was kindled greatly.”*  

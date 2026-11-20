@@ -1,4 +1,13 @@
-# 1 Samuel 14 — The Principle of Divided Impulse  
+---
+book: 1 Samuel
+chapter: 14
+title: "The Climb Between the Rocks"
+permalink: /1samuel14/
+---
+
+# 1 SAMUEL 14
+
+## 14 — THE CLIMB BETWEEN THE ROCKS
 ### *Faith Acting in Trust and the Folly of Rash Control*  
   
 > *“It may be that the LORD will work for us: for there is no restraint to the LORD to save by many or by few.”*  

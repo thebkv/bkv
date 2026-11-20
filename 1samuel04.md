@@ -1,4 +1,13 @@
-# 1 Samuel 4 — The Principle of Presumption  
+---
+book: 1 Samuel
+chapter: 4
+title: "The Ark in Enemy Hands"
+permalink: /1samuel04/
+---
+
+# 1 SAMUEL 04
+
+## 04 — THE ARK IN ENEMY HANDS
 ### *The Loss of Divine Presence through Misplaced Confidence*  
   
 > *“And the ark of God was taken; and the two sons of Eli died.”*  

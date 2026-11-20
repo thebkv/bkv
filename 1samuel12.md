@@ -1,4 +1,13 @@
-# 1 Samuel 12 — The Principle of Accountability  
+---
+book: 1 Samuel
+chapter: 12
+title: "Thunder at the Wheat Harvest"
+permalink: /1samuel12/
+---
+
+# 1 SAMUEL 12
+
+## 12 — THUNDER AT THE WHEAT HARVEST
 ### *The Farewell of the Prophet and the Warning of Inner Governance*  
   
 > *“Only fear the LORD, and serve him in truth with all your heart: for consider how great things he hath done for you.”*  

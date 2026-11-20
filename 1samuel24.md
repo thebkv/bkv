@@ -1,4 +1,13 @@
-# 1 Samuel 24 — The Principle of Restraint  
+---
+book: 1 Samuel
+chapter: 24
+title: "The King in the Cave"
+permalink: /1samuel24/
+---
+
+# 1 SAMUEL 24
+
+## 24 — THE KING IN THE CAVE
 ### *The Power of Mercy Over Reaction*  
   
 > *“The LORD judge between me and thee, and the LORD avenge me of thee: but mine hand shall not be upon thee.”*  

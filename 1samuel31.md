@@ -1,4 +1,13 @@
-# 1 Samuel 31 — The Principle of Completion  
+---
+book: 1 Samuel
+chapter: 31
+title: "The Last Stand on Gilboa"
+permalink: /1samuel31/
+---
+
+# 1 SAMUEL 31
+
+## 31 — THE LAST STAND ON GILBOA
 ### *The End of the Outer Will and the Rise of Inner Sovereignty*  
   
 > *“So Saul died, and his three sons, and his armourbearer, and all his men, that same day together.”*  

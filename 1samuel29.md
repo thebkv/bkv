@@ -1,4 +1,13 @@
-# 1 Samuel 29 — The Principle of Separation  
+---
+book: 1 Samuel
+chapter: 29
+title: "Sent Back Before the Battle"
+permalink: /1samuel29/
+---
+
+# 1 SAMUEL 29
+
+## 29 — SENT BACK BEFORE THE BATTLE
 ### *The Hidden Kingdom Withdraws from the World’s Battle*  
   
 > *“Then said the princes of the Philistines, Make this fellow return, that he may go again to his place which thou hast appointed him, and let him not go down with us to battle.”*  

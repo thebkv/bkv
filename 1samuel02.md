@@ -1,5 +1,13 @@
-# 1 SAMUEL 02 — Bible Key Version (BKV)  
-## Grace Interprets the World: The Song of Spiritual Reversal  
+---
+book: 1 Samuel
+chapter: 2
+title: "The Song and the Broken Priesthood"
+permalink: /1samuel02/
+---
+
+# 1 SAMUEL 02
+
+## 02 — THE SONG AND THE BROKEN PRIESTHOOD
   
 > *“The LORD killeth, and maketh alive: he bringeth down to the grave, and bringeth up.”*  
   

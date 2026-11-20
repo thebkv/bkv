@@ -1,4 +1,13 @@
-# 1 Samuel 7 — The Principle of Return to Order  
+---
+book: 1 Samuel
+chapter: 7
+title: "The Stone of Help"
+permalink: /1samuel07/
+---
+
+# 1 SAMUEL 07
+
+## 07 — THE STONE OF HELP
 ### *The Restoration of Governance through Repentance and Hearing*  
   
 > *“If ye do return unto the LORD with all your hearts, then put away the strange gods…and prepare your hearts unto the LORD, and serve him only.”*   

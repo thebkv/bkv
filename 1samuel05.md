@@ -1,4 +1,13 @@
-# 1 Samuel 5 — The Principle of Humbling  
+---
+book: 1 Samuel
+chapter: 5
+title: "The God Who Fell Before the Ark"
+permalink: /1samuel05/
+---
+
+# 1 SAMUEL 05
+
+## 05 — THE GOD WHO FELL BEFORE THE ARK
 ### *The Ark Among the Philistines: The Fall of False Powers*  
   
 > *“And when they of Ashdod arose early on the morrow, behold, Dagon was fallen upon his face to the earth before the ark of the LORD.”*  

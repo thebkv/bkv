@@ -1,4 +1,13 @@
-# 1 Samuel 13 — The Principle of Premature Action  
+---
+book: 1 Samuel
+chapter: 13
+title: "The King Who Could Not Wait"
+permalink: /1samuel13/
+---
+
+# 1 SAMUEL 13
+
+## 13 — THE KING WHO COULD NOT WAIT
 ### *The Presumptuous Sacrifice and the Beginning of Decline*  
   
 > *“Thou hast done foolishly: thou hast not kept the commandment of the LORD thy God, which he commanded thee.”*  

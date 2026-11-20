@@ -1,4 +1,13 @@
-# 1 Samuel 6 — The Principle of Restoration  
+---
+book: 1 Samuel
+chapter: 6
+title: "The Cows That Carried the Ark Home"
+permalink: /1samuel06/
+---
+
+# 1 SAMUEL 06
+
+## 06 — THE COWS THAT CARRIED THE ARK HOME
 ### *The Return of the Ark: The Reverence that Restores Presence*  
   
 > *“Then said they, If ye send away the ark of the God of Israel, send it not empty.”*  
