@@ -11,11 +11,31 @@ permalink: /joel00/
 
 [image prompt: Wide biblical landscape of ancient Judah, viewed from a hillside above Jerusalem. Locust-stripped vines in the foreground, storm clouds lifting over Zion, and a narrow ribbon of water catching the dawn. Earth-toned oil painting with natural light and historically grounded architecture. No lettering.]
 
+## The Natural Reading
+
+> "The time is fulfilled, and the kingdom of God is at hand: repent ye, and believe the gospel." — Mark 1:15
+
 Joel begins with a land stripped by locusts. The vine dries up, the harvest fails, and even the offerings at the house of the LORD are interrupted. Joel tells the people to wake up, mourn what has been lost, and gather to cry out to God.
 
 The trumpet in Zion announces the day of the LORD and calls the people to return with their whole heart. God promises to restore what the locusts ate and to pour out his Spirit on all flesh. In the final chapter the nations gather for judgment, and the LORD is the refuge of his people.
 
 Joel asks the disciple to face what has been laid bare and to bring it before God. The book moves from a ruined harvest to the promise of a life sustained by God’s own Spirit.
+
+The word comes to Joel the son of Pethuel. He begins by asking the elders to remember whether they have ever seen such a thing, and he tells the whole land to pass the account down to their children. Before Joel speaks of the nations or of signs in the heavens, he puts us among people watching their food, their livelihood, and their daily worship fail together. What they tell the next generation will include how they answered when the Lord called them to gather.
+
+Listen for the change in the trumpet's purpose. Its first blast sounds the alarm. Its second summons elders, children, and even the bride and bridegroom to an assembly. The priests are to stand between the porch and the altar and ask the Lord to spare his people. The same book that gives words to their fear teaches them where to take it.
+
+The land's recovery is something people and beasts can live on. Pastures turn green, trees bear again, and the threshing floors fill. The Lord says that his people will know he is in their midst. Then the promise reaches across the household. Sons and daughters, old and young, servants and handmaids are named as recipients of his Spirit. The book ends with the Lord dwelling in Zion and a fountain coming from his house. Joel has taken us from dried-up channels to a source that flows out from the place of God's presence.
+
+## The Savior Test
+
+> "And it shall come to pass, that whosoever shall call on the name of the LORD shall be delivered" — Joel 2:32
+
+Jesus announces God's kingdom and calls his hearers to repent and believe the gospel. Joel's trumpet likewise makes the approach of the day a matter for the present. There is time to turn, and Joel has already told the people what they can trust when they do. The Lord is gracious, merciful, and slow to anger.
+
+Joel's call also gives us a way to hear Jesus' invitation at the feast. Jesus calls the thirsty to come to him and drink. John explains that he is speaking of the Spirit. At Pentecost, Peter names Joel when he explains what the people are seeing and hearing, and he declares that the risen Jesus has poured out what they now witness. The gift Joel promised has become part of the apostles' public testimony to Jesus.
+
+The disciple can follow that movement through the book. Wake up to what has been lost. Bring the whole heart before God. Ask him for what a restored harvest alone could never supply. Joel's last picture gives the disciple a place to rest his hope. Through the shaking of heaven and earth, the Lord remains the refuge of his people.
 
 ## Joel — Chapters
 
