@@ -125,6 +125,82 @@ Now the success of that mission will reveal what still governs the prophet.
 
 ---
 
+
+## The Savior Test
+
+Jesus tells us why the people of Nineveh will stand as witnesses against those who refuse to hear him:
+
+> "The men of Nineveh shall rise in judgment with this generation, and shall condemn it: because they repented at the preaching of Jonas; and, behold, a greater than Jonas is here." — Matthew 12:41
+
+Jonah has been delivered from the great fish, and the word of the Lord comes to him a second time. God tells him to arise and go to Nineveh, the same city he had tried to avoid. This time Jonah obeys. He enters the great city and announces that in forty days Nineveh will be overthrown.
+
+The remarkable thing is what happens next. The people believe God. From the greatest to the least, they proclaim a fast and put on sackcloth. Even the king rises from his throne, lays aside his royal robe, and humbles himself before the warning. A city known for its wickedness begins to turn away from the conduct that has brought it under judgment.
+
+Jesus draws our attention to this response. Nineveh did not receive a long course of instruction or witness many miracles. The people heard a warning from a prophet, believed it, and acted upon what they heard. Jesus says that a greater than Jonah has come, yet many who hear him are unwilling to repent.
+
+The disciple should recognize the question Jesus is placing before him. How much truth must a man hear before he is willing to change his ways? He may read the Scriptures, listen to teaching, and seek further understanding, but eventually he must respond to what he has already been shown. The people of Nineveh demonstrate the importance of receiving the word of God while there is still opportunity to act upon it.
+
+The king of Nineveh issues a remarkable command:
+
+> "But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that is in their hands." — Jonah 3:8
+
+The king understands that repentance requires a change in conduct. It is not enough for the people to be frightened by Jonah's warning or to express sorrow over the approaching destruction. They must turn from the evil they have been practicing.
+
+Jesus teaches the same thing when he says:
+
+> "Bring forth therefore fruits meet for repentance." — Matthew 3:8
+
+These words are spoken by John the Baptist, not Jesus, but Jesus himself confirms the principle when he teaches:
+
+> "Wherefore by their fruits ye shall know them." — Matthew 7:20
+
+The disciple should recognize that repentance must bear fruit in his life. If he has been dishonest, he must begin speaking truthfully. If he has been cruel, he must turn from cruelty. If he has been governed by resentment, he must learn to forgive. His response to the word of God should become visible in the way he lives.
+
+The king then asks a question:
+
+> "Who can tell if God will turn and repent, and turn away from his fierce anger, that we perish not?" — Jonah 3:9
+
+The people of Nineveh have no promise from Jonah that their city will be spared. The prophet has announced destruction, and they have responded by humbling themselves before God. Their hope rests upon the possibility of his mercy.
+
+Jesus gives us a fuller revelation of the Father's willingness to receive those who turn toward him. In the parable of the prodigal son, the younger son returns after wasting his inheritance. Jesus tells us:
+
+> "But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him." — Luke 15:20
+
+The son returns because he has come to recognize what he has done and where his choices have brought him. The father receives him with compassion.
+
+The disciple should recognize that the mercy of God is greater than he may have imagined. A man who has wandered far from the truth may begin to believe that his former conduct has placed him beyond restoration. Nineveh shows us a city of wicked people turning toward God, and Jesus shows us a father welcoming his lost son home.
+
+But Jesus also makes clear that repentance is urgent:
+
+> "I tell you, Nay: but, except ye repent, ye shall all likewise perish." — Luke 13:3
+
+Jesus does not treat repentance as something that can be indefinitely postponed. The disciple must not assume that because God is merciful, the consequences of evil can safely be ignored. Mercy gives him reason to turn, and the warning calls him to take that opportunity seriously.
+
+The chapter ends with these words:
+
+> "And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did it not." — Jonah 3:10
+
+Notice what God sees. He sees that they have turned from their evil way. The people have taken the warning seriously, humbled themselves, and begun to change their conduct. The destruction announced by Jonah does not come upon them.
+
+This is the extraordinary outcome of the chapter. Jonah had been sent to announce the overthrow of Nineveh, but the city responds in such a way that God shows it mercy. The warning accomplishes its purpose by bringing the people to repentance.
+
+Jesus reveals the joy of heaven when a sinner turns toward God:
+
+> "I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance." — Luke 15:7
+
+The disciple should recognize the heart of God in this. The Lord sent Jonah to Nineveh knowing the wickedness of the city, but also knowing that its people might respond to his warning. The message that sounded like destruction became the occasion for their deliverance.
+
+Jesus confirms that the repentance of Nineveh was real and significant. He even declares that its people will stand as witnesses against those who hear a greater messenger and refuse to respond.
+
+The disciple should therefore consider what he does when the word of God exposes something in his own life. Does he defend the conduct that has been revealed, or does he turn from it? Does he seek another explanation that will allow him to continue as before, or does he receive the correction and begin to live differently?
+
+Jonah 3 shows a prophet obeying the command he once resisted and a city responding to a warning it could have ignored.
+
+Jesus tells us that something greater than Jonah has come.
+
+The disciple has heard the words of the Savior himself. He must now decide whether he will receive them and allow them to change his life.
+
+
 ## Canonical History & Context
 
 Nineveh is repeatedly called:
