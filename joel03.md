@@ -1,50 +1,96 @@
 ---
 book: Joel
 chapter: 3
-title: "The Multitudes in the Valley of Decision"
+title: "The Valley of Decision"
 permalink: /joel03/
 ---
 
 # JOEL 3
 
-## 03 — THE MULTITUDES IN THE VALLEY OF DECISION
-
-[image prompt: A broad valley beneath Zion filled with distant crowds, storm-dark clouds over the slopes and a single shaft of light touching Jerusalem on the ridge. Biblical landscape in muted earth tones, with depth and scale. No lettering.]
+## 03 — THE VALLEY OF DECISION
 
 ## The Natural Reading
 
-> "When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:" — Matthew 25:31
+> "For the Father judgeth no man, but hath committed all judgment unto the Son." — John 5:22
 
-When the LORD restores Judah and Jerusalem, he summons the nations to the valley of Jehoshaphat to answer for what they did to his people. They scattered Israel, divided the land, and cast lots for captives. Joel names the price for which children were traded. A boy was exchanged for a prostitute and a girl sold for wine. The Lord places these acts at the center of his case against the nations.
+Joel begins with a promise that God will restore the fortunes of Judah and Jerusalem. But restoration also requires that the nations responsible for their suffering be brought to account. The Lord declares that he will gather the nations into the valley of Jehoshaphat and plead with them concerning his people. Israel has been scattered, its land divided, and its inhabitants treated as possessions to be bought and sold. God has seen what was done, and now he calls the nations to judgment.
 
-The Lord addresses Tyre, Zidon, and the coasts of Palestine. They have taken his silver, gold, and treasures into their temples and sold the children of Judah and Jerusalem to the Greeks to carry them far from home. God promises to raise the captives out of the places where they were sold. The traders will face the recompense of their own deeds. The distance to which they sent the children has placed none of those children beyond God's sight.
+The disciple should first recognize that this is a real accusation against the mistreatment of God's people. Joel names Tyre, Zidon, and the coasts of Palestine, describing how they took silver and gold, carried away treasures, and sold the children of Judah and Jerusalem into distant lands. God announces that the people who were sold will be brought back, and those responsible will face the consequences of their actions. The Lord has not forgotten the suffering of those who appeared powerless before their enemies.
 
-The nations are summoned in the language of war. Plowshares become swords, pruning hooks become spears, and even the weak are told to say they are strong. They converge on a valley where the Lord has already said that he will sit to judge. The sickle and the overflowing winepress mark a harvest that has reached its time. Joel supplies the reason for its ripeness. The wickedness is great. The crowds in the valley of decision have come to the place where the Lord renders judgment.
+Then comes an extraordinary summons. The nations are commanded to prepare for war, awaken their mighty men, and gather their forces. Even the weak are told to say, "I am strong." The implements of peaceful agriculture are turned into weapons: plowshares become swords, and pruninghooks become spears. Everything the nations possess is brought into their preparation for battle.
 
-The sun and moon go dark, and the stars withdraw their light. The LORD roars from Zion and the heavens and earth shake. At that moment Joel says that the Lord is the hope of his people and the strength of the children of Israel. The voice that shakes the world is the voice of the God who has heard their case. Jerusalem will be holy, and the people will know the Lord as the one who dwells in Zion.
+But the disciple should notice who has called them together. The nations imagine that their strength will decide the matter, yet it is God who summons them to the valley. Their armies cannot overturn the judgment of the One before whom they have gathered. Joel is showing the limit of human power when it sets itself against the righteousness of God.
 
-Joel closes with a land full of life. The mountains drip wine, the hills flow with milk, and water fills Judah's channels. A fountain flows from the house of the LORD and waters the valley of Shittim. Egypt and Edom are named for violence and the shedding of innocent blood. Judah and Jerusalem are promised a home from generation to generation. The Lord also speaks of cleansing blood that he has yet to cleanse. The final words tell us where that future comes from. The LORD dwells in Zion.
+The prophet then describes the harvest as ripe and the winepress as full because the wickedness of the nations is great. What has been growing through their actions has now reached its consequence. Joel cries, "Multitudes, multitudes in the valley of decision: for the day of the LORD is near in the valley of decision."
 
-The disciple should remember the children at the beginning of the chapter when he reaches the fountain at its end. The peace Joel describes belongs to a people whose wrongs God has heard and whose future he undertakes to secure. Taking refuge in him gives the disciple reason to take seriously the life of anyone whom others have treated as expendable.
+The disciple should understand that this is primarily the place where God's judgment is determined and carried out, rather than simply a picture of people choosing between two paths. Yet the scene calls him to examine his own life. Every action has a character, and the things a man continues to cultivate eventually bear fruit. He must consider what is growing within him before the harvest arrives.
 
-## The Disciple’s Reading
+Then the heavens darken. The sun and moon withdraw their light, and the stars cease shining. The Lord roars out of Zion, and the heavens and earth shake. But in the middle of this terrifying vision, Joel gives the promise that governs the end of the book:
 
-The valley brings dispersed acts before one judge. Trade carried the captives away, and the people who sold them could go on living at a distance from what they had done. The Lord gathers the parties and names the price of the children. For the disciple, the valley gives a way to examine a decision he has kept in separate pieces. He may remember the convenience he gained and rarely think about who carried its cost. Before God those belong to the same act.
+> "But the LORD will be the hope of his people, and the strength of the children of Israel." — Joel 3:16
 
-The weapons show what the nations can muster. A plowshare can cultivate the ground or be made into a weapon. The disciple can see that shift in a capacity he already has. A sharp memory can help him keep a promise or furnish him with every old charge when a quarrel starts. The question in the valley is whose purpose that capacity has been serving. The sickle and the press show when the judge acts. What had been growing in the nations’ dealings has reached a point where its fruit can be seen and reckoned with.
+The same divine presence that brings judgment upon the nations becomes refuge for God's people. They are not told that their safety will come from building an army greater than their enemies. Their hope is the Lord himself.
 
-Zion is where the voice of judgment comes from and where the people find refuge. The Lord who brings the truth of their injury into the open is also the one who gives them somewhere to stand. The disciple can bring his own conduct under that voice and entrust the wrongs he has suffered to the same judge. Where he has caused injury, refuge gives him somewhere to stand while he acknowledges the harm and makes restitution where he can.
+The chapter closes with the restoration of the land. Mountains drop down new wine, hills flow with milk, and rivers bring water through Judah. A fountain comes forth from the house of the Lord and waters the valley of Shittim. The places that suffered devastation are pictured as fruitful again, while Egypt and Edom face judgment for violence against Judah.
 
-The fountain does the work that follows judgment. It carries water from the Lord’s house into the valley of Shittim so the land can live. A disciple may have learned to stop using his strength against another person. He still needs a source from which to use that strength for the person’s good. Joel ends at the Lord’s dwelling because the life of the land continues to depend on the presence from which its water comes.
+Finally, the Lord declares that he will dwell in Zion. The disciple should recognize how far the book has traveled. Joel began with ruined fields and a people crying out in distress. God called them to return, promised to pour out his Spirit, and now reveals a future in which his presence is established among them.
+
+The disciple may begin by asking God to restore something he has lost. But Joel leads him toward a greater discovery. The true hope of God's people is the Lord who dwells among them, judges righteously, and becomes their strength.
 
 ## The Savior Test
 
+Joel describes the nations gathered before God for judgment:
+
 > "Let the heathen be wakened, and come up to the valley of Jehoshaphat: for there will I sit to judge all the heathen round about." — Joel 3:12
 
-> "And before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth his sheep from the goats:" — Matthew 25:32
+Jesus reveals the authority through which divine judgment is exercised:
 
-Joel sees the nations gathered before the LORD. Jesus says that the Son of man will sit on his throne and gather all nations before him. He goes on to describe a judgment that reaches into ordinary encounters. The King remembers who fed the hungry, gave drink to the thirsty, took in the stranger, clothed the naked, and visited the sick and imprisoned. He receives the care shown to the least of his brethren as care shown to himself (Matthew 25:35–40).
+> "For the Father judgeth no man, but hath committed all judgment unto the Son." — John 5:22
 
-That teaching gives the disciple a way to read the opening of Joel's chapter with attention. The nations saw children they could trade for a passing pleasure. The Lord saw people who belonged to him, and he counted what had been done to them as part of his own case. Jesus likewise binds the treatment of those he calls his brethren to the way people have treated him. Acts of mercy and acts of neglect both matter in the King's judgment.
+This gives the disciple an important way to understand Joel's vision. The prophet announces the judgment of the Lord, and Jesus declares that the Father has entrusted judgment to the Son. The disciple must therefore learn to understand divine judgment through the character and teaching of Christ.
 
-Jesus makes the king’s measure available before the judgment. The disciple can look at the person whose need is easiest for him to discount, ask what care is actually within his power, and give it. A hungry person needs food, and a prisoner needs someone to come. Christ names these acts because each supplies something another person lacks. In Joel the Lord reckons a captive child’s treatment as a matter that concerns him. In Jesus’ judgment the King speaks in the first person about the hunger his people received or passed by.
+Jesus also describes a gathering of the nations:
+
+> "When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory: And before him shall be gathered all nations." — Matthew 25:31–32
+
+The resemblance to Joel is striking. Both passages describe the nations gathered before divine judgment. In Joel, the nations are called to account for their treatment of God's people. In Matthew, Jesus speaks of judgment that exposes how people have treated the hungry, the stranger, the sick, and the imprisoned.
+
+The disciple should recognize what Jesus is teaching. His concern for righteousness reaches into the way men treat one another, particularly those who are vulnerable. The cruelty condemned by Joel cannot be separated from the disciple's responsibility to show mercy.
+
+Joel then speaks of the harvest:
+
+> "Put ye in the sickle, for the harvest is ripe." — Joel 3:13
+
+Jesus uses the same imagery when explaining the end of the world:
+
+> "The harvest is the end of the world; and the reapers are the angels." — Matthew 13:39
+
+Jesus teaches that the time of harvest will reveal what has been growing. The disciple must take seriously the life he is cultivating now. He cannot assume that every appearance of goodness is genuine, nor should he imagine that evil will remain concealed forever.
+
+But Joel also declares:
+
+> "The LORD will be the hope of his people, and the strength of the children of Israel." — Joel 3:16
+
+Jesus gives his disciples a promise of his continuing presence:
+
+> "And, lo, I am with you alway, even unto the end of the world." — Matthew 28:20
+
+The disciple should recognize where his confidence belongs. His security rests in the Lord who remains with his people. Jesus promises his presence even as he sends his disciples into a world where they will encounter opposition.
+
+Finally, Joel describes a fountain coming from the house of the Lord:
+
+> "And a fountain shall come forth of the house of the LORD, and shall water the valley of Shittim." — Joel 3:18
+
+Jesus speaks of the living water that he gives:
+
+> "But whosoever drinketh of the water that I shall give him shall never thirst." — John 4:14
+
+Joel's fountain belongs to his prophetic picture of Zion restored. Jesus reveals the greater gift of life that comes through him. The disciple should recognize that the restoration God promises reaches beyond outward prosperity to the living provision of the Spirit.
+
+The Savior Test brings the chapter into focus. Joel announces the judgment of the nations, the protection of God's people, and the restoration of Zion. Jesus identifies himself as the one entrusted with judgment, teaches that the harvest will reveal the truth, and promises his continuing presence to those who follow him.
+
+The disciple should ask himself what kind of fruit his life is producing. Is he using his strength to serve others or to take advantage of them? Is he seeking security in his own power, or has he learned to trust the Lord?
+
+Joel begins with nations gathering their armies and ends with God dwelling among his people.
+
+The nations have come to the valley. The Lord is their judge, and the hope of his people is found in him.
