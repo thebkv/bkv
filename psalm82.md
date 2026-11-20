@@ -1,3 +1,11 @@
+---
+book: Psalms
+chapter: 82
+title: "Authority Judged from Within"
+permalink: /psalm82/
+---
+
+
 # Psalm 82 — Authority Judged from Within
 MSR Architectural Reading
 ⸻
