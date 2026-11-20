@@ -27,6 +27,16 @@ Joel closes with a land full of life. The mountains drip wine, the hills flow wi
 
 The disciple should remember the children at the beginning of the chapter when he reaches the fountain at its end. The peace Joel describes belongs to a people whose wrongs God has heard and whose future he undertakes to secure. Taking refuge in him gives the disciple reason to take seriously the life of anyone whom others have treated as expendable.
 
+## The Disciple’s Reading
+
+The valley brings dispersed acts before one judge. Trade carried the captives away, and the people who sold them could go on living at a distance from what they had done. The Lord gathers the parties and names the price of the children. For the disciple, the valley gives a way to examine a decision he has kept in separate pieces. He may remember the convenience he gained and rarely think about who carried its cost. Before God those belong to the same act.
+
+The weapons show what the nations can muster. A plowshare can cultivate the ground or be made into a weapon. The disciple can see that shift in a capacity he already has. A sharp memory can help him keep a promise or furnish him with every old charge when a quarrel starts. The question in the valley is whose purpose that capacity has been serving. The sickle and the press show when the judge acts. What had been growing in the nations’ dealings has reached a point where its fruit can be seen and reckoned with.
+
+Zion is where the voice of judgment comes from and where the people find refuge. The Lord who brings the truth of their injury into the open is also the one who gives them somewhere to stand. The disciple can bring his own conduct under that voice and entrust the wrongs he has suffered to the same judge. Where he has caused injury, refuge gives him somewhere to stand while he acknowledges the harm and makes restitution where he can.
+
+The fountain does the work that follows judgment. It carries water from the Lord’s house into the valley of Shittim so the land can live. A disciple may have learned to stop using his strength against another person. He still needs a source from which to use that strength for the person’s good. Joel ends at the Lord’s dwelling because the life of the land continues to depend on the presence from which its water comes.
+
 ## The Savior Test
 
 > "Let the heathen be wakened, and come up to the valley of Jehoshaphat: for there will I sit to judge all the heathen round about." — Joel 3:12
@@ -37,4 +47,4 @@ Joel sees the nations gathered before the LORD. Jesus says that the Son of man w
 
 That teaching gives the disciple a way to read the opening of Joel's chapter with attention. The nations saw children they could trade for a passing pleasure. The Lord saw people who belonged to him, and he counted what had been done to them as part of his own case. Jesus likewise binds the treatment of those he calls his brethren to the way people have treated him. Acts of mercy and acts of neglect both matter in the King's judgment.
 
-Joel's valley leaves the disciple with a question about the life he is living now. Whose hunger or distress has become easy for him to pass by? Jesus gives him something he can do before the nations are gathered. He can pay attention to the person before him and offer the care that is in his power to give. He can entrust the final judgment to the same Lord in whom Joel's people find their refuge.
+Jesus makes the king’s measure available before the judgment. The disciple can look at the person whose need is easiest for him to discount, ask what care is actually within his power, and give it. A hungry person needs food, and a prisoner needs someone to come. Christ names these acts because each supplies something another person lacks. In Joel the Lord reckons a captive child’s treatment as a matter that concerns him. In Jesus’ judgment the King speaks in the first person about the hunger his people received or passed by.

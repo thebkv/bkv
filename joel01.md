@@ -27,6 +27,14 @@ Joel looks again at what is happening before their eyes. Seed rots beneath the c
 
 The disciple may recognize the temptation to wake only when a familiar comfort fails. Joel shows what can follow that awakening. A man can give honest attention to what has happened, hear how others have suffered, and join them in asking God for help. The first act of return in this chapter is a cry.
 
+## The Disciple’s Reading
+
+The elders and the children have a work to do before anyone can repair the fields. The elders must put the loss into words, and the children must carry the account beyond the people who saw it. The swarm shows what those words need to preserve. Each eater consumes what the one before it left. The disciple can look for that same succession in his own life. A grievance takes his attention, rehearsing it takes his rest, and the weariness leaves him with less patience for the people in his care. Naming the sequence lets him see where the next loss is coming from.
+
+The wine, grain, and oil make the damage visible at different points. The drinker feels it where he expects relief. The farmer sees it where his labor should bear fruit. The priest finds it at the altar, where there is nothing to offer from the field. The disciple can follow a loss through those same places. Something that began as a way of getting through the evening may have reached the next morning’s work, and eventually the time and attention he had meant to give to God.
+
+A fast interrupts the customary taking in. The assembly brings the scattered sufferers together. The cry gives their need an address. Each act does something the previous act leaves undone. A person can interrupt a habit and spend the whole pause thinking about when he can have it back. He can describe his trouble to others and still assume the repair belongs entirely to him. Joel takes the people as far as crying to the LORD, and then does it himself. Even the beasts cry. By the end of the chapter, a cry is the one thing the ruined land still has to give.
+
 ## The Savior Test
 
 > "Awake, ye drunkards, and weep; and howl, all ye drinkers of wine, because of the new wine; for it is cut off from your mouth." — Joel 1:5
@@ -37,4 +45,4 @@ Joel tells the drinkers to wake because the wine has already failed. Jesus tells
 
 Joel gives the awakened people somewhere to go. They gather at the house of the LORD and cry out. Jesus likewise goes on to tell his disciples to watch and pray always (Luke 21:36). Watching belongs with prayer because the disciple is preparing to stand before the Son of man. The point of recognizing what weighs down the heart is to bring it before him while the invitation still stands.
 
-The whole land suffers in Joel, even the beasts that have lost their pasture. The disciple can hear their cry and examine his own attention. What has become so consuming that he needs a loss to notice it? What grief has he kept to himself that he could bring to the Lord in prayer? Joel answers the devastation by crying out, and Jesus teaches his disciples to keep watch before the day overtakes them.
+A disciple can begin the watch Jesus teaches at the point where his attention is usually lost. If distress sends him straight to a familiar distraction, he can stop long enough to name the distress in prayer. If a worry keeps returning, he can ask what it has displaced and put that duty back before him. The lost wine wakes Joel’s drinkers after the loss. Jesus gives the disciple a way to wake while he can still answer.

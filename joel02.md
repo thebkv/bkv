@@ -27,6 +27,16 @@ Then Joel says what the Lord will do afterward. He will pour out his Spirit on a
 
 The disciple can stop at the second trumpet and consider what he would bring to that assembly. The Lord asks for the heart itself. The promises that follow give the disciple reason to entrust it to him. Joel shows the Lord providing food for his people, making his presence known among them, and giving his own Spirit.
 
+## The Disciple’s Reading
+
+The first trumpet breaks into the course of ordinary life. Its work is to bring the danger into hearing. The host passes walls and comes through windows. The defenses that ordinarily let the city go about its business cannot keep this out. For a disciple, the question is what he can still hear when the arrangements that once kept his trouble at a distance have failed.
+
+The second trumpet calls the people toward a place and an action. It brings the old, the children, the priests, and even the newly married into one assembly. The heart is where the turning has to happen. A torn garment makes grief visible. A rent heart gives up its claim to keep deciding the matter on its own terms. A disciple who has injured someone can grieve the consequences and still insist that he is owed the last word. The inward turn reaches that insistence. The priests’ prayer then puts the people and their future in the Lord’s hands. They ask him to spare what belongs to him.
+
+The rain makes the ground able to yield. The grain, wine, and oil sustain the people, and the restored harvest gives them something to bring before God again. Joel gives the restoration a purpose in verse 27. Israel is to know who is in its midst. When a disciple receives relief, he can use the returned capacity to attend to what he had neglected and give thanks to the One from whom he received it.
+
+The Spirit does a work that food and rain cannot do. The sons and daughters speak, the old dream, and the young see visions. The servants and handmaids also receive. Joel shows the Spirit reaching people in the conditions where they actually live and giving them ways to receive or bear witness to what comes from God. The disciple’s part at the end of the chapter is expressed in a cry again. Here he knows whose name to call. The promise of deliverance rests with the Lord who hears him.
+
 ## The Savior Test
 
 > "And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:" — Joel 2:28
@@ -37,4 +47,4 @@ Joel's promise reaches people across the whole household. Jesus stands in the fe
 
 Peter makes the connection publicly at Pentecost. When the crowd asks what is happening, Peter answers that this is what Joel spoke about (Acts 2:16–21). He then says that Jesus, exalted at the right hand of God, received the promise of the Holy Ghost from the Father and poured out what the crowd saw and heard (Acts 2:33). Peter names both the ancient promise and the one through whom the gift has come.
 
-The disciple can now hear the two invitations together. Joel calls the people to return with their whole heart. Jesus calls the thirsty to come to him and drink. The Lord who can fill an empty threshing floor can also give what the heart has no means of producing. Jesus says that the water will flow from within the one who believes. The Spirit received from him becomes a source of life that reaches beyond the disciple's own need.
+What does the thirsty disciple do? He comes to Jesus with the need he has been trying to manage on his own. He can yield the decision he has been defending, ask Christ for help, and obey the direction he has already received. The living water comes from Christ. Its movement can be seen when the person who came thirsty is able to tell the truth, carry another person’s burden, or give something that was previously being spent on protecting himself.

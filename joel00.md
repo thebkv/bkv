@@ -27,6 +27,14 @@ Listen for the change in the trumpet's purpose. Its first blast sounds the alarm
 
 The land's recovery is something people and beasts can live on. Pastures turn green, trees bear again, and the threshing floors fill. The Lord says that his people will know he is in their midst. Then the promise reaches across the household. Sons and daughters, old and young, servants and handmaids are named as recipients of his Spirit. The book ends with the Lord dwelling in Zion and a fountain coming from his house. Joel has taken us from dried-up channels to a source that flows out from the place of God's presence.
 
+## The Disciple’s Reading
+
+Joel traces what happens when the sources a person lives on fail. The land supplies food, wine, and oil. Its fruit also supplies what the people bring to God. When the land dries up, the people discover how much of their life, including their worship, depended on a supply they took for granted. The disciple can ask which source he turns to first when he needs strength, relief, or assurance. What he reaches for will often tell him more about what governs him than what he says he believes.
+
+The two trumpet blasts do different work. The first interrupts the life already in motion. The second gathers the people and gives that interruption a direction. To be shaken is one thing. To turn is to bring the matter to God and yield the decision still being made in the heart. The priests give words to the need of the whole assembly. The Lord answers by restoring what sustains the land and making himself known in the midst of the people.
+
+The Spirit and the fountain tell the disciple where life will come from after the return. The Spirit is poured out on people of different ages and stations. The fountain flows from the Lord’s house to a place that needs water. Joel closes with God dwelling in Zion. His presence gives the restored life a center, and what comes from that center can reach ground that could never water itself.
+
 ## The Savior Test
 
 > "And it shall come to pass, that whosoever shall call on the name of the LORD shall be delivered" — Joel 2:32
@@ -35,7 +43,7 @@ Jesus announces God's kingdom and calls his hearers to repent and believe the go
 
 Joel's call also gives us a way to hear Jesus' invitation at the feast. Jesus calls the thirsty to come to him and drink. John explains that he is speaking of the Spirit. At Pentecost, Peter names Joel when he explains what the people are seeing and hearing, and he declares that the risen Jesus has poured out what they now witness. The gift Joel promised has become part of the apostles' public testimony to Jesus.
 
-The disciple can follow that movement through the book. Wake up to what has been lost. Bring the whole heart before God. Ask him for what a restored harvest alone could never supply. Joel's last picture gives the disciple a place to rest his hope. Through the shaking of heaven and earth, the Lord remains the refuge of his people.
+Jesus gives the disciple a present response to the coming kingdom. He can name the place where another concern still has final say, yield that decision to Christ, and act on what Christ has already made clear. When he has no life in himself to sustain that turn, he can come thirsty. The one who calls him to repent is the one who gives the Spirit.
 
 ## Joel — Chapters
 
