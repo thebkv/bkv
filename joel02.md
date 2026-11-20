@@ -126,8 +126,6 @@ The book of Acts then gives us an explicit fulfillment. On the day of Pentecost,
 
 Peter then quotes Joel's prophecy concerning the Spirit being poured out upon all flesh.
 
-[image prompt: A gathering outside the temple in ancient Jerusalem, with a watchman holding a ram’s horn and people of different ages standing in prayer. A break in the clouds sends warm light across the stone court. Biblical oil painting, historically grounded clothing, no lettering.]
-
 This is one of the clearest New Testament confirmations of an Old Testament prophecy. Peter identifies what has happened at Pentecost with the promise Joel gave centuries earlier.
 
 The disciple should understand how important this is. Joel's promise is not merely a poetic picture of renewed enthusiasm or a metaphor for improved circumstances. The apostles understood it as the promise of the Holy Spirit, now being poured out through the work of the risen Christ.
