@@ -86,6 +86,54 @@ The chapter begins exposing the distance between knowing the truth and living un
 
 ---
 
+
+## The Savior Test
+
+Jesus gives us the key to understanding Jonah's descent into the sea:
+
+> "For as Jonas was three days and three nights in the whale's belly; so shall the Son of man be three days and three nights in the heart of the earth." — Matthew 12:40
+
+Jesus himself connects Jonah's experience with his own death and resurrection. Jonah is cast into the sea, disappears from sight, and is preserved within the great fish. Jesus will enter death and rise again. The disciple should recognize that the story of Jonah is pointing toward something greater than the rescue of a prophet.
+
+But there is another lesson in the first chapter. Jonah hears the word of the Lord and deliberately travels in the opposite direction. God sends him to Nineveh, but Jonah boards a ship bound for Tarshish. He is willing to pay the fare, endure the journey, and put distance between himself and the place God has called him to go.
+
+Jesus asks a question that reaches directly into this condition:
+
+> "And why call ye me, Lord, Lord, and do not the things which I say?" — Luke 6:46
+
+Jonah knows who the Lord is. He even tells the sailors that he fears the God of heaven, who made the sea and the dry land. Yet he is fleeing from the very God he acknowledges. The disciple should recognize how easily a man can possess correct knowledge of God while resisting what God has shown him to do.
+
+Then the storm comes. The sailors struggle to save the ship, throwing their cargo into the sea and crying to their gods. Jonah, meanwhile, has gone down into the ship and fallen asleep. The men around him are terrified by a danger connected with his disobedience.
+
+Jesus also sleeps in a ship during a storm, but the difference is revealing:
+
+> "And he arose, and rebuked the wind, and said unto the sea, Peace, be still. And the wind ceased, and there was a great calm." — Mark 4:39
+
+Jonah's presence aboard the ship is connected with the storm, and the sea becomes calm only after he is cast overboard. Jesus, by contrast, commands the storm to cease. Jonah is a servant fleeing from the Lord of the sea. Jesus demonstrates authority over the sea itself.
+
+The disciple should notice what the sailors discover. They begin by crying to their own gods, but after the sea becomes calm, they fear the Lord exceedingly, offer a sacrifice, and make vows. Even through Jonah's resistance, these men come to recognize the God of heaven.
+
+Jesus teaches that the works of God should lead men to glorify the Father:
+
+> "Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven." — Matthew 5:16
+
+Jonah was called to carry God's word to Nineveh, but he refused. Nevertheless, the sailors encounter the Lord through what happens aboard their ship. The disciple should recognize both the mercy and the warning here. God can make himself known even through a man's failures, but Jonah's example should not encourage the disciple to resist his calling.
+
+The chapter ends with Jonah swallowed by a great fish prepared by the Lord. The man who was fleeing from God's presence is now entirely dependent upon God's provision. He can no longer direct his journey, purchase another passage, or choose where he will go.
+
+Jesus has already told us that this descent anticipates his own burial and resurrection. Yet there is an important difference. Jonah descends because he has resisted the Lord. Jesus goes willingly in obedience to the Father:
+
+> "Therefore doth my Father love me, because I lay down my life, that I might take it again. No man taketh it from me, but I lay it down of myself." — John 10:17–18
+
+Jonah's story reveals the trouble of a servant who runs from God's command. Jesus reveals the faithfulness of the Son who willingly accomplishes the Father's will.
+
+The disciple should ask himself whether he has been following the Lord's direction or attempting to arrange his life around something he already knows he ought to do. Jonah knew the Lord, but he was traveling away from the work the Lord had given him.
+
+And yet the Lord had not finished with Jonah. The great fish was already prepared.
+
+The first chapter ends with the prophet beneath the sea, but his story is far from over.
+
+
 ## Canonical History & Context
 
 Jonah is already an established prophet of Israel.
