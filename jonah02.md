@@ -101,6 +101,86 @@ And God brings him up.
 
 ---
 
+
+## The Savior Test
+
+Jesus gives us the key to Jonah's three days in the great fish:
+
+> "For as Jonas was three days and three nights in the whale's belly; so shall the Son of man be three days and three nights in the heart of the earth." — Matthew 12:40
+
+Jonah has been cast into the sea, swallowed by the great fish, and carried into a place from which he cannot deliver himself. He describes his experience as crying out of the belly of hell, or Sheol, the place of the dead. The waters surround him, the depths close around him, and the weeds are wrapped about his head. To Jonah, it seems that he has descended to the very foundations of the earth.
+
+Jesus tells us that Jonah's experience points toward his own death and burial. But there is an important difference. Jonah has descended because he fled from God's command. Jesus willingly enters death in obedience to the Father. Both accounts lead us to the power of God to bring life out of what appeared to be the end.
+
+Jonah remembers the Lord while he is in the depths:
+
+> "When my soul fainted within me I remembered the LORD: and my prayer came in unto thee, into thine holy temple." — Jonah 2:7
+
+The disciple should recognize what has changed. Jonah had been fleeing from the presence of the Lord, but now he is calling upon the very One from whom he tried to escape. When every other possibility of deliverance has disappeared, he turns toward God.
+
+Jesus describes a similar awakening in the parable of the prodigal son. After the son has wasted his inheritance and fallen into misery, Jesus says:
+
+> "And when he came to himself, he said, How many hired servants of my father's have bread enough and to spare, and I perish with hunger!" — Luke 15:17
+
+The prodigal son remembers his father's house, just as Jonah remembers the Lord. Both have traveled away from where they ought to be, and both come to recognize that the answer is found in returning.
+
+The disciple may discover this same movement in himself. He may have tried to escape a responsibility, resisted a truth, or followed his own desires until he finds himself in circumstances he cannot control. Yet he can still turn toward the Father. Jonah's prayer shows that even in the depths, the way back to God remains open.
+
+Jonah then declares:
+
+> "They that observe lying vanities forsake their own mercy." — Jonah 2:8
+
+This is a remarkable confession from the prophet who had attempted to flee from the Lord. He has discovered the emptiness of trusting something that cannot save him. His own journey toward Tarshish had been an attempt to escape the truth of his calling, and it brought him to the bottom of the sea.
+
+Jesus asks a question that exposes the same danger:
+
+> "For what shall it profit a man, if he shall gain the whole world, and lose his own soul?" — Mark 8:36
+
+A man may pursue the thing he desires, obtain the freedom he imagines he needs, or arrange his life according to his own will. But what has he gained if the pursuit carries him away from the life God is calling him to live?
+
+Jonah had purchased passage on a ship traveling away from Nineveh. He had succeeded in leaving the land behind, but he had gained nothing worth keeping. Now, in the belly of the fish, he begins to understand where his deliverance must come from.
+
+The prayer reaches its great declaration:
+
+> "Salvation is of the LORD." — Jonah 2:9
+
+Jesus gives us the fuller revelation of this truth:
+
+> "I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live." — John 11:25
+
+Jonah cannot raise himself from the depths. He cannot command the fish or find his own way back to dry land. His deliverance depends entirely upon God.
+
+Jesus reveals himself as the one through whom the Father gives life. The disciple should recognize that there are conditions from which his own strength cannot rescue him. He may finally see the truth of his situation and desire to return, but the power to restore his life comes from the Lord.
+
+And then, at the end of the chapter, something extraordinary happens:
+
+> "And the LORD spake unto the fish, and it vomited out Jonah upon the dry land." — Jonah 2:10
+
+The same God who prepared the fish now commands it to release Jonah. The prophet who descended into the depths is brought back to the land of the living.
+
+Jesus had already told us that this event pointed toward his own resurrection. He also declared:
+
+> "Because I live, ye shall live also." — John 14:19
+
+Here the disciple can see the greater promise. Jonah's deliverance was the restoration of a man who had fled from his calling. The resurrection of Jesus reveals the victory over death through which the Savior gives life to those who believe in him.
+
+The disciple should also notice that Jonah's deliverance does not bring the story to its conclusion. He has been rescued, but the work God originally gave him remains. The next chapter will begin with the word of the Lord coming to Jonah a second time.
+
+This is important. A man may be brought through a painful experience and discover God's mercy, but he must still learn to walk in the truth that has been shown to him. Jonah has learned to pray from the depths. Now he must learn to obey upon the dry land.
+
+The Savior Test reveals the movement of Jonah 2. The prophet descends into a place from which he cannot save himself, remembers the Lord, renounces false security, and confesses that salvation belongs to God.
+
+Jesus confirms that Jonah's descent and deliverance point toward his own death and resurrection. He also reveals the Father's mercy toward those who return and the life that comes through him.
+
+The disciple should ask himself whether he has reached a place where his own arrangements have failed him. Has he been trying to escape something God has shown him? Has he placed his confidence in something that cannot give him life?
+
+Jonah's prayer gives him the words to remember:
+
+**"Salvation is of the LORD."**
+
+And the Lord who heard Jonah in the depths was able to bring him back to the shore.
+
+
 ## Canonical History & Context
 
 Jonah 2 is presented as a prayer spoken from inside the great fish.
