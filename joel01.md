@@ -1,48 +1,118 @@
 ---
 book: Joel
 chapter: 1
-title: "The Devastating Swarm Awakens the Stupor of the Land"
+title: "The Harvest Is Gone"
 permalink: /joel01/
 ---
 
 # JOEL 1
 
-## 01 — THE DEVASTATING SWARM AWAKENS THE STUPOR OF THE LAND
-
-<img width="1672" height="941" alt="A stripped Judean vineyard after the locust swarm" src="https://github.com/user-attachments/assets/d2dcfd5c-fae2-427a-ad51-7ac9fd6615f6" />
+## 01 — THE HARVEST IS GONE
 
 ## The Natural Reading
 
-> "And take heed to yourselves, lest at any time your hearts be overcharged with surfeiting, and drunkenness, and cares of this life, and so that day come upon you unawares." — Luke 21:34
+> "I tell you, Nay: but, except ye repent, ye shall all likewise perish." — Luke 13:5
 
-The word of the LORD comes to Joel the son of Pethuel in the aftermath of a devastation no one can readily remember having seen before. Joel asks the elders whether anything like it happened in their days or in the days of their fathers. Then he tells them to describe it to their children and have those children tell the next generation. The account opens with a community being asked to remember what happened to it.
+Joel begins by calling the elders and all the inhabitants of the land to pay attention. Something has happened that they have never seen before, nor have their fathers known anything like it. The prophet tells them to speak of it to their children, who must tell their own children, so that the memory of this disaster will pass from one generation to another. A succession of locusts has descended upon the land, consuming whatever the previous swarm left behind. The fields have been stripped, the vines are ruined, and the harvest upon which the people depended is gone.
 
-One swarm follows another. What the first leaves, the next eats, until the vine lies waste and the fig tree is stripped to white branches. Joel calls the invader a nation with the teeth of a lion. The image gives the scale of a calamity that has reached from the fields into the houses of the people. The first ones he addresses are the drinkers, who are told to wake and weep because the new wine has been cut off from their mouths. The absence of what they had counted on makes the loss impossible to ignore.
+The disciple should first understand the reality of the event. Joel is describing a devastating calamity that has overtaken the land of Judah. The locusts have destroyed the crops, and the consequences reach through every part of life. Farmers have lost the fruit of their labor, the people have lost their food, and even the offerings brought to the house of God have been interrupted. A man who had looked over his fields expecting another harvest now sees nothing but destruction. The prophet is asking the people to recognize the seriousness of what has happened rather than continue as though life will simply carry on as before.
 
-The grief spreads. Joel calls for mourning like that of a young bride dressed in sackcloth. The priests mourn because the grain and drink offerings have ceased. The farmers and vinedressers have watched wheat and barley perish, the oil fail, and the trees wither. Where there was work to do and fruit to gather, there is now a loss that the whole land can feel. Joel says that joy itself has withered away.
+Joel first addresses those who have been drinking wine. He tells them to awaken and weep, because the new wine has been cut off from their mouths. The vines that supplied their pleasure have been stripped bare. The prophet then describes the locusts as a powerful nation invading the land, with teeth like a lion. They have laid waste the vine and barked the fig tree, leaving its branches white and exposed. What once appeared green and fruitful has become a scene of desolation.
 
-The priests can still gather the people. Joel tells them to put on sackcloth, spend the night in mourning, proclaim a fast, and bring the elders and all the inhabitants to the house of the LORD. The offerings have ceased, and prayer is still possible. The people are to cry out together as the day of the LORD draws near.
+There is something the disciple can recognize in this picture. A man may become so accustomed to receiving the good things of life that he gives little thought to how dependent he is upon them. His work continues, his possessions remain available, his health seems reliable, and tomorrow appears likely to resemble yesterday. He begins to build his expectations around that familiar order. Then something happens that he cannot control. The interruption reveals how much confidence he had placed in things he never had the power to guarantee. Joel is calling the people to look honestly at the condition of their land, and the disciple can use that same honesty to examine what has been supporting his own sense of security.
 
-Joel looks again at what is happening before their eyes. Seed rots beneath the clods, barns decay for want of grain, and cattle wander for lack of pasture. Fire has consumed the wilderness pastures and the channels have dried up. At the close Joel himself cries to the LORD. The beasts also cry to him. The prophet has asked the people to pray, and he ends by joining the groaning of the land with his own voice.
+The prophet then calls the people to mourn like a young woman grieving the husband of her youth. The grain offering and drink offering have been cut off from the house of the Lord, and the priests themselves are mourning. The fields are wasted, the corn is destroyed, and the wine and oil have failed. Joel calls upon the husbandmen and vinedressers to lament because the wheat and barley have perished. He names the vine, fig tree, pomegranate, palm, and apple tree, declaring that all the trees of the field have withered. Then he gives a painful description of the condition of the people: "Joy is withered away from the sons of men."
 
-The disciple may recognize the temptation to wake only when a familiar comfort fails. Joel shows what can follow that awakening. A man can give honest attention to what has happened, hear how others have suffered, and join them in asking God for help. The first act of return in this chapter is a cry.
+<img width="1672" height="941" alt="A stripped Judean vineyard after the locust swarm" src="https://github.com/user-attachments/assets/d2dcfd5c-fae2-427a-ad51-7ac9fd6615f6" />
 
-## The Disciple’s Reading
+The loss has reached beyond the crops themselves. The ordinary celebrations of harvest have disappeared, and the worship of the people has been affected. There is no abundance to bring before the Lord as they once did. The disciple should notice how closely the outward provision and the life of worship were connected in Israel. The harvest was received as a gift from God, and part of it was returned in thanksgiving. Now the people are confronted with their need of the One who supplied it. They can no longer move through the familiar forms of worship without acknowledging what has happened to the land.
 
-The elders and the children have a work to do before anyone can repair the fields. The elders must put the loss into words, and the children must carry the account beyond the people who saw it. The swarm shows what those words need to preserve. Each eater consumes what the one before it left. The disciple can look for that same succession in his own life. A grievance takes his attention, rehearsing it takes his rest, and the weariness leaves him with less patience for the people in his care. Naming the sequence lets him see where the next loss is coming from.
+Joel turns directly to the priests and commands them to put on sackcloth, lament, and spend the night mourning before the Lord. Then he tells them to sanctify a fast, call a solemn assembly, and gather the elders and all the inhabitants of the land into the house of God. They are to cry unto the Lord. This is the first clear direction Joel gives the people in response to the disaster. They have suffered a loss they cannot repair by ordinary effort, and the prophet calls them to come together before God. Rather than pretending everything is well or searching for someone to blame, they must acknowledge their condition and seek the Lord.
 
-The wine, grain, and oil make the damage visible at different points. The drinker feels it where he expects relief. The farmer sees it where his labor should bear fruit. The priest finds it at the altar, where there is nothing to offer from the field. The disciple can follow a loss through those same places. Something that began as a way of getting through the evening may have reached the next morning’s work, and eventually the time and attention he had meant to give to God.
+The disciple should recognize the importance of this response. When something he depends upon fails, his first impulse may be to struggle against the circumstances, search frantically for another source of security, or become consumed by fear of what will happen next. There may be practical work that needs to be done, just as the farmers of Judah would still have responsibilities to meet. But Joel is directing the people toward something that must not be neglected. They must bring their need before God. The crisis has exposed their dependence, and now they are called to acknowledge that dependence rather than continue acting as though they can supply everything for themselves.
 
-A fast interrupts the customary taking in. The assembly brings the scattered sufferers together. The cry gives their need an address. Each act does something the previous act leaves undone. A person can interrupt a habit and spend the whole pause thinking about when he can have it back. He can describe his trouble to others and still assume the repair belongs entirely to him. Joel takes the people as far as crying to the LORD, and then does it himself. Even the beasts cry. By the end of the chapter, a cry is the one thing the ruined land still has to give.
+Then Joel announces that the day of the Lord is at hand. The destruction before them becomes a warning of something greater, and the prophet describes the famine spreading through the land. Food has been cut off, joy and gladness have disappeared from the house of God, and the seed has shriveled beneath the clods of earth. The barns are desolate, the storehouses broken down, and the cattle wander in confusion because they have no pasture. Even the flocks of sheep suffer. The whole land is affected, from the people who cultivate it to the animals that depend upon its abundance.
+
+At last, Joel himself cries out to God. He describes fire consuming the pastures of the wilderness and flames burning the trees of the field. The beasts of the field also cry unto the Lord because the rivers of water have dried up. The chapter ends with the prophet joining the suffering creation in calling upon God. He has moved from describing the disaster to showing the people where they must turn.
+
+The disciple should consider what Joel has shown him. The harvest was real, the abundance was good, and the people were right to receive the provision of the land with gratitude. But the loss of that abundance reveals how dependent every part of their life has been upon what God supplies. Joel does not ask them to celebrate the destruction or pretend that their suffering is insignificant. He calls them to awaken, mourn honestly, and seek the Lord in the midst of it.
+
+This is where the chapter reaches the disciple's own life. He may have been relying upon something that has begun to fail, or he may simply have become so familiar with his blessings that he has forgotten to give thanks for them. Joel reminds him that the things he receives from God must never become substitutes for God himself. The work, possessions, relationships, and opportunities of life are precious, but none can carry the whole weight of a man's trust.
+
+Joel begins with a land whose harvest has disappeared and ends with the prophet crying unto the Lord. The people have lost what they expected to sustain them, and now they must turn toward the One upon whom their lives have always depended.
 
 ## The Savior Test
 
-> "Awake, ye drunkards, and weep; and howl, all ye drinkers of wine, because of the new wine; for it is cut off from your mouth." — Joel 1:5
+Joel describes a terrible disaster and calls the people to awaken, mourn, and seek God. Jesus gives us an important instruction about how to understand such events.
 
-> "And take heed to yourselves, lest at any time your hearts be overcharged with surfeiting, and drunkenness, and cares of this life, and so that day come upon you unawares." — Luke 21:34
+When people tell Jesus about the Galilaeans whose blood Pilate had mingled with their sacrifices, he asks whether they were greater sinners than the other Galilaeans because they suffered such things. He then speaks of eighteen people who were killed when the tower in Siloam fell upon them. Were they greater sinners than everyone else living in Jerusalem?
 
-Joel tells the drinkers to wake because the wine has already failed. Jesus tells his disciples to take heed while there is still time to watch. His warning includes drunkenness and excess, and it also includes the cares of this life. Ordinary worries can weigh down the heart until a man has little attention left for God or for the day that is coming.
+Jesus answers:
 
-Joel gives the awakened people somewhere to go. They gather at the house of the LORD and cry out. Jesus likewise goes on to tell his disciples to watch and pray always (Luke 21:36). Watching belongs with prayer because the disciple is preparing to stand before the Son of man. The point of recognizing what weighs down the heart is to bring it before him while the invitation still stands.
+> "I tell you, Nay: but, except ye repent, ye shall all likewise perish." — Luke 13:5
 
-A disciple can begin the watch Jesus teaches at the point where his attention is usually lost. If distress sends him straight to a familiar distraction, he can stop long enough to name the distress in prayer. If a worry keeps returning, he can ask what it has displaced and put that duty back before him. The lost wine wakes Joel’s drinkers after the loss. Jesus gives the disciple a way to wake while he can still answer.
+This is an essential test for the disciple reading Joel. Jesus warns us against assuming that those who suffer a calamity must be more guilty than those who escape it. The suffering is real, but the disciple must be careful about the conclusions he draws from it.
+
+Instead, Jesus directs the warning toward every person who hears it. The disciple is to examine his own life and recognize his need to turn toward God.
+
+Joel is calling Judah to awaken in the face of a devastating event. Jesus shows us how such warnings can become an occasion for repentance without turning the suffering of others into an accusation against them.
+
+There is another important connection in Joel's description of the ruined harvest. The vines have been stripped, the trees have withered, and the people have lost the fruit upon which they depended.
+
+Jesus warns his disciples about placing their security in things that cannot endure:
+
+> "Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal." — Matthew 6:19
+
+Then he explains:
+
+> "For where your treasure is, there will your heart be also." — Matthew 6:21
+
+Joel shows what happens when the familiar sources of earthly provision disappear. Jesus teaches the disciple to examine the place those things occupy in his heart.
+
+The lesson is not that food, possessions, or the fruit of honest labor are evil. Jesus himself taught his disciples to pray for their daily bread. But he also taught them to seek a treasure that cannot be destroyed.
+
+The disciple should consider what he has allowed to become his greatest source of security. If his circumstances suddenly changed, would he discover that his confidence had rested entirely upon things that could be lost?
+
+Joel also describes how the destruction of the harvest affects worship. The grain and drink offerings have ceased, and the priests are mourning. The prophet commands them to gather the people, sanctify a fast, and cry unto the Lord.
+
+Jesus speaks about fasting when he is questioned concerning the practices of his disciples:
+
+> "Can the children of the bridechamber mourn, as long as the bridegroom is with them? but the days will come, when the bridegroom shall be taken from them, and then shall they fast." — Matthew 9:15
+
+Jesus brings the meaning of fasting into relationship with himself. Its significance reaches beyond the outward act. The disciple must learn to seek the Lord rather than imagine that the performance of a religious observance can take the place of genuine fellowship with God.
+
+Joel calls the priests and people into the house of the Lord because their need has become impossible to ignore. Jesus teaches the disciple that the life of worship must be rooted in a real relationship with the One he seeks.
+
+Then we come to the loss of fruitfulness.
+
+Joel describes the vine and the fig tree stripped of their fruit. Jesus uses the image of a vine to reveal the source of spiritual life:
+
+> "I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing." — John 15:5
+
+Joel is speaking about an actual agricultural disaster, while Jesus is teaching about spiritual fruitfulness. We should preserve that distinction. Yet the two passages bring the disciple to consider the source upon which life depends.
+
+A branch cannot produce fruit by separating itself from the vine. Jesus tells the disciple that his spiritual life depends upon remaining in him. A man may attempt to produce righteousness, wisdom, or lasting peace through his own efforts, but Jesus calls him to receive the life that makes such fruit possible.
+
+The disciple should ask whether he has been more concerned with producing visible results than with remaining in fellowship with Christ.
+
+Finally, Joel gives us the response of the prophet himself:
+
+> "O LORD, to thee will I cry." — Joel 1:19
+
+Jesus gives the disciple an invitation:
+
+> "Come unto me, all ye that labour and are heavy laden, and I will give you rest." — Matthew 11:28
+
+The prophet turns to God in the midst of devastation. Jesus calls the weary to come to him.
+
+This is the central movement of the chapter. The people have witnessed the failure of what they depended upon, and Joel calls them to seek the Lord. Jesus confirms the need for repentance, teaches the disciple where to place his treasure, reveals the source of lasting fruitfulness, and invites the burdened to come to him.
+
+The disciple should examine his own life. What has he been depending upon? Has he received the good things of the world with gratitude, or has he begun treating them as though they could sustain him apart from God? When difficulties arise, does he return to the Father, or does fear drive him further into his own attempts to control everything?
+
+Joel tells the people to awaken because the harvest has been destroyed.
+
+Jesus calls the disciple to awaken to something deeper: the necessity of turning toward God and receiving the life that comes from him.
+
+The harvest is gone. The prophet cries unto the Lord. And the disciple is being shown where to turn.
+
+
