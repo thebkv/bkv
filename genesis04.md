@@ -3,6 +3,7 @@ book: "Genesis"
 chapter: 4
 focus: "Offering, Mastery, Violence, and Separation"
 summary: "Genesis 4 shows the inward fracture of Eden becoming outward violence through Cain's unmastered desire, driving the separated human will into exile and civilization while an appointed line begins to call upon the LORD."
+permalink: /genesis04/
 ---
 
 # Genesis 4 — The Inner Fracture Becomes Outward Violence

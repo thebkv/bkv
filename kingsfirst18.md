@@ -1,3 +1,10 @@
+---
+book: "1 Kings"
+chapter: 18
+title: "The Fire on Carmel"
+permalink: /kingsfirst18/
+---
+
 # 1 Kings 18 — The Fire on Carmel
 
 ## Spine

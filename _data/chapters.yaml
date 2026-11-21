@@ -8,6 +8,9 @@ sections:
     - title: Genesis
       subtitle: 'The Mystery of the Beginning'
       chapters:
+      - chapter: 0
+        bkv_title: "The Architecture of Beginnings"
+        url: /genesis00/
       - chapter: 1
         bkv_title: The Mystery of Creation
         url: /genesis01/
@@ -28,95 +31,142 @@ sections:
         url: /genesis06/
       - chapter: 7
         bkv_title: The Deluge Unleashed
+        url: /genesis07/
       - chapter: 8
         bkv_title: The Raven and the Dove
+        url: /genesis08/
       - chapter: 9
         bkv_title: The Sign in the Cloud
+        url: /genesis09/
       - chapter: 10
         bkv_title: The Table of Nations
+        url: /genesis10/
       - chapter: 11
         bkv_title: The Tower of Confusion
+        url: /genesis11/
       - chapter: 12
         bkv_title: The Call to the Unknown
+        url: /genesis12/
       - chapter: 13
         bkv_title: The Parting of Paths
+        url: /genesis13/
       - chapter: 14
         bkv_title: The Secret of Melchizedek
+        url: /genesis14/
       - chapter: 15
         bkv_title: The Burning Torch
+        url: /genesis15/
       - chapter: 16
         bkv_title: The Well of the Living One
+        url: /genesis16/
       - chapter: 17
         bkv_title: The Sign of the Covenant
+        url: /genesis17/
       - chapter: 18
         bkv_title: The Three Visitors
+        url: /genesis18/
       - chapter: 19
         bkv_title: The Fire Over Sodom
+        url: /genesis19/
       - chapter: 20
         bkv_title: The King's Warning
+        url: /genesis20/
       - chapter: 21
         bkv_title: The Laughing Child
+        url: /genesis21/
       - chapter: 22
         bkv_title: The Binding on the Mount
+        url: /genesis22/
       - chapter: 23
         bkv_title: The Cave of Machpelah
+        url: /genesis23/
       - chapter: 24
         bkv_title: The Bride at the Well
+        url: /genesis24/
       - chapter: 25
         bkv_title: The Birthright Sold
+        url: /genesis25/
       - chapter: 26
         bkv_title: The Battle for the Wells
+        url: /genesis26/
       - chapter: 27
         bkv_title: The Stolen Blessing
+        url: /genesis27/
       - chapter: 28
         bkv_title: The Ladder to Heaven
+        url: /genesis28/
       - chapter: 29
         bkv_title: The Seven-Year Labor
+        url: /genesis29/
       - chapter: 30
         bkv_title: The Speckled Flock
+        url: /genesis30/
       - chapter: 31
         bkv_title: The Flight from Laban
+        url: /genesis31/
       - chapter: 32
         bkv_title: The Midnight Wrestler
+        url: /genesis32/
       - chapter: 33
         bkv_title: The Four Hundred Men
+        url: /genesis33/
       - chapter: 34
         bkv_title: The Breach at Shechem
+        url: /genesis34/
       - chapter: 35
         bkv_title: The Return to Bethel
+        url: /genesis35/
       - chapter: 36
         bkv_title: The Dukes of Edom
+        url: /genesis36/
       - chapter: 37
         bkv_title: The Coat of Many Colors
+        url: /genesis37/
       - chapter: 38
         bkv_title: The Signet and the Staff
+        url: /genesis38/
       - chapter: 39
         bkv_title: The Prisoner in Egypt
+        url: /genesis39/
       - chapter: 40
         bkv_title: The Dreams in the Dungeon
+        url: /genesis40/
       - chapter: 41
         bkv_title: The Ring of Pharaoh
+        url: /genesis41/
       - chapter: 42
         bkv_title: The Money in the Sacks
+        url: /genesis42/
       - chapter: 43
         bkv_title: The Banquet of Secrets
+        url: /genesis43/
       - chapter: 44
         bkv_title: The Silver Goblet
+        url: /genesis44/
       - chapter: 45
         bkv_title: The Brother Revealed
+        url: /genesis45/
       - chapter: 46
         bkv_title: The Descent to Goshen
+        url: /genesis46/
       - chapter: 47
         bkv_title: The Land of Goshen
+        url: /genesis47/
       - chapter: 48
         bkv_title: The Crossed Hands
+        url: /genesis48/
       - chapter: 49
         bkv_title: The Lion of Judah
+        url: /genesis49/
       - chapter: 50
         bkv_title: The Bones of Joseph
+        url: /genesis50/
     - title: Exodus
       subtitle: 'The Escape from Bondage'
       chapters:
+      - chapter: 0
+        bkv_title: "From Bondage to Dwelling"
+        url: /exodus00/
       - chapter: 1
         bkv_title: The Disciple’s Powers Are Put in Bondage
         url: /exodus01/
@@ -236,7 +286,7 @@ sections:
         url: /exodusxy/
       - chapter: 40
         bkv_title: The Dwelling Is Raised and Filled with the Presence
-        url: /exodusxy/
+        url: /exodus40/
     - title: Leviticus
       subtitle: 'Into the Presence'
       chapters:
@@ -354,6 +404,9 @@ sections:
     - title: Numbers
       subtitle: 'The Wilderness Journey'
       chapters:
+      - chapter: 0
+        bkv_title: "Through the Wilderness"
+        url: /numbers00/
       - chapter: 1
         bkv_title: The Faculties Are Counted and Ordered for the Journey
       - chapter: 2
@@ -362,6 +415,7 @@ sections:
         bkv_title: The Priestly Faculty Is Set Apart for the Dwelling
       - chapter: 4
         bkv_title: Every Sacred Function Is Given Its Proper Charge
+        url: /numbers04/
       - chapter: 5
         bkv_title: Defilement Is Removed from the Ordered Camp
       - chapter: 6
@@ -398,10 +452,13 @@ sections:
         bkv_title: Resistance Gives Way to Healing and Forward Movement
       - chapter: 22
         bkv_title: Opposition Cannot Reverse What God Has Blessed
+        url: /numbers22/
       - chapter: 23
         bkv_title: The Blessed Identity Is Declared from Outside the Camp
+        url: /numbers23/
       - chapter: 24
         bkv_title: The Coming King Is Seen Beyond the Wilderness
+        url: /numbers24/
       - chapter: 25
         bkv_title: Misaligned Desire Penetrates the Camp
       - chapter: 26
@@ -429,8 +486,12 @@ sections:
     - title: Deuteronomy
       subtitle: 'Edge of the Promised Land'
       chapters:
+      - chapter: 0
+        bkv_title: "Remember the Way"
+        url: /deuteronomy00/
       - chapter: 1
         bkv_title: The Failed Approach to the Promise Is Remembered
+        url: /deuteronomy01/
       - chapter: 2
         bkv_title: The Long Wilderness Circuit Comes to Its End
       - chapter: 3
@@ -441,6 +502,7 @@ sections:
         bkv_title: The Covenant Words Are Spoken Again
       - chapter: 6
         bkv_title: The Whole Life Is Gathered Into the Love of God
+        url: /deuteronomy06/
       - chapter: 7
         bkv_title: The Inheritance Requires Separation from the Former Order
       - chapter: 8
@@ -512,10 +574,13 @@ sections:
         bkv_title: Beyond the Jordan
       - chapter: 1
         bkv_title: The Mind Is Charged to Claim the Inheritance
+        url: /joshua01/
       - chapter: 2
         bkv_title: Faith Discerns the True State of the Land
+        url: /joshua02/
       - chapter: 3
         bkv_title: The Waters Separate Before the Ark of the Covenant
+        url: /joshua03/
       - chapter: 4
         bkv_title: Memorial Stones Mark the Crossing
       - chapter: 5
@@ -561,8 +626,12 @@ sections:
     - title: Judges
       subtitle: 'The Book of Cycles: The Inner Faculties Collapse and Are Rescued'
       chapters:
+      - chapter: 0
+        bkv_title: "When Every Man Did What Was Right in His Own Eyes"
+        url: /judges00/
       - chapter: 1
         bkv_title: Incomplete Conquest Leaves Seedbed for Compromise
+        url: /judges01/
       - chapter: 2
         bkv_title: The Pattern of Departure, Oppression, and Deliverance Begins
       - chapter: 3
@@ -579,6 +648,7 @@ sections:
         bkv_title: Victory Is Secured but Compromise Sows Seeds of Decay
       - chapter: 9
         bkv_title: Self-Appointed Authority Destroys Its Own House
+        url: /judges09/
       - chapter: 10
         bkv_title: False Gods Fail and Repentance Turns Back to God
       - chapter: 11
@@ -599,8 +669,10 @@ sections:
         bkv_title: Self-Sought Inheritance Seizes Misdirected Religion
       - chapter: 19
         bkv_title: Moral Collapse Awakes Universal Horror
+        url: /judges19/
       - chapter: 20
         bkv_title: Internal War Consumes the Brotherhood
+        url: /judges20/
       - chapter: 21
         bkv_title: Desperate Measures Seek to Repair the Fracture
     - title: Ruth
@@ -625,6 +697,9 @@ sections:
       subtitle: 'The Book of the Kingdom Promised: The Transition from Self-Will to
         Davidic Anointing'
       chapters:
+      - chapter: 0
+        bkv_title: "The Rise of the Kingdom"
+        url: /1samuel00/
       - chapter: 1
         bkv_title: The Prayer That Gave a Son Away
         url: /1samuel01/
@@ -775,6 +850,7 @@ sections:
       chapters:
       - chapter: 1
         bkv_title: Solomon Is Anointed Amid Succession Intrigue
+        url: /kingsfirst01/
       - chapter: 2
         bkv_title: David’s Final Charge and the Consolidation of the Throne
       - chapter: 3
@@ -808,7 +884,8 @@ sections:
       - chapter: 17
         bkv_title: Elijah Declares Drought and Is Sustained in Hiding
       - chapter: 18
-        bkv_title: The Fire Falls on Mount Carmel to Prove God
+        bkv_title: "The Fire on Carmel"
+        url: /kingsfirst18/
       - chapter: 19
         bkv_title: Weariness in the Wilderness Meets the Still Small Voice
       - chapter: 20
@@ -1205,10 +1282,13 @@ sections:
       chapters:
       - chapter: 1
         bkv_title: Integrity Tested Through the Loss of External Forms
+        url: /job01/
       - chapter: 2
         bkv_title: The Body Afflicted and the Isolation of the Mind
+        url: /job02/
       - chapter: 3
         bkv_title: The Soul Cries Out Under Unbearable Strain
+        url: /job03/
       - chapter: 4
         bkv_title: Conventional Wisdom Assumes Guilt Behind Suffering
       - chapter: 5
@@ -1314,6 +1394,7 @@ sections:
         bkv_title: Faith Refuses to Flee When Foundations Are Shaken
       - chapter: 12
         bkv_title: The Pure Word Stand Out Against False Speech
+        url: /psalm12/
       - chapter: 13
         bkv_title: How Long? From Despair to Joyful Trust
       - chapter: 14
@@ -1474,6 +1555,7 @@ sections:
         bkv_title: 'Lord, You Have Been Our Dwelling Place: The Eternal and the Fleeting'
       - chapter: 91
         bkv_title: He Who Dwells in the Secret Place of the Most High
+        url: /psalm91/
       - chapter: 92
         bkv_title: 'It Is Good to Give Thanks: The Flourishing Righteous'
       - chapter: 93
@@ -1482,6 +1564,7 @@ sections:
         bkv_title: The Lord Will Not Forsake His People or His Justice
       - chapter: 95
         bkv_title: O Come, Let Us Sing—Today, If You Hear His Voice
+        url: /psalm95/
       - chapter: 96
         bkv_title: 'Sing to the Lord a New Song: All Creation Rejoices'
       - chapter: 97
@@ -1528,8 +1611,10 @@ sections:
         bkv_title: Praise the Lord, All You Nations
       - chapter: 118
         bkv_title: 'His Steadfast Love Endures Forever: The Cornerstone'
+        url: /psalm118/
       - chapter: 119
         bkv_title: The Delight, Meditations, and Perfection of the Divine Word
+        url: /psalm119/
       - chapter: 120
         bkv_title: In My Distress I Cried out Against Lying Lips
       - chapter: 121
@@ -1586,6 +1671,7 @@ sections:
         bkv_title: 'Praise the Lord: Do Not Put Your Trust in Princes'
       - chapter: 147
         bkv_title: Praise the Lord Who Heals the Brokenhearted and Counts the Stars
+        url: /psalm147/
       - chapter: 148
         bkv_title: Praise the Lord from the Heavens and the Earth
       - chapter: 149
@@ -1602,6 +1688,7 @@ sections:
         bkv_title: The Search for Wisdom Protects from the Evil Way
       - chapter: 3
         bkv_title: Trust in the Lord with All Your Heart
+        url: /proverbs03/
       - chapter: 4
         bkv_title: 'Get Wisdom: Guard Your Heart Above All Else'
       - chapter: 5
@@ -1625,6 +1712,7 @@ sections:
         url: /proverbs13/  
       - chapter: 14
         bkv_title: Prudence Discerns the Path in Everyday Life
+        url: /proverbs14/
       - chapter: 15
         bkv_title: A Soft Answer Turneth Away Wrath
       - chapter: 16
@@ -1668,6 +1756,7 @@ sections:
         url: /ecclesiastes01/
       - chapter: 2
         bkv_title: Pleasure, Possessions, and Labor Tested Without Satisfaction
+        url: /ecclesiastes02/
       - chapter: 3
         bkv_title: To Everything There Is a Season and a Time
       - chapter: 4
@@ -1705,6 +1794,7 @@ sections:
         bkv_title: Reunited in Love and the Beauty of the Choice One
       - chapter: 7
         bkv_title: The Delights of Communion and Maturing Love
+        url: /songofsolomon07/
       - chapter: 8
         bkv_title: 'Love Is Strong as Death: The Unquenchable Flame'
 - section:
@@ -1732,14 +1822,19 @@ sections:
           url: /isaiah03/
         - chapter: 4
           bkv_title: The Branch of Beauty
+          url: /isaiah04/
         - chapter: 5
           bkv_title: The Song of the Vineyard
+          url: /isaiah05/
         - chapter: 6
           bkv_title: The Throne Room Vision
+          url: /isaiah06/
         - chapter: 7
           bkv_title: The Sign of Immanuel
+          url: /isaiah07/
         - chapter: 8
           bkv_title: The Sanctuary and the Snare
+          url: /isaiah08/
         - chapter: 9
           bkv_title: Light in the Dark Land
           url: /isaiah09/
@@ -1774,6 +1869,7 @@ sections:
           bkv_title: The Silence of the Merchant
         - chapter: 24
           bkv_title: The Wasted Earth
+          url: /isaiah24/
         - chapter: 25
           bkv_title: The Feast on the Mountain
         - chapter: 26
@@ -1782,12 +1878,15 @@ sections:
           bkv_title: The Slaying of Leviathan
         - chapter: 28
           bkv_title: The Tried Stone
+          url: /isaiah28/
         - chapter: 29
           bkv_title: The Sealed Book
+          url: /isaiah29/
         - chapter: 30
           bkv_title: The Shadow of Egypt
         - chapter: 31
           bkv_title: The Flying Birds
+          url: /isaiah31/
         - chapter: 32
           bkv_title: The Hiding Place
         - chapter: 33
@@ -1796,6 +1895,7 @@ sections:
           bkv_title: The Sword in the Wilderness
         - chapter: 35
           bkv_title: The Highway of Holiness
+          url: /isaiah35/
         - chapter: 36
           bkv_title: The Defiance at the Wall
         - chapter: 37
@@ -1832,6 +1932,7 @@ sections:
           bkv_title: The Beautiful Feet
         - chapter: 53
           bkv_title: The Suffering Servant
+          url: /isaiah53/
         - chapter: 54
           bkv_title: The Enlarged Tent
         - chapter: 55
@@ -1990,6 +2091,7 @@ sections:
         chapters:
         - chapter: 1
           bkv_title: The Vision of the Wheels, Living Creatures, and Heavenly Throne
+          url: /ezekiel01/
         - chapter: 2
           bkv_title: The Prophet Commissioned and Given the Scroll to Eat
         - chapter: 3
@@ -2011,9 +2113,11 @@ sections:
         - chapter: 11
           bkv_title: The Glory of God Leaves the Temple Threshold
         - chapter: 12
-          bkv_title: 'Packing the Exile''s Baggage: Prophecy Executed Without Delay'
+          bkv_title: "Packing the Exile's Baggage: Prophecy Executed Without Delay"
+          url: /ezekiel12/
         - chapter: 13
           bkv_title: Woe to the False Prophets Who Plaster Unseasoned Walls
+          url: /ezekiel13/
         - chapter: 14
           bkv_title: 'Idols Set Up in the Heart: Noah, Daniel, and Job Cannot Save
             It'
@@ -2063,6 +2167,7 @@ sections:
           bkv_title: A New Heart and Spirit Replaces the Heart of Stone
         - chapter: 37
           bkv_title: The Valley of Dry Bones Raised and the Two Sticks Joined
+          url: /ezekiel37/
         - chapter: 38
           bkv_title: The Gathering of Gog and Magog Against the Restored Land
         - chapter: 39
@@ -2088,30 +2193,45 @@ sections:
       - title: Daniel
         subtitle: 'The Book of Destiny: The Sovereignty of God Over Kings and Kingdoms'
         chapters:
+        - chapter: 0
+          bkv_title: "Faithful in Exile"
+          url: /daniel00/
         - chapter: 1
           bkv_title: 'Faithfulness in Babylon: The Test of the Royal Food'
+          url: /daniel01/
         - chapter: 2
           bkv_title: The Dream of the Great Image and the Everlasting Stone
+          url: /daniel02/
         - chapter: 3
           bkv_title: Unshakable Faith in the Fiery Furnace
+          url: /daniel03/
         - chapter: 4
           bkv_title: Nebuchadnezzar's Tree Vision and Humiliation in Madness
+          url: /daniel04/
         - chapter: 5
           bkv_title: The Writing on the Wall at Belshazzar's Feast
+          url: /daniel05/
         - chapter: 6
           bkv_title: Daniel Delivered from the Lions’ Den
+          url: /daniel06/
         - chapter: 7
           bkv_title: The Four Great Beasts and the Ancient of Days
+          url: /daniel07/
         - chapter: 8
           bkv_title: The Vision of the Ram, the Goat, and the Little Horn
+          url: /daniel08/
         - chapter: 9
           bkv_title: Daniel's Prayer of Repentance and the Seventy Weeks
+          url: /daniel09/
         - chapter: 10
           bkv_title: The Heavenly Messenger and Spiritual Conflict
+          url: /daniel10/
         - chapter: 11
           bkv_title: The Prophetic Kings of North and South
+          url: /daniel11/
         - chapter: 12
           bkv_title: The Time of the End, Resurrection, and the Sealed Scroll
+          url: /daniel12/
     - name: Minor Prophets
       summary: The Twelve Voices of Spiritual Realignment
       books:
@@ -2179,30 +2299,42 @@ sections:
         subtitle: 'The Book of Justice: Righteousness Flowing Like an Ever-Living
           Stream'
         chapters:
+        - chapter: 0
+          bkv_title: "Let Judgment Run Down as Waters"
+          url: /amos00/
         - chapter: 1
           bkv_title: Judgment Surrounds the Bordering Powers
           url: /amos01/
         - chapter: 2
           bkv_title: The Transgressions of Judah and Israel Laid Bare
+          url: /amos02/
         - chapter: 3
           bkv_title: Can Two Walk Together Unless They Are Agreed?
+          url: /amos03/
         - chapter: 4
           bkv_title: 'Prepare to Meet Your God: Failure to Heed Warning'
+          url: /amos04/
         - chapter: 5
           bkv_title: Let Justice Roll Down Like Waters
+          url: /amos05/
         - chapter: 6
           bkv_title: Woe to Those Who Are at Ease in Zion
+          url: /amos06/
         - chapter: 7
           bkv_title: Visions of Plumb Lines and Prophetic Confrontation
+          url: /amos07/
         - chapter: 8
           bkv_title: The Basket of Summer Fruit and Famine of the Word
+          url: /amos08/
         - chapter: 9
           bkv_title: The Unavoidable Judgment and the Fallen Tabernacle Raised
+          url: /amos09/
       - title: Obadiah
         subtitle: 'The Book of Vindication: Overcoming the Pride of Edom'
         chapters:
         - chapter: 1
           bkv_title: The Pride of the Rock-Dwellers Brought Low and Mount Zion Possessed
+          url: /obadiah01/
       - title: Jonah
         subtitle: 'The Book of Mission: The Resisting Prophet and the Mercy of God'
         chapters:
@@ -2241,6 +2373,9 @@ sections:
       - title: Nahum
         subtitle: 'The Book of Execution: The Fall of the Violent City'
         chapters:
+        - chapter: 0
+          bkv_title: "The Fall of Nineveh"
+          url: /nahum00/
         - chapter: 1
           bkv_title: The Fall of the Stronghold  
           url: /nahum01/
@@ -2269,10 +2404,15 @@ sections:
       - title: Haggai
         subtitle: 'The Book of Priorities: Rebuilding the House of Presence'
         chapters:
+        - chapter: 0
+          bkv_title: "Consider Your Ways"
+          url: /haggai00/
         - chapter: 1
           bkv_title: 'Consider Your Ways: Build the House First'
+          url: /haggai01/
         - chapter: 2
           bkv_title: The Desire of All Nations Comes and the Latter Glory Greater
+          url: /haggai02/
       - title: Zechariah
         subtitle: 'The Book of Visionary Restoration: The Branch and the Pierced One'
         chapters:
@@ -2323,6 +2463,9 @@ sections:
     - title: Matthew
       subtitle: "The Book of the Kingdom: The Manifested King and the Promised Law Fulfilled"
       chapters:
+      - chapter: 0
+        bkv_title: "The Kingdom of Heaven"
+        url: /matthew00/
       - chapter: 1
         bkv_title: The Genealogy of Promise and the Virgin Conception
         url: /matthew01/
@@ -2412,8 +2555,10 @@ sections:
       chapters:
       - chapter: 1
         bkv_title: Immediate Obedience, Wilderness Victory, and Early Healings
+        url: /mark01/
       - chapter: 2
         bkv_title: The Paralytic Forgiven, the Bridegroom, and Sabbath Lordship
+        url: /mark02/
       - chapter: 3
         bkv_title: The Withered Hand Healed, the Twelve Chosen, and A House Divided
       - chapter: 4
@@ -2448,20 +2593,30 @@ sections:
     - title: Luke
       subtitle: 'The Book of Humanity Redeemed: The Son of Man Seeking and Saving'
       chapters:
+      - chapter: 0
+        bkv_title: "Good Tidings of Great Joy"
+        url: /luke00/
       - chapter: 1
         bkv_title: The Mystery of the Promised Voice
+        url: /luke01/
       - chapter: 2
         bkv_title: The Secret in the Manger
+        url: /luke02/
       - chapter: 3
         bkv_title: The Voice in the Wilderness
+        url: /luke03/
       - chapter: 4
         bkv_title: The Wilderness Temptation
+        url: /luke04/
       - chapter: 5
         bkv_title: The Deep Net Miracle
+        url: /luke05/
       - chapter: 6
         bkv_title: The Riddle of the Sabbath
+        url: /luke06/
       - chapter: 7
         bkv_title: The Centurion's Secret
+        url: /luke07/
       - chapter: 8
         bkv_title: The Whispering Wind
       - chapter: 9
@@ -2491,23 +2646,31 @@ sections:
         bkv_title: The Rejected Cornerstone
       - chapter: 21
         bkv_title: The Widow's Mite
+        url: /luke21/
       - chapter: 22
         bkv_title: The Midnight Betrayal
+        url: /luke22/
       - chapter: 23
         bkv_title: The Trial at Golgotha
+        url: /luke23/
       - chapter: 24
         bkv_title: The Empty Tomb
+        url: /luke24/
     - title: John
       subtitle: 'The Book of Eternal Life: The Divine Mind Made Flesh'
       chapters:
       - chapter: 1
         bkv_title: The Word Made Flesh, Light in Darkness, and First Disciples
+        url: /john01/
       - chapter: 2
         bkv_title: Water to Wine at Cana and Cleansing the Father's House
+        url: /john02/
       - chapter: 3
         bkv_title: Born of the Spirit, Lifted Up Serpent, and Unmeasured Spirit
+        url: /john03/
       - chapter: 4
         bkv_title: Living Water at Sychar's Well and Worship in Spirit and Truth
+        url: /john04/
       - chapter: 5
         bkv_title: Pool of Bethesda, Equal with the Father, and Fourfold Witness
       - chapter: 6
@@ -2526,12 +2689,14 @@ sections:
         bkv_title: Anointed at Bethany, Triumphal Entry, and Grain of Wheat
       - chapter: 13
         bkv_title: Feet Washing Humility, Betrayer Revealed, and New Commandment
+        url: /john13/
       - chapter: 14
         bkv_title: Way, Truth, and Life; Promise of the Comforter
       - chapter: 15
         bkv_title: The True Vine, Abiding in Love, and World Hatred
       - chapter: 16
         bkv_title: Work of the Holy Spirit and Sorrow Turned to Joy
+        url: /john16/
       - chapter: 17
         bkv_title: 'High Priestly Prayer: Oneness with the Father and Son'
       - chapter: 18
@@ -2638,6 +2803,9 @@ sections:
       subtitle: 'The Book of Realignment: Righteousness by Faith and the Reconstructed
         Life'
       chapters:
+      - chapter: 0
+        bkv_title: "The Righteousness of God"
+        url: /romans00/
       - chapter: 1
         bkv_title: The Great Exchange
         url: /romans01/  
@@ -2655,14 +2823,18 @@ sections:
         bkv_title: 'Dead to Sin, Alive to God: Slaves of Righteousness'
       - chapter: 7
         bkv_title: 'Freed from the Law''s Bondage: The Internal Conflict Revealed'
+        url: /romans07/
       - chapter: 8
         bkv_title: Life in the Spirit, Sonship, and Unshakable Eternal Love
+        url: /romans08/
       - chapter: 9
         bkv_title: Sovereign Purpose, Divine Choice, and the Remnant Saved
+        url: /romans09/
       - chapter: 10
         bkv_title: The Righteousness of Faith Cried Out and Proclaimed
       - chapter: 11
         bkv_title: The Wild Olive Grafted In and All Israel Saved
+        url: /romans11/
       - chapter: 12
         bkv_title: Living Sacrifices, Mind Renewed, and Spiritual Gifts
       - chapter: 13
@@ -2676,38 +2848,57 @@ sections:
     - title: 1 Corinthians
       subtitle: 'The Book of Correction: Order, Gifts, and Unity in the Assembly'
       chapters:
+      - chapter: 0
+        bkv_title: "A Divided Church and the Way of Love"
+        url: /1corinthians00/
       - chapter: 1
         bkv_title: Wisdom of God Versus Wisdom of the World
+        url: /1corinthians01/
       - chapter: 2
         bkv_title: The Preached Cross and Deep Things Revealed by the Spirit
+        url: /1corinthians02/
       - chapter: 3
         bkv_title: 'Carnal Mindsets Exposed: God Gives the Increase'
+        url: /1corinthians03/
       - chapter: 4
         bkv_title: Stewards of Mysteries and Spectacles to the World
+        url: /1corinthians04/
       - chapter: 5
         bkv_title: Immorality Confronted and the Old Leaven Purged
+        url: /1corinthians05/
       - chapter: 6
         bkv_title: Lawsuits Among Believers and Bodies as Temples of the Spirit
+        url: /1corinthians06/
       - chapter: 7
         bkv_title: Principles of Marriage, Singleness, and Devotion
+        url: /1corinthians07/
       - chapter: 8
         bkv_title: 'Knowledge Puffs Up, Love Builds Up: Food Offered to Idols'
+        url: /1corinthians08/
       - chapter: 9
         bkv_title: Apostolic Rights Surrendered for the Gospel’s Sake
+        url: /1corinthians09/
       - chapter: 10
         bkv_title: Israel's Wilderness Warnings and Escaping Temptation
+        url: /1corinthians10/
       - chapter: 11
         bkv_title: Divine Order, Headship, and the Lord’s Supper Observed
+        url: /1corinthians11/
       - chapter: 12
         bkv_title: Spiritual Gifts Distributed as One Body Has Many Members
+        url: /1corinthians12/
       - chapter: 13
         bkv_title: 'The Excellent Way: Love That Never Fails'
+        url: /1corinthians13/
       - chapter: 14
         bkv_title: Prophecy, Tongues, and Decent Order in Assembly Gatherings
+        url: /1corinthians14/
       - chapter: 15
         bkv_title: The Resurrection Gospel, Defeat of Death, and Incorruptible Body
+        url: /1corinthians15/
       - chapter: 16
         bkv_title: Collection for the Poor, Final Exhortations, and Grace Spoken
+        url: /1corinthians16/
     - title: 2 Corinthians
       subtitle: 'The Book of Authentic Ministry: Power Manifested Through Clay Vessels'
       chapters:
@@ -2740,16 +2931,24 @@ sections:
     - title: Galatians
       subtitle: 'The Book of Liberty: Standing Fast in Freedom from Legal Bondage'
       chapters:
+      - chapter: 0
+        bkv_title: "Called Unto Liberty"
+        url: /galatians00/
       - chapter: 1
         bkv_title: 'No Other Gospel: Apostolic Authority Uncompromised'
+        url: /galatians01/
       - chapter: 2
         bkv_title: 'Crucified with Christ: No Justification by the Law'
+        url: /galatians02/
       - chapter: 3
         bkv_title: 'Bewitched Galatians: Faith Before the Law'
+        url: /galatians03/
       - chapter: 4
         bkv_title: 'Sons and Heirs: The Parable of Hagar and Sarah'
+        url: /galatians04/
       - chapter: 5
         bkv_title: 'Stand Fast in Liberty: Fruit of the Spirit Versus Flesh'
+        url: /galatians05/
       - chapter: 6
         bkv_title: Bearing Burdens, Sowing to the Spirit, and New Creation Glory
         url: /galatians06/
@@ -2757,8 +2956,12 @@ sections:
       subtitle: 'The Book of Heavenly Places: The Mystery of the Body and Armor of
         God'
       chapters:
+      - chapter: 0
+        bkv_title: "One Body in Christ"
+        url: /ephesians00/
       - chapter: 1
         bkv_title: Chosen Before the Foundation of the World and Eyes Enlightened
+        url: /ephesians01/
       - chapter: 2
         bkv_title: Made Alive in Grace and the Middle Wall of Partition Broken
       - chapter: 3
@@ -2773,15 +2976,22 @@ sections:
     - title: Philippians
       subtitle: 'The Book of Joy: The Mind of Christ and Unshakable Rejoicing'
       chapters:
+      - chapter: 0
+        bkv_title: "Joy in Christ"
+        url: /philippians00/
       - chapter: 1
         bkv_title: To Live Is Christ, to Die Is Gain
+        url: /philippians01/
       - chapter: 2
         bkv_title: The Self-Emptying Mind of Christ and Shining as Lights
+        url: /philippians02/
       - chapter: 3
         bkv_title: Counting All Loss for the Excellency of Knowing Him
+        url: /philippians03/
       - chapter: 4
         bkv_title: Rejoice Always, Peace That Surpasses Understanding, and Secret
           of Contentment
+        url: /philippians04/
     - title: Colossians
       subtitle: 'The Book of Preeminence: The Fullness of the Godhead Expressed'
       chapters:
@@ -2798,6 +3008,7 @@ sections:
       chapters:
       - chapter: 1
         bkv_title: Work of Faith, Labor of Love, and Waiting for His Son
+        url: /1thessalonians01/
       - chapter: 2
         bkv_title: Gentle Ministry Like a Nursing Mother
       - chapter: 3
@@ -2819,21 +3030,33 @@ sections:
     - title: 1 Timothy
       subtitle: 'The Book of Assembly Order: Sound Doctrine and Pastoral Care'
       chapters:
+      - chapter: 0
+        bkv_title: "The Household of God"
+        url: /1timothy00/
       - chapter: 1
         bkv_title: The Right Use of the Law and Chief of Sinners Saved
+        url: /1timothy01/
       - chapter: 2
         bkv_title: Prayer for All Men and Order in Worship
+        url: /1timothy02/
       - chapter: 3
         bkv_title: 'Qualifications for Overseers and Deacons: Pillar of Truth'
+        url: /1timothy03/
       - chapter: 4
         bkv_title: Departure from the Faith and Training in Godliness
+        url: /1timothy04/
       - chapter: 5
         bkv_title: Honor Due Widows and Elders Who Rule Well
+        url: /1timothy05/
       - chapter: 6
         bkv_title: Godliness with Contentment and Fighting the Good Fight
+        url: /1timothy06/
     - title: 2 Timothy
       subtitle: 'The Book of Remembrance: Stirring Up the Gift and Finishing the Course'
       chapters:
+      - chapter: 0
+        bkv_title: "Keep the Faith"
+        url: /2timothy00/
       - chapter: 1
         bkv_title: Unfeigned Faith, Not a Spirit of Fear, and Unashamed Testimony
       - chapter: 2
@@ -2865,8 +3088,10 @@ sections:
         bkv_title: The Spoken Word Verified and Captain of Salvation Made Perfect
       - chapter: 3
         bkv_title: 'Greater Than Moses: The Danger of Hardening the Heart'
+        url: /hebrews03/
       - chapter: 4
         bkv_title: The Sabbath Rest Remaining and Word Piercing to the Joints
+        url: /hebrews04/
       - chapter: 5
         bkv_title: High Priest After the Order of Melchizedek
       - chapter: 6
@@ -2877,6 +3102,7 @@ sections:
         bkv_title: The Mediator of a Better Covenant Built on Better Promises
       - chapter: 9
         bkv_title: The Earthly Tabernacle Outshone by the Eternal Blood Cleansing
+        url: /hebrews09/
       - chapter: 10
         bkv_title: Sacrifices Ended, Boldness to Enter, and Living by Faith
       - chapter: 11
@@ -2901,12 +3127,16 @@ sections:
     - title: 1 Peter
       subtitle: 'The Book of Hope in Suffering: The Living Stone and Holy Priesthood'
       chapters:
+      - chapter: 0
+        bkv_title: "A Living Hope"
+        url: /1peter00/
       - chapter: 1
         bkv_title: Living Hope Tested by Fire and Redeemed by Precious Blood
       - chapter: 2
         bkv_title: The Chief Cornerstone, Royal Priesthood, and Patient Sufferers
       - chapter: 3
         bkv_title: Inner Beauty, Harmony in Home, and Ready Answer of Hope
+        url: /1peter03/
       - chapter: 4
         bkv_title: Arm Yourself with the Same Mind and Stewards of Grace
       - chapter: 5
@@ -2948,6 +3178,7 @@ sections:
       chapters:
       - chapter: 1
         bkv_title: Contending for the Faith, Ungodly Men Exposed, Kept from Falling
+        url: /jude01/
 - section:
     number: 7
     name: Revelation
@@ -2957,47 +3188,72 @@ sections:
       subtitle: 'The Book of Unveiling: The Ultimate Consummation and the Eternal
         City'
       chapters:
+      - chapter: 0
+        bkv_title: "The Unveiling of Jesus Christ"
+        url: /revelation00/
       - chapter: 1
         bkv_title: The Unveiling of Jesus Christ and Vision of the Son of Man
+        url: /revelation01/
       - chapter: 2
         bkv_title: Messages to Ephesus, Smyrna, Pergamum, and Thyatira
+        url: /revelation02/
       - chapter: 3
         bkv_title: Messages to Sardis, Philadelphia, and Laodicea
+        url: /revelation03/
       - chapter: 4
         bkv_title: The Throne Open in Heaven and the Living Creatures
+        url: /revelation04/
       - chapter: 5
         bkv_title: The Seven-Sealed Scroll and the Worthy Lamb Slain
+        url: /revelation05/
       - chapter: 6
         bkv_title: 'The Opening of the Six Seals: Riders and Shaken Heavens'
+        url: /revelation06/
       - chapter: 7
         bkv_title: The 144,000 Sealed and the Innumerable Multitude in White
+        url: /revelation07/
       - chapter: 8
         bkv_title: The Seventh Seal and the First Four Trumpets Blown
+        url: /revelation08/
       - chapter: 9
         bkv_title: 'The Fifth and Sixth Trumpets: Locusts and Army of Horsemen'
+        url: /revelation09/
       - chapter: 10
         bkv_title: The Mighty Angel, the Little Book Eaten, and Prophecy Renewed
+        url: /revelation10/
       - chapter: 11
         bkv_title: The Two Witnesses, the Seventh Trumpet, and Heaven's Temple
+        url: /revelation11/
       - chapter: 12
         bkv_title: The Woman Clothed with the Sun, the Dragon, and War in Heaven
+        url: /revelation12/
       - chapter: 13
         bkv_title: The Beast from the Sea and the False Prophet
+        url: /revelation13/
       - chapter: 14
         bkv_title: The Lamb on Mount Zion, Three Angels' Messages, and Earth’s Harvest
+        url: /revelation14/
       - chapter: 15
         bkv_title: The Sea of Glass, Song of Moses, and Seven Golden Bowls
+        url: /revelation15/
       - chapter: 16
         bkv_title: The Pouring Out of the Seven Bowls of Wrath
+        url: /revelation16/
       - chapter: 17
         bkv_title: Mystery Babylon sitting on the Scarlet Beast Unmasked
+        url: /revelation17/
       - chapter: 18
         bkv_title: The Complete Fall and Destruction of Commercial Babylon
+        url: /revelation18/
       - chapter: 19
         bkv_title: The Marriage Supper of the Lamb and Return of the King of Kings
+        url: /revelation19/
       - chapter: 20
         bkv_title: The Dragon Bound, the Thousand Years, and Great White Throne
+        url: /revelation20/
       - chapter: 21
         bkv_title: The New Heavens, New Earth, and the Holy City New Jerusalem
+        url: /revelation21/
       - chapter: 22
         bkv_title: The River of Life, Tree of Healing, and Final Invitation
+        url: /revelation22/

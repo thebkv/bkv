@@ -1,3 +1,10 @@
+---
+book: "Ezekiel"
+chapter: 12
+title: "Packing the Exile's Baggage: Prophecy Executed Without Delay"
+permalink: /ezekiel12/
+---
+
 # EZEKIEL 12
 *A BKV Narrative Rendering & Onomastic Text Analysis*
 

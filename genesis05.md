@@ -3,6 +3,7 @@ book: "Genesis"
 chapter: 5
 focus: "Inheritance, Mortality, Alignment, and Rest"
 summary: "Genesis 5 traces the inherited likeness of fallen Adam through the repeated reign of death, while Enoch's walk with God interrupts the pattern and the birth of Noah turns the genealogy toward promised rest."
+permalink: /genesis05/
 ---
 
 # Genesis 5 — Inheritance, Mortality, and the Interruption of Alignment
