@@ -97,6 +97,10 @@ The details of court protocol in this chapter reflect documented Persian practic
 
 ## Onomastics
 
+**Sackcloth and ashes (4:1–4)** give public form to grief. Mordecai’s refusal of the clothes Esther sends keeps the cause of his mourning before her until she asks what has happened.
+
+**The three-day fast (4:16)** gives Esther and the Jews of Shushan a shared act before she goes to the king. Esther asks the people to fast for her, and she and her maidens join them.
+
 **Hatach - הֲתָךְ (*Hathach*)** is the chamberlain the king appoints to attend Esther, and his role here needs no uncertain etymology to be significant: he is the trustworthy messenger who carries the decree's actual wording, and Mordecai's charge, across the boundary Esther herself cannot yet cross. Without Hatach, the danger outside the palace could not have reached her with the accuracy it does.
 
 **"Enlargement and deliverance" (4:14)** translates a phrase most naturally understood as relief or preservation - the same kind of rescue Israel's history has already supplied more than once. No more specific interpretation should be built on this phrase than the text itself supports; it functions as a statement of confidence in deliverance from somewhere, not as a coded reference requiring decoding.

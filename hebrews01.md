@@ -44,6 +44,8 @@ To read Hebrews is to watch an ancient world of shadows collapse under the weigh
 
 * **Spoken (λαλέω):** Divine self-disclosure. The same creative force from Genesis 1 (*“And God said”*) now breaking into human history as an incarnate Person.
 * **The Son:** The ultimate archetype of union. The Consciousness-of-the-Divine.
+* **Heir of all things (1:2):** The Son receives the whole inheritance. The phrase sets the scope of his authority at the opening of the letter.
+* **Brightness of his glory (1:3):** The Son is the radiance of God’s glory. The image shows how the glory of God becomes known in the Son.
 * **Express Image (χαρακτήρ):** An exact imprint left by a die-stamp. An identical match under pressure.
 * **Upholding (φέρω):** Steering reality through a continuous Divine principle.
 * **Purged (καθαρισμός):** Purification; cleansing; removal of what defiles, obliteration of separation-consciousness.

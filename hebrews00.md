@@ -7,6 +7,18 @@ summary: "An overarching architectural analysis of Hebrews 1–4, tracking the c
 
 # BKV Hebrews 01–04 — The Tectonic Shift
 
+## The Movement of Hebrews
+
+| Chapters | Movement |
+| --- | --- |
+| 1–2 | God speaks in the Son. The first warning calls the hearer to pay attention so that what has been heard does not slip away. |
+| 3–4 | Israel’s wilderness generation shows how distrust keeps people from entering God’s rest. |
+| 5–7 | The call to maturity leads into the priesthood of Christ, who continues as priest after the order of Melchizedek. |
+| 8–10 | The new covenant and Christ’s once-for-all offering give believers confidence to draw near to God. |
+| 11 | The witnesses of faith show how to persevere when the promise is still out of sight. |
+| 12 | The disciple endures discipline and receives a kingdom that cannot be shaken. |
+| 13 | Brotherly love, hospitality, remembrance of prisoners, and praise put the letter’s teaching into practice. |
+
 We spend our entire spiritual existence frantically building towers to crack a silent sky, running after signs, special disclosures, and emotional highs to prove we aren't abandoned. We treat God like a scavenger hunt. The writer of Hebrews shatters that illusion in a single breath: *The era of fragments is over.* God is not rationing out His presence in cryptic shadows anymore; the Ultimate Reality has spoken a definitive Word in the Son—the very Consciousness-of-the-Divine. 
 
 But this is not a piece of abstract theology. It is a hostile takeover of human consciousness. If the Final Voice has taken the throne, then every lesser, barking voice in your head—inherited trauma, religious habit, intellectual pride, and the paralyzing fear of distance—loses its right to rule. 

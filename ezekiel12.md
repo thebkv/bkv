@@ -8,6 +8,10 @@ permalink: /ezekiel12/
 # EZEKIEL 12
 *A BKV Narrative Rendering & Onomastic Text Analysis*
 
+## Overview
+
+Ezekiel packs exile baggage in daylight and carries it out through a hole in the wall at evening. His actions picture what will happen to Jerusalem’s prince and people. The prince will leave under cover, be caught, and be taken to Babylon. The people say Ezekiel’s vision concerns a distant future, but the LORD says his word will be fulfilled without further delay.
+
 ***
 
 The prophet ***Ezekiel***—whose name signifies **"the strengthening of God"**—stands as a sentinel at the edge of the world’s end, stationed beside the shores of **Kebar**, the **"long waters of bondage"** in the land of **Chaldea**. Here, in the territory of the **"clashing astrologers,"** he becomes a living conduit for a divine tragedy. He does not merely speak; he embodies the kinetic horror of the exodus into slavery. As the shadow of the Babylonian hegemony lengthens over Judah, ***Ezekiel*** must enact the physical theater of the fugitive’s flight, mimicking the frantic movements of those who would soon be uprooted from their ancestral hearths. He is tasked with portraying the ***Ben-Adam***, the **"mortal dust,"** as it is stripped of its sovereignty and cast into the wilderness of exile.

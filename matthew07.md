@@ -74,3 +74,10 @@ The disciple should ask himself a simple question: Am I merely admiring the word
 The Sermon on the Mount ends with an invitation to begin building. Every act of forgiveness, every prayer offered in trust, every honest examination of the heart, and every choice to obey what Jesus has taught belongs to that work.
 
 The storm will come. Jesus has already told the disciple how to build a house that will stand.
+
+## Study Notes
+
+- **Matthew 7:7–11 and Jeremiah 29:13.** Jeremiah speaks to exiles seeking God with their whole heart. Jesus invites his hearers to ask, seek, and knock in confidence that their Father gives good things.
+- **Matthew 7:13–14 and Deuteronomy 30:19.** Jesus sets two ways before his hearers. Moses likewise sets life and death before Israel and urges the people to choose life.
+- **Matthew 7:15–20 and Matthew 12:33.** Jesus returns to the image of the tree and its fruit. In Matthew 7 the image helps the disciple recognize false prophets by what their lives produce.
+- **Matthew 7:24–27 and Ezekiel 13:10–15.** Ezekiel’s storm exposes a wall that false prophets have whitewashed. Jesus’ storm exposes what each builder trusted to hold the house up.
