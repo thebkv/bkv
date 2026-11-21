@@ -4,7 +4,7 @@ book: Leviticus
 
 chapter: 4
 
-title: "The Hidden Sin"
+title: "When You Begin to See"
 
 focus:
 

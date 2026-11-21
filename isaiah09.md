@@ -8,6 +8,7 @@ focus:
   - Israel's internal division under failed government
 summary: "The land first brought into darkness becomes the place where the great light appears, the oppressor's yoke is broken, and the government of the promised Child begins to increase."
 permalink: /isaiah09/
+title: "Light in the Dark Land"
 ---
 
 # ISAIAH 9

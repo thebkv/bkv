@@ -3,6 +3,8 @@ book: "Exodus"
 chapter: 22
 focus: "Restitution, Stewardship, Mercy, and Holy Responsibility"
 summary: "God teaches the delivered community to repair what it damages, faithfully govern what is entrusted to it, protect the vulnerable, and keep every possession, appetite, and obligation under His authority."
+title: "The Delivered Life Learns Responsible Stewardship"
+permalink: "/exodus22/"
 ---
 
 # Exodus 22 — The Delivered Life Learns Responsible Stewardship

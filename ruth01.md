@@ -9,6 +9,7 @@ focus:
   - arrival in Bethlehem at the beginning of barley harvest
 summary: "Ruth 1 follows a household from famine into Moab and devastating loss, then turns toward Bethlehem when Naomi hears that bread has returned. On the road Ruth chooses covenant belonging over the familiar, while Naomi comes home still calling herself empty, unaware that she has arrived at the beginning of harvest."
 permalink: /ruth01/
+title: "The Road Back to Bethlehem"
 ---
 
 # RUTH 01

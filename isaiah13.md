@@ -8,6 +8,7 @@ focus:
   - the great city losing its power to gather and hold life
 summary: "God summons the fall of Babylon, the fully developed separated self, bringing down the inner world that had gathered its powers under a human-centered government."
 permalink: /isaiah13/
+title: "The Fall of Babylon"
 ---
 
 # ISAIAH 13

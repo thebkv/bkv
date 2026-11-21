@@ -3,6 +3,8 @@ book: "Hebrews"
 chapter: 6
 focus: "Maturity, Fruitfulness, Promise, and Hope"
 summary: "Hebrews 6 calls the disciple to move beyond foundational instruction into mature fruitfulness, holding firmly to God's unchangeable promise until hope enters within the veil where Jesus has already gone before."
+title: "The Disciple Presses On Into the Promised Inheritance"
+permalink: "/hebrews06/"
 ---
 
 # Hebrews 6 — The Disciple Presses On Into the Promised Inheritance

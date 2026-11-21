@@ -4,6 +4,7 @@ chapter: 15
 focus: "Praise, Reorientation, Testing, and Healing"
 summary: "Having been delivered from Pharaoh, Israel must now turn its confidence toward the LORD and learn in the wilderness that the God who saves His people is also the God who sustains and heals them."
 permalink: /exodus15/
+title: "The Delivered Faculties Learn to Trust the LORD"
 ---
 
 # Exodus 15 --- The Delivered Faculties Learn to Trust the LORD

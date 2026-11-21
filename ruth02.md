@@ -9,6 +9,7 @@ focus:
   - Naomi recognizing that the man behind the provision is a near kinsman
 summary: "Ruth 2 follows Ruth into the harvest field, where she finds food, protection, and unexpected favor. She returns to Naomi carrying an abundance of barley, and the discovery that the field belongs to Boaz reveals that the provision they have found may lead to something greater: redemption."
 permalink: /ruth02/
+title: "The Stranger in the Field"
 ---
 
 # RUTH 02

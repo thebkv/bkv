@@ -4,7 +4,7 @@ book: Leviticus
 
 chapter: 8
 
-title: "The Priest Is Consecrated"
+title: "Set Apart for God"
 
 focus:
 

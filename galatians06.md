@@ -8,7 +8,8 @@ focus:
   - new creation as the governing reality in Christ
 summary: "Paul shows what life in the Spirit looks like when it takes form in human life: restoring the fallen, carrying burdens, sowing good seed, persevering toward the harvest, and living as a new creation through the cross of Christ."
 permalink: /galatians06/
----  
+title: "The Harvest of the New Creation"
+---
 
 # Galatians 6 — The Harvest of the New Creation
 

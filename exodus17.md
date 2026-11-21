@@ -4,6 +4,7 @@ chapter: 17
 focus: "Provision, Testing, Conflict, and Sustained Dependence"
 summary: "Exodus 17 shows the delivered people learning that both life and victory depend upon the LORD, who brings water from the rock and gives Israel victory over Amalek as Moses' raised hands are sustained."
 permalink: /exodus17/
+title: "The Delivered Faculties Learn to Prevail Under God"
 ---
 
 # Exodus 17 — The Delivered Faculties Learn to Prevail Under God

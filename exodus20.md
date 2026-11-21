@@ -4,6 +4,7 @@ chapter: 20
 focus: "Divine Government, Covenant Order, Freedom, and Desire"
 summary: "Exodus 20 brings the people God has delivered under His order, beginning with exclusive allegiance to the LORD and extending through worship, speech, time, relationships, conduct, truth, and even desire."
 permalink: /exodus20/
+title: "The Delivered Life Is Brought Under Divine Order"
 ---
 
 # Exodus 20 — The Delivered Life Is Brought Under Divine Order

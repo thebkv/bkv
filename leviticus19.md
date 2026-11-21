@@ -1,7 +1,7 @@
 ---
 book: Leviticus
 chapter: 19
-title: "The Edge of the Field"
+title: "Holiness in Ordinary Life"
 focus:
   - Holiness becomes concrete in ordinary life
   - Love of neighbor expresses God's order

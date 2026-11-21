@@ -4,6 +4,7 @@ chapter: 12
 focus: "Passover, Separation, and the Birth of a New Order"
 summary: "At the moment of final judgment, the faculties belonging to God are gathered under the blood of the lamb, separated from Egypt, and brought out of bondage to begin a new life under divine government."
 permalink: /exodus12/
+title: "The Passover: Deliverance Through the Blood"
 ---
 
 # Exodus 12 — The Passover: Deliverance Through the Blood

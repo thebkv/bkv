@@ -3,6 +3,8 @@ book: "Exodus"
 chapter: 23
 focus: "Truth, Rest, Guidance, and Progressive Possession"
 summary: "God teaches the delivered community to govern truthfully, live by His rhythms, follow His Presence, and possess the inheritance progressively as false powers are displaced and the God-ordered life grows strong enough to occupy the land."
+title: "The Ordered Faculties Are Led Into Their Inheritance"
+permalink: "/exodus23/"
 ---
 
 # Exodus 23 — The Ordered Faculties Are Led Into Their Inheritance

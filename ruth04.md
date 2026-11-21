@@ -1,3 +1,10 @@
+---
+book: Ruth
+chapter: 4
+title: "The Sandal at the Gate"
+permalink: "/ruth04/"
+---
+
 # RUTH 04
 
 ## THE SANDAL AT THE GATE

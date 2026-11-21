@@ -8,6 +8,7 @@ focus:
   - return
 summary: Jerusalem sits in the ruins of the life she once possessed, sees how deeply bondage has entered her, and begins turning again toward the Lord.
 permalink: /lamentations01/
+title: "The Lonely City Weeps"
 ---
 
 # LAMENTATIONS 1

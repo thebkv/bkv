@@ -4,7 +4,7 @@ book: Leviticus
 
 chapter: 3
 
-title: "The Fellowship Offering"
+title: "At the Table with God"
 
 focus:
 

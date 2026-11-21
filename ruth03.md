@@ -9,6 +9,7 @@ focus:
   - Ruth waiting while Boaz takes responsibility for bringing the matter to completion
 summary: "Ruth 3 moves from provision toward redemption. Ruth asks Boaz to spread his wing over her and act as her kinsman-redeemer, Boaz promises to do so if the nearer kinsman will not, and Ruth returns to Naomi with his promise and waits for him to finish the matter."
 permalink: /ruth03/
+title: "Midnight at the Threshing Floor"
 ---
 
 # RUTH 03

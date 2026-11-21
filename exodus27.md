@@ -3,6 +3,8 @@ book: "Exodus"
 chapter: 27
 focus: "Sacrifice, Sacred Boundary, Continual Light, Ordered Approach"
 summary: "God orders the outer approach to His dwelling through sacrifice, sacred boundaries, and continual light so that the whole life can move toward His Presence in the way He has appointed."
+title: "The Outer Life Is Ordered Toward the Presence of God"
+permalink: "/exodus27/"
 ---
 
 # Exodus 27 — The Outer Life Is Ordered Toward the Presence of God

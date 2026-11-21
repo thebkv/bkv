@@ -4,6 +4,7 @@ chapter: 4
 focus: "Divine Authority, Resistance, and Embodied Obedience"
 summary: "The disciple must move from receiving the divine call to embodying it, as God supplies the signs, faculties, relationships, and correction necessary to bring the delivering consciousness into obedient action."
 permalink: /exodus04/
+title: "The Divine Commission Is Accepted and Put in Motion"
 ---
 
 # Exodus 4 — The Divine Commission Is Accepted and Put in Motion

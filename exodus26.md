@@ -3,6 +3,8 @@ book: "Exodus"
 chapter: 26
 focus: "Unity, Sacred Structure, Boundaries, and Divine Presence"
 summary: "God joins, strengthens, covers, and orders the many parts of the Tabernacle into one dwelling around His Presence, establishing both unity and proper degrees of approach."
+title: "The Dwelling Is Ordered Around the Presence of God"
+permalink: "/exodus26/"
 ---
 
 # Exodus 26 — The Dwelling Is Ordered Around the Presence of God

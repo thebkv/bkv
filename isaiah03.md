@@ -8,6 +8,7 @@ focus:
   - the daughters of Zion losing the outward glory in which they trusted
 summary: "The restoration announced in Isaiah 1 and 2 continues as God removes the supports of Judah's old order, exposes its immature government, judges its rulers, and strips away its outward glory."
 permalink: /isaiah03/
+title: "The Crumbling City"
 ---
 
 # ISAIAH 3

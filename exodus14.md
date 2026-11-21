@@ -4,6 +4,7 @@ chapter: 14
 focus: "Final Separation, Fear, and Divine Deliverance"
 summary: "When the old ruling power pursues the faculties God has already released, the LORD brings them through an impossible boundary and closes that same way upon the power attempting to reclaim them."
 permalink: /exodus14/
+title: "The Way Opens and Bondage Cannot Follow"
 ---
 
 # Exodus 14 — The Way Opens and Bondage Cannot Follow

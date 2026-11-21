@@ -4,6 +4,7 @@ chapter: 10
 focus: "Darkness, Total Separation, and the Refusal of Partial Deliverance"
 summary: "As the old ruling consciousness approaches collapse, it attempts to preserve control through compromise, but God requires the complete release of every faculty and possession before a darkness falls upon Egypt that cannot overcome the light remaining with His people."
 permalink: /exodus10/
+title: "The Deliverer Refuses Partial Freedom"
 ---
 
 # Exodus 10 — The Deliverer Refuses Partial Freedom

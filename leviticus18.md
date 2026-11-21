@@ -1,7 +1,7 @@
 ---
 book: Leviticus
 chapter: 18
-title: "The Forbidden Approach"
+title: "Do Not Walk as They Walk"
 focus:
   - The disciple stops taking Egypt and Canaan as patterns for life
   - Desire is brought within God's boundaries

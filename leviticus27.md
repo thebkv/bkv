@@ -1,7 +1,7 @@
 ---
 book: Leviticus
 chapter: 27
-title: "What Belongs to God"
+title: "It Belongs to God"
 focus:
   - The disciple recognizes God's claim upon the whole life
   - Persons, possessions, inheritance, and increase are measured by the sanctuary

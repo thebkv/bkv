@@ -4,6 +4,7 @@ chapter: 3
 focus: "Holy Ground, Divine Identity, and Commission"
 summary: "The delivering consciousness, separated from Egypt and emptied of premature self-reliance, turns toward the divine Presence and discovers that true deliverance begins when God reveals Himself as the acting power."
 permalink: /exodus03/
+title: "The Deliverer Encounters the Divine Presence"
 ---
 
 # Exodus 3 — The Deliverer Encounters the Divine Presence

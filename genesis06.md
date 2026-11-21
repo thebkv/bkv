@@ -8,6 +8,7 @@ focus:
   - the ark as the appointed place of preservation
 summary: As corruption fills the earth, God calls Noah to build the place in which life will be preserved through the coming judgment.
 permalink: /genesis06/
+title: "The Gathering Storm"
 ---
 
 # Genesis 6 — The Gathering Storm

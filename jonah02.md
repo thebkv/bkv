@@ -9,6 +9,7 @@ focus:
   - salvation belonging to the LORD and Jonah's return to dry land
 summary: "Jonah prays from inside the great fish after his flight has carried him beneath the waters to the bottoms of the mountains. At the limit of his own direction, he remembers the LORD, turns again toward the holy temple, confesses that salvation belongs to God, and is brought back onto dry land."
 permalink: /jonah02/
+title: "The Prayer from the Belly of Sheol"
 ---
 
 # JONAH 2

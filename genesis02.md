@@ -8,6 +8,7 @@ focus:
   - the creation of the woman and the union of man and wife
 summary: God forms the human being from the ground, breathes life into him, places him within the garden to cultivate and guard it, and establishes human life within provision, command, work, and union.
 permalink: /genesis02/
+title: "The Breath in the Clay"
 ---
 
 # Genesis 2 — The Breath in the Clay

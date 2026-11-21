@@ -3,6 +3,8 @@ book: "Exodus"
 chapter: 24
 focus: "Covenant, Blood, Communion, and Ascent"
 summary: "Israel consciously enters the covenant through hearing, obedience, sacrifice, and blood, and that sealed relationship opens the way into communion with God and deeper revelation of His Presence."
+title: "The Covenant Is Sealed and the People Draw Near to God"
+permalink: "/exodus24/"
 ---
 
 # Exodus 24 — The Covenant Is Sealed and the People Draw Near to God

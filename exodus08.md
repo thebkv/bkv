@@ -4,6 +4,7 @@ chapter: 8
 focus: "Invasion, Separation, and the Failure of Compromise"
 summary: "As divine judgment penetrates deeper into Egypt, the ruling power of bondage loses control of its own environment, while God begins visibly separating His people from the conditions afflicting the old order and refuses Pharaoh's attempts to negotiate a partial release."
 permalink: /exodus08/
+title: "God Separates His People from Egypt"
 ---
 
 # Exodus 8 — God Separates His People from Egypt

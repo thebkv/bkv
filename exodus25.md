@@ -3,6 +3,8 @@ book: "Exodus"
 chapter: 25
 focus: "Willing Offering, Divine Pattern, Indwelling Presence, Sacred Order"
 summary: "Having brought Israel out of Pharaoh’s house and into covenant, God now orders their willing gifts according to a heavenly pattern so that His Presence may dwell among them."
+title: "The Delivered Faculties Build a Dwelling for God"
+permalink: "/exodus25/"
 ---
 
 # Exodus 25 — The Delivered Faculties Build a Dwelling for God

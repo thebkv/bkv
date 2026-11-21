@@ -4,6 +4,7 @@ chapter: 19
 focus: "Covenant, Consecration, Presence, and Holy Order"
 summary: "Exodus 19 reveals the purpose of deliverance: the LORD has brought Israel out of bondage to bring them unto Himself, consecrate them as His people, and prepare them to hear His voice."
 permalink: /exodus19/
+title: "The Delivered People Are Prepared to Meet God"
 ---
 
 # Exodus 19 — The Delivered People Are Prepared to Meet God

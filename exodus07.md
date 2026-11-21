@@ -4,6 +4,7 @@ chapter: 7
 focus: "Divine Authority, Counterfeit Power, and the First Judgment"
 summary: "The authority of God begins openly dismantling Pharaoh's rule, revealing that the powers of bondage can imitate divine action for a time but cannot prevent the LORD from exposing and judging the very order that sustains them."
 permalink: /exodus07/
+title: "Divine Authority Confronts the Ruling Power"
 ---
 
 # Exodus 7 — Divine Authority Confronts the Ruling Power

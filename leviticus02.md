@@ -4,7 +4,7 @@ book: Leviticus
 
 chapter: 2
 
-title: "The Offering of the Work"
+title: "The Work of Your Hands"
 
 focus:
 

@@ -4,7 +4,7 @@ book: Leviticus
 
 chapter: 7
 
-title: "The Law of the Offering"
+title: "Learn What God Asks"
 
 focus:
 

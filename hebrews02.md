@@ -3,6 +3,8 @@ book: "Hebrews"
 chapter: 2
 focus: "Participation"
 summary: "The Son entered fully into the human condition so that those who heed Him might be restored to the destiny for which humanity was created."
+title: "The Captain of Salvation"
+permalink: "/hebrews02/"
 ---
 
 # BKV Hebrews 02 — The Captain of Salvation

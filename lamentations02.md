@@ -9,6 +9,7 @@ focus:
   - crying to God
 summary: The Lord dismantles the structures Jerusalem trusted, exposing the depth of her disorder and bringing Zion to the place where her whole heart is poured out before Him.
 permalink: /lamentations02/
+title: "The Cloud of Divine Wrath"
 ---
 
 # LAMENTATIONS 2

@@ -4,6 +4,7 @@ chapter: 18
 focus: "Testimony, Counsel, Shared Responsibility, and Order"
 summary: "Exodus 18 shows Moses learning that the work of God must be carried through an ordered body, where responsibility is shared among faithful people while Moses remains responsible for bringing the people before God and teaching them His way."
 permalink: /exodus18/
+title: "The Work Is Ordered and Shared"
 ---
 
 # Exodus 18 — The Work Is Ordered and Shared

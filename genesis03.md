@@ -4,6 +4,7 @@ chapter: 3
 focus: "Distrust, Transgression, Hiding, and Exile"
 summary: "Genesis 3 reveals how a competing word fractures the ordered life of Eden: distrust alters perception, desire reaches across God's boundary, and shame, fear, accusation, and exile follow while God speaks the first promise of the serpent's ultimate defeat."
 permalink: /genesis03/
+title: "The Divine Boundary Is Crossed and Human Life Fractures"
 ---
 
 # Genesis 3 — The Divine Boundary Is Crossed and Human Life Fractures

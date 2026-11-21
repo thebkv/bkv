@@ -4,6 +4,7 @@ chapter: 11
 focus: "Final Judgment, Separation, and the Death of the Firstborn"
 summary: "The last claim of the ruling consciousness is brought under judgment as God announces that the firstborn strength of Egypt will die, while His people are completely distinguished and prepared to leave bondage with the wealth of the old order."
 permalink: /exodus11/
+title: "The Final Claim of Egypt Is Broken"
 ---
 
 # Exodus 11 — The Final Claim of Egypt Is Broken

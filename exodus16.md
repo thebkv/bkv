@@ -4,6 +4,7 @@ chapter: 16
 focus: "Provision, Daily Dependence, and Sabbath Rest"
 summary: "The LORD retrains the delivered faculties to live by His daily provision, receiving what is needed without anxious accumulation and learning to rest because their life is sustained by Him."
 permalink: /exodus16/
+title: "The Delivered Faculties Learn Daily Dependence"
 ---
 
 # Exodus 16 — The Delivered Faculties Learn Daily Dependence

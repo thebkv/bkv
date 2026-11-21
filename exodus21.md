@@ -3,6 +3,8 @@ book: "Exodus"
 chapter: 21
 focus: "Justice, Responsibility, Restraint, and Restitution"
 summary: "God teaches the delivered community to govern power responsibly by limiting domination, distinguishing intention from accident, protecting life, and requiring measured restitution where harm has been done."
+title: "Divine Justice Governs Power and Harm"
+permalink: "/exodus21/"
 ---
 
 # Exodus 21 — Divine Justice Governs Power and Harm

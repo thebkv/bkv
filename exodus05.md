@@ -4,6 +4,7 @@ chapter: 5
 focus: "Confrontation, Resistance, and Intensified Bondage"
 summary: "When the disciple first turns the God-given faculties away from the ruling power of bondage and toward the LORD, the old order resists by increasing its demands, revealing that the first movement toward freedom may initially make bondage more severe."
 permalink: /exodus05/
+title: "The First Confrontation Intensifies the Bondage"
 ---
 
 # Exodus 5 — The First Confrontation Intensifies the Bondage

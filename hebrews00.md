@@ -3,6 +3,8 @@ book: "Hebrews"
 chapter: 0
 focus: "The Tectonic Shift"
 summary: "An overarching architectural analysis of Hebrews 1–4, tracking the collapse of fragmented religious structures into the singular governing reality of the Son."
+title: "The Tectonic Shift"
+permalink: "/hebrews00/"
 ---
 
 # BKV Hebrews 01–04 — The Tectonic Shift

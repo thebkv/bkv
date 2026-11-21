@@ -4,6 +4,7 @@ chapter: 17
 focus: "Faith, Cleansing, the Kingdom Within, and Readiness"
 summary: "Luke 17 turns the disciple away from outward signs and toward the present rule of God within, showing what life looks like when faith, forgiveness, gratitude, obedience, and surrender come under that rule."
 permalink: /luke17/
+title: "The Kingdom Is Within You"
 ---
 
 # Luke 17 — The Kingdom Is Within You

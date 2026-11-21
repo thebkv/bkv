@@ -3,6 +3,8 @@ book: "Hebrews"
 chapter: 1
 focus: "The Final Utterance"
 summary: "God has fully revealed Himself in the Son, calling the disciple to exchange partial voices for the governing reality of Divine sonship."
+title: "God Has Spoken"
+permalink: "/hebrews01/"
 ---
 
 # BKV Hebrews 01 — God Has Spoken

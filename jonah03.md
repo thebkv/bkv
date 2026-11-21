@@ -9,6 +9,7 @@ focus:
   - judgment withheld when the city changes direction
 summary: "The word of the LORD comes to Jonah a second time, and this time the prophet goes to Nineveh. The great city hears the warning, believes God, humbles itself, turns from violence, and is spared. Jonah's direction has been corrected, but the success of the mission prepares the deeper conflict still waiting in Chapter 4."
 permalink: /jonah03/
+title: "The Second Call and Nineveh’s Repentance"
 ---
 
 # JONAH 3

@@ -9,6 +9,7 @@ focus:
   - the limit of self-directed movement
 summary: "The word of the LORD tells Jonah to arise and go to Nineveh, but Jonah rises in the opposite direction. His flight becomes a repeated descent through Joppa, the ship, sleep, and finally the sea, while the foreign sailors around him begin turning toward the God Jonah is fleeing."
 permalink: /jonah01/
+title: "The Prophet Runs"
 ---
 
 # JONAH 1

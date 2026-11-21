@@ -3,6 +3,8 @@ book: "Exodus"
 chapter: 28
 focus: "Priesthood, Representation, Holiness, and Discernment"
 summary: "God clothes the priestly faculties for service, causing Aaron to bear Israel on his shoulders and heart, carry judgment before the LORD, and wear holiness upon his forehead as he ministers in the divine Presence."
+title: "The Priestly Faculties Are Clothed for Service"
+permalink: "/exodus28/"
 ---
 
 # Exodus 28 — The Priestly Faculties Are Clothed for Service

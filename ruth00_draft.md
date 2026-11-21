@@ -8,7 +8,7 @@ focus:
   - gleaning, refuge, covering, kinship, inheritance, and lawful redemption
   - the restoration of a threatened family line that ultimately opens into David
 summary: "Ruth begins with famine, departure, and the collapse of a family line, then follows Naomi and Ruth back to Bethlehem where gleaning becomes provision, refuge becomes covering, lawful redemption restores inheritance, and the birth of Obed carries an emptied household forward into the line of David."
-permalink: /ruth00/
+permalink: /ruth00-draft/
 ---
 
 # RUTH 00

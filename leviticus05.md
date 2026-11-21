@@ -4,7 +4,7 @@ book: Leviticus
 
 chapter: 5
 
-title: "Guilt Comes to Light"
+title: "Bring It into the Light"
 
 focus:
 

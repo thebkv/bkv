@@ -4,6 +4,7 @@ chapter: 1
 focus: "Fruitfulness, Foreign Rule, and Bondage"
 summary: "Exodus 1 shows Israel's God-given life becoming fruitful under a foreign ruler who fears its strength, conscripts it into bondage, and finally attacks its children, while the first resistance begins when the Hebrew midwives fear God more than Pharaoh."
 permalink: /exodus01/
+title: "The Powers Are Put in Bondage"
 ---
 
 > **“Now these are the names of the children of Israel, which came into Egypt.”**  

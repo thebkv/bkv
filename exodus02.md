@@ -4,6 +4,7 @@ chapter: 2
 focus: "Preservation, Separation, and Preparation"
 summary: "Exodus 2 shows Moses being preserved from Pharaoh's command, drawn out of the water, separated from Egypt, and prepared for the work God will eventually give him."
 permalink: /exodus02/
+title: "The Deliverer Is Drawn Out and Prepared"
 ---
 
 # Exodus 2 — The Deliverer Is Drawn Out and Prepared

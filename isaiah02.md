@@ -8,6 +8,7 @@ focus:
   - human pride, idols, and false sources of power being brought low
 summary: "Isaiah sees the mountain of the LORD established above every competing height, drawing the nations toward divine instruction as the proud structures of human government are brought down."
 permalink: /isaiah02/
+title: "The Exalted Mountain"
 ---
 
 # ISAIAH 2

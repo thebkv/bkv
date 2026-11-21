@@ -1,7 +1,7 @@
 ---
 book: Leviticus
 chapter: 17
-title: "The Life in the Blood"
+title: "The Altar and the Blood"
 focus:
   - Life belongs to God and returns to God
   - Worship is gathered to one divine center

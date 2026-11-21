@@ -9,6 +9,7 @@ focus:
   - Jonah's final exposure beneath the plant and the unresolved question of Chapter 4
 summary: "Jonah follows a prophet who receives the word of the LORD, moves in the opposite direction, descends..."
 permalink: /jonah00/
+title: "The Unfinished Prophet"
 ---
 
 # JONAH 00

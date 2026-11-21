@@ -8,6 +8,7 @@ focus:
   - judgment purifies the city so that righteousness can be restored
 summary: "God summons heaven and earth as witnesses, exposes the divided condition of Judah and Jerusalem, and calls His people through cleansing and judgment toward the restoration of the faithful city."
 permalink: /isaiah01/
+title: "The Great Summons"
 ---
 
 # ISAIAH 1

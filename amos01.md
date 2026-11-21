@@ -4,6 +4,7 @@ chapter: 1
 focus: "The Roar, Boundary Violations, and Divine Equilibrium"
 summary: "Amos 1 opens with the LORD roaring from Zion and measuring the surrounding nations by their treatment of boundaries, brotherhood, and emerging life, revealing that persistent disorder builds governing structures that Divine Law ultimately dismantles."
 permalink: /amos01/
+title: "The Roar from Zion and the Decree of Divine Equilibrium"
 ---
 
 # Amos 1 — The Roar from Zion and the Decree of Divine Equilibrium

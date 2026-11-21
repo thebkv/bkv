@@ -4,6 +4,7 @@ chapter: 13
 focus: "Consecration, Remembrance, Guidance, and Formation"
 summary: "The faculties God has redeemed must now be consecrated to Him, taught to remember their deliverance, and led by His Presence along the path that will form them for the inheritance."
 permalink: /exodus13/
+title: "The Delivered Faculties Are Consecrated and Led"
 ---
 
 # Exodus 13 — The Delivered Faculties Are Consecrated and Led

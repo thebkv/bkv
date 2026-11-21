@@ -8,7 +8,7 @@ focus:
   - Naomi's emptiness being answered through restored family and new life
   - the redeemed household becoming part of the line that leads to David
 summary: "Ruth 4 brings redemption into the light at the city gate. Boaz honors the nearer kinsman's right, accepts the full responsibility of redemption, marries Ruth, and restores the threatened family line. The book that began with famine and death ends with a child in Naomi's arms and a genealogy leading to David."
-permalink: /ruth04/
+permalink: /ruth04-draft/
 ---
 
 # RUTH 04

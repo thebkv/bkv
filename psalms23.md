@@ -1,3 +1,10 @@
+---
+book: Psalms
+chapter: 23
+title: "The Shepherding Presence"
+permalink: "/psalm23/"
+---
+
 | book | Psalms |
 | :--- | :--- |
 | **chapter** | 23 |

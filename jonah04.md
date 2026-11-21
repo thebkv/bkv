@@ -9,6 +9,7 @@ focus:
   - God's final question and Jonah's unresolved inner government
 summary: "Nineveh has turned and judgment has been withheld, but the success of Jonah's mission exposes the deeper resistance still governing the prophet. Jonah knows that the LORD is gracious and merciful, yet he resents that mercy when it reaches Nineveh. Through a plant, a worm, an east wind, and a final question, God turns the prophet's judgment back upon himself and leaves the book unresolved."
 permalink: /jonah04/
+title: "The Prophet Under the Plant"
 ---
 
 # JONAH 4

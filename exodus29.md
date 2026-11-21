@@ -3,6 +3,8 @@ book: "Exodus"
 chapter: 29
 focus: "Consecration, Sacrifice, and Continual Communion"
 summary: "The priestly faculties are consecrated through washing, clothing, anointing, sacrifice, and blood, establishing a continual ministry in which the whole life is offered to God and His Presence sanctifies the dwelling."
+title: "The Priestly Faculties Are Consecrated to God"
+permalink: "/exodus29/"
 ---
 
 # Exodus 29 — The Priestly Faculties Are Consecrated to God

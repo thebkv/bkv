@@ -8,6 +8,7 @@ focus:
   - restoration as the return of the inner kingdom to divine government
 summary: "Isaiah sees the corrupted city exposed, its false governments brought down, and Zion restored under the rule of God."
 permalink: /isaiah00/
+title: "The Vision of Isaiah"
 ---
 
 # ISAIAH 00

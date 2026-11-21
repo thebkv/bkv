@@ -4,6 +4,7 @@ chapter: 9
 focus: "Deeper Judgment, Divine Distinction, and the Fear of the LORD"
 summary: "As Pharaoh continues to resist God, judgment reaches progressively deeper into the structures of Egypt, while a new distinction appears even within the old order: those who fear the word of the LORD begin acting upon it and are preserved."
 permalink: /exodus09/
+title: "The Word of the LORD Creates a Division"
 ---
 
 # Exodus 9 — The Word of the LORD Creates a Division

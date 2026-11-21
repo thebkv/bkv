@@ -4,7 +4,7 @@ book: Leviticus
 
 chapter: 6
 
-title: "The Fire Must Not Go Out"
+title: "Keep the Fire Burning"
 
 focus:
 

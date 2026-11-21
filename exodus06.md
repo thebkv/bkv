@@ -4,6 +4,7 @@ chapter: 6
 focus: "Covenant Identity, Divine Action, and Assured Deliverance"
 summary: "When bondage has intensified and the disciple can no longer see how deliverance is possible, God reestablishes the work upon His own identity and covenant, declaring that He Himself will bring the enslaved faculties out, redeem them, take them as His people, and bring them into the promised inheritance."
 permalink: /exodus06/
+title: "The Promise of Deliverance Is Reaffirmed"
 ---
 
 # Exodus 6 — The Promise of Deliverance Is Reaffirmed

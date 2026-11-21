@@ -8,6 +8,7 @@ focus:
   - humanity made in the image of God and given dominion
 summary: God forms an ordered world by speaking, separating, naming, filling, and blessing, then places humanity within it as His image-bearing ruler.
 permalink: /genesis01/
+title: "The Mystery of Creation"
 ---
 
 # Genesis 1 — The Mystery of Creation

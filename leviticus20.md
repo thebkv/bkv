@@ -1,7 +1,7 @@
 ---
 book: Leviticus
 chapter: 20
-title: "When the People Look Away"
+title: "Leave the Old Life Behind"
 focus:
   - The disciple rejects rival spiritual government
   - What has been separated to God cannot be handed back to false powers
