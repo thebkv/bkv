@@ -7,6 +7,26 @@ permalink: /meta/
 
 Use these tools to follow names, places, words, symbols, structures, and recurring patterns across Scripture.
 
+<h2 id="search-all">Search all three sources</h2>
+<form id="reference-search"
+      role="search"
+      aria-labelledby="search-all"
+      data-base="{{ site.baseurl }}"
+      data-fillmore="{{ '/assets/data/fillmore-index.json' | relative_url }}"
+      data-potts="{{ '/meta/potts/potts-index.json' | relative_url }}"
+      data-potts-entry="{{ '/meta/potts/entry/' | relative_url }}"
+      data-strongs="{{ '/meta/strongs/strongs.json' | relative_url }}">
+  <label for="reference-query">Name, word, or Strong’s number</label>
+  <div style="display:flex;flex-wrap:wrap;gap:.5rem;margin:.4rem 0 1rem;">
+    <input type="search" id="reference-query" placeholder="Try Gog, Abraham, or H2719" required
+           style="flex:1 1 220px;min-width:0;padding:.6rem;font:inherit;">
+    <button type="submit" style="padding:.6rem 1rem;font:inherit;">Search</button>
+  </div>
+</form>
+
+<div id="reference-results" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%, 240px),1fr));gap:1rem;overflow-wrap:anywhere;"></div>
+<script src="{{ '/assets/js/reference-search.js' | relative_url }}" defer></script>
+
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1rem;margin:1.5rem 0 2.5rem;">
 
   <div style="border:1px solid #26344d;border-radius:9px;padding:1.2rem;">
