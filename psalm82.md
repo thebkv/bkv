@@ -7,6 +7,11 @@ permalink: /psalm82/
 
 
 # Psalm 82 — Authority Judged from Within
+
+## Summary
+
+God calls those entrusted with authority to account for the way they judge. They favor the wicked while the poor, the fatherless, and the afflicted go undefended. The psalm closes by asking God to judge the whole earth.
+
 MSR Architectural Reading
 ⸻
 MSR Preface (Psalm-Specific)

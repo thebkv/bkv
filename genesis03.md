@@ -224,14 +224,15 @@ The tree of life completes the larger movement. Genesis 3 ends with humanity out
 
 | Name / Term | Textual / Linguistic Meaning | BKV Meaning |
 |---|---|---|
-| **Serpent** | Hebrew *nachash*, "serpent"; the narrative emphasizes its craftiness | The subtle unregenerate or adversarial drive that places a competing word beside what God has spoken |
+| **Serpent** | Hebrew *nachash*, "serpent"; the narrative emphasizes its craftiness | Reasoning detached from trust that places a competing word beside what God has spoken |
 | **Subtil** | Hebrew *'arum*, "crafty, shrewd"; placed in close wordplay with *'arummim*, "naked," in Genesis 2:25 | The concealed subtlety of the unregenerate impulse before its consequences become obvious |
 | **Woman** | Hebrew *'ishshah*, "woman"; Genesis 2:23 explicitly plays upon *'ish*, "man" | The receptive faculty: the aspect of the human order that receives, perceives, and responds |
 | **Adam / Man** | Hebrew *'adam*, "man/human," closely associated with *'adamah*, "ground" | The acting and governing human faculty that executes what has entered the inner order |
 | **Knowledge of good and evil** | Biblical expression concerning knowledge or discernment of good and evil; precise scope debated | Knowledge appropriated across a boundary established by God; the movement toward judgment on terms independent of received divine order |
 | **Eating** | Physical incorporation of food into the body | Acceptance and incorporation: what has been heard, entertained, and desired becomes operative within the human life |
+| **Fruit** | What the woman takes and eats, then gives to the man in Genesis 3:6 | The judgment proposed by the serpent taken into oneself |
 | **Opened eyes** | The serpent promises opened eyes in v5; v7 records their eyes being opened | Conscious awareness of the divided and exposed condition produced by transgression |
-| **Fig leaves** | Leaves sewn together by the man and woman as aprons | Self-manufactured covering: the separated self attempting to manage its own exposure |
+| **Fig leaves** | Leaves sewn together by the man and woman as aprons | A covering the couple makes for themselves to manage their exposure |
 | **Hide** | Hebrew *chaba*, "hide, conceal oneself" | Withdrawal of the divided faculties from the Presence of God |
 | **Seed** | Hebrew *zera'*, "seed, offspring, descendant" | God's preserved line of restoration, culminating in Jesus Christ and the defeat of the serpent |
 | **Eve** | Hebrew *Chavvah*; Genesis 3:20 explicitly associates her with being "the mother of all living" | Life named and carried forward under the promise of God in the presence of mortality |
